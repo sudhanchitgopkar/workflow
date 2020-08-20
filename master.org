@@ -15,11 +15,11 @@
      DEADLINE: <2020-08-21 Fri>
 *** INTL3300
 **** TODO Module 1 
-     DEADLINE: <2020-08-23 Sun>
+     DEADLINE: <2020-08-26 Wed>
 - [ ] Lecture 1
 - [ ] Lecture 2 
 - [ ] Reading 1
-- [ ] Quiz 1
+- [ ] INTL Quiz 1
 - [ ] Discussion 1
 **** WAITING Class Meeting 
      DEADLINE: <2020-08-21 Fri>
@@ -36,6 +36,8 @@
 *** FRC
 **** WAITING Director Meeting 
      DEADLINE: <2020-08-21 Fri>
+*** Finch
+**** WAITING COVID Interview
 ** Tutoring
 *** DONE Noah
     DEADLINE: <2020-08-19 Wed>
