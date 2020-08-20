@@ -1,39 +1,46 @@
 * 08.19.20
-** Organizational
-*** DONE CSCI1730
-*** TODO ECOL1000
-*** DONE ECON2106
-*** DONE INTL3300
-*** DONE INTL4970
-*** TODO MATH-L
 ** School
 *** CSCI1730
-**** DONE Class Rotation
-**** DONE Nike Password
+**** DONE Done Class Rotation
+**** DONE Done Nike Password
 *** ECOL1000
 **** TODO Sapling Registration
 **** TODO iClicker Reef Registration
-**** DONE Syllabus Quiz :09.03:
+**** DONE Syllabus Quiz 
 *** ECON2106
+    DEADLINE: <2020-08-14 Fri>
 **** DONE MyEconLab Registration
 **** DONE Practice Assignment
 *** INTL3300
-**** TODO Todo Module 1    :08.26:
+**** TODO Todo Module 1
+     DEADLINE: <2020-08-23 Sun>
 - [ ] Lecture 1
 - [ ] Lecture 2 
 - [ ] Reading 1
 - [ ] Quiz 1
 - [ ] Discussion 1
-**** DONE Email Online-only
-**** TODO Zoom Meeting :08.21:
+**** TODO Zoom Meeting 
+     DEADLINE: <2020-08-21 Fri>
+**** WAITING Email Online-only
 *** INTL4970
-**** DONE Submit Course App :08.21:
+    DEADLINE: <2020-08-22 Sat>
+**** DONE Submit Course App 
 *** MATH-L
 ** Orgs
 *** MUN
+**** DONE MUN Meaning Story
+**** ABANDONED First Day Story
 **** DONE Instagram Post
-**** TODO MUN Meaning Story
-**** TODO First Day Story
 *** UGAHacks
-** Misc
-
+*** FRC
+**** TODO Zoom Meeting 
+     DEADLINE: <2020-08-21 Fri>
+** Tutoring
+*** DONE Noah
+*** DONE Mebin
+*** DONE Tom
+*** TODO Debate 1
+*** TODO Debate 2
+** Email
+*** TODO Iliev, Combinatorics
+*** TODO Schneider, Math in Outer Space
