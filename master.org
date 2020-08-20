@@ -1,16 +1,37 @@
 * 08.19.20
+** Organizational
+*** DONE CSCI1730
+*** TODO ECOL1000
+*** DONE ECON2106
+*** DONE INTL3300
+*** DONE INTL4970
+*** TODO MATH-L
 ** School
 *** CSCI1730
-**** TODO Class Rotation
-**** TODO Nike Passwork
+**** DONE Class Rotation
+**** DONE Nike Password
 *** ECOL1000
-*** ECON2016
+**** TODO Sapling Registration
+**** TODO iClicker Reef Registration
+**** TODO Syllabus Quiz :09.03:
+*** ECON2106
+**** TODO MyEconLab Registration
+**** TODO Practice Assignment
 *** INTL3300
+**** TODO Todo Module 1    :08.26:
+- [ ] Lecture 1
+- [ ] Lecture 2 
+- [ ] Reading 1
+- [ ] Quiz 1
+- [ ] Discussion 1
+**** TODO Email Online-only
+**** TODO Zoom Meeting :08.21:
 *** INTL4970
-**** TODO Submit Course App
+**** TODO Submit Course App :08.21:
 *** MATH-L
 ** Orgs
 *** MUN
 **** TODO Instagram Post
 *** UGAHacks
 ** Misc
+
