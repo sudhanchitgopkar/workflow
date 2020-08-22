@@ -1,55 +1,63 @@
 * 08.19.20
 ** School
-*** CSCI1730
+*** CSCI1730 [100%]
 **** DONE Done Class Rotation
 **** DONE Done Nike Password
-*** ECOL1000
-**** TODO Sapling Registration
-**** TODO iClicker Reef Registration
-**** TODO Ecology Zoom Class 
-     DEADLINE: <2020-08-21 Fri>
+*** ECOL1000 [100%] 
+**** DONE Ecology Zoom Class 
+     SCHEDULED: <2020-08-21 Fri 12:40>
+**** DONE Sapling Registration
+**** DONE iClicker Reef Registration
 **** DONE Syllabus Quiz 
-*** ECON2106
+*** ECON2106 [100%]
 **** DONE MyEconLab Registration
 **** DONE Practice Assignment
      DEADLINE: <2020-08-21 Fri>
-*** INTL3300
-**** TODO Module 1 
+*** INTL3300 [33%]
+**** TODO Module 1 [0%] 
      DEADLINE: <2020-08-26 Wed>
 - [ ] Lecture 1
 - [ ] Lecture 2 
 - [ ] Reading 1
 - [ ] INTL Quiz 1
 - [ ] Discussion 1
-**** WAITING Class Meeting 
-     DEADLINE: <2020-08-21 Fri>
+**** DONE Class Meeting 
+     SCHEDULED: <2020-08-21 Fri 13:55>
 **** WAITING Email Online-only
-*** INTL4970
+*** INTL4970 [100%]
 **** DONE Submit Course App 
+     DEADLINE: <2020-08-24 Mon>
 *** MATH-L
 ** Orgs
-*** MUN
+*** MUN [75%]
 **** DONE MUN Meaning Story
 **** ABANDONED First Day Story
 **** DONE Instagram Post
+**** IN-PROGRESS Try-out Meeting
 *** UGAHacks
-*** FRC
-**** WAITING Director Meeting 
+*** FRC [100%]
+**** ABANDONED Director Meeting 
      DEADLINE: <2020-08-21 Fri>
-*** Finch
-**** WAITING COVID Interview
-** Tutoring
+*** Finch [100%]
+**** DONE COVID Interview
+     SCHEDULED: <2020-08-21 Fri 17:00>
+** Tutoring [100%]
+*** DONE Debate 1
+    SCHEDULED: <2020-08-21 Fri 15:00>
+*** DONE Debate 2
+    SCHEDULED: <2020-08-21 Fri 16:00>
+*** DONE Brian
+    DEADLINE: <2020-08-20 Thu>
 *** DONE Noah
     DEADLINE: <2020-08-19 Wed>
 *** DONE Mebin
     DEADLINE: <2020-08-19 Wed>
 *** DONE Tom
     DEADLINE: <2020-08-19 Wed>
-*** TODO Debate 1
-*** TODO Debate 2
-*** TODO Brian
-    DEADLINE: <2020-08-20 Thu>
-** Email
+** Email [66%]
+*** DONE Schneider, Math in Outer Space
+    DEADLINE: <2020-08-21 Fri>
 *** DONE Iliev, Combinatorics
-*** TODO Schneider, Math in Outer Space
+    DEADLINE: <2020-08-21 Fri>
     
+*** TODO Norman, PLA
