@@ -1,3 +1,34 @@
+* 08.23.20
+** School
+*** CSCI1730
+**** DONE Reading 1
+     DEADLINE: <2020-08-25 Tue 9:00>
+**** TODO Reading 2
+     DEADLINE: <2020-08-27 Thu 09:00>
+*** ECOL1000
+*** ECON2106
+*** INTL3300
+ DEADLINE: <2020-08-26 Wed>
+- [ ] Lecture 1
+- [ ] Lecture 2 
+- [ ] Reading 1
+- [ ] INTL Quiz 1
+- [ ] Discussion 1
+*** INTL4970
+*** MATH-L
+** Orgs
+*** MUN
+**** TODO [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
+** Tutoring [0%]
+*** TODO Tom
+*** TODO Mebin
+*** TODO Noah 1
+*** TODO Noah 2
+*** TODO Debate 1
+*** TODO Debate 2
+** Email
+*** TODO Norman, PLA
+    DEADLINE: <2020-08-23 Sun 17:00>
 * 08.19.20
 ** School
 *** CSCI1730 [100%]
@@ -13,8 +44,8 @@
 **** DONE MyEconLab Registration
 **** DONE Practice Assignment
      DEADLINE: <2020-08-21 Fri>
-*** INTL3300 [33%]
-**** TODO Module 1 [0%] 
+*** INTL3300 [100%]
+**** MIGRATED Module 1 [0%] 
      DEADLINE: <2020-08-26 Wed>
 - [ ] Lecture 1
 - [ ] Lecture 2 
@@ -23,19 +54,19 @@
 - [ ] Discussion 1
 **** DONE Class Meeting 
      SCHEDULED: <2020-08-21 Fri 13:55>
-**** WAITING Email Online-only
+**** DONE Email Online-only
 *** INTL4970 [100%]
 **** DONE Submit Course App 
      DEADLINE: <2020-08-24 Mon>
 *** MATH-L
 ** Orgs
-*** MUN [80%]
+*** MUN [100%]
 **** DONE MUN Meaning Story
 **** ABANDONED First Day Story
 **** DONE Instagram Post
 **** DONE Try-out Meeting
      SCHEDULED: <2020-08-22 Sat 14:00>
-**** TODO [[~/workflow/munTryoutNotes.org][MUN Tryout Info]]
+**** MIGRATED [[~/workflow/munTryoutNotes.org][MUN Tryout Info]]
 *** UGAHacks
 *** FRC [100%]
 **** ABANDONED Director Meeting 
@@ -56,11 +87,11 @@
     DEADLINE: <2020-08-19 Wed>
 *** DONE Tom
     DEADLINE: <2020-08-19 Wed>
-** Email [66%]
+** Email [100%]
 *** DONE Schneider, Math in Outer Space
     DEADLINE: <2020-08-21 Fri>
 *** DONE Iliev, Combinatorics
     DEADLINE: <2020-08-21 Fri>
     
-*** TODO Norman, PLA
-    DEADLINE: <2020-08-22 Sat 17:00>
+*** MIGRATED Norman, PLA
+    SCHEDULED: <2020-08-22 Sat 17:00> DEADLINE: <2020-08-22 Sat 17:00>

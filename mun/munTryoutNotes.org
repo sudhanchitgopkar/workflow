@@ -1,0 +1,46 @@
+#+TITLE: Tryout Info Dissemination
+
+* Dates: 
+** Involvement Fair                                               :Finalized:
+   SCHEDULED: <2020-09-03 Thu 18:30>
+** Zoom Info Session 1                                            :Finalized:
+   SCHEDULED: <2020-09-04 Fri 20:00>
+** Zoom Info Session 2                                            :FInalized:
+   SCHEDULED: <2020-09-08 Tue 20:00>
+** Tryout Simulation 1                                                  :TBD:
+   SCHEDULED: <2020-09-09 Wed 19:00>
+** Tryout Simulation 2                                                  :TBD:
+   SCHEDULED: <2020-09-09 Wed 19:00>
+** Interview Slots                                                      :TBD:
+** Final Decisions Released                                       :Finalized:
+   SCHEDULED: <2020-09-13 Sun>
+
+* Intake Forms [0%]
+** TODO Registration Google Form
+- Names
+- Emails
+** WAITING Tryout Registration Form
+* Outgoing Info [0%]
+** TODO Zoom Links [0%]
+*** TODO Involvement Fair
+*** TODO Info Session 1
+*** TODO Info Session 2
+*** TODO Simulation
+*** TODO Interview Slots
+** TODO [[Dates: ][Dates]]
+** TODO [[https://docs.google.com/document/d/1pyreu_EGDyoDZ5Da8SQ7DzIUOOv2BoCSGYJnMwWAt1s/edit?usp=sharing][Procedure]]
+** WAITING Calendar Link
+** TODO Interview Sign-up Sheet
+* Misc Tasks [0%]
+** WAITING Subdomain Redirection
+* Instagram
+** TODO Involvement Fair                                              :Story:
+** TODO Dates                                                    :Story:Post:
+** TODO Links                                                    :Story:Post:
+** TODO Docs                                                     :Story:Post:
+* Website
+** TODO Dates
+** TODO Links
+** TODO Docs
+** TODO Calendar
+
