@@ -8,6 +8,7 @@
 *** ECOL1000
 *** ECON2106
 *** INTL3300
+**** Module 1 [0%]
  DEADLINE: <2020-08-26 Wed>
 - [ ] Lecture 1
 - [ ] Lecture 2 
@@ -15,6 +16,11 @@
 - [ ] INTL Quiz 1
 - [ ] Discussion 1
 *** INTL4970
+*** TODO 4970R Follow-up
+    SCHEDULED: <2020-08-24 Mon 17:00>
+*** MATH4670
+**** WAITING Math Zoom Class
+     SCHEDULED: <2020-08-23 Sun 13:50>
 *** MATH-L
 ** Orgs
 *** MUN
@@ -22,12 +28,14 @@
 ** Tutoring [0%]
 *** TODO Tom
 *** TODO Mebin
-*** TODO Noah 1
+*** WAITING Noah 1
 *** TODO Noah 2
-*** TODO Debate 1
-*** TODO Debate 2
+*** WAITING Debate 
+    SCHEDULED: <2020-08-28 Fri 15:00>
+*** WAITING Debate 2
+    SCHEDULED: <2020-08-28 Fri 16:00>
 ** Email
-*** TODO Norman, PLA
+*** DONE Norman, PLA
     DEADLINE: <2020-08-23 Sun 17:00>
 * 08.19.20
 ** School
@@ -94,4 +102,4 @@
     DEADLINE: <2020-08-21 Fri>
     
 *** MIGRATED Norman, PLA
-    SCHEDULED: <2020-08-22 Sat 17:00> DEADLINE: <2020-08-22 Sat 17:00>
+* General Class Schedule
