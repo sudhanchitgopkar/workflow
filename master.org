@@ -29,11 +29,13 @@
      DEADLINE: <2020-08-24 Mon>
 *** MATH-L
 ** Orgs
-*** MUN [75%]
+*** MUN [80%]
 **** DONE MUN Meaning Story
 **** ABANDONED First Day Story
 **** DONE Instagram Post
-**** IN-PROGRESS Try-out Meeting
+**** DONE Try-out Meeting
+     SCHEDULED: <2020-08-22 Sat 14:00>
+**** TODO [[~/workflow/munTryoutNotes.org][MUN Tryout Info]]
 *** UGAHacks
 *** FRC [100%]
 **** ABANDONED Director Meeting 
@@ -61,3 +63,4 @@
     DEADLINE: <2020-08-21 Fri>
     
 *** TODO Norman, PLA
+    DEADLINE: <2020-08-22 Sat 17:00>
