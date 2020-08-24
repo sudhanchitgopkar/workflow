@@ -53,18 +53,20 @@
     SCHEDULED: <2020-08-24 Mon 17:00>
 **** TODO Saglam Update
      SCHEDULED: <2020-08-24 Mon 17:00>
-*** MATH4670 [0%]
-**** WAITING Math Zoom Class
+*** MATH4670 [100%]
+**** DONE Math Zoom Class
      SCHEDULED: <2020-08-24 Mon 13:50-14:- ->
-*** MATH4950 [0%]
-**** WAITING Registration 
+*** MATH4950 [100%]
+**** DONE Registration 
 ** Orgs 
 *** MUN [0%]
+**** WAITING MUN Meeting
+     SCHEDULED: <2020-08-25 Tue 20:00>
 **** TODO [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
-** Tutoring [0%]
+** Tutoring [16%]
 *** TODO Tom
 *** TODO Mebin
-*** WAITING Noah 1
+*** DONE Noah 1
     SCHEDULED: <2020-08-24 Mon 15:30>
 *** TODO Noah 2
 *** WAITING Debate 
