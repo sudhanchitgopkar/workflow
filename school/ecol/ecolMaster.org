@@ -1,0 +1,11 @@
+* 08.24.20
+** Definitions
+- Ecology: the branch of science dealing with the relationships of living things to one another & the environment
+- Environmental Science: The study of all aspects of the environment, including physical, chemical, and biological factos, particularly with respect to how these aspects affect humans, and vice versa
+- Environmental Ethics: Personal philosophy that influences how a person interacts with their natural environment and thus influences how one responds to environmental problems
+
+** Ecology != Environmentalism
+- Distinguish between envrironmentalism & ecology
+| Environmentalism                    | Ecology                                          |
+| Activism to protect the environment | Scientific study of living and non-living things |
+
