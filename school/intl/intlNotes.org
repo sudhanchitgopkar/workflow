@@ -1,0 +1,83 @@
+* Module 2
+** Video 1
+*** "Traditional Approach"
+- Focus on a "formal-legal" aspects of political institutions
+- Mostly a categorizing exercise with little analysis
+- Many European ex-pats were these scholars
+*** Modern Era (1960s-1980s)
+- Scholars stop describing, start comparing
+- Behavioral Revolution - emphasis on individual, group behavior, not static institutions
+- Gave rise to "developmentalism" or "modernization theory" 
+  - Proposed that a state develops economically, political and social development follows
+  - Functionalism (functions of differently societal elements lay foundation for growth)
+*** Development (1960s-1980s)
+- 5 stages each society goes through for development:
+- Traditional society (no mass production)
+- Preconditions for economic take-off (advent of industrialization and mass production)
+- Take-off (dynamic economic growth) 
+- Drive to maturity (long era of econ growth, modern tech usage)
+- Age of high mass consumption (everyon is within driving distance of McDonalds (most places))
+*** Critiques of Behavioralims/Developmentalism
+- Enthocentric and ideologically driven
+- Creates dependency: capitalism creates a situation where underdeveloped countries depend
+  on developed countries
+- Developmentalist theories tried to be a one-size-fit-all theory which wasn't bale to be applied
+  to all individual case studies
+*** Post-Behavioralism (1990s-Present)
+- Development of middle-range theories instead of one single theory
+- Diversity of approaches (qualitative, quantitative, case sudies)
+- Takes culture and historical context into consideration
+- Rational choice theory applied
+- Political economy: the state can have a varying role in economic matters
+*** New Institutionalism (Past 25 years)
+- Institutions are the nexus of political action
+- Institutions are dynamic that interact over time w other variables
+- Institutions comprise the surrounding environment & sentiment
+
+** Video 2
+*** The Study of Comparative Politics
+- Comparative politics implies a method of study or an approach to an analysis, not a single theory
+- greatest challenge is that events occur in real time with unreplicable environments
+- events in politics can not be replicated to test for validity
+*** Goals
+- Goal: To assess which factors cause a certain outcome by comparing or contrasting cases
+- Cases: One of the group of things (events, states, actors, etc.) to be studied
+- Variable: a factor that changes over time or in different cases
+  - Independent var: causal var
+  - Dependent var: outcome var
+- Causal relationships can be shown as:
+  - Cause -> effect
+  - Independent var -> dependent var
+  - Explanators var -> outcome
+  - x var -> y var
+- Hypothesis: a possible answer that explains a causal effect
+*** Challenges
+- Goal: to determine causality, not just correlation
+
+- In comparative politics, the researcher may not be able to:
+  - have a constant
+  - measure certain variables
+  - anticipate certain events
+  - disentangle one variable from others
+  - Access to cases & information
+    - Langauage barriers
+    - Time & funding
+    - Sufficient cases (and selection bias)
+    - IRB (Institutional Review Board)
+- Correlation: when var A occurs with var B, one is not caused by the other
+- Endogeneity: when it cannot be determined whether an outcome was caused by another factor
+    or the outcome caused that factor to occur    
+** Video 3
+*** Most Similar Systems Design (MSS)
+- A method in which as many independent vars as possible are held constant to explain a political
+  outcome: similar cases, different outcomes can help isolate a variable
+- Special Variation of MSS: Within-Case Comparison
+  - Single case analyzed over time or in different geographical areas
+  - Breaks up a single case into subparts and allows for comparison
+*** Most-Different Systems Design (MDS)
+- Looks at cases that are different from one another and observes why the same political outcome is
+  observed as a method of understanding how to isolate a single causal variable
+*** Overview
+- Probable causal explanations (hypotheses): goal of these comparative approaches
+- Theories can be built from the strongest hypothesis
+- Theories can further be generalized based on the case

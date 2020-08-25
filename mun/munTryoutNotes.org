@@ -32,7 +32,7 @@
 ** WAITING Calendar Link
 ** TODO Interview Sign-up Sheet
 * Misc Tasks [0%]
-** WAITING Subdomain Redirection
+** WAITING Zoom Subdomain Redirection
 * Instagram
 ** TODO Involvement Fair                                              :Story:
 ** TODO Dates                                                    :Story:Post:
@@ -43,4 +43,4 @@
 ** TODO Links
 ** TODO Docs
 ** TODO Calendar
-
+   
