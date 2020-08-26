@@ -6,6 +6,7 @@
 **** DONE Reading 2
      DEADLINE: <2020-08-27 Thu 09:00>
 *** ECOL1000 [0%]
+**** TODO ECOL1.1
 **** TODO ECOL1.2
      DEADLINE: <2020-08-28 Fri>
 **** TODO ECOL1.4
@@ -59,14 +60,14 @@
 *** MATH4950 [100%]
 **** DONE Registration 
 ** Orgs
-*** MUN [0%]
-**** WAITING MUN Meeting
+*** MUN [50%]
+**** DONE MUN Meeting
      SCHEDULED: <2020-08-25 Tue 20:00>
 **** TODO [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
-** Tutoring [16%]
+** Tutoring [33%]
 *** WAITING Tom
     SCHEDULED: <2020-08-26 Wed 11:15>
-*** WAITING Mebin
+*** DONE Mebin
     SCHEDULED: <2020-08-25 Tue 16:00>
 *** DONE Noah 1
     SCHEDULED: <2020-08-24 Mon 15:30>

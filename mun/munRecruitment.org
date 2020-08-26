@@ -5,42 +5,62 @@
    SCHEDULED: <2020-09-03 Thu 18:30>
 ** Zoom Info Session 1                                            :Finalized:
    SCHEDULED: <2020-09-04 Fri 20:00>
-** Zoom Info Session 2                                            :FInalized:
+** Zoom Info Session 2                                            :Finalized:
    SCHEDULED: <2020-09-08 Tue 20:00>
 ** Tryout Simulation 1                                                  :TBD:
    SCHEDULED: <2020-09-09 Wed 19:00>
 ** Tryout Simulation 2                                                  :TBD:
    SCHEDULED: <2020-09-09 Wed 19:00>
 ** Interview Slots                                                      :TBD:
+   SCHEDULED: <2020-09-10 Thu 16:30> DEADLINE: <2020-09-11 Fri 17:00>
 ** Final Decisions Released                                       :Finalized:
    SCHEDULED: <2020-09-13 Sun>
 
-* Intake Forms [0%]
-** TODO Registration Google Form
-- Names
-- Emails
-** WAITING Tryout Registration Form
 * Outgoing Info [0%]
 ** TODO Zoom Links [0%]
 *** TODO Involvement Fair
-*** TODO Info Session 1
-*** TODO Info Session 2
+*** WAITING Info Session 1
 *** TODO Simulation
-*** TODO Interview Slots
+*** WAITING Interview Slots
 ** TODO [[Dates: ][Dates]]
 ** TODO [[https://docs.google.com/document/d/1pyreu_EGDyoDZ5Da8SQ7DzIUOOv2BoCSGYJnMwWAt1s/edit?usp=sharing][Procedure]]
 ** WAITING Calendar Link
-** TODO Interview Sign-up Sheet
 * Misc Tasks [0%]
-** WAITING Subdomain Redirection
+** Zoom Subdomain Redirection [0%]
+*** TODO Involvement Fair
+*** WAITING Info Sessions
+*** WAITING Sim Sessions
+** WAITING Convert Trifold to PowerPoint
 * Instagram
 ** TODO Involvement Fair                                              :Story:
 ** TODO Dates                                                    :Story:Post:
 ** TODO Links                                                    :Story:Post:
 ** TODO Docs                                                     :Story:Post:
+** TODO Insta Takeovers                                               :Story:
+*** Sudhan
+*** Meredith
+    SCHEDULED: <2020-08-26 Wed>
+*** Alexa
+    SCHEDULED: <2020-08-31 Mon>
+*** Ian
+    SCHEDULED: <2020-08-28 Fri>
+*** Ivan
+    SCHEDULED: <2020-08-30 Sun>
+*** Manashi
+*** Annabelle
+    SCHEDULED: <2020-09-01 Tue>
+*** Miranda
+    SCHEDULED: <2020-08-29 Sat>
+*** Carter
+    SCHEDULED: <2020-08-27 Thu>
+** TODO Procedure Video                                                :IGTV:
+*** Ian
+*** Alexa
+*** Miranda
 * Website
 ** TODO Dates
 ** TODO Links
-** TODO Docs
 ** TODO Calendar
-
+** TODO Procedure
+** TODO Info Session Video
+** TODO Shoutout Parent Leadership Council
