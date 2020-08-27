@@ -5,22 +5,20 @@
      DEADLINE: <2020-08-25 Tue 9:00>
 **** DONE Reading 2
      DEADLINE: <2020-08-27 Thu 09:00>
-*** ECOL1000 [0%]
-**** TODO ECOL1.1
-**** TODO ECOL1.2
+*** ECOL1000 [100%]
+**** DONE ECOL1.1
+**** DONE ECOL1.2
      DEADLINE: <2020-08-28 Fri>
-**** TODO ECOL1.4
-     DEADLINE: <2020-08-28 Fri>
-**** TODO ECOL2.2
+**** DONE ECOL2.2
      DEADLINE: <2020-08-31 Mon>
-**** TODO ECOL4.1
+**** DONE ECOL4.1
      DEADLINE: <2020-08-31 Mon>
-*** ECOL1000L [0%]
-**** TODO ECOL Syllabus Quiz
+*** ECOL1000L [40%]
+**** DONE ECOL Syllabus Quiz
 **** TODO ECOL Discussion Intro
-**** TODO Lifestyle Activity Assessment
-**** TODO Lifestyle Activity Quiz
-**** TODO iClicker Reef Questions
+**** WAITING Lifestyle Activity Assessment
+**** WAITING Lifestyle Activity Quiz
+**** DONE iClicker Reef Questions
      DEADLINE: <2020-08-28 Fri>
 *** ECON2106 [100%]
 **** DONE V1
@@ -63,15 +61,16 @@
 *** MUN [50%]
 **** DONE MUN Meeting
      SCHEDULED: <2020-08-25 Tue 20:00>
-**** TODO [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
-** Tutoring [33%]
-*** WAITING Tom
+**** IN-PROGRESS [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
+** Tutoring [50%]
+*** DONE Tom
     SCHEDULED: <2020-08-26 Wed 11:15>
 *** DONE Mebin
     SCHEDULED: <2020-08-25 Tue 16:00>
 *** DONE Noah 1
     SCHEDULED: <2020-08-24 Mon 15:30>
-*** TODO Noah 2
+*** WAITING Noah 2
+    SCHEDULED: <2020-08-27 Thu 15:30>
 *** WAITING Debate 
     SCHEDULED: <2020-08-28 Fri 15:00>
 *** WAITING Debate 2

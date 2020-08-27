@@ -1,3 +1,27 @@
+* 08.25.20
+** Applied v Empirical Science
+- Applied Science = research whose findings are used to solve practical problems
+- Empirical science: A scientific approach that investigates the natural world through case studies
+
+** Social Traps
+- Occurs when a large amount of people are using a shared resource
+- Seem good in the short term but are actually bad in the long term
+- 3 Types:
+  - Tragedy of the Commons: When resources are shared, individuals try to maximize personal
+    benefit which hurts the resource itself
+  - Time delay: Collective decisions that are good today but gone tomorrow
+  - Sliding reinforcer: related to the evolution of natural organisms and GMOs
+
+** Beginning with Data Interpretation 
+- Variables represent factors that can be manipulated, controlled, or merely measured for research
+- Variation = how much a variable changes
+- Independent var is controlled to see effects in the Dependent var
+- Graphs explore relationships with data and report this data
+
+** Observational v Experimental Studies
+- Observational studies can observe a correlation but are unable to derive a causational reln.
+- Experimental studies have a control var (required) and are able to derive causactional rlns.
+
 * 08.24.20
 ** Definitions
 - Ecology: the branch of science dealing with the relationships of living things to one another & the environment
