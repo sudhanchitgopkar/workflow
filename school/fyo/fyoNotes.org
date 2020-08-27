@@ -1,4 +1,4 @@
-** Characters
+** Characterqs
 *** Assignments
 | Names     | Character   |
 | Tay       | Lycon       |
@@ -20,23 +20,18 @@
 - Thrasybulus
 - Meletus
 - Lycon
-
 *** Periclean Democrats (Moderate Democrats)
 - Anytus
 - Aristarchus
-
 *** Socratics
 - Crito
 - Aristocles
 - Simon
-
 *** Solonian Aristocrats
 - Callias
-
 *** Indeterminates
 - Lysimache
 - Lithicles
-
 ** Socrates & Plato
 *** Socrates
 - We have no texts by Socrates
@@ -52,3 +47,24 @@
 - Associated with the Thirty Tyrants (taught Critias)
 - Personal appearence: unkempt
 - Reputation in Athes: gafdly
+*** Plato
+- Greek philosopher, mathematician, stident of socrates, wroter of philosophical dialogue
+- Founder of "The Academy"
+- Plato taught Aristotle
+- Large amount of works by Plato
+  - 36 dialogies (feat. Socrates and others)
+  - 13 letters (may be by Plato)
+- Aristocratic famoly in Athens
+- Parents: Ariston (descendant of Athenian king) and Perictione (niece of Critias)
+*** Plato's Argumentation
+- Inductive reasoning: from particular examples to general truths
+- Deductive reasoning: from general truths to a particular example within the subset of that truth
+- Analogy: allows speakers to evoke in audience something they know and then apply its attributes
+  to somehting that is unfamiliar to them
+- Dialogue: Athenian public life is a matter of public debate/discussion/argument (Assembly)
+ 
+*** The Republic
+- Written 380-375 BCE but claims to record a conversation during the Peloponnesian War
+- Definition of justice and the role of a character in a just polis
+- Book 1: two definitions are proposed and rejected
+- Book 2: Flaucon's and Adeimantus' speeches & definitions of justice
