@@ -15,17 +15,21 @@
   - Helped understand white-nose syndrome with bats
 *** Science with WNS
 - Scientific Method: the procedure used to empirically test a hypothesis
-  - Observations generate questions
-  - Choose a question to investigate
-  - Consult literature
-  - Develop a hypothesis and make a testable prediction
-  - Design and carry out a study
-  - Analyze data
-  - Draw a conclusion
+  1. Observations generate questions
+  2. Choose a question to investigate
+  3. Consult literature
+  4. Develop a hypothesis and make a testable prediction
+  5. Design and carry out a study
+  6. Analyze data
+  7. Draw a conclusion
 - Inferences: Conclusions drawn based on observations
 - Hypothesis: An inference that proposes possible explanation that includes previous knowledge/observation
 - Testing a Hypothesis: Hypotheses can be tested through an observational or experimental study
 - Scientific Studies: A fair test with results that could support or falsify the research prediction
+  - Experimental Studies: Conditions are manipulated intentionally
+    - Test Group: the group in an experimental study such that it differs from the control in only one way
+    - Control Group: the group in an experimental study to which the test group's results are compared 
+  - Observational Studies: Gather real-world data without any intentional variable manipulation
 - Theory: A hypothesis that survives repeated testing by significant research can become a theory
 * 08.25.20
 ** Applied v Empirical Science
@@ -54,6 +58,7 @@
 - Environmental Ethics: Personal philosophy that influences how a person interacts with their natural environment and thus influences how one responds to environmental problems
 ** Ecology != Environmentalism
 - Distinguish between envrironmentalism & ecology
-| Environmentalism                    | Ecology                                          |
-| Activism to protect the environment | Scientific study of living and non-living things |
 
+| Environmentalism                    | Ecology                                          |
+|-------------------------------------+--------------------------------------------------|
+| Activism to protect the environment | Scientific study of living and non-living things |
