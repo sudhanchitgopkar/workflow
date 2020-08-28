@@ -1,11 +1,14 @@
 * 08.23.20
 ** School
-*** CSCI1730 [100%]
+*** CSCI1730 [40%]
 **** DONE Reading 1
      DEADLINE: <2020-08-25 Tue 9:00>
 **** DONE Reading 2
      DEADLINE: <2020-08-27 Thu 09:00>
-*** ECOL1000 [100%]
+**** TODO Module 0 Video 
+**** TODO Module 1 Video 
+**** TODO Module 2 Video
+*** ECOL1000 [80%]
 **** DONE ECOL1.1
 **** DONE ECOL1.2
      DEADLINE: <2020-08-28 Fri>
@@ -13,6 +16,8 @@
      DEADLINE: <2020-08-31 Mon>
 **** DONE ECOL4.1
      DEADLINE: <2020-08-31 Mon>
+**** TODO Homework 1
+     DEADLINE: <2020-09-01 Tue 23:30>
 *** ECOL1000L [40%]
 **** DONE ECOL Syllabus Quiz
 **** TODO ECOL Discussion Intro
@@ -29,7 +34,7 @@
 **** DONE V6
 **** DONE HW1
      DEADLINE: <2020-08-28 Fri>
-*** INTL3300[50%]
+*** INTL3300 [100%]
 **** DONE Module 1 [100%]
  DEADLINE: <2020-08-26 Wed>
 - [X] Lecture 1
@@ -37,7 +42,7 @@
 - [X] Reading 1
 - [X] INTL Quiz 1
 - [X] Discussion 1
-**** TODO Module 2 [75%]
+**** DONE Module 2 [100%]
      SCHEDULED: <2020-08-30 Sun>
 - [X] M2V1
 - [X] M2V2
@@ -45,8 +50,8 @@
 - [X] M2R1
 - [X] M2R2
 - [X] M2R3
-- [ ] Journal 1
-- [ ] FlipGrid 1
+- [X] Journal 1
+- [X] FlipGrid 1
 *** INTL4970 [100%]
 **** DONE 4970R Follow-up
     SCHEDULED: <2020-08-24 Mon 17:00>
@@ -58,18 +63,21 @@
 *** MATH4950 [100%]
 **** DONE Registration 
 ** Orgs
-*** MUN [50%]
+*** MUN [33%]
 **** DONE MUN Meeting
      SCHEDULED: <2020-08-25 Tue 20:00>
 **** IN-PROGRESS [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
-** Tutoring [50%]
+*** FRC [100%]
+**** DONE Welcome Meeting
+     SCHEDULED: <2020-08-27 Thu 19:00>
+** Tutoring [66%]
 *** DONE Tom
     SCHEDULED: <2020-08-26 Wed 11:15>
 *** DONE Mebin
     SCHEDULED: <2020-08-25 Tue 16:00>
 *** DONE Noah 1
     SCHEDULED: <2020-08-24 Mon 15:30>
-*** WAITING Noah 2
+*** DONE Noah 2
     SCHEDULED: <2020-08-27 Thu 15:30>
 *** WAITING Debate 
     SCHEDULED: <2020-08-28 Fri 15:00>
@@ -144,3 +152,4 @@
     
 *** MIGRATED Norman, PLA
 * General Class Schedule
+** INTL 3300
