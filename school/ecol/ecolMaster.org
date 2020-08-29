@@ -31,6 +31,20 @@
     - Control Group: the group in an experimental study to which the test group's results are compared 
   - Observational Studies: Gather real-world data without any intentional variable manipulation
 - Theory: A hypothesis that survives repeated testing by significant research can become a theory
+- Correlation v Causation
+  - Correlation: two things occuring together but not necessarily having a cause-effect relationship
+  - Cause-Effect Relationship: the associationof a two variables that identifies one variable occurring
+    as a result of the other
+  - Observational studies can derive correlation but not causation
+  - Experimental studies can derive causational relationships
+- Policy: a formalized plan that addresses a desired outcome or goal
+  - policies need to be flexible, adapt to new findings, address the environmental problem, fit social need
+    and be economically viable in order to work effectively.
+** Summary
+- Scientific knowledge, through reliable and durable, is never absolute pr certain
+- This knowledge, including facts, theories, and laws, is subject to change
+- Physical evidence, systematically collected and logically analyzed, helps scientists
+  understand environmental issues and guide policy decisions
 * 08.25.20
 ** Applied v Empirical Science
 - Applied Science = research whose findings are used to solve practical problems
