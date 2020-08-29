@@ -72,6 +72,8 @@
 *** FRC [100%]
 **** DONE Welcome Meeting
      SCHEDULED: <2020-08-27 Thu 19:00>
+*** UGAHacks
+**** TODO Email Jeffery about dates/times for presentation
 ** Tutoring [100%]
 *** DONE Tom
     SCHEDULED: <2020-08-26 Wed 11:15>
