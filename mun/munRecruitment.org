@@ -24,19 +24,20 @@
 ** DONE [[Dates: ][Dates]]
 ** DONE [[https://docs.google.com/document/d/1pyreu_EGDyoDZ5Da8SQ7DzIUOOv2BoCSGYJnMwWAt1s/edit?usp=sharing][Procedure]]
 ** DONE Calendar Link
-* Misc Tasks [0%]
+* Misc Tasks [50%]
 ** Zoom Subdomain Redirection [100%]
 *** DONE Involvement Fair
 *** DONE Info Sessions
 *** DONE Sim Sessions
-** WAITING Convert Trifold to PowerPoint
-* Instagram [83%]
+** TODO Convert Trifold to PowerPoint
+* Instagram [85%]
 ** ABANDONED Involvement Fair                                         :Story:
 ** DONE Dates                                                    :Story:Post:
 ** DONE Links                                                    :Story:Post:
 ** DONE Docs                                                     :Story:Post:
+** DONE SPIA Takeover Video
 ** IN-PROGRESS Insta Takeovers                                        :Story:
-*** Sudhan
+*** WAITING Sudhan
 *** DONE Meredith
     SCHEDULED: <2020-08-26 Wed>
 *** TODO Alexa
@@ -45,17 +46,13 @@
     SCHEDULED: <2020-08-28 Fri>
 *** TODO Ivan
     SCHEDULED: <2020-08-30 Sun>
-*** Manashi
+*** TODO Manashi
 *** TODO Annabelle
     SCHEDULED: <2020-09-01 Tue>
-*** WAITING Miranda
+*** DONE Miranda
     SCHEDULED: <2020-08-29 Sat>
 *** DONE Carter
     SCHEDULED: <2020-08-27 Thu>
-** ABANDONED Procedure Video                                           :IGTV:
-*** Ian
-*** Alexa
-*** Miranda
 * Website [100%]
 ** DONE Dates
 ** DONE Links
