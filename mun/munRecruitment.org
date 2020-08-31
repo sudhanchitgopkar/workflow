@@ -16,8 +16,8 @@
 ** Final Decisions Released                                       :Finalized:
    SCHEDULED: <2020-09-13 Sun>
 
-* Outgoing Info [75%]
-** TODO Zoom Links [100%]
+* Outgoing Info [100%]
+** DONE Zoom Links [100%]
 *** ABANDONED Involvement Fair
 *** DONE Info Session 1
 *** DONE Simulation
@@ -44,7 +44,7 @@
     SCHEDULED: <2020-09-01 Tue>
 *** DONE Ian
     SCHEDULED: <2020-08-28 Fri>
-*** TODO Ivan
+*** WAITING Ivan
     SCHEDULED: <2020-08-30 Sun>
 *** TODO Manashi
 *** TODO Annabelle

@@ -1,3 +1,58 @@
+* 08.30.20
+** School 
+*** CSCI1730 [0%]
+**** TODO Module 3 Video 
+**** WAITING Lab 01
+     SCHEDULED: <2020-09-01 Tue 09:35>
+*** ECOL1000 [0%]
+**** TODO iCliker Reef Questions 1 
+     DEADLINE: <2020-09-02 Wed>
+**** TODO ECOLHW1
+     DEADLINE: <2020-09-01 Tue>
+**** TODO ECOL1.3
+     DEADLINE: <2020-09-04 Fri>
+**** TODO ECOL4.2
+     DEADLINE: <2020-09-04 Fri>
+**** TODO ECOL10.1
+     DEADLINE: <2020-09-04 Fri>
+**** TODO ECOLHW2
+     SCHEDULED: <2020-09-04 Fri>
+*** ECOL1000L [0%]
+**** TODO Intro Discussion
+     DEADLINE: <2020-09-04 Fri>
+**** TODO Lifestyle Quiz
+     DEADLINE: <2020-09-04 Fri>
+**** TODO Lifestyle Proposal
+     DEADLINE: <2020-09-03 Thu>
+*** ECON2106
+**** TODO Ch2 Homework
+     DEADLINE: <2020-09-04 Fri>
+**** TODO V1 - V5
+**** TODO V5 - V9
+*** INTL3300
+**** TODO INTLV1
+**** TODO INTLV2
+**** TODO INTLV3
+**** TODO INTL Quiz 2 
+     DEADLINE: <2020-09-08 Tue>
+**** TODO INTL Discussion 1
+     DEADLINE: <2020-09-08 Tue>
+**** TODO INTL Discussion 2
+     DEADLINE: <2020-09-04 Fri>
+*** INTL4970
+**** TODO Research Question & Theory Section
+     DEADLINE: <2020-09-04 Fri>
+**** TODO Saglam Follow-up
+     DEADLINE: <2020-09-02 Wed>
+*** MATH4670
+**** WAITING Meeting 1
+     SCHEDULED: <2020-09-02 Wed 13:55>
+*** MATH4950
+**** TODO Scheneider Follow-up
+     SCHEDULED: <2020-09-02 Wed>
+** Orgs
+*** MUN
+**** IN-PROGRESS [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
 * 08.23.20
 ** School
 *** CSCI1730 [100%]
@@ -8,7 +63,7 @@
 **** DONE Module 0 Video 
 **** DONE Module 1 Video 
 **** DONE Module 2 Video
-*** ECOL1000 [66%]
+*** ECOL1000 [100%]
 **** DONE ECOL1.1
 **** DONE ECOL1.2
      DEADLINE: <2020-08-28 Fri>
@@ -16,15 +71,13 @@
      DEADLINE: <2020-08-31 Mon>
 **** DONE ECOL4.1
      DEADLINE: <2020-08-31 Mon>
-**** TODO Homework 1
-     DEADLINE: <2020-09-01 Tue 23:30>
-**** TODO iClicker Reef Assignment
-     SCHEDULED: <2020-09-02 Wed>
-*** ECOL1000L [40%]
+**** MIGRATED Homework 1
+**** MIGRATED iClicker Reef Assignment
+*** ECOL1000L [100%]
 **** DONE ECOL Syllabus Quiz
-**** TODO ECOL Discussion Intro
-**** TODO Lifestyle Activity Assessment
-**** TODO Lifestyle Activity Quiz
+**** MIGRATED ECOL Discussion Intro
+**** MIGRATED Lifestyle Activity Assessment
+**** MIGRATED Lifestyle Activity Quiz
 **** DONE iClicker Reef Questions
      DEADLINE: <2020-08-28 Fri>
 *** ECON2106 [100%]
@@ -65,15 +118,15 @@
 *** MATH4950 [100%]
 **** DONE Registration 
 ** Orgs
-*** MUN [33%]
+*** MUN [100%]
 **** DONE MUN Meeting
      SCHEDULED: <2020-08-25 Tue 20:00>
-**** IN-PROGRESS [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
+**** MIGRATED [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
 *** FRC [100%]
 **** DONE Welcome Meeting
      SCHEDULED: <2020-08-27 Thu 19:00>
-*** UGAHacks
-**** DONE Email Jeffery about dates/times for presentation
+*** UGAHacks [100%]
+**** DONE UGAHacks dates/times for presentation
 ** Tutoring [100%]
 *** DONE Tom
     SCHEDULED: <2020-08-26 Wed 11:15>
