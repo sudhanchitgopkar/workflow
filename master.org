@@ -73,7 +73,7 @@
 **** DONE Welcome Meeting
      SCHEDULED: <2020-08-27 Thu 19:00>
 *** UGAHacks
-**** TODO Email Jeffery about dates/times for presentation
+**** DONE Email Jeffery about dates/times for presentation
 ** Tutoring [100%]
 *** DONE Tom
     SCHEDULED: <2020-08-26 Wed 11:15>
@@ -155,6 +155,4 @@
     DEADLINE: <2020-08-21 Fri>
     
 *** MIGRATED Norman, PLA
-* General Class Schedule
-** INTL 3300
-   SCHEDULED: <2020-08-28 Fri 13:55 + +1W>
+
