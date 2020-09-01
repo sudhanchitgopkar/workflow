@@ -25,7 +25,7 @@
 ** DONE [[https://docs.google.com/document/d/1pyreu_EGDyoDZ5Da8SQ7DzIUOOv2BoCSGYJnMwWAt1s/edit?usp=sharing][Procedure]]
 ** DONE Calendar Link
 * Misc Tasks [50%]
-** Zoom Subdomain Redirection [100%]
+** DONE Zoom Subdomain Redirection [100%]
 *** DONE Involvement Fair
 *** DONE Info Sessions
 *** DONE Sim Sessions
@@ -40,14 +40,14 @@
 *** WAITING Sudhan
 *** DONE Meredith
     SCHEDULED: <2020-08-26 Wed>
-*** TODO Alexa
+*** WAITING Alexa
     SCHEDULED: <2020-09-01 Tue>
 *** DONE Ian
     SCHEDULED: <2020-08-28 Fri>
-*** WAITING Ivan
+*** DONE Ivan
     SCHEDULED: <2020-08-30 Sun>
-*** TODO Manashi
-*** TODO Annabelle
+*** DONE Manashi
+*** WAITING Annabelle
     SCHEDULED: <2020-09-01 Tue>
 *** DONE Miranda
     SCHEDULED: <2020-08-29 Sat>

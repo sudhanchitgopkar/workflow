@@ -1,4 +1,55 @@
-* 08.26.20 Notes
+* Module 3
+** Institutions and States
+*** Institutions
+- Institution: Institutions are formal and informal rules 
+  that structure the relationship among individuals
+- Can have legal or social forces
+- Institutions are resistant to change but can change as a 
+  - response to outside forces
+  - response to internal pressures
+  - response to effects of other institutions
+*** The State
+- An organization that maintains a legitimate monopoly of force over a certain territory
+  and its population
+- A set of political institutions sets policies for the territory and its population
+- Sovereignty: The ability for a state to carry out actions/policies within a territory
+  independently from external actors or internal rivals/challengers
+- Issues of autonomy and capcity: 
+  - Autonomy: the ability for the state to weild its power independently of the public
+  - Capacity: the ability for the state to accrue and utilize sufficient resources to carry out
+    basic tasks and responsibilities
+*** Definitions
+**** General
+- State: governing structur's legitimate expression of sovereignty/main political organization 
+  of a country
+- Regime: Informal institutions that guide how a state operates
+- Government: Collection of actors in charge of carrying out political decisions of the regime
+  and in the interest of the state
+- Country: More generic; refers to the political collectivity of a soverieng territory
+- Nation: Refers to a group of people bound together by some trait who seek to establish 
+  to establish and express political interests
+- Nation != Country
+**** Strength of States
+- Institutional Capabilities
+  - Strong States: Has good institutional foundations; these institutions function well
+  - Weak States: Does not have good institutional foundations, its institutions do not function well 
+  - Failed States: Institutions so weak that they basically collapse and have no sovereignty
+- Organizational Structure
+  - Strong states maintain a fair amonut of centralized control
+  - Weak states hand down authority to local institutions and are decentralized
+** Legitimacy & Sovereignty
+- Legitimacy: a value whereby something or someone is recognized and accepted by a large 
+  portion of the population as right and proper (is highly subjective)
+- Types of legitimacy:
+  - Traditional legitimacy: embodies historicla myths/legends and continues from past to present
+  - Charismatic legitimacy: Built on the force of ideas and appeals embodied by a leader
+  - Rational-Legal legitimacy: Based on a system of laws and procedures that are institutionalized
+- Sources of Legitimacy:
+  - Conferred by the ruler to a ruler, government, or state
+  - Ascribed to a state or ruler by other states or rulers (prerequisity for intl. cooperation)
+  - Ascribed to a state or ruler by organizations/non-state actors
+- Legitimacy can often be used to push for change
+* 08.26.20
 ** Defining a Good Society
 - Although observable, empirical assessments may differ from person to person,
   depending upon factors that may distort individual observation.

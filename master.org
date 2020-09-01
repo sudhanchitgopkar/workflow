@@ -4,8 +4,8 @@
 **** DONE Module 3 Video 
 **** DONE Lab 01
      SCHEDULED: <2020-09-01 Tue 09:35>
-*** ECOL1000 [16%]
-**** TODO iCliker Reef Questions 1 
+*** ECOL1000 [33%]
+**** DONE iCliker Reef Questions 1 
      DEADLINE: <2020-09-02 Wed>
 **** DONE ECOLHW1
      DEADLINE: <2020-09-01 Tue>
@@ -16,21 +16,20 @@
 **** TODO ECOL10.1
      DEADLINE: <2020-09-04 Fri>
 **** TODO ECOLHW2
-     SCHEDULED: <2020-09-04 Fri>
+     DEADLINE: <2020-09-04 Fri>
 *** ECOL1000L [0%]
     DEADLINE: <2020-09-04 Fri>
 **** TODO Intro Discussion
 **** TODO Lifestyle Quiz     
 **** TODO Lifestyle Proposal
-*** ECON2106 [0%]
-**** IN-PROGRESS Ch2 Homework
+*** ECON2106 [100%]
+**** DONE Ch2 Homework
      DEADLINE: <2020-09-04 Fri>
-**** TODO V1 - V5
-**** TODO V5 - V9
-*** INTL3300 [0%]
-**** TODO INTLV1
-**** TODO INTLV2
-**** TODO INTLV3
+**** DONE V1 - V5
+**** DONE V5 - V9
+*** INTL3300 [33%]
+**** DONE INTLV1
+**** DONE INTLV2
 **** TODO INTL Quiz 2 
      DEADLINE: <2020-09-08 Tue>
 **** TODO INTL Discussion 1
@@ -39,15 +38,21 @@
      DEADLINE: <2020-09-04 Fri>
 *** INTL4970 [0%]
 **** TODO Research Question & Theory Section
-**** TODO Saglam Follow-up
+**** WAITING Saglam Follow-up
 *** MATH4670 [100%]
 **** DONE Meeting 1
      SCHEDULED: <2020-09-02 Wed 13:55>
 *** MATH4950 [0%]
-**** TODO Scheneider Follow-up
+**** WAITING Scheneider Follow-up
 ** Orgs
 *** MUN
 **** IN-PROGRESS [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
+*** Tutoring [20%]
+**** TODO Tom
+**** DONE Mebin
+**** TODO Noah
+**** TODO Debate 1
+**** WAITING Debate 2
 * 08.23.20
 ** School
 *** CSCI1730 [100%]
