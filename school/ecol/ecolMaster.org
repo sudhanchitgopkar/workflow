@@ -1,3 +1,63 @@
+* 08.31.20
+** Human Populations
+- 3 major sparks of growth
+  - Agricultural Revolution
+  - Industrual Revolution
+  - Green Revolution
+- With more food and technology, the population and need for more human labor increased
+- The human population is rapidly increasing and the impact of humans is due to:
+  - More humans overall
+  - Greater growth / person
+- To address population growth, we need to pursue a variety of approaches that address factors
+  encouraging high birth rates
+- Zero population growth: the absence of population growth, occurs when birth rates = death rates
+  - Replacement fertility is reached
+** Population Ecology
+- Analyze and categorize human populations using population ecology techniques
+- Population Ecology: a branch of biology dealing with the number of individuals
+  in a particular species in an area over time
+- Ecologists study populations to understand what makes them survive and thrive
+- Size, distribution, and growth rate is influenced by a variaty of factors and are important to 
+  understanding popilation ecology
+** Monitoring Population Dynamics
+- Population Dynamics: Changes over time in population size and composition
+- Important metrics:
+  - Minimum viable population - min number of individuals that would still allow population to persist or grow
+  - Carrying Capacity (K) - the maximum population size that a particular environment can support indefinitely
+- Population Density - the overall desnity a particular populaiton can sustain
+** Exponential Growth & Populations
+- Exponential growth occurs in populations when growth is unrestricted. This is, overall, unsustainable
+- Growth which becomes progressively larger each breeding cycle
+- Produces a J curve when plotted
+** Monitoring Population Growth
+- Population growth rate - the rate at which a population of a species grows over time
+- Growth factors - factos which assist in the growth of a population
+- Resistance factors - factors which inhibit the growth of a population
+- Limiting factos: resources needed for survival but that may be in short supply
+** Logistic Growth
+- Occurs when a population nears carrying capacity (k) 
+  - Maximum sustainable population size
+  - Determined by limiting factors
+** Density-dependent/ Density-independent Factors
+- Density dependent factors increase as populations grow, typically biotic
+  - Disease
+  - Competition
+  - Predation
+- Density independent facts affect population growth regardless of population size
+  - Storm
+  - Fire/Flood
+  - Avalanche
+** Regulation
+- Tendency for populations to decrease in size when above acertain level, and increase
+  in size below that level
+- Populations can only be regulated by density-dependent factors
+- Top down Regulation
+  - Predation
+  - Disease
+- Bottom up Regulation
+  - Nutrients
+  - Water
+  - Sunlight
 * 08.28.20
 ** What is Science?
 - Science: a body of knowledge that allows us to understand the world around us
