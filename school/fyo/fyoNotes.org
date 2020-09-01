@@ -1,6 +1,7 @@
-** Characterqs
+** Characters
 *** Assignments
 | Names     | Character   |
+|-----------+-------------|
 | Tay       | Lycon       |
 | Austin    | Simon       |
 | Andrew    | Aristachus  |
