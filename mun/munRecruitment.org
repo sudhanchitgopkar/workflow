@@ -36,12 +36,12 @@
 ** DONE Links                                                    :Story:Post:
 ** DONE Docs                                                     :Story:Post:
 ** DONE SPIA Takeover Video
-** IN-PROGRESS Insta Takeovers                                        :Story:
+** IN-PROGRESS Insta Takeovers [77%]                                  :Story:
 *** WAITING Sudhan
 *** DONE Meredith
     SCHEDULED: <2020-08-26 Wed>
-*** WAITING Alexa
-    SCHEDULED: <2020-09-01 Tue>
+*** DONE Alexa
+    SCHEDULED: <2020-09-02 Wed>
 *** DONE Ian
     SCHEDULED: <2020-08-28 Fri>
 *** DONE Ivan

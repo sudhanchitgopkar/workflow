@@ -1,3 +1,48 @@
+* 09.02.20
+** Demographic Transition Model
+- Demographers use age structure diagrams to predict future growth potential of a population
+  - Pyramid structures indicate fast growth
+  - House-shaped structures have moderate growth
+  - Diamond structures have low/negative growth
+- Development leads to smaller families
+- Demographic transitions happen country by country
+- Industrialization might not lead to a demographic transition in all countries
+  - May not be linked to quality of life
+  - Religion/Cultural beliefs
+  - Social justice issue, improving the well-being of women and children key to dec. fertility
+** Social Justice: Education for Women
+- Education of girls & economic opportunities for women are correlated with lower birth rates
+- Education empowers women to take control over thri own fertility through: 
+  - Birth control
+  - Marrying later
+  - Delaying childbirth for career opportunities
+- Women earning more money is correlated to lower child mortality
+** Environmental Impact
+- Slowing population growth is critical to sustainability and reducing our population impact
+- Our impact on the population is a result of (1) our population size and
+ (2) our consumption habits - both must be addressed
+- Ecological footprint: the land area needed to provide the resources for, and assimilate
+  the waste of, a person or population
+** Sustainability
+- A dynamic process between the economy, society, and environment
+- Sustainable: The process or the activity can be mantained without exhaustion or collapse
+  - Intra & Inter-generational issue
+  - Capacity of a system to accomodate changes:
+    - rates of renewable resource use should not exceed regeneration rate
+    - rates of non-renewable resource use should not exceed rate of renewable substitute dev
+    - rates of pollution should not exceed ssimilative capacity of the environment
+- Sustainable development has three factors:
+  - Social equity
+  - Economic efficiency
+  - Environmental responsibility
+** Worldviews
+- Culture influences our beliefs through:
+  - Knowledge
+  - Beliefs
+  - Values
+  - Learned ways of life
+- Worldviews are affected by: 
+  - Environmental Ethics
 * 08.31.20
 ** Human Populations
 - 3 major sparks of growth

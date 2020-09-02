@@ -17,10 +17,10 @@
      DEADLINE: <2020-09-04 Fri>
 **** TODO ECOLHW2
      DEADLINE: <2020-09-04 Fri>
-*** ECOL1000L [0%]
+*** ECOL1000L [66%]
     DEADLINE: <2020-09-04 Fri>
-**** TODO Intro Discussion
-**** TODO Lifestyle Quiz     
+**** DONE Intro Discussion
+**** DONE Lifestyle Quiz     
 **** TODO Lifestyle Proposal
 *** ECON2106 [100%]
 **** DONE Ch2 Homework
@@ -48,9 +48,9 @@
 *** MUN
 **** IN-PROGRESS [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
 *** Tutoring [20%]
-**** TODO Tom
+**** WAITING Tom
 **** DONE Mebin
-**** TODO Noah
+**** WAITING Noah
 **** TODO Debate 1
 **** WAITING Debate 2
 * 08.23.20
