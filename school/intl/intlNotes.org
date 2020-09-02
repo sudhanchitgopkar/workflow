@@ -1,3 +1,17 @@
+* 09.02.20
+** State Development
+- Europe v the New World
+  - Compare the state development of European, "old-world" countries and "new world" countries"
+    - Old world countries tend to be more imperialistic while new countries have a common exp
+      of being colonies
+    - New world countries were composed of different types of people while 
+      Old world countries had a shared history
+- Feudalism: Geographic proximity and increasing power of feudal lords -> challenges between 
+  feudal properties were likely, so organization of resources and capabilities was key to survival
+- Feudalism led to increased collectivism, translating to:
+  - large, active labor organizations
+  - large, state-provided social welfare
+  - emphasis on production of higher quality goods instead of new innovation
 * Module 3
 ** Institutions and States
 *** Institutions
@@ -41,7 +55,7 @@
 - Legitimacy: a value whereby something or someone is recognized and accepted by a large 
   portion of the population as right and proper (is highly subjective)
 - Types of legitimacy:
-  - Traditional legitimacy: embodies historicla myths/legends and continues from past to present
+  - Traditional legitimacy: embodies historical myths/legends and continues from past to present
   - Charismatic legitimacy: Built on the force of ideas and appeals embodied by a leader
   - Rational-Legal legitimacy: Based on a system of laws and procedures that are institutionalized
 - Sources of Legitimacy:
