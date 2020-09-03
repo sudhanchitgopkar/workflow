@@ -18,7 +18,6 @@
 **** TODO ECOLHW2
      DEADLINE: <2020-09-04 Fri>
 *** ECOL1000L [66%]
-    DEADLINE: <2020-09-04 Fri>
 **** DONE Intro Discussion
 **** DONE Lifestyle Quiz     
 **** TODO Lifestyle Proposal
@@ -42,12 +41,17 @@
 *** MATH4670 [100%]
 **** DONE Meeting 1
      SCHEDULED: <2020-09-02 Wed 13:55>
-*** MATH4950 [0%]
-**** WAITING Scheneider Follow-up
+*** MATH4950 [100%]
+**** DONE Scheneider Follow-up
 ** Orgs
 *** MUN
-**** IN-PROGRESS [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
-*** Tutoring [40%]
+**** DONE [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
+**** WAITING SPIA Involvement Fair
+     SCHEDULED: <2020-09-03 Thu 19:00>
+*** Finch
+**** IN-PROGRESS Brand Guideline Completion
+     DEADLINE: <2020-09-04 Fri>
+** Tutoring [40%]
 **** DONE Tom
      SCHEDULED: <2020-09-02 Wed 15:00>
 **** DONE Mebin
