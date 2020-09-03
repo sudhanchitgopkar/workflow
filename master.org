@@ -47,10 +47,12 @@
 ** Orgs
 *** MUN
 **** IN-PROGRESS [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
-*** Tutoring [20%]
-**** WAITING Tom
+*** Tutoring [40%]
+**** DONE Tom
+     SCHEDULED: <2020-09-02 Wed 15:00>
 **** DONE Mebin
 **** WAITING Noah
+     SCHEDULED: <2020-09-03 Thu 15:30>
 **** TODO Debate 1
 **** WAITING Debate 2
 * 08.23.20
