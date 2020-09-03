@@ -4,12 +4,12 @@
 **** DONE Module 3 Video 
 **** DONE Lab 01
      SCHEDULED: <2020-09-01 Tue 09:35>
-*** ECOL1000 [33%]
+*** ECOL1000 [50%]
 **** DONE iCliker Reef Questions 1 
      DEADLINE: <2020-09-02 Wed>
 **** DONE ECOLHW1
      DEADLINE: <2020-09-01 Tue>
-**** TODO ECOL1.3
+**** DONE ECOL1.3
      DEADLINE: <2020-09-04 Fri>
 **** TODO ECOL4.2
      DEADLINE: <2020-09-04 Fri>

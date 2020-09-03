@@ -1,3 +1,38 @@
+* Debating The Republic
+** Socratics
+*** Leadership Qualities
+- Love of learning
+- Knowledge of one's own ignorace
+- Prioritizing state interests over individual ones
+*** Education
+- Begins with understanding the arts, gentleness, and compassion
+- Followed by significant gymnastics
+- Education must be rooted in individual excellence
+- Not all leaders must be aristocrats, they simply need the proper education
+  - How does a non-aristocrat get such an education?
+- Payment for political participation is bad - one need not be incentivized for
+  participation and devotion to their state
+*** Citizenship
+- Anyone with the necessary aptitude, including women, can become citizens
+** Thrasybulans
+- Injustice, while bad, indicates an unjust person rather than an unjust state
+- Education need not necessitate an artistic background - a military education is far more important
+- Socratic education is infeasible for all, which is unequal
+*** Citizenship
+- Culture is critical to citizenship
+** Solonians
+*** Leadership Qualities
+- Leaders should be well-versed and acting in the best interest of the state
+- Leaders need to be well-rounded and certain people are better fit for these positions than others
+- The assembly is chaotic and ineffective as a means of decision-making and ruling
+*** Societal Qualities
+- Forgiveness is necessary for past wrong-doings
+- While wealth and education is largely cyclical, we should not be restructuring our society wholly
+- Metics and Low-income individuals should not have significant voices in assembly because they
+  don't have the education necessary to have a strong, educational conversation
+*** Citizenship
+- Only strong, wealthy individuals should have citizenship to preserve the quality of Athens
+* Characters & Intro Notes
 ** Characters
 *** Assignments
 | Names     | Character   |
@@ -17,22 +52,6 @@
 | Dylan     | Lysias      |
 | Vegtri    | Anytus      |
 
-*** Thrasybulans (Radical Democrats)
-- Thrasybulus
-- Meletus
-- Lycon
-*** Periclean Democrats (Moderate Democrats)
-- Anytus
-- Aristarchus
-*** Socratics
-- Crito
-- Aristocles
-- Simon
-*** Solonian Aristocrats
-- Callias
-*** Indeterminates
-- Lysimache
-- Lithicles
 ** Socrates & Plato
 *** Socrates
 - We have no texts by Socrates
