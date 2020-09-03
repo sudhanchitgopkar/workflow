@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-09-03 Thu 14:35 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Sudhan Chitgopkar" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org6e8a209">1. Debating The Republic</a>
+<ul>
+<li><a href="#orgdb18bd3">1.1. Socratics</a>
+<ul>
+<li><a href="#org0f292d1">1.1.1. Leadership Qualities</a></li>
+<li><a href="#org2bc9fc1">1.1.2. Education</a></li>
+<li><a href="#orge6c10c1">1.1.3. Citizenship</a></li>
+</ul>
+</li>
+<li><a href="#org0ea6007">1.2. Thrasybulans</a>
+<ul>
+<li><a href="#org3a2cc14">1.2.1. Citizenship</a></li>
+</ul>
+</li>
+<li><a href="#orge79ca74">1.3. Solonians</a>
+<ul>
+<li><a href="#org52da437">1.3.1. Leadership Qualities</a></li>
+<li><a href="#org7ea33fa">1.3.2. Societal Qualities</a></li>
+<li><a href="#org149d9ce">1.3.3. Citizenship</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgc00ef56">2. Characters &amp; Intro Notes</a>
+<ul>
+<li><a href="#orgce731be">2.1. Characters</a>
+<ul>
+<li><a href="#org0bb7b92">2.1.1. Assignments</a></li>
+</ul>
+</li>
+<li><a href="#orgd93fad2">2.2. Socrates &amp; Plato</a>
+<ul>
+<li><a href="#orge33c86d">2.2.1. Socrates</a></li>
+<li><a href="#org6d3d5e8">2.2.2. Biography</a></li>
+<li><a href="#orgbebc595">2.2.3. Plato</a></li>
+<li><a href="#org642db40">2.2.4. Plato's Argumentation</a></li>
+<li><a href="#org9dab8cf">2.2.5. The Republic</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6e8a209" class="outline-2">
+<h2 id="org6e8a209"><span class="section-number-2">1</span> Debating The Republic</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgdb18bd3" class="outline-3">
+<h3 id="orgdb18bd3"><span class="section-number-3">1.1</span> Socratics</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+<div id="outline-container-org0f292d1" class="outline-4">
+<h4 id="org0f292d1"><span class="section-number-4">1.1.1</span> Leadership Qualities</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<ul class="org-ul">
+<li>Love of learning</li>
+<li>Knowledge of one's own ignorace</li>
+<li>Prioritizing state interests over individual ones</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2bc9fc1" class="outline-4">
+<h4 id="org2bc9fc1"><span class="section-number-4">1.1.2</span> Education</h4>
+<div class="outline-text-4" id="text-1-1-2">
+<ul class="org-ul">
+<li>Begins with understanding the arts, gentleness, and compassion</li>
+<li>Followed by significant gymnastics</li>
+<li>Education must be rooted in individual excellence</li>
+<li>Not all leaders must be aristocrats, they simply need the proper education
+<ul class="org-ul">
+<li>How does a non-aristocrat get such an education?</li>
+</ul></li>
+<li>Payment for political participation is bad - one need not be incentivized for
+participation and devotion to their state</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge6c10c1" class="outline-4">
+<h4 id="orge6c10c1"><span class="section-number-4">1.1.3</span> Citizenship</h4>
+<div class="outline-text-4" id="text-1-1-3">
+<ul class="org-ul">
+<li>Anyone with the necessary aptitude, including women, can become citizens</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org0ea6007" class="outline-3">
+<h3 id="org0ea6007"><span class="section-number-3">1.2</span> Thrasybulans</h3>
+<div class="outline-text-3" id="text-1-2">
+<ul class="org-ul">
+<li>Injustice, while bad, indicates an unjust person rather than an unjust state</li>
+<li>Education need not necessitate an artistic background - a military education is far more important</li>
+<li>Socratic education is infeasible for all, which is unequal</li>
+</ul>
+</div>
+<div id="outline-container-org3a2cc14" class="outline-4">
+<h4 id="org3a2cc14"><span class="section-number-4">1.2.1</span> Citizenship</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<ul class="org-ul">
+<li>Culture is critical to citizenship</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orge79ca74" class="outline-3">
+<h3 id="orge79ca74"><span class="section-number-3">1.3</span> Solonians</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-org52da437" class="outline-4">
+<h4 id="org52da437"><span class="section-number-4">1.3.1</span> Leadership Qualities</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<ul class="org-ul">
+<li>Leaders should be well-versed and acting in the best interest of the state</li>
+<li>Leaders need to be well-rounded and certain people are better fit for these positions than others</li>
+<li>The assembly is chaotic and ineffective as a means of decision-making and ruling</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7ea33fa" class="outline-4">
+<h4 id="org7ea33fa"><span class="section-number-4">1.3.2</span> Societal Qualities</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<ul class="org-ul">
+<li>Forgiveness is necessary for past wrong-doings</li>
+<li>While wealth and education is largely cyclical, we should not be restructuring our society wholly</li>
+<li>Metics and Low-income individuals should not have significant voices in assembly because they
+don't have the education necessary to have a strong, educational conversation</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org149d9ce" class="outline-4">
+<h4 id="org149d9ce"><span class="section-number-4">1.3.3</span> Citizenship</h4>
+<div class="outline-text-4" id="text-1-3-3">
+<ul class="org-ul">
+<li>Only strong, wealthy individuals should have citizenship to preserve the quality of Athens</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-orgc00ef56" class="outline-2">
+<h2 id="orgc00ef56"><span class="section-number-2">2</span> Characters &amp; Intro Notes</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgce731be" class="outline-3">
+<h3 id="orgce731be"><span class="section-number-3">2.1</span> Characters</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+<div id="outline-container-org0bb7b92" class="outline-4">
+<h4 id="org0bb7b92"><span class="section-number-4">2.1.1</span> Assignments</h4>
+<div class="outline-text-4" id="text-2-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Names</th>
+<th scope="col" class="org-left">Character</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Tay</td>
+<td class="org-left">Lycon</td>
+</tr>
+
+<tr>
+<td class="org-left">Austin</td>
+<td class="org-left">Simon</td>
+</tr>
+
+<tr>
+<td class="org-left">Andrew</td>
+<td class="org-left">Aristachus</td>
+</tr>
+
+<tr>
+<td class="org-left">Natalie</td>
+<td class="org-left">Callias</td>
+</tr>
+
+<tr>
+<td class="org-left">Mac</td>
+<td class="org-left">Thrasybulus</td>
+</tr>
+
+<tr>
+<td class="org-left">Anjali</td>
+<td class="org-left">Lithicles</td>
+</tr>
+
+<tr>
+<td class="org-left">Pene;ope</td>
+<td class="org-left">Phlocles</td>
+</tr>
+
+<tr>
+<td class="org-left">Payton</td>
+<td class="org-left">Meletus</td>
+</tr>
+
+<tr>
+<td class="org-left">Dinah</td>
+<td class="org-left">Archinus</td>
+</tr>
+
+<tr>
+<td class="org-left">Jaylen</td>
+<td class="org-left">Lysimache</td>
+</tr>
+
+<tr>
+<td class="org-left">Grace</td>
+<td class="org-left">Aristocles</td>
+</tr>
+
+<tr>
+<td class="org-left">Catherine</td>
+<td class="org-left">Crito</td>
+</tr>
+
+<tr>
+<td class="org-left">Dylan</td>
+<td class="org-left">Lysias</td>
+</tr>
+
+<tr>
+<td class="org-left">Vegtri</td>
+<td class="org-left">Anytus</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd93fad2" class="outline-3">
+<h3 id="orgd93fad2"><span class="section-number-3">2.2</span> Socrates &amp; Plato</h3>
+<div class="outline-text-3" id="text-2-2">
+</div>
+<div id="outline-container-orge33c86d" class="outline-4">
+<h4 id="orge33c86d"><span class="section-number-4">2.2.1</span> Socrates</h4>
+<div class="outline-text-4" id="text-2-2-1">
+<ul class="org-ul">
+<li>We have no texts by Socrates
+<ul class="org-ul">
+<li>Texts from Plato, Xenophon, &amp; Aristophanes</li>
+</ul></li>
+<li>"Founder of western philosophy</li>
+<li>Taught through conversation
+<ul class="org-ul">
+<li>Dialogie in agora, elsewhere in Athens</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6d3d5e8" class="outline-4">
+<h4 id="org6d3d5e8"><span class="section-number-4">2.2.2</span> Biography</h4>
+<div class="outline-text-4" id="text-2-2-2">
+<ul class="org-ul">
+<li>Parents: Sophroniscus * Pharnarete</li>
+<li>Personal life; three sons</li>
+<li>No known profession</li>
+<li>Military service: Potidaea, Amphipolis, Delium</li>
+<li>Associated with the Thirty Tyrants (taught Critias)</li>
+<li>Personal appearence: unkempt</li>
+<li>Reputation in Athes: gafdly</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgbebc595" class="outline-4">
+<h4 id="orgbebc595"><span class="section-number-4">2.2.3</span> Plato</h4>
+<div class="outline-text-4" id="text-2-2-3">
+<ul class="org-ul">
+<li>Greek philosopher, mathematician, stident of socrates, wroter of philosophical dialogue</li>
+<li>Founder of "The Academy"</li>
+<li>Plato taught Aristotle</li>
+<li>Large amount of works by Plato
+<ul class="org-ul">
+<li>36 dialogies (feat. Socrates and others)</li>
+<li>13 letters (may be by Plato)</li>
+</ul></li>
+<li>Aristocratic famoly in Athens</li>
+<li>Parents: Ariston (descendant of Athenian king) and Perictione (niece of Critias)</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org642db40" class="outline-4">
+<h4 id="org642db40"><span class="section-number-4">2.2.4</span> Plato's Argumentation</h4>
+<div class="outline-text-4" id="text-2-2-4">
+<ul class="org-ul">
+<li>Inductive reasoning: from particular examples to general truths</li>
+<li>Deductive reasoning: from general truths to a particular example within the subset of that truth</li>
+<li>Analogy: allows speakers to evoke in audience something they know and then apply its attributes
+to somehting that is unfamiliar to them</li>
+<li>Dialogue: Athenian public life is a matter of public debate/discussion/argument (Assembly)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9dab8cf" class="outline-4">
+<h4 id="org9dab8cf"><span class="section-number-4">2.2.5</span> The Republic</h4>
+<div class="outline-text-4" id="text-2-2-5">
+<ul class="org-ul">
+<li>Written 380-375 BCE but claims to record a conversation during the Peloponnesian War</li>
+<li>Definition of justice and the role of a character in a just polis</li>
+<li>Book 1: two definitions are proposed and rejected</li>
+<li>Book 2: Flaucon's and Adeimantus' speeches &amp; definitions of justice</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Sudhan Chitgopkar</p>
+<p class="date">Created: 2020-09-03 Thu 14:35</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
