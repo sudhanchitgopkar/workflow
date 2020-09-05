@@ -4,18 +4,18 @@
 **** DONE Module 3 Video 
 **** DONE Lab 01
      SCHEDULED: <2020-09-01 Tue 09:35>
-*** ECOL1000 [50%]
+*** ECOL1000 [100%]
 **** DONE iCliker Reef Questions 1 
      DEADLINE: <2020-09-02 Wed>
 **** DONE ECOLHW1
      DEADLINE: <2020-09-01 Tue>
 **** DONE ECOL1.3
      DEADLINE: <2020-09-04 Fri>
-**** TODO ECOL4.2
+**** DONE ECOL4.2
      DEADLINE: <2020-09-04 Fri>
-**** TODO ECOL10.1
+**** DONE ECOL10.1
      DEADLINE: <2020-09-04 Fri>
-**** TODO ECOLHW2
+**** DONE ECOLHW2
      DEADLINE: <2020-09-04 Fri>
 *** ECOL1000L [66%]
 **** DONE Intro Discussion
@@ -33,11 +33,8 @@
      DEADLINE: <2020-09-08 Tue>
 **** TODO INTL Discussion 1
      DEADLINE: <2020-09-08 Tue>
-**** TODO INTL Discussion 2
-     DEADLINE: <2020-09-04 Fri>
 *** INTL4970 [0%]
 **** TODO Research Question & Theory Section
-**** WAITING Saglam Follow-up
 *** MATH4670 [100%]
 **** DONE Meeting 1
      SCHEDULED: <2020-09-02 Wed 13:55>
@@ -46,19 +43,23 @@
 ** Orgs
 *** MUN
 **** DONE [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
-**** WAITING SPIA Involvement Fair
+**** DONE SPIA Involvement Fair
      SCHEDULED: <2020-09-03 Thu 19:00>
 *** Finch
-**** IN-PROGRESS Brand Guideline Completion
+**** DONE Brand Guideline Completion
      DEADLINE: <2020-09-04 Fri>
-** Tutoring [40%]
+** Tutoring [100%]
 **** DONE Tom
      SCHEDULED: <2020-09-02 Wed 15:00>
 **** DONE Mebin
-**** WAITING Noah
+**** DONE Noah
      SCHEDULED: <2020-09-03 Thu 15:30>
-**** TODO Debate 1
-**** WAITING Debate 2
+**** DONE Debate 1
+**** DONE Debate 2
+** Email
+*** TODO Iliev, COVID
+*** TODO White, COVID
+*** TODO Saglam, COVID
 * 08.23.20
 ** School
 *** CSCI1730 [100%]
