@@ -1,9 +1,12 @@
 * 08.30.20
 ** School 
-*** CSCI1730 [100%]
+*** CSCI1730 [75%]
 **** DONE Module 3 Video 
 **** DONE Lab 01
      SCHEDULED: <2020-09-01 Tue 09:35>
+**** DONE Module 4-6
+**** TODO Module 7-8c
+     DEADLINE: <2020-09-08 Tue>
 *** ECOL1000 [100%]
 **** DONE iCliker Reef Questions 1 
      DEADLINE: <2020-09-02 Wed>
