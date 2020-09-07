@@ -1,3 +1,65 @@
+* 09.07.20
+** School
+*** CSCI1730
+**** TODO Dietel 22.1—22.5
+- [ ] 22.1
+- [ ] 22.2
+- [ ] 22.3
+- [ ] 22.4
+- [ ] 22.5
+**** TODO Lab 02
+     SCHEDULED: <2020-09-08 Tue 09:35>
+*** ECOL1000
+**** TODO HW3 
+     DEADLINE: <2020-09-11 Fri>
+**** TODO ECOL 10.2
+     DEADLINE: <2020-09-09 Wed>
+**** TODO Sapling 10.2
+     DEADLINE: <2020-09-09 Wed>
+**** TODO TEDxEcol
+**** TODO iClicker
+     DEADLINE: <2020-09-11 Fri>
+*** ECOL1000L
+**** TODO Lifestyle Proposal
+     DEADLINE: <2020-09-09 Wed>
+**** TODO ECOL Lab 02
+     DEADLINE: <2020-09-09 Wed>
+*** ECON2106
+**** TODO Homework 3
+     DEADLINE: <2020-09-11 Fri>
+**** TODO ECON Videos
+- [ ] V1
+- [ ] V2
+- [ ] V3
+- [ ] V4
+*** INTL3300
+**** TODO Quiz 2
+     DEADLINE: <2020-09-08 Tue>
+**** TODO INTL Videos
+- [ ] V1
+- [ ] V2
+*** INTL4970
+**** TODO Theory Section
+     DEADLINE: <2020-09-11 Fri>
+*** MATH4670
+*** MATH4950
+** Orgs
+*** MUN
+*** WAITING Info Session 2
+    SCHEDULED: <2020-09-08 Tue 20:00>
+*** WAITING Simulation
+    SCHEDULED: <2020-09-08 Tue 20:00>
+*** WAITING Group Interview
+    SCHEDULED: <2020-09-11 Fri>
+*** Finch
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+** Email
+*** TODO Schneider, Updates
 * 08.30.20
 ** School 
 *** CSCI1730 [100%]
@@ -20,24 +82,22 @@
      DEADLINE: <2020-09-04 Fri>
 **** DONE ECOLHW2
      DEADLINE: <2020-09-04 Fri>
-*** ECOL1000L [66%]
+*** ECOL1000L [100%]
 **** DONE Intro Discussion
 **** DONE Lifestyle Quiz     
-**** TODO Lifestyle Proposal
+**** MIGRATED Lifestyle Proposal
 *** ECON2106 [100%]
 **** DONE Ch2 Homework
      DEADLINE: <2020-09-04 Fri>
 **** DONE V1 - V5
 **** DONE V5 - V9
-*** INTL3300 [75%]
+*** INTL3300 [100%]
 **** DONE INTLV1
 **** DONE INTLV2
-**** TODO INTL Quiz 2 
-     DEADLINE: <2020-09-08 Tue>
 **** DONE INTL Discussion 1
      DEADLINE: <2020-09-08 Tue>
-*** INTL4970 [0%]
-**** TODO Research Question & Theory Section
+*** INTL4970 [100%]
+**** MIGRATED Research Question & Theory Section
 *** MATH4670 [100%]
 **** DONE Meeting 1
      SCHEDULED: <2020-09-02 Wed 13:55>
@@ -55,14 +115,14 @@
 **** DONE Tom
      SCHEDULED: <2020-09-02 Wed 15:00>
 **** DONE Mebin
-**** DONE Noah
+**** ABANDONED Noah
      SCHEDULED: <2020-09-03 Thu 15:30>
 **** DONE Debate 1
 **** DONE Debate 2
 ** Email
-*** TODO Iliev, COVID
-*** TODO White, COVID
-*** TODO Saglam, COVID
+*** DONE Iliev, COVID
+*** DONE White, COVID
+*** DONE Saglam, COVID
 * 08.23.20
 ** School
 *** CSCI1730 [100%]
