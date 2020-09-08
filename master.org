@@ -1,13 +1,13 @@
 * 09.07.20
 ** School
 *** CSCI1730
-**** TODO Dietel 22.1—22.5
+**** IN-PROGRESS Dietel 22.1—22.5
 - [ ] 22.1
 - [ ] 22.2
 - [ ] 22.3
 - [ ] 22.4
 - [ ] 22.5
-**** TODO Lab 02
+**** DONE Lab 02
      SCHEDULED: <2020-09-08 Tue 09:35>
 *** ECOL1000
 **** TODO HW3 
