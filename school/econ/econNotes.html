@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-09-09 Wed 17:03 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Sudhan Chitgopkar" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org1d28bfe">1. Chapter 3</a>
+<ul>
+<li><a href="#orgf630eb6">1.1. Introduction</a></li>
+<li><a href="#orgaadbd08">1.2. Demand</a></li>
+<li><a href="#org8e46063">1.3. Supply</a></li>
+<li><a href="#org4b8ebaf">1.4. Scarcity</a></li>
+<li><a href="#org80f7b0f">1.5. Definition of Economics</a></li>
+<li><a href="#org8a58749">1.6. 6 Key Ideas</a></li>
+<li><a href="#org8a28365">1.7. Positive &amp; Normative</a></li>
+<li><a href="#org6c3eeef">1.8. Resources &amp; Highest Valued Use</a></li>
+<li><a href="#orgca75160">1.9. Self Interest &amp; Social Interest</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1d28bfe" class="outline-2">
+<h2 id="org1d28bfe"><span class="section-number-2">1</span> Chapter 3</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgf630eb6" class="outline-3">
+<h3 id="orgf630eb6"><span class="section-number-3">1.1</span> Introduction</h3>
+<div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li>Markets are any arrangements that enable buyers and sellers to get information
+and do business with each other</li>
+<li>Competitive Market: many buyers and many sellers so no single buyer or seller can
+influence prices</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgaadbd08" class="outline-3">
+<h3 id="orgaadbd08"><span class="section-number-3">1.2</span> Demand</h3>
+<div class="outline-text-3" id="text-1-2">
+<ul class="org-ul">
+<li>Reflects the buyers' side of the market</li>
+<li>If you demand something, you
+<ul class="org-ul">
+<li>want it</li>
+<li>can afford it</li>
+<li>have a definite plan to buy it</li>
+</ul></li>
+<li>Quantity demanded: amount that consumers plan to buy 
+during a particular time @ a particular price</li>
+<li>Law of Demand: other things remaining the same, the higher the price of a good, the smaller
+the quantity demanded (and vice versa)</li>
+<li>Substitution Effect: when the relative price of a good rises, people seek substitutes so
+the quantity demanded decreases</li>
+<li>When the price of a good rises relative to income, people cannot afford all the things
+they previously bought so quantity demanded decreases</li>
+<li>Demand Curve and Demand Schedule
+<ul class="org-ul">
+<li>the term demand refers to the entire relationship between good and quantity demanded</li>
+</ul></li>
+<li>Demand Curve: exhibits relationshit between quantity demanded and price when all other
+consumers' planned purchases remain constant</li>
+<li>Willingess and Ability to Pay
+<ul class="org-ul">
+<li>The smaller the quantity available, the higher the price someone is willing to pay for
+another unit</li>
+<li>Willingness to pay measures marginal benefit</li>
+</ul></li>
+<li>Changes in Demand: when some influence on buying plans other than price changes, there is a
+shift in demand for that good</li>
+<li>6 factors influencing demand:
+<ul class="org-ul">
+<li>Price of related goods
+<ul class="org-ul">
+<li>substitutes - good that can be used in place of another</li>
+<li>complement - good that is used in conjunction with another</li>
+<li>If $ substitute inc or $ complement dec, demand of good inc</li>
+<li>if $ substitute dec or $ complement inc, demand of good dec</li>
+</ul></li>
+<li>Expected future prices
+<ul class="org-ul">
+<li>if expected future price inc, current demand inc</li>
+<li>if expected future price dec, current demand dec</li>
+</ul></li>
+<li>Income
+<ul class="org-ul">
+<li>normal good: a good for which demand inc as income inc</li>
+<li>inferior good: a good for which demand dec as income inc</li>
+<li>if expected future income increases/credit is easier to get, current demand inc</li>
+</ul></li>
+<li>Population
+<ul class="org-ul">
+<li>The higher the population, the higher the demand</li>
+</ul></li>
+<li>Preferences
+<ul class="org-ul">
+<li>People with the same income have different demands if they have different preferences</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8e46063" class="outline-3">
+<h3 id="org8e46063"><span class="section-number-3">1.3</span> Supply</h3>
+<div class="outline-text-3" id="text-1-3">
+<ul class="org-ul">
+<li>If a firm is a supplier, they
+<ul class="org-ul">
+<li>have the resources and tech to produce it</li>
+<li>can profit from producing it</li>
+<li>has a definite plan to produce and sell it</li>
+</ul></li>
+<li>Quantity supplied: the amount producers plan to sell during a given time at a particular price</li>
+<li>Law of Supply: Other things remaning the same, the higher the price of a good, the greater the
+quantity supplied (and vice versa).</li>
+<li>Supply Curve and Supply Schedule
+<ul class="org-ul">
+<li>Minimum supply price: As quantity produced inc, marginal cost inc.</li>
+<li>The lowest price at which someone is willing to sell an additional unit rises</li>
+<li>This lowest price is called the marginal cost</li>
+</ul></li>
+<li>Changes in Supply
+<ul class="org-ul">
+<li>Increases in supply shifts the curve to the right (and vice versa)</li>
+</ul></li>
+<li><p>
+Factors that affect Supply
+</p>
+<ul class="org-ul">
+<li>Prices of factors of production
+<ul class="org-ul">
+<li>If the price of an input inc,</li>
+</ul></li>
+<li>Prices of related goods produced</li>
+</ul>
+<ul class="org-ul">
+<li>Chapter 1</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org4b8ebaf" class="outline-3">
+<h3 id="org4b8ebaf"><span class="section-number-3">1.4</span> Scarcity</h3>
+<div class="outline-text-3" id="text-1-4">
+<ul class="org-ul">
+<li>all economic questions arise because we want more than we can get</li>
+<li>inability to satisfy all wants because of scarcity</li>
+<li>scarcity = limited resources</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org80f7b0f" class="outline-3">
+<h3 id="org80f7b0f"><span class="section-number-3">1.5</span> Definition of Economics</h3>
+<div class="outline-text-3" id="text-1-5">
+<ul class="org-ul">
+<li>because we face scarcity, we must make choices</li>
+<li>incentive = a reward that encourages an action or a penalty that discourages an action</li>
+<li>economics is the social science that studies the choices that individuals, businesses, etc.
+make as they cope with scarcity and the incentives that influence and reconcile those choices</li>
+<li>Economics divides into two parts:
+<ul class="org-ul">
+<li>Microeconomics = study of choices that individuals and businesses make &amp; how those choices
+interact with markets and the influence of governments</li>
+<li>Macroeconomics = the study of the performance of national and global economies</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8a58749" class="outline-3">
+<h3 id="org8a58749"><span class="section-number-3">1.6</span> 6 Key Ideas</h3>
+<div class="outline-text-3" id="text-1-6">
+<ul class="org-ul">
+<li>a choice is a tradeoff: ever choice is an exchange giving up one thing for another</li>
+<li>making a rational choice: a rational choice compares costs and benefits, maximizing benefit</li>
+<li>benefit = what you gain: the gain or pleasure something brings about, determined by preferences
+<ul class="org-ul">
+<li>preferences = what a person likes, dislikes, and the intensity of those feelings</li>
+</ul></li>
+<li>cost = what must be given up
+<ul class="org-ul">
+<li>opportunity cost = highest val alternative that must be given up</li>
+</ul></li>
+<li>choosing at the margin: the benefit of pursuing an incremental increase in some action
+is marginal benefit of that action
+<ul class="org-ul">
+<li>the opportunity cost of pursuing an incremental increase in some action is marginal cost</li>
+<li>if marginal benefit &gt; marginal cost, rational choice is to do more of that action</li>
+</ul></li>
+<li>choices respond to incentives: a change in marginal cost/benefit changes our incentives &amp; choices</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8a28365" class="outline-3">
+<h3 id="org8a28365"><span class="section-number-3">1.7</span> Positive &amp; Normative</h3>
+<div class="outline-text-3" id="text-1-7">
+<ul class="org-ul">
+<li>economists distinguish between two types of statements: 
+<ul class="org-ul">
+<li>positive statements: can be tested by checking the facts</li>
+<li>normative statements: express an untestable opinion</li>
+</ul></li>
+<li>economists as social scientists
+<ul class="org-ul">
+<li>economists test economic models</li>
+<li>economic model = a description of some aspect of the world w only the necessary features</li>
+</ul></li>
+<li>economists as policy advisors</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6c3eeef" class="outline-3">
+<h3 id="org6c3eeef"><span class="section-number-3">1.8</span> Resources &amp; Highest Valued Use</h3>
+<div class="outline-text-3" id="text-1-8">
+<ul class="org-ul">
+<li>the scope of economics: 
+<ul class="org-ul">
+<li>how do choices end up determining "what, how, and for whom" goods and services get produced</li>
+</ul></li>
+<li>goods and services are produced using productive resources called factors of production
+<ul class="org-ul">
+<li>land</li>
+<li>labor</li>
+<li>capital</li>
+<li>entrepreneurship</li>
+</ul></li>
+<li>who gets goods and services depends on income
+<ul class="org-ul">
+<li>land earns rent, labor earns wages, capital earns interest, entrepreneruship earns profit</li>
+</ul></li>
+<li><b><b>resources gravitate towards their highest value use</b></b></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgca75160" class="outline-3">
+<h3 id="orgca75160"><span class="section-number-3">1.9</span> Self Interest &amp; Social Interest</h3>
+<div class="outline-text-3" id="text-1-9">
+<ul class="org-ul">
+<li>self interest = choices that are made because you think they are the best for you</li>
+<li>social interest = choices that are best for society as a whole</li>
+<li>social interest has two dimensions: 
+<ul class="org-ul">
+<li>efficiency: resource use is efficient if it is not possible to make someone better off without
+making someone else worse off (no waste to be eliminated)</li>
+<li>fair shares/equity: refers to the fairness with which resource division occurs in a society</li>
+</ul></li>
+<li>tension between self &amp; social interest: information revolution, climate change, globalization</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Sudhan Chitgopkar</p>
+<p class="date">Created: 2020-09-09 Wed 17:03</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

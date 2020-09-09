@@ -53,9 +53,9 @@
     SCHEDULED: <2020-09-11 Fri>
 *** Finch
 ** Tutoring
-*** TODO Noah
-*** TODO Tom
-*** TODO Mebin
+*** DONE Noah
+*** WAITING Tom
+*** WAITING Mebin
 *** TODO Debate 1
 *** TODO Debate 2
 ** Email

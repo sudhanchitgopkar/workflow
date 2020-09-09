@@ -1,4 +1,69 @@
-* Chapter 1
+* Chapter 3
+** Introduction
+- Markets are any arrangements that enable buyers and sellers to get information
+  and do business with each other
+- Competitive Market: many buyers and many sellers so no single buyer or seller can
+  influence prices
+** Demand
+- Reflects the buyers' side of the market
+- If you demand something, you
+  - want it
+  - can afford it
+  - have a definite plan to buy it
+- Quantity demanded: amount that consumers plan to buy 
+  during a particular time @ a particular price
+- Law of Demand: other things remaining the same, the higher the price of a good, the smaller
+  the quantity demanded (and vice versa)
+- Substitution Effect: when the relative price of a good rises, people seek substitutes so
+  the quantity demanded decreases
+- When the price of a good rises relative to income, people cannot afford all the things
+  they previously bought so quantity demanded decreases
+- Demand Curve and Demand Schedule
+  - the term demand refers to the entire relationship between good and quantity demanded
+- Demand Curve: exhibits relationshit between quantity demanded and price when all other
+  consumers' planned purchases remain constant
+- Willingess and Ability to Pay
+  - The smaller the quantity available, the higher the price someone is willing to pay for
+    another unit
+  - Willingness to pay measures marginal benefit
+- Changes in Demand: when some influence on buying plans other than price changes, there is a
+  shift in demand for that good
+- 6 factors influencing demand:
+  - Price of related goods
+    - substitutes - good that can be used in place of another
+    - complement - good that is used in conjunction with another
+    - If $ substitute inc or $ complement dec, demand of good inc
+    - if $ substitute dec or $ complement inc, demand of good dec
+  - Expected future prices
+    - if expected future price inc, current demand inc
+    - if expected future price dec, current demand dec
+  - Income
+    - normal good: a good for which demand inc as income inc
+    - inferior good: a good for which demand dec as income inc
+    - if expected future income increases/credit is easier to get, current demand inc
+  - Population
+    - The higher the population, the higher the demand
+  - Preferences
+    - People with the same income have different demands if they have different preferences
+** Supply
+- If a firm is a supplier, they
+  - have the resources and tech to produce it
+  - can profit from producing it
+  - has a definite plan to produce and sell it
+- Quantity supplied: the amount producers plan to sell during a given time at a particular price
+- Law of Supply: Other things remaning the same, the higher the price of a good, the greater the
+  quantity supplied (and vice versa).
+- Supply Curve and Supply Schedule
+  - Minimum supply price: As quantity produced inc, marginal cost inc.
+  - The lowest price at which someone is willing to sell an additional unit rises
+  - This lowest price is called the marginal cost
+- Changes in Supply
+  - Increases in supply shifts the curve to the right (and vice versa)
+- Factors that affect Supply
+  - Prices of factors of production
+    - If the price of an input inc, 
+  - Prices of related goods produced
+ * Chapter 1
 ** Scarcity
 - all economic questions arise because we want more than we can get
 - inability to satisfy all wants because of scarcity
