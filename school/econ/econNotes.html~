@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-09-09 Wed 17:36 -->
+<!-- 2020-09-09 Wed 17:03 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,32 +233,28 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org8f0ac89">1. Chapter 3</a>
+<li><a href="#org1d28bfe">1. Chapter 3</a>
 <ul>
-<li><a href="#orga586069">1.1. Introduction</a></li>
-<li><a href="#orgc82f7f6">1.2. Demand</a></li>
-<li><a href="#org614e6e3">1.3. Supply</a></li>
-</ul>
-</li>
-<li><a href="#org27288e1">2. Chapter 1</a>
-<ul>
-<li><a href="#orgec4e924">2.1. Scarcity</a></li>
-<li><a href="#orgf30714c">2.2. Definition of Economics</a></li>
-<li><a href="#org2e8c51d">2.3. 6 Key Ideas</a></li>
-<li><a href="#org81869c7">2.4. Positive &amp; Normative</a></li>
-<li><a href="#org7cf5661">2.5. Resources &amp; Highest Valued Use</a></li>
-<li><a href="#org99de080">2.6. Self Interest &amp; Social Interest</a></li>
+<li><a href="#orgf630eb6">1.1. Introduction</a></li>
+<li><a href="#orgaadbd08">1.2. Demand</a></li>
+<li><a href="#org8e46063">1.3. Supply</a></li>
+<li><a href="#org4b8ebaf">1.4. Scarcity</a></li>
+<li><a href="#org80f7b0f">1.5. Definition of Economics</a></li>
+<li><a href="#org8a58749">1.6. 6 Key Ideas</a></li>
+<li><a href="#org8a28365">1.7. Positive &amp; Normative</a></li>
+<li><a href="#org6c3eeef">1.8. Resources &amp; Highest Valued Use</a></li>
+<li><a href="#orgca75160">1.9. Self Interest &amp; Social Interest</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org8f0ac89" class="outline-2">
-<h2 id="org8f0ac89"><span class="section-number-2">1</span> Chapter 3</h2>
+<div id="outline-container-org1d28bfe" class="outline-2">
+<h2 id="org1d28bfe"><span class="section-number-2">1</span> Chapter 3</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-orga586069" class="outline-3">
-<h3 id="orga586069"><span class="section-number-3">1.1</span> Introduction</h3>
+<div id="outline-container-orgf630eb6" class="outline-3">
+<h3 id="orgf630eb6"><span class="section-number-3">1.1</span> Introduction</h3>
 <div class="outline-text-3" id="text-1-1">
 <ul class="org-ul">
 <li>Markets are any arrangements that enable buyers and sellers to get information
@@ -268,8 +264,8 @@ influence prices</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc82f7f6" class="outline-3">
-<h3 id="orgc82f7f6"><span class="section-number-3">1.2</span> Demand</h3>
+<div id="outline-container-orgaadbd08" class="outline-3">
+<h3 id="orgaadbd08"><span class="section-number-3">1.2</span> Demand</h3>
 <div class="outline-text-3" id="text-1-2">
 <ul class="org-ul">
 <li>Reflects the buyers' side of the market</li>
@@ -333,8 +329,8 @@ shift in demand for that good</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org614e6e3" class="outline-3">
-<h3 id="org614e6e3"><span class="section-number-3">1.3</span> Supply</h3>
+<div id="outline-container-org8e46063" class="outline-3">
+<h3 id="org8e46063"><span class="section-number-3">1.3</span> Supply</h3>
 <div class="outline-text-3" id="text-1-3">
 <ul class="org-ul">
 <li>If a firm is a supplier, they
@@ -372,14 +368,9 @@ Factors that affect Supply
 </ul>
 </div>
 </div>
-</div>
-<div id="outline-container-org27288e1" class="outline-2">
-<h2 id="org27288e1"><span class="section-number-2">2</span> Chapter 1</h2>
-<div class="outline-text-2" id="text-2">
-</div>
-<div id="outline-container-orgec4e924" class="outline-3">
-<h3 id="orgec4e924"><span class="section-number-3">2.1</span> Scarcity</h3>
-<div class="outline-text-3" id="text-2-1">
+<div id="outline-container-org4b8ebaf" class="outline-3">
+<h3 id="org4b8ebaf"><span class="section-number-3">1.4</span> Scarcity</h3>
+<div class="outline-text-3" id="text-1-4">
 <ul class="org-ul">
 <li>all economic questions arise because we want more than we can get</li>
 <li>inability to satisfy all wants because of scarcity</li>
@@ -387,9 +378,9 @@ Factors that affect Supply
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf30714c" class="outline-3">
-<h3 id="orgf30714c"><span class="section-number-3">2.2</span> Definition of Economics</h3>
-<div class="outline-text-3" id="text-2-2">
+<div id="outline-container-org80f7b0f" class="outline-3">
+<h3 id="org80f7b0f"><span class="section-number-3">1.5</span> Definition of Economics</h3>
+<div class="outline-text-3" id="text-1-5">
 <ul class="org-ul">
 <li>because we face scarcity, we must make choices</li>
 <li>incentive = a reward that encourages an action or a penalty that discourages an action</li>
@@ -404,9 +395,9 @@ interact with markets and the influence of governments</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org2e8c51d" class="outline-3">
-<h3 id="org2e8c51d"><span class="section-number-3">2.3</span> 6 Key Ideas</h3>
-<div class="outline-text-3" id="text-2-3">
+<div id="outline-container-org8a58749" class="outline-3">
+<h3 id="org8a58749"><span class="section-number-3">1.6</span> 6 Key Ideas</h3>
+<div class="outline-text-3" id="text-1-6">
 <ul class="org-ul">
 <li>a choice is a tradeoff: ever choice is an exchange giving up one thing for another</li>
 <li>making a rational choice: a rational choice compares costs and benefits, maximizing benefit</li>
@@ -428,9 +419,9 @@ is marginal benefit of that action
 </ul>
 </div>
 </div>
-<div id="outline-container-org81869c7" class="outline-3">
-<h3 id="org81869c7"><span class="section-number-3">2.4</span> Positive &amp; Normative</h3>
-<div class="outline-text-3" id="text-2-4">
+<div id="outline-container-org8a28365" class="outline-3">
+<h3 id="org8a28365"><span class="section-number-3">1.7</span> Positive &amp; Normative</h3>
+<div class="outline-text-3" id="text-1-7">
 <ul class="org-ul">
 <li>economists distinguish between two types of statements: 
 <ul class="org-ul">
@@ -446,9 +437,9 @@ is marginal benefit of that action
 </ul>
 </div>
 </div>
-<div id="outline-container-org7cf5661" class="outline-3">
-<h3 id="org7cf5661"><span class="section-number-3">2.5</span> Resources &amp; Highest Valued Use</h3>
-<div class="outline-text-3" id="text-2-5">
+<div id="outline-container-org6c3eeef" class="outline-3">
+<h3 id="org6c3eeef"><span class="section-number-3">1.8</span> Resources &amp; Highest Valued Use</h3>
+<div class="outline-text-3" id="text-1-8">
 <ul class="org-ul">
 <li>the scope of economics: 
 <ul class="org-ul">
@@ -469,9 +460,9 @@ is marginal benefit of that action
 </ul>
 </div>
 </div>
-<div id="outline-container-org99de080" class="outline-3">
-<h3 id="org99de080"><span class="section-number-3">2.6</span> Self Interest &amp; Social Interest</h3>
-<div class="outline-text-3" id="text-2-6">
+<div id="outline-container-orgca75160" class="outline-3">
+<h3 id="orgca75160"><span class="section-number-3">1.9</span> Self Interest &amp; Social Interest</h3>
+<div class="outline-text-3" id="text-1-9">
 <ul class="org-ul">
 <li>self interest = choices that are made because you think they are the best for you</li>
 <li>social interest = choices that are best for society as a whole</li>
@@ -489,7 +480,7 @@ making someone else worse off (no waste to be eliminated)</li>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sudhan Chitgopkar</p>
-<p class="date">Created: 2020-09-09 Wed 17:36</p>
+<p class="date">Created: 2020-09-09 Wed 17:03</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

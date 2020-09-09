@@ -64,6 +64,7 @@
     - If the price of an input inc, 
   - Prices of related goods produced
  * Chapter 1
+* Chapter 1
 ** Scarcity
 - all economic questions arise because we want more than we can get
 - inability to satisfy all wants because of scarcity
