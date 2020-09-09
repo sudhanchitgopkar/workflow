@@ -1,3 +1,14 @@
+* 09.09.20
+** The Earth's Atmoshphere
+- Climate change is a serious environmental problem impacting species, ecosystems, and the globe
+- The atmosphere helps protect the Earth from the sun and keeps the temperature of the Earth cool
+- Atmosphere has a significant impact on climate
+- Earth's Atmosphere Composition
+  - Nitrogen (78%)
+  - Oxygen (21%)
+  - Other - Greenhouse Gases (1%)
+** The Keeling Curve
+- 
 * 09.02.20
 ** Demographic Transition Model
 - Demographers use age structure diagrams to predict future growth potential of a population

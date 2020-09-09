@@ -14,15 +14,15 @@
      DEADLINE: <2020-09-11 Fri>
 **** TODO ECOL 10.2
      DEADLINE: <2020-09-09 Wed>
-**** TODO Sapling 10.2
+**** DONE Sapling 10.2
      DEADLINE: <2020-09-09 Wed>
 **** TODO TEDxEcol
 **** TODO iClicker
      DEADLINE: <2020-09-11 Fri>
 *** ECOL1000L
-**** TODO Lifestyle Proposal
+**** DONE Lifestyle Proposal
      DEADLINE: <2020-09-09 Wed>
-**** TODO ECOL Lab 02
+**** DONE ECOL Lab 02
      DEADLINE: <2020-09-09 Wed>
 *** ECON2106
 **** TODO Homework 3
@@ -33,7 +33,7 @@
 - [ ] V3
 - [ ] V4
 *** INTL3300
-**** TODO Quiz 2
+**** DONE Quiz 2
      DEADLINE: <2020-09-08 Tue>
 **** TODO INTL Videos
 - [ ] V1
@@ -45,10 +45,10 @@
 *** MATH4950
 ** Orgs
 *** MUN
-*** WAITING Info Session 2
+*** DONE Info Session 2
     SCHEDULED: <2020-09-08 Tue 20:00>
 *** WAITING Simulation
-    SCHEDULED: <2020-09-08 Tue 20:00>
+    SCHEDULED: <2020-09-09 Wed 20:00>
 *** WAITING Group Interview
     SCHEDULED: <2020-09-11 Fri>
 *** Finch
@@ -59,7 +59,7 @@
 *** TODO Debate 1
 *** TODO Debate 2
 ** Email
-*** TODO Schneider, Updates
+*** WAITING Schneider, Updates
 * 08.30.20
 ** School 
 *** CSCI1730 [100%]
