@@ -61,9 +61,43 @@
   - Increases in supply shifts the curve to the right (and vice versa)
 - Factors that affect Supply
   - Prices of factors of production
-    - If the price of an input inc, 
+    - If the price of an input inc, supply dec; curve shifts left
   - Prices of related goods produced
- * Chapter 1
+    - denoted by substitute for production, not just substitute
+    - supply of a good inc if price of a substitute dec
+    - complements in production: goods that must be produced together (beef & leather)
+    - supply of a good inc if the price of a complement in production inc
+  - Expected Future Prices
+    - If expected future price inc, current supply dec
+  - Number of Suppliers
+    - as number of suppliers inc, supply inc
+  - Technology
+    - Advances in technology lower the cost of making existing products
+    - inc in technology means inc in supply
+  - State of Nature
+    - natural forces and disasters can dec supply
+** Equilibrium
+- Equilibrium: a situation in which opposing forces balance each other
+- Equilibrium Price: the price at which quantity demanded = quantity supplied
+- Equilibrium Quantity: quantity bought and sold at equilibrium cost
+- Price Regulation
+  - Price regulates buying and selling plans
+  - Price adjusts when plans don't match
+- Price adjustments
+  - Surplus forces prices down
+  - Shortage forces prices up
+- Increases in demand
+  - When demand increases without changes in supply, shortages occur
+  - Price therefore increaes
+- Decrease in demand
+  - At the original price, there is a surplus
+  - Price therefore falls
+- Increase in supply
+  - At the original price, there is a surplus
+  - Price therefore falls
+- Decrease in supply
+  - At the original price, there is a shortage
+  - Price therefore increases
 * Chapter 1
 ** Scarcity
 - all economic questions arise because we want more than we can get
