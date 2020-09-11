@@ -55,8 +55,8 @@
 *** DONE Noah
 *** DONE Tom
 *** DONE Mebin
-*** TODO Debate 1
-*** TODO Debate 2
+*** WAITING Debate 1
+*** WAITING Debate 2
 ** Email
 *** WAITING Schneider, Updates
 * 08.30.20
