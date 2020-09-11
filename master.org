@@ -1,6 +1,6 @@
 * 09.07.20
 ** School
-*** CSCI1730 [50%]
+*** CSCI1730 [33%]
 **** IN-PROGRESS Dietel 22.1—22.5
 - [ ] 22.1
 - [ ] 22.2
@@ -9,13 +9,14 @@
 - [ ] 22.5
 **** DONE Lab 02
      SCHEDULED: <2020-09-08 Tue 09:35>
-*** ECOL1000 [40%]
-**** TODO HW3
+**** TODO Module 8
+*** ECOL1000 [100%]
+**** DONE HW3
      DEADLINE: <2020-09-11 Fri>
-**** TODO ECOL 10.2
+**** ABANDONED ECOL 10.2
 **** DONE Sapling 10.2
      DEADLINE: <2020-09-09 Wed>
-**** TODO TEDxEcol
+**** DONE TEDxEcol
 **** DONE iClicker
      DEADLINE: <2020-09-11 Fri>
 *** ECOL1000L [100%]
@@ -23,19 +24,19 @@
      DEADLINE: <2020-09-09 Wed>
 **** DONE ECOL Lab 02
      DEADLINE: <2020-09-09 Wed>
-*** ECON2106 [0%]
-**** TODO Homework 3
+*** ECON2106 [100%]
+**** DONE Homework 3
      DEADLINE: <2020-09-11 Fri>
-**** TODO ECON Videos
+**** DONE ECON Videos
 - [X] V1
 - [X] V2
-- [ ] V3
-*** INTL3300 [50%]
+- [X] V3
+*** INTL3300 [100%]
 **** DONE Quiz 2
      DEADLINE: <2020-09-08 Tue>
-**** TODO INTL Videos
-- [ ] V1
-- [ ] V2
+**** DONE INTL Videos
+- [X] V1
+- [X] V2
 *** INTL4970 [0%]
 **** TODO Theory Section
      DEADLINE: <2020-09-11 Fri>
