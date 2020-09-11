@@ -48,14 +48,17 @@
     SCHEDULED: <2020-09-08 Tue 20:00>
 *** DONE Simulation
     SCHEDULED: <2020-09-09 Wed 20:00>
-*** WAITING Group Interview
+*** DONE Group Interview
     SCHEDULED: <2020-09-11 Fri>
-*** Finch
+** Finch
+** Debate
+*** TODO UK Judging
+    SCHEDULED: <2020-09-12 Sat 09:30>
 ** Tutoring
 *** DONE Noah
 *** DONE Tom
 *** DONE Mebin
-*** WAITING Debate 1
+*** DONE Debate 1
     SCHEDULED: <2020-09-11 Fri 15:00>
 *** WAITING Debate 2
     SCHEDULED: <2020-09-12 Sat 10:00>
