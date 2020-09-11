@@ -37,8 +37,8 @@
 **** DONE INTL Videos
 - [X] V1
 - [X] V2
-*** INTL4970 [0%]
-**** TODO Theory Section
+*** INTL4970 [100%]
+**** DONE Theory Section
      DEADLINE: <2020-09-11 Fri>
 *** MATH4670
 *** MATH4950
@@ -56,7 +56,9 @@
 *** DONE Tom
 *** DONE Mebin
 *** WAITING Debate 1
+    SCHEDULED: <2020-09-11 Fri 15:00>
 *** WAITING Debate 2
+    SCHEDULED: <2020-09-12 Sat 10:00>
 ** Email
 *** WAITING Schneider, Updates
 * 08.30.20

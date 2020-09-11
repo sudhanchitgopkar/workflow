@@ -1,3 +1,39 @@
+* 09.11.20
+- Northern latitudes experience greater seasonality in CO2 concentrations
+  - This is due to variation in photosynthetic activity by plants
+- Greenhouse effect
+  - Some incoming solar radiation is absorbed
+  - Other amounts are reflected back into the atmosphere
+  - Greenhouse gases capture and reradiate some heat over and over, warming the Earth
+  - More gases, more heat
+- Albedo: measure of the reflectivity of a surface
+  - light surfaces have a higher albedo, darker surfaces have a lower albedo
+  - surfaces with a low albedo release more heat into the atmosphere
+- Positive Feedback Loops
+  - applied to albedo:
+  - temps rise -> more ice melting -> more water warming -> temps rise
+- Urban Heat Island Effect
+  - cities will be inc their population, inc energy and temperature
+  - cities in particular have higher temperatures
+  - tree cover -> cooler temperatures
+- Small changes in overall global temp can cause significant changes
+  in weather creating more extreme storms and more record temps
+  - roughly twice as many heat records
+  - alterations in global jet streams
+  - frost comes later and begins earlier
+- General climate change impacts:
+  - Health impacts
+  - Crop productivity
+  - Coastal erosion
+  - Biodiversity
+  - Water availability
+  - Fire risk
+- Weather events getting more extreme with
+  - sea levels
+  - wildfires
+- Need both adaptation and mitigation
+  - adaptation: responding to warming that has already happened
+  - mitigation: preventing further warming by addressing climate change causes
 * 09.09.20
 ** The Earth's Atmoshphere
 - Climate change is a serious environmental problem impacting species, ecosystems, and the globe
