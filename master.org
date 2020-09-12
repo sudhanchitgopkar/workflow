@@ -60,7 +60,7 @@
 *** DONE Mebin
 *** DONE Debate 1
     SCHEDULED: <2020-09-11 Fri 15:00>
-*** WAITING Debate 2
+*** DONE Debate 2
     SCHEDULED: <2020-09-12 Sat 10:00>
 ** Email
 *** WAITING Schneider, Updates
