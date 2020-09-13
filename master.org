@@ -37,8 +37,8 @@
 **** DONE INTL Videos
 - [X] V1
 - [X] V2
-*** INTL4970 [100%]
-**** DONE Theory Section
+*** INTL4970 [0%]
+**** IN-PROGRESS Theory Section
      DEADLINE: <2020-09-11 Fri>
 *** MATH4670
 *** MATH4950
