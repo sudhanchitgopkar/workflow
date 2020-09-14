@@ -32,22 +32,25 @@
 *** INTL3300 [0%]
 **** TODO Journal Reflection 2 
      DEADLINE: <2020-09-18 Fri>
-*** INTL4970 [%]
-**** Saglam Meeting
-     SCHEDULED: <2020-09-14 Mon 11:30>
+*** INTL4970 [100%]
+**** DONE Saglam Meeting
+     SCHEDULED: <2020-09-18 Fri 11:30>
 *** MATH4670 [0%]
-**** TODO Class 1
+**** WAITING Class 1
      SCHEDULED: <2020-09-14 Mon 13:50>
-**** TODO Make-up meeting
+**** WAITING Make-up meeting
 *** MATH4950 [0%]
 **** TODO Email participants
-*** FYO1000
+*** FYO1000 [100%]
 **** DONE Edit Speech 1
      DEADLINE: <2020-09-14 Mon 12:00>
 ** Orgs
 *** MUN
-**** TODO Meeting 1
+**** WAITING Meeting 1
+     SCHEDULED: <2020-09-15 Tue 20:00>
 *** Finch
+**** TODO Finch Recap 2
+**** TODO Sneak Peek V.2 Design
 *** UGAHacks
 **** TODO Initial Emails
 ** Tutoring
