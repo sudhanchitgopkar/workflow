@@ -1,6 +1,6 @@
 * 09.07.20
 ** School
-*** CSCI1730 [33%]
+*** CSCI1730 [25%]
 **** IN-PROGRESS Dietel 22.1—22.5
 - [ ] 22.1
 - [ ] 22.2
@@ -10,6 +10,7 @@
 **** DONE Lab 02
      SCHEDULED: <2020-09-08 Tue 09:35>
 **** TODO Module 8
+**** TODO Module 9 
 *** ECOL1000 [100%]
 **** DONE HW3
      DEADLINE: <2020-09-11 Fri>
@@ -37,8 +38,10 @@
 **** DONE INTL Videos
 - [X] V1
 - [X] V2
-*** INTL4970 [0%]
-**** IN-PROGRESS Theory Section
+**** DONE Quiz 3 
+**** DONE Flipgrid 2
+*** INTL4970 [100%]
+**** DONE Theory Section
      DEADLINE: <2020-09-11 Fri>
 *** MATH4670
 *** MATH4950
@@ -52,7 +55,7 @@
     SCHEDULED: <2020-09-11 Fri>
 ** Finch
 ** Debate
-*** TODO UK Judging
+*** DONE UK Judging
     SCHEDULED: <2020-09-12 Sat 09:30>
 ** Tutoring
 *** DONE Noah
