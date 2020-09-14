@@ -1,7 +1,65 @@
+* 09.14.20
+** School 
+*** CSCI1730 [0%]
+**** TODO Assn002
+     DEADLINE: <2020-09-18 Fri>
+**** TODO Module 9 
+**** TODO Module 10
+**** TODO Dietel Readings
+*** ECOL1000 [0%]
+**** TODO Sapling 6.3
+     DEADLINE: <2020-09-18 Fri>
+**** TODO iClicker 1
+     DEADLINE: <2020-09-18 Fri>
+**** TODO iClicker 2
+     DEADLINE: <2020-09-21 Mon>
+**** TODO ECOL HW4
+     DEADLINE: <2020-09-16 Wed>
+*** ECOL1000L [0%]
+**** TODO SimBio Work
+     DEADLINE: <2020-09-17 Thu>
+*** ECON2106 [0%]
+**** TODO V1-V3
+- [ ] V1
+- [ ] V2
+- [ ] V3
+**** TODO V4-V6
+- [ ] V4
+- [ ] V5
+- [ ] V6
+**** TODO Econ HW4
+     DEADLINE: <2020-09-18 Fri>
+*** INTL3300 [0%]
+**** TODO Journal Reflection 2 
+     DEADLINE: <2020-09-18 Fri>
+*** INTL4970 [%]
+**** Saglam Meeting
+     SCHEDULED: <2020-09-14 Mon 11:30>
+*** MATH4670 [0%]
+**** TODO Class 1
+     SCHEDULED: <2020-09-14 Mon 13:50>
+**** TODO Make-up meeting
+*** MATH4950 [0%]
+**** TODO Email participants
+*** FYO1000
+**** DONE Edit Speech 1
+     DEADLINE: <2020-09-14 Mon 12:00>
+** Orgs
+*** MUN
+**** TODO Meeting 1
+*** Finch
+*** UGAHacks
+**** TODO Initial Emails
+** Tutoring
+**** TODO Noah
+**** TODO Tom
+**** TODO Mebin
+**** TODO Debate 1
+**** TODO Debate 2 
 * 09.07.20
 ** School
-*** CSCI1730 [25%]
-**** IN-PROGRESS Dietel 22.1—22.5
+*** CSCI1730 [100%]
+**** MIGRATED Dietel 22.1—22.5
 - [ ] 22.1
 - [ ] 22.2
 - [ ] 22.3
@@ -9,8 +67,8 @@
 - [ ] 22.5
 **** DONE Lab 02
      SCHEDULED: <2020-09-08 Tue 09:35>
-**** TODO Module 8
-**** TODO Module 9 
+**** DONE Module 8
+**** MIGRATED Module 9 
 *** ECOL1000 [100%]
 **** DONE HW3
      DEADLINE: <2020-09-11 Fri>
@@ -53,9 +111,9 @@
     SCHEDULED: <2020-09-09 Wed 20:00>
 *** DONE Group Interview
     SCHEDULED: <2020-09-11 Fri>
-** Finch
-** Debate
-*** DONE UK Judging
+*** Finch
+*** Debate
+**** DONE UK Judging
     SCHEDULED: <2020-09-12 Sat 09:30>
 ** Tutoring
 *** DONE Noah
@@ -66,7 +124,7 @@
 *** DONE Debate 2
     SCHEDULED: <2020-09-12 Sat 10:00>
 ** Email
-*** WAITING Schneider, Updates
+*** ABANDONED Schneider, Updates
 * 08.30.20
 ** School 
 *** CSCI1730 [100%]
