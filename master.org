@@ -44,6 +44,8 @@
 *** FYO1000 [100%]
 **** DONE Edit Speech 1
      DEADLINE: <2020-09-14 Mon 12:00>
+**** DONE Edit Speech 2
+**** DONE Edit Speech 3
 ** Orgs
 *** MUN
 **** WAITING Meeting 1
