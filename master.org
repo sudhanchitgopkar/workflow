@@ -6,15 +6,15 @@
 **** TODO Module 9 
 **** TODO Module 10
 **** TODO Dietel Readings
-*** ECOL1000 [0%]
-**** TODO Sapling 6.3
+*** ECOL1000 [50%]
+**** DONE Sapling 6.3
      DEADLINE: <2020-09-18 Fri>
 **** TODO iClicker 1
      DEADLINE: <2020-09-18 Fri>
 **** TODO iClicker 2
      DEADLINE: <2020-09-21 Mon>
-**** TODO ECOL HW4
-     DEADLINE: <2020-09-16 Wed>
+**** DONE ECOL HW4
+     DEADLINE: <2020-09-19 Sat>
 *** ECOL1000L [0%]
 **** TODO SimBio Work
      DEADLINE: <2020-09-17 Thu>
@@ -35,8 +35,8 @@
 *** INTL4970 [100%]
 **** DONE Saglam Meeting
      SCHEDULED: <2020-09-18 Fri 11:30>
-*** MATH4670 [0%]
-**** WAITING Class 1
+*** MATH4670 [50%]
+**** DONE Class 1
      SCHEDULED: <2020-09-14 Mon 13:50>
 **** WAITING Make-up meeting
 *** MATH4950 [0%]
@@ -50,11 +50,16 @@
      SCHEDULED: <2020-09-15 Tue 20:00>
 *** Finch
 **** TODO Finch Recap 2
-**** TODO Sneak Peek V.2 Design
+**** DONE Sneak Peek V.2 Design
 *** UGAHacks
 **** TODO Initial Emails
+*** TEDxUGA
+**** TODO Application
+*** Honors
+**** TODO FFR Email
 ** Tutoring
-**** TODO Noah
+**** WAITING Noah
+     SCHEDULED: <2020-09-16 Wed 15:30>
 **** TODO Tom
 **** TODO Mebin
 **** TODO Debate 1
