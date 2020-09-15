@@ -49,7 +49,7 @@
 **** WAITING Meeting 1
      SCHEDULED: <2020-09-15 Tue 20:00>
 *** Finch
-**** TODO Finch Recap 2
+**** DONE Finch Recap 2
 **** DONE Sneak Peek V.2 Design
 *** UGAHacks
 **** TODO Initial Emails
