@@ -35,10 +35,10 @@
 *** INTL4970 [100%]
 **** DONE Saglam Meeting
      SCHEDULED: <2020-09-18 Fri 11:30>
-*** MATH4670 [50%]
+*** MATH4670 [100%]
 **** DONE Class 1
      SCHEDULED: <2020-09-14 Mon 13:50>
-**** WAITING Make-up meeting
+**** DONE Make-up meeting
 *** MATH4950 [0%]
 **** TODO Email participants
 *** FYO1000 [100%]

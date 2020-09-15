@@ -1,3 +1,60 @@
+* Module 5
+** Political Economy
+- Political Economy: TRhe study of how politics and economics are related
+- Components:
+  - Markets
+  - Property
+  - Public goods
+  - Taxation
+  - Fiscal Policy
+  - Regulation
+  - Trade
+- Public Goods & Social ExpendituresL
+  - Public goods: Those goods provided or secured by the state and are available for everyone
+  - Social expenditure: The state's provision of public benefits or welfare
+    - All states have some kind of social expenditure
+- Taxation
+  - Mostly needed to fund state activities
+  - Different kinds of taxes at different levels
+  - Some countries provide goods and services mostly from revenues from taxation
+- Regulations
+  - Rules or orders that set the boundaries of a given procedure
+  - Costs of compliance
+  - Costs of monitoring
+  - Costs of non-compliance
+- Trade & Economic Development
+  - Free Trade: Trade among countries wherein no country restricts trade from any other country
+    - by levying import tariffs/duties
+    - through imposition of quotas
+    - by providing subsidies to its own domestic firms
+    - by introducing other non-tariff barriers
+  - Trade that is free from barriers is theorized to improve economic development/innovaiton
+    through the use of a comparative advantage
+** Varieties of Capitalism
+- Advantages of market systems
+  - very dynamic
+  - high levels of productivity
+- Disadvantages of market systems
+  - Variability
+  - Negative market swings can ahve a domino effect
+  - Negative social externalities (inequality, unemployment, etc)
+- Political-Economic Systems
+  - Liberal Democracy
+  - Social Democracy
+  - Mercantile Democracy
+  - Communism
+- Liberal Democracy: An ideology and political system that favors limited state role in society 
+  and the economy and places a high priorty on individual political and economic freedom
+- Social Democracy: A political-economic system where freedom and equality are balanced through 
+  state management of economy and provision of social expenditures
+  - features corporatism where government, forms, and workers have a tripartite relationship
+  - often called a coordinated market economy
+- Mercantile Democracy: State controls economy
+  - State owns parts or all of industry
+  - Heavy regulations, tariffs, and non-tariff barriers to foster and protect domestic industry
+  - Little social expenditure, low taxes
+  - Allows for rapid economic growth (Asian TIGER countries) and often export oriented
+- No single type of democracy is better than another- some simply align with certain interests
 * Module 4
 ** Nations & Society
 - Goals of nation-building:
