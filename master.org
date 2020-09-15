@@ -9,28 +9,32 @@
 *** ECOL1000 [50%]
 **** DONE Sapling 6.3
      DEADLINE: <2020-09-18 Fri>
-**** TODO iClicker 1
+**** WAITING iClicker 1
      DEADLINE: <2020-09-18 Fri>
-**** TODO iClicker 2
+**** WAITING iClicker 2
      DEADLINE: <2020-09-21 Mon>
 **** DONE ECOL HW4
      DEADLINE: <2020-09-19 Sat>
 *** ECOL1000L [0%]
 **** TODO SimBio Work
      DEADLINE: <2020-09-17 Thu>
-*** ECON2106 [0%]
-**** TODO V1-V3
-- [ ] V1
-- [ ] V2
-- [ ] V3
+*** ECON2106 [33%]
+**** DONE V1-V3
+- [X] V1
+- [X] V2
+- [X] V3
 **** TODO V4-V6
 - [ ] V4
 - [ ] V5
 - [ ] V6
 **** TODO Econ HW4
      DEADLINE: <2020-09-18 Fri>
-*** INTL3300 [0%]
-**** TODO Journal Reflection 2 
+*** INTL3300 [60%]
+**** DONE INTL Lecture 1
+**** DONE INTL Lecture 2
+**** DONE INTL Reading
+**** IN-PROGRESS INTL Documentary
+**** TODO Journal Reflection 2
      DEADLINE: <2020-09-18 Fri>
 *** INTL4970 [100%]
 **** DONE Saglam Meeting
@@ -48,8 +52,8 @@
 **** DONE Edit Speech 3
 ** Orgs
 *** MUN
-**** WAITING Meeting 1
-     SCHEDULED: <2020-09-15 Tue 20:00>
+**** WAITING MUN Meeting 1
+     SCHEDULED: <2020-09-15 Tue 19:30>
 *** Finch
 **** DONE Finch Recap 2
 **** DONE Sneak Peek V.2 Design

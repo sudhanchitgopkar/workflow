@@ -1,3 +1,32 @@
+* Chapter 4
+** Introduction to Elasticity
+- closeness of substitutes is critical to understanding elasticity of supply and demand
+** Elasticity of Demand
+*** Calculting Elasticity of Demand
+- Price elasticity of demand is a unit free measure of the responsiveness of quantity 
+  demanded to a change in price when all other influences stay the same
+- percentage change in quantity demanded/percentage change in price
+- percent change in price is calculated as change in price/average of two goods/services
+*** Inelastic and Elastic Demand
+- Demand can be inelastic, unit elastic, or elastic
+- Elasticity can range from 0 to infinity
+- If quantity demanded doesn't change when the price changes, price elasticity = 0 and the good
+  has perfectly inelastic demand (Vertical demand curve)
+- If price elasticity equals exactly one, the good has unit elastic demand
+- If price elasticity of demand is less than 1 then the good has inelastic demand
+- If price elasticity is greater than 1, then the good has an elastic demand
+- If the price elasticity is infinity, the good has a perfectly 
+  elastic demand (Horizontal demand curve)
+** Factors Influencing Elasticity of Demand
+*** Closeness of substitutes
+- the closer the substitutes, the more elastic the demand for a good or service
+- necessities, such as food or housing, generally have an inelastic demands
+- luxuries, such as exotic vacations, generally have elastic demand
+*** Proportion of Income Spent on Good
+- The greater the portion of income consumers spend on a good, the larger the elasticity of demand 
+*** Time Elapsed Since Price Change
+- The more time consumers have to adjust to a price change or the longer the good can be stored
+  without losing its value, the more elastic the demand for the good
 * Chapter 3
 ** Introduction
 - Markets are any arrangements that enable buyers and sellers to get information

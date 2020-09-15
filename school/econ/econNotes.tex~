@@ -1,4 +1,4 @@
-% Created 2020-09-10 Thu 15:53
+% Created 2020-09-15 Tue 17:08
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -28,10 +28,60 @@
 
 \tableofcontents
 
+\section{Chapter 4}
+\label{sec:orgf8127b1}
+\subsection{Introduction to Elasticity}
+\label{sec:org9a0d87e}
+\begin{itemize}
+\item closeness of substitutes is critical to understanding elasticity of supply and demand
+\end{itemize}
+\subsection{Elasticity of Demand}
+\label{sec:orge66895e}
+\subsubsection{Calculting Elasticity of Demand}
+\label{sec:orgb01a13a}
+\begin{itemize}
+\item Price elasticity of demand is a unit free measure of the responsiveness of quantity 
+demanded to a change in price when all other influences stay the same
+\item percentage change in quantity demanded/percentage change in price
+\item percent change in price is calculated as change in price/average of two goods/services
+\end{itemize}
+\subsubsection{Inelastic and Elastic Demand}
+\label{sec:org79c49d3}
+\begin{itemize}
+\item Demand can be inelastic, unit elastic, or elastic
+\item Elasticity can range from 0 to infinity
+\item If quantity demanded doesn't change when the price changes, price elasticity = 0 and the good
+has perfectly inelastic demand (Vertical demand curve)
+\item If price elasticity equals exactly one, the good has unit elastic demand
+\item If price elasticity of demand is less than 1 then the good has inelastic demand
+\item If price elasticity is greater than 1, then the good has an elastic demand
+\item If the price elasticity is infinity, the good has a perfectly 
+elastic demand (Horizontal demand curve)
+\end{itemize}
+\subsection{Factors Influencing Elasticity of Demand}
+\label{sec:orge51294e}
+\subsubsection{Closeness of substitutes}
+\label{sec:orge5a363b}
+\begin{itemize}
+\item the closer the substitutes, the more elastic the demand for a good or service
+\item necessities, such as food or housing, generally have an inelastic demands
+\item luxuries, such as exotic vacations, generally have elastic demand
+\end{itemize}
+\subsubsection{Proportion of Income Spent on Good}
+\label{sec:org76d9bef}
+\begin{itemize}
+\item The greater the portion of income consumers spend on a good, the larger the elasticity of demand
+\end{itemize}
+\subsubsection{Time Elapsed Since Price Change}
+\label{sec:org31c53d4}
+\begin{itemize}
+\item The more time consumers have to adjust to a price change or the longer the good can be stored
+without losing its value, the more elastic the demand for the good
+\end{itemize}
 \section{Chapter 3}
-\label{sec:org6b58dc0}
+\label{sec:orgae160a0}
 \subsection{Introduction}
-\label{sec:org0d3c0d8}
+\label{sec:org1f73cac}
 \begin{itemize}
 \item Markets are any arrangements that enable buyers and sellers to get information
 and do business with each other
@@ -39,7 +89,7 @@ and do business with each other
 influence prices
 \end{itemize}
 \subsection{Demand}
-\label{sec:org2989b30}
+\label{sec:org08f0bc7}
 \begin{itemize}
 \item Reflects the buyers' side of the market
 \item If you demand something, you
@@ -101,7 +151,7 @@ shift in demand for that good
 \end{itemize}
 \end{itemize}
 \subsection{Supply}
-\label{sec:org27cce45}
+\label{sec:org6f9aaee}
 \begin{itemize}
 \item If a firm is a supplier, they
 \begin{itemize}
@@ -155,7 +205,7 @@ quantity supplied (and vice versa).
 \end{itemize}
 \end{itemize}
 \subsection{Equilibrium}
-\label{sec:org0660758}
+\label{sec:org17b16aa}
 \begin{itemize}
 \item Equilibrium: a situation in which opposing forces balance each other
 \item Equilibrium Price: the price at which quantity demanded = quantity supplied
@@ -192,16 +242,16 @@ quantity supplied (and vice versa).
 \end{itemize}
 \end{itemize}
 \section{Chapter 1}
-\label{sec:org48f1608}
+\label{sec:org43ed507}
 \subsection{Scarcity}
-\label{sec:orgafd8e8b}
+\label{sec:org1e94b0b}
 \begin{itemize}
 \item all economic questions arise because we want more than we can get
 \item inability to satisfy all wants because of scarcity
 \item scarcity = limited resources
 \end{itemize}
 \subsection{Definition of Economics}
-\label{sec:org13fa4f1}
+\label{sec:org04c40c7}
 \begin{itemize}
 \item because we face scarcity, we must make choices
 \item incentive = a reward that encourages an action or a penalty that discourages an action
@@ -215,7 +265,7 @@ interact with markets and the influence of governments
 \end{itemize}
 \end{itemize}
 \subsection{6 Key Ideas}
-\label{sec:org6e1f591}
+\label{sec:orgef60d37}
 \begin{itemize}
 \item a choice is a tradeoff: ever choice is an exchange giving up one thing for another
 \item making a rational choice: a rational choice compares costs and benefits, maximizing benefit
@@ -236,7 +286,7 @@ is marginal benefit of that action
 \item choices respond to incentives: a change in marginal cost/benefit changes our incentives \& choices
 \end{itemize}
 \subsection{Positive \& Normative}
-\label{sec:orgddde78e}
+\label{sec:org9719a66}
 \begin{itemize}
 \item economists distinguish between two types of statements: 
 \begin{itemize}
@@ -251,7 +301,7 @@ is marginal benefit of that action
 \item economists as policy advisors
 \end{itemize}
 \subsection{Resources \& Highest Valued Use}
-\label{sec:orgc317d95}
+\label{sec:org4629221}
 \begin{itemize}
 \item the scope of economics: 
 \begin{itemize}
@@ -271,7 +321,7 @@ is marginal benefit of that action
 \item \textbf{\textbf{resources gravitate towards their highest value use}}
 \end{itemize}
 \subsection{Self Interest \& Social Interest}
-\label{sec:org76a4ec2}
+\label{sec:org9c022b3}
 \begin{itemize}
 \item self interest = choices that are made because you think they are the best for you
 \item social interest = choices that are best for society as a whole
