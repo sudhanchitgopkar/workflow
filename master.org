@@ -6,18 +6,20 @@
 **** TODO Module 9 
 **** TODO Module 10
 **** TODO Dietel Readings
-*** ECOL1000 [50%]
+*** ECOL1000 [75%]
 **** DONE Sapling 6.3
      DEADLINE: <2020-09-18 Fri>
-**** WAITING iClicker 1
+**** DONE iClicker 1
      DEADLINE: <2020-09-18 Fri>
 **** WAITING iClicker 2
      DEADLINE: <2020-09-21 Mon>
 **** DONE ECOL HW4
      DEADLINE: <2020-09-19 Sat>
-*** ECOL1000L [0%]
-**** TODO SimBio Work
-     DEADLINE: <2020-09-17 Thu>
+*** ECOL1000L [50%]
+**** WAITING Lifestyle Project Template
+     DEADLINE: <2020-09-17 Thu 08:00>
+**** DONE SimBio Work
+     DEADLINE: <2020-09-17 Thu 08:00>
 *** ECON2106 [33%]
 **** DONE V1-V3
 - [X] V1
@@ -43,32 +45,37 @@
 **** DONE Class 1
      SCHEDULED: <2020-09-14 Mon 13:50>
 **** DONE Make-up meeting
-*** MATH4950 [0%]
-**** TODO Email participants
+*** MATH4950 [100%]
+**** DONE Email participants
 *** FYO1000 [100%]
 **** DONE Edit Speech 1
      DEADLINE: <2020-09-14 Mon 12:00>
 **** DONE Edit Speech 2
 **** DONE Edit Speech 3
 ** Orgs
-*** MUN
-**** WAITING MUN Meeting 1
+*** MUN [66%]
+**** DONE MUN Meeting 1
      SCHEDULED: <2020-09-15 Tue 19:30>
-*** Finch
+**** DONE MUN Insta Story
+**** TODO MUN Socials Master
+*** Finch [100%]
 **** DONE Finch Recap 2
 **** DONE Sneak Peek V.2 Design
-*** UGAHacks
+*** UGAHacks [0%]
 **** TODO Initial Emails
-*** TEDxUGA
+*** TEDxUGA [0%]
 **** TODO Application
-*** Honors
+*** Honors [0%]
 **** TODO FFR Email
 ** Tutoring
-**** WAITING Noah
+**** DONE Noah
      SCHEDULED: <2020-09-16 Wed 15:30>
-**** TODO Tom
-**** TODO Mebin
-**** TODO Debate 1
+**** WAITING Tom
+     SCHEDULED: <2020-09-17 Thu 13:00>
+**** WAITING Mebin
+     SCHEDULED: <2020-09-17 Thu 15:00>
+**** WAITING Debate 1
+     SCHEDULED: <2020-09-18 Fri 15:00>
 **** TODO Debate 2 
 * 09.07.20
 ** School
