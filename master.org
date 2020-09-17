@@ -15,28 +15,28 @@
      DEADLINE: <2020-09-21 Mon>
 **** DONE ECOL HW4
      DEADLINE: <2020-09-19 Sat>
-*** ECOL1000L [50%]
-**** WAITING Lifestyle Project Template
+*** ECOL1000L [100%]
+**** DONE Lifestyle Project Template
      DEADLINE: <2020-09-17 Thu 08:00>
 **** DONE SimBio Work
      DEADLINE: <2020-09-17 Thu 08:00>
-*** ECON2106 [33%]
+*** ECON2106 [100%]
 **** DONE V1-V3
 - [X] V1
 - [X] V2
 - [X] V3
-**** TODO V4-V6
-- [ ] V4
-- [ ] V5
-- [ ] V6
-**** TODO Econ HW4
+**** DONE V4-V6
+- [X] V4
+- [X] V5
+- [X] V6
+**** DONE Econ HW4
      DEADLINE: <2020-09-18 Fri>
-*** INTL3300 [60%]
+*** INTL3300 [80%]
 **** DONE INTL Lecture 1
 **** DONE INTL Lecture 2
 **** DONE INTL Reading
-**** IN-PROGRESS INTL Documentary
-**** TODO Journal Reflection 2
+**** ABANDONED INTL Documentary
+**** WAITING Journal Reflection 2
      DEADLINE: <2020-09-18 Fri>
 *** INTL4970 [100%]
 **** DONE Saglam Meeting

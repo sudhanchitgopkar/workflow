@@ -1,4 +1,4 @@
-% Created 2020-09-15 Tue 11:56
+% Created 2020-09-17 Thu 11:19
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -28,10 +28,27 @@
 
 \tableofcontents
 
+\section{Session 2}
+\label{sec:org70aedc9}
+\subsection{Speech 1}
+\label{sec:org11fda9e}
+\begin{itemize}
+\item Being a good Athenian that helps your state and is just in your actions is all that is truly
+required of citizens
+\item Must share the beauty of Athens unto everyone
+\item Currently have low population post-30;
+\item Our loyalty must be firstly to the gods and to Athens, doing so requires us to bestow citizenship
+upon those that deserve it
+\end{itemize}
+\subsection{Speech 2}
+\label{sec:org23f0e50}
+\begin{itemize}
+\item 
+\end{itemize}
 \section{Session 1}
-\label{sec:orga24d4c6}
+\label{sec:org9dc615a}
 \subsection{President, Anytus}
-\label{sec:org05f844c}
+\label{sec:orgbef3fb9}
 \begin{itemize}
 \item Anytus, For reconciliation
 \item Knows more than most the cruelty of the Thirty, still wants forgiveness
@@ -41,7 +58,7 @@
 \item Shouldn't waste time in the past, need to wrok towards a better future
 \end{itemize}
 \subsection{Crito}
-\label{sec:org88eb754}
+\label{sec:org6c61905}
 \begin{itemize}
 \item Socratic method of reaching the truth requires forgetting the crimes of the Thirty and forgiving
 crimes of the supporters
@@ -53,7 +70,7 @@ crimes of the supporters
 \item Prosecution distracts from the main goal of creating a better Athens
 \end{itemize}
 \subsection{Lithicles}
-\label{sec:org207e30f}
+\label{sec:org4f2f5ce}
 \begin{itemize}
 \item Without prosecuting the Thirty, those that died under their rule have not recieved justice
 \item The Thirty changed the whole nature of Athens and Athenian culture - that can't be accepted
@@ -61,7 +78,7 @@ crimes of the supporters
 \item How can we move forward without avenging those who were lost?
 \end{itemize}
 \subsection{Lycon}
-\label{sec:orgcaccbcd}
+\label{sec:org48b83c8}
 \begin{itemize}
 \item We must continue our democracy and rule of law
 \item To forgive and forget the rule of the Thirty would be to disrespect the Athenians that lost
@@ -72,9 +89,9 @@ their lives under the rule of the Thirty
 \item Dismissing the crimes of the Thirty is equivalent to surrendering
 \end{itemize}
 \section{Helenica}
-\label{sec:orgae41e00}
+\label{sec:orgade7e9b}
 \subsection{General Arguments}
-\label{sec:orgfa5b856}
+\label{sec:org80e82fb}
 \begin{itemize}
 \item A closer look at the 30 tyrants and their actions
 \item Modern oligarchies operate better than traditional democracies
@@ -83,21 +100,21 @@ their lives under the rule of the Thirty
 \item Even one bad oligarch can be problematic as it creates a domino effect
 \end{itemize}
 \subsection{Socratic Arguments}
-\label{sec:org9430c55}
+\label{sec:org63762b7}
 \begin{itemize}
 \item Oligarchies are fine but can crumble quickly when based solely on money and power
 \end{itemize}
 \section{The Economist}
-\label{sec:org22876b1}
+\label{sec:org269d43a}
 \subsection{General Management}
-\label{sec:orgaa02f21}
+\label{sec:org7f79802}
 \begin{itemize}
 \item House and Estate management
 \item Management has made Athens as successful as it was
 \item Rooted in moderation and hard work
 \end{itemize}
 \subsection{The Nature of Money \& Wealth}
-\label{sec:orgf9b72af}
+\label{sec:org5716867}
 \begin{itemize}
 \item Money in the wrong hands can become contagious, wealth is therefore a big repsonsibility
 \item Not having wealth is not a bad thing, wealth comes with significant sacrifice
@@ -105,14 +122,14 @@ their lives under the rule of the Thirty
 \item Wives must be taught household management because they manage debt and money
 \end{itemize}
 \subsection{The Royal Code}
-\label{sec:orga0fc5f8}
+\label{sec:org9de9374}
 \begin{itemize}
 \item Surplus of wealth exists to help the less-forunate and the state
 \item Proper treatment of servants and employees
 \item Holders of wealth must not be selfish in any capacity
 \end{itemize}
 \subsection{Leadership}
-\label{sec:orgddbec2d}
+\label{sec:org6e6128e}
 \begin{itemize}
 \item Critical that wealthy, cultured people rule
 \begin{itemize}
@@ -122,9 +139,9 @@ their lives under the rule of the Thirty
 \item Empires are too large and convoluted to be just and harmoniou
 \end{itemize}
 \section{The Life of Lycurgus}
-\label{sec:org91d6247}
+\label{sec:org7327944}
 \subsection{Social Mobility}
-\label{sec:org29ab6a2}
+\label{sec:org2096ff0}
 \begin{itemize}
 \item Breaking family ties to catalyze social mobility
 \begin{itemize}
@@ -134,34 +151,34 @@ their lives under the rule of the Thirty
 \item Children are the property of te state rather than of their parents
 \end{itemize}
 \subsection{Education}
-\label{sec:org10dd5f5}
+\label{sec:org57708ab}
 \begin{itemize}
 \item Educating all of the children using the same standards
 \item Non-spartan, creates more thoughtful and state-minded individuals
 \end{itemize}
 \section{The Periclean Funeral Oration}
-\label{sec:org74894aa}
+\label{sec:org3e329bb}
 \begin{itemize}
 \item Starts by honoring the dead of the Peloponnesian War
 \end{itemize}
 \subsection{Future of Athens}
-\label{sec:orgc0a7a9e}
+\label{sec:orga5ec59b}
 \begin{itemize}
 \item Rebuild the Empire
 \item Democracy by meritocracy
 \item Athens is open to everyone, increases glory and importance of Athens
 \end{itemize}
 \subsection{Values}
-\label{sec:orgccd6067}
+\label{sec:org0242c55}
 \begin{itemize}
 \item Democracy is critical to the maintenance of the state
 \item Justice must be distributed equally without regard to status or ancestry
 \item Individual meritocracy is critical without regard to familial accomplishments
 \end{itemize}
 \subsection{Policy}
-\label{sec:orgc66fd8c}
+\label{sec:org6cb5976}
 \subsubsection{Periclean Philosophy}
-\label{sec:orgffb627a}
+\label{sec:org9685a65}
 \begin{itemize}
 \item Open borders are necessary to share our knowledge and culture
 \item Empire rebuilding is important
@@ -172,24 +189,24 @@ their lives under the rule of the Thirty
 \end{itemize}
 \_ Education is not a hobby, it's something that must guide decision-making
 \subsubsection{The Socratic Rebuttal}
-\label{sec:orgcc0a4a5}
+\label{sec:org738e20c}
 \begin{itemize}
 \item Empire is important but not a requirement
 \item Empires for the sake of profit must be rejeced outright
 \end{itemize}
 \section{Debating The Republic}
-\label{sec:org9e032ee}
+\label{sec:orgee73cd6}
 \subsection{Socratics}
-\label{sec:orgca252db}
+\label{sec:orgf6b340d}
 \subsubsection{Leadership Qualities}
-\label{sec:org404eece}
+\label{sec:org7de766c}
 \begin{itemize}
 \item Love of learning
 \item Knowledge of one's own ignorace
 \item Prioritizing state interests over individual ones
 \end{itemize}
 \subsubsection{Education}
-\label{sec:org3f20e49}
+\label{sec:org5a4e720}
 \begin{itemize}
 \item Begins with understanding the arts, gentleness, and compassion
 \item Followed by significant gymnastics
@@ -202,33 +219,33 @@ their lives under the rule of the Thirty
 participation and devotion to their state
 \end{itemize}
 \subsubsection{Citizenship}
-\label{sec:orgefaa4c4}
+\label{sec:orgd27d8c3}
 \begin{itemize}
 \item Anyone with the necessary aptitude, including women, can become citizens
 \end{itemize}
 \subsection{Thrasybulans}
-\label{sec:org2c629ad}
+\label{sec:org9addff0}
 \begin{itemize}
 \item Injustice, while bad, indicates an unjust person rather than an unjust state
 \item Education need not necessitate an artistic background - a military education is far more important
 \item Socratic education is infeasible for all, which is unequal
 \end{itemize}
 \subsubsection{Citizenship}
-\label{sec:orgf1cccee}
+\label{sec:orgfed3808}
 \begin{itemize}
 \item Culture is critical to citizenship
 \end{itemize}
 \subsection{Solonians}
-\label{sec:org270c751}
+\label{sec:org5ff434f}
 \subsubsection{Leadership Qualities}
-\label{sec:orgc3e60cb}
+\label{sec:org4e06b8e}
 \begin{itemize}
 \item Leaders should be well-versed and acting in the best interest of the state
 \item Leaders need to be well-rounded and certain people are better fit for these positions than others
 \item The assembly is chaotic and ineffective as a means of decision-making and ruling
 \end{itemize}
 \subsubsection{Societal Qualities}
-\label{sec:org2cc406d}
+\label{sec:org6076ef4}
 \begin{itemize}
 \item Forgiveness is necessary for past wrong-doings
 \item While wealth and education is largely cyclical, we should not be restructuring our society wholly
@@ -236,16 +253,16 @@ participation and devotion to their state
 don't have the education necessary to have a strong, educational conversation
 \end{itemize}
 \subsubsection{Citizenship}
-\label{sec:orgd30c545}
+\label{sec:orge7feddb}
 \begin{itemize}
 \item Only strong, wealthy individuals should have citizenship to preserve the quality of Athens
 \end{itemize}
 \section{Characters \& Intro Notes}
-\label{sec:org855a950}
+\label{sec:org8a3beef}
 \subsection{Characters}
-\label{sec:orgd6edf6f}
+\label{sec:org8fa0d29}
 \subsubsection{Assignments}
-\label{sec:org76dd376}
+\label{sec:orgeaee323}
 \begin{center}
 \begin{tabular}{ll}
 Names & Character\\
@@ -268,9 +285,9 @@ Vetri & Anytus\\
 \end{center}
 
 \subsection{Socrates \& Plato}
-\label{sec:org5652430}
+\label{sec:org9171cce}
 \subsubsection{Socrates}
-\label{sec:orgaf14edc}
+\label{sec:orgfa4f945}
 \begin{itemize}
 \item We have no texts by Socrates
 \begin{itemize}
@@ -283,7 +300,7 @@ Vetri & Anytus\\
 \end{itemize}
 \end{itemize}
 \subsubsection{Biography}
-\label{sec:orgd38f2ad}
+\label{sec:org4afa5f6}
 \begin{itemize}
 \item Parents: Sophroniscus * Pharnarete
 \item Personal life; three sons
@@ -294,7 +311,7 @@ Vetri & Anytus\\
 \item Reputation in Athes: gafdly
 \end{itemize}
 \subsubsection{Plato}
-\label{sec:orgd48065d}
+\label{sec:orgd5b12ff}
 \begin{itemize}
 \item Greek philosopher, mathematician, stident of socrates, wroter of philosophical dialogue
 \item Founder of "The Academy"
@@ -308,7 +325,7 @@ Vetri & Anytus\\
 \item Parents: Ariston (descendant of Athenian king) and Perictione (niece of Critias)
 \end{itemize}
 \subsubsection{Plato's Argumentation}
-\label{sec:orge4ce313}
+\label{sec:orgd7c9c4f}
 \begin{itemize}
 \item Inductive reasoning: from particular examples to general truths
 \item Deductive reasoning: from general truths to a particular example within the subset of that truth
@@ -318,7 +335,7 @@ to somehting that is unfamiliar to them
 \end{itemize}
 
 \subsubsection{The Republic}
-\label{sec:orgf73f3c8}
+\label{sec:orgeeab978}
 \begin{itemize}
 \item Written 380-375 BCE but claims to record a conversation during the Peloponnesian War
 \item Definition of justice and the role of a character in a just polis

@@ -27,6 +27,50 @@
 *** Time Elapsed Since Price Change
 - The more time consumers have to adjust to a price change or the longer the good can be stored
   without losing its value, the more elastic the demand for the good
+** Elasticity on a Linear Demand Curve & Total Revenue Test
+- At the midpoint of a linear demand curve, demand is unit elastic
+- At prices above the midpoint, demand is elastic
+- At prices below the midpoint, demand is inelastic
+*** Total Revenue and Elasticity
+- Total revenue from the sale of a good or service = price of good * quantity sold
+- Raising the price doesn't always increase total revenue
+- If demand is elastic, a 1% price cut increases quantity sold by >1%, total revenue decreases
+- If demand is inelastic, a 1% price cut increases the quantity <1%, total revenue decreases
+- If demand is unit elastic a 1% price cut increases the quantity sold by 1%, total revenue same
+*** Total Revenue Test
+- a method of estimating the price elasticity of demand by
+  observing the change in total revenue that results from a price change
+- If a price cut increases total revenue, demand is elastic
+- If price cut decreases total revenue demand is inelastic
+- If a price cut doesn't change total revenue, demand is unit elastic
+- On a bell curve, increase shows elastic, decrease shows inelastic, and peak is unit elastic
+** Income Elasticity and Cross Elasticity of Demand
+*** Income Elasticity
+- Income elasticity of demand measures how the quantity demanded responds to a change in income
+  - % change in quantity demanded/ % change in income
+- If income elasticity is >1, demand is income elastic and the good is a normal good
+- If the income elasticity is 0<x<1, demand is income inelastic and the good is normal elastic
+- If income elasticity is <0, the good is an inferior good
+*** Cross Elasticity of Demand
+- Measure of the responsiveness of demand to change in the price of a substitute/complement 
+  - % change in quantity demanded/ % change in price of substitute/complement
+- Cross elasticity of demand is:
+  - positive for a substitute
+  - negative for a complement
+** Elasticity of Supply
+- Elasticity of supply: measures the responsiveness of quantity suppled to a change in price
+  - % change in quantity supplied / % change in price
+- Supply is perfectly inelastic when supply curve is vertical and elasticity = 0
+- Supply is unit elastic if the supply curve is linear and passes through the origin 
+- Supply is perfectly elastic when the supply curve is elastic and the elasticity = infinity
+*** Factors Influencing Elasticity of Supply
+- Depends on
+  - Resource substitution possibilities
+    - The easier it is to substitute among resources used, the greater the elasticity of supply
+  - Time frame for supply decision
+    - Momentary supply - perfectly inelastic for physical goods
+    - Short-run supply is somewhat elastoc
+    - Long-run supply is the most elastic
 * Chapter 3
 ** Introduction
 - Markets are any arrangements that enable buyers and sellers to get information
