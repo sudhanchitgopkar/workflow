@@ -80,6 +80,8 @@ public:
       accountName = "Dawgs";
     } else if (newName.length() > 20) {
       accountName = newName.substr(0,20);
+    } else {
+      accountName = newName;
     } //if
   }
 
@@ -100,9 +102,8 @@ public:
 
 private:
   // add more code here -- see description in assignment
-  std::string accountName;
-  double accountBalance;
-
+  std::string accountName = "";
+  double accountBalance = 0;
 };
 
 #endif
