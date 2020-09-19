@@ -11,7 +11,7 @@
      DEADLINE: <2020-09-18 Fri>
 **** DONE iClicker 1
      DEADLINE: <2020-09-18 Fri>
-**** WAITING iClicker 2
+**** IN-PROGRESS iClicker 2
      DEADLINE: <2020-09-21 Mon>
 **** DONE ECOL HW4
      DEADLINE: <2020-09-19 Sat>
@@ -36,7 +36,7 @@
 **** DONE INTL Lecture 2
 **** DONE INTL Reading
 **** ABANDONED INTL Documentary
-**** WAITING Journal Reflection 2
+**** TODO Journal Reflection 2
      DEADLINE: <2020-09-18 Fri>
 *** INTL4970 [100%]
 **** DONE Saglam Meeting
@@ -63,6 +63,7 @@
 **** DONE Sneak Peek V.2 Design
 *** UGAHacks [0%]
 **** TODO Initial Emails
+**** TODO SGA Sponsorship Form
 *** TEDxUGA [0%]
 **** TODO Application
 *** Honors [0%]
@@ -70,9 +71,9 @@
 ** Tutoring
 **** DONE Noah
      SCHEDULED: <2020-09-16 Wed 15:30>
-**** WAITING Tom
+**** DONE Tom
      SCHEDULED: <2020-09-17 Thu 13:00>
-**** WAITING Mebin
+**** DONE Mebin
      SCHEDULED: <2020-09-17 Thu 15:00>
 **** WAITING Debate 1
      SCHEDULED: <2020-09-18 Fri 15:00>
