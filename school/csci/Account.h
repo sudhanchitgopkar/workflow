@@ -23,7 +23,9 @@ public:
 
   void setBalance(double balance) {
     // add code here -- a basic setter, return nothing.
-    accountBalance = balance;
+    if (balance >= 0) {
+      accountBalance = balance;
+    } //if
   }
   
   double deposit(double depositAmount) {
@@ -56,11 +58,7 @@ public:
     // 20% you would call interest(-0.2)) Returns balance after any changes
 
     // add code here
-    if (percent > 0) {
-      accountBalance = accountBalance * (1 + percent);
-    } else if (percent < 0) {
-      accountBalance = accountBalance * percent;
-    }
+    accountBalance = accountBalance * (1 + percent);
     return accountBalance;			/* replace this */
   }
 
@@ -89,14 +87,14 @@ public:
   bool transferTo(double amount, Account& otherAccount) {
     // add code here
     if (amount > accountBalance) {
-      return false;
+      return 0;
     } else {
       double otherAccountBalance = otherAccount.getBalance();
       otherAccount.setBalance(otherAccountBalance + amount);
 
       accountBalance -= amount;
 
-      return true;
+      return 1;
     } //if
   }
 

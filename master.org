@@ -1,17 +1,17 @@
 * 09.14.20
 ** School 
 *** CSCI1730 [0%]
-**** TODO Assn002
+**** WAITING Assn002
      DEADLINE: <2020-09-18 Fri>
 **** TODO Module 9 
 **** TODO Module 10
 **** TODO Dietel Readings
-*** ECOL1000 [75%]
+*** ECOL1000 [100%]
 **** DONE Sapling 6.3
      DEADLINE: <2020-09-18 Fri>
 **** DONE iClicker 1
      DEADLINE: <2020-09-18 Fri>
-**** IN-PROGRESS iClicker 2
+**** DONE iClicker 2
      DEADLINE: <2020-09-21 Mon>
 **** DONE ECOL HW4
      DEADLINE: <2020-09-19 Sat>

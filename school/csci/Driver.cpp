@@ -19,6 +19,7 @@ using namespace std;
   */
 int main(){
   cout << "TESTER CLASS FOR ASSN02" << endl;
+  cout << "First line is EXPECTED output, second is ACTUAL output. Matches mean SUCCESS." << endl;
   cout << endl;
 
   //testing constructor name cases
@@ -65,5 +66,89 @@ int main(){
   cout << acc1.getBalance() << endl;
 
   cout << endl;
+
+  cout << "0" << endl;
+  acc1.setBalance(-100);
+  cout << acc1.getBalance() << endl;
+ 
+  cout << endl;
+
+  cout << "100.01" << endl;
+  acc1.setBalance(100.01);
+  cout << acc1.getBalance() << endl;
+
+  cout << endl;
+  
+  cout << "100" << endl;
+  acc3.setBalance(100);
+  cout << acc3.getBalance() << endl;
+
+  cout << endl;
+
+  //testing deposit
+  cout << "100.01" << endl;
+  acc1.deposit(-0.01);
+  cout << acc1.getBalance() << endl;
+
+  cout << endl;
+
+  cout << "101" << endl;
+  acc1.deposit(0.99);
+  cout << acc1.getBalance() << endl;
+
+  cout << endl;
+  //testing withdraw
+  cout << "101" << endl;
+  acc1.withdraw(-0.01);
+  cout << acc1.getBalance() << endl;
+
+  cout << endl;
+
+  cout << "101" << endl;
+  acc1.withdraw(101.01);
+  cout << acc1.getBalance() << endl;
+
+  cout << endl;
+  
+  cout << "100.01" << endl;
+  acc1.withdraw(0.99);
+  cout << acc1.getBalance() << endl;
+
+  cout << endl;
+  
+  //testing interest
+  cout << "110" << endl;
+  acc3.interest(0.1);
+  cout << acc3.getBalance() << endl;
+  
+  cout << endl;
+  acc3.setBalance(100);
+  
+  cout << "80" << endl;
+  acc3.interest(-0.2);
+  cout << acc3.getBalance() << endl;
+
+  cout << endl;
+  acc3.setBalance (100);
+  
+  cout << "100" << endl;
+  acc3.interest(0);
+  cout << acc3.getBalance() << endl;
+  
+  cout << endl;
+  
+  //testing transfer
+  cout << "0.01,200" << endl;
+  acc1.transferTo(100,acc3);
+  cout << acc1.getBalance() << "," << acc3.getBalance() << endl;
+
+  cout << endl;
+  
+  cout << "100.01,100" << endl;
+  acc3.transferTo(100,acc1);
+  cout << acc1.getBalance() << "," << acc3.getBalance() << endl;
+  
+  
   return EXIT_SUCCESS;
+
 }
