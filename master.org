@@ -6,7 +6,7 @@
 **** TODO Dietel Readings
 **** TODO Exam Review
 *** ECOL1000 [0%]
-**** TODO Exam Study Guide
+**** IN-PROGRESS Exam Study Guide
      DEADLINE: <2020-09-21 Mon>
 **** WAITING Exam 1
      SCHEDULED: <2020-09-23 Wed>
@@ -33,6 +33,8 @@
 *** FYOS1000 [0%]
 **** TODO Check-ins
      DEADLINE: <2020-09-22 Tue>
+**** TODO PLaTO Course
+     DEADLINE: <2020-09-24 Thu>
 ** Orgs
 *** MUN [0%]
 **** TODO Socials Master
