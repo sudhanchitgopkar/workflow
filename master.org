@@ -1,11 +1,67 @@
+* 09.21.20
+** School
+*** CSCI1730 [0%]
+**** TODO Assn03
+     DEADLINE: <2020-09-25 Fri>
+**** TODO Dietel Readings
+**** TODO Exam Review
+*** ECOL1000 [0%]
+**** TODO Exam Study Guide
+     DEADLINE: <2020-09-21 Mon>
+**** WAITING Exam 1
+     SCHEDULED: <2020-09-23 Wed>
+*** ECOL1000L [0%]
+**** TODO SimBio Lab
+     DEADLINE: <2020-09-23 Wed>
+*** ECON2106 [0%]
+**** TODO Econ V1-4
+**** TODO Econ V4-8
+**** TODO Econ HW5
+     DEADLINE: <2020-09-25 Fri>
+*** INTL3300 [0%]
+**** TODO INTL Quiz4
+     DEADLINE: <2020-09-25 Fri>
+**** TODO Discussion Board #2
+     DEADLINE: <2020-09-25 Fri>
+**** TODO INTL V1-2
+*** INTL4970 [0%]
+**** TODO Theory Section
+     DEADLINE: <2020-09-27 Sun>
+*** MATH4670 [0%]
+**** TODO Weekly Meeting Time
+*** MATH4950 [%]
+*** FYOS1000 [0%]
+**** TODO Check-ins
+     DEADLINE: <2020-09-22 Tue>
+** Orgs
+*** MUN [0%]
+**** TODO Socials Master
+     DEADLINE: <2020-09-22 Tue 20:00>
+**** TODO Background Guide
+     DEADLINE: <2020-09-22 Tue 20:00>
+*** Finch [0%]
+**** TODO Recap Video
+*** UGAHacks [0%]
+**** TODO Carson Email
+**** TODO General Emails
+*** TEDxUGA [0%]
+**** TODO Application
+*** Honors [0%]
+**** TODO FFR Email
+** Tutoring
+*** TODO Noah 
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
 * 09.14.20
 ** School 
-*** CSCI1730 [0%]
-**** WAITING Assn002
+*** CSCI1730 [100%]
+**** DONE Assn002
      DEADLINE: <2020-09-18 Fri>
-**** TODO Module 9 
-**** TODO Module 10
-**** TODO Dietel Readings
+**** DONE Module 9 
+**** DONE Module 10
+**** MIGRATED Dietel Readings
 *** ECOL1000 [100%]
 **** DONE Sapling 6.3
      DEADLINE: <2020-09-18 Fri>
@@ -31,12 +87,12 @@
 - [X] V6
 **** DONE Econ HW4
      DEADLINE: <2020-09-18 Fri>
-*** INTL3300 [80%]
+*** INTL3300 [100%]
 **** DONE INTL Lecture 1
 **** DONE INTL Lecture 2
 **** DONE INTL Reading
 **** ABANDONED INTL Documentary
-**** TODO Journal Reflection 2
+**** DONE Journal Reflection 2
      DEADLINE: <2020-09-18 Fri>
 *** INTL4970 [100%]
 **** DONE Saglam Meeting
@@ -47,37 +103,37 @@
 **** DONE Make-up meeting
 *** MATH4950 [100%]
 **** DONE Email participants
-*** FYO1000 [100%]
+*** FYOS1000 [100%]
 **** DONE Edit Speech 1
      DEADLINE: <2020-09-14 Mon 12:00>
 **** DONE Edit Speech 2
 **** DONE Edit Speech 3
 ** Orgs
-*** MUN [66%]
+*** MUN [100%]
 **** DONE MUN Meeting 1
      SCHEDULED: <2020-09-15 Tue 19:30>
 **** DONE MUN Insta Story
-**** TODO MUN Socials Master
+**** MIGRATED MUN Socials Master
 *** Finch [100%]
 **** DONE Finch Recap 2
 **** DONE Sneak Peek V.2 Design
-*** UGAHacks [0%]
-**** TODO Initial Emails
-**** TODO SGA Sponsorship Form
-*** TEDxUGA [0%]
-**** TODO Application
-*** Honors [0%]
-**** TODO FFR Email
+*** UGAHacks [100%]
+**** MIGRATED Initial Emails
+**** MIGRATED SGA Sponsorship Form
+*** TEDxUGA [100%]
+**** MIGRATED Application
+*** Honors [100%]
+**** MIGRATED FFR Email
 ** Tutoring
-**** DONE Noah
+*** DONE Noah
      SCHEDULED: <2020-09-16 Wed 15:30>
-**** DONE Tom
+*** DONE Tom
      SCHEDULED: <2020-09-17 Thu 13:00>
-**** DONE Mebin
+*** DONE Mebin
      SCHEDULED: <2020-09-17 Thu 15:00>
-**** WAITING Debate 1
+*** DONE Debate 1
      SCHEDULED: <2020-09-18 Fri 15:00>
-**** TODO Debate 2 
+*** DONE Debate 2 
 * 09.07.20
 ** School
 *** CSCI1730 [100%]
@@ -365,3 +421,26 @@
     DEADLINE: <2020-08-21 Fri>
     
 *** MIGRATED Norman, PLA
+* Template
+** School
+*** CSCI1730 [%]
+*** ECOL1000 [%]
+*** ECOL1000L [%]
+*** ECON2106 [%]
+*** INTL3300 [%]
+*** INTL4970 [%]
+*** MATH4670 [%]
+*** MATH4950 [%]
+*** FYOS1000 [%]
+** Orgs
+*** MUN [%]
+*** Finch [%]
+*** UGAHacks [%]
+*** TEDxUGA [%]
+*** Honors [%]
+** Tutoring
+*** Noah 
+*** Tom
+*** Mebin
+*** Debate 1
+*** Debate 2

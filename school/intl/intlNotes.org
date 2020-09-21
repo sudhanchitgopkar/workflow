@@ -1,6 +1,6 @@
 * Module 5
 ** Political Economy
-- Political Economy: TRhe study of how politics and economics are related
+- Political Economy: The study of how politics and economics are related
 - Components:
   - Markets
   - Property
