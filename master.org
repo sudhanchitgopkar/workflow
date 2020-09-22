@@ -3,7 +3,7 @@
 *** CSCI1730 [0%]
 **** TODO Assn03
      DEADLINE: <2020-09-25 Fri>
-**** TODO Dietel Readings
+**** IN-PROGRESS Dietel Readings
 **** TODO Exam Review
 *** ECOL1000 [0%]
 **** IN-PROGRESS Exam Study Guide
