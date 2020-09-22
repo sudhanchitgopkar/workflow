@@ -1,4 +1,4 @@
-% Created 2020-09-17 Thu 11:41
+% Created 2020-09-22 Tue 11:22
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
@@ -28,10 +28,31 @@
 
 \tableofcontents
 
+\section{Session 3}
+\label{sec:orgc617895}
+\subsection{Voting Mechanism for Metic Citizenship}
+\label{sec:orgb1fb123}
+\subsubsection{Solonian Criterion}
+\label{sec:org9894264}
+\begin{itemize}
+\item Born in Athens
+\item Shown loyalty
+\item Contributes to economy
+\item Qualified and Educated to speak
+\item Deeply affected by the 30
+\item Contributions are made in the name of Athens
+\end{itemize}
+\subsubsection{Voting Distribution}
+\label{sec:orgd9c80cf}
+\begin{itemize}
+\item Lysias: 300
+\item Callias: 800
+\item Thrasybulus: 700
+\end{itemize}
 \section{Session 2}
-\label{sec:org9bc089c}
+\label{sec:org4606ebd}
 \subsection{Speech 1}
-\label{sec:org0377e49}
+\label{sec:org0d0e575}
 \begin{itemize}
 \item Being a good Athenian that helps your state and is just in your actions is all that is truly
 required of citizens
@@ -41,7 +62,7 @@ required of citizens
 upon those that deserve it
 \end{itemize}
 \subsection{Speech 2}
-\label{sec:org7bb2964}
+\label{sec:org12923ea}
 \begin{itemize}
 \item Metics and slaves can't be trusted to put Athens above themselves
 \item Slaves fled at the first opportunity during the Peloponnesian War
@@ -52,7 +73,7 @@ many shops would close and our economy would decline
 \item We should show outsiders Athens but we must be wary of spies and those that want to hurt us
 \end{itemize}
 \subsection{Speech 3}
-\label{sec:orgbf8d4fc}
+\label{sec:orgb16e782}
 \begin{itemize}
 \item Is every person fit to govern?
 \item Slaves come from enemy lands and don't have the best interest of Athens at heart
@@ -65,7 +86,7 @@ assembly would create chaos
 \item Too many extra people in the assembly creates problems
 \end{itemize}
 \subsection{Speech 4}
-\label{sec:org0770ac7}
+\label{sec:orgd5a2f1c}
 \begin{itemize}
 \item The gods place us in our corresponding wombs with purpose. As a result, the gods do not want
 Metics or slaves to be Athenians and to defy this is to defy the gods
@@ -76,7 +97,7 @@ to do this
 \item Socratics agree with the equality of women
 \end{itemize}
 \subsection{Speech 5}
-\label{sec:orgc93f073}
+\label{sec:orgdb56b46}
 \begin{itemize}
 \item Metic anecdote
 \item Metics are, in all senses but legally, citizens of Athens
@@ -85,7 +106,7 @@ to do this
 \item Currently, Metics have no reason to stay in Athens - need a greater population for more power
 \end{itemize}
 \subsection{Speech 6}
-\label{sec:org369ee7c}
+\label{sec:org80d3cd0}
 \begin{itemize}
 \item Sheep flock to the strongest speaker and leader in the Assembly - they don't have thoughts of 
 their own which is extremely dangerous in the Assembly
@@ -97,9 +118,9 @@ but some may have that unique capacity
 \item The best path forward is to allow anyone with the proper education to rule
 \end{itemize}
 \section{Session 1}
-\label{sec:orgfd1ef65}
+\label{sec:org780b44e}
 \subsection{President, Anytus}
-\label{sec:orgad6424c}
+\label{sec:orgbccabf8}
 \begin{itemize}
 \item Anytus, For reconciliation
 \item Knows more than most the cruelty of the Thirty, still wants forgiveness
@@ -109,7 +130,7 @@ but some may have that unique capacity
 \item Shouldn't waste time in the past, need to wrok towards a better future
 \end{itemize}
 \subsection{Crito}
-\label{sec:orgae0ee03}
+\label{sec:org409826a}
 \begin{itemize}
 \item Socratic method of reaching the truth requires forgetting the crimes of the Thirty and forgiving
 crimes of the supporters
@@ -121,7 +142,7 @@ crimes of the supporters
 \item Prosecution distracts from the main goal of creating a better Athens
 \end{itemize}
 \subsection{Lithicles}
-\label{sec:org733e5fa}
+\label{sec:orge7e02a3}
 \begin{itemize}
 \item Without prosecuting the Thirty, those that died under their rule have not recieved justice
 \item The Thirty changed the whole nature of Athens and Athenian culture - that can't be accepted
@@ -129,7 +150,7 @@ crimes of the supporters
 \item How can we move forward without avenging those who were lost?
 \end{itemize}
 \subsection{Lycon}
-\label{sec:orgdb86ca0}
+\label{sec:orgd83b9ad}
 \begin{itemize}
 \item We must continue our democracy and rule of law
 \item To forgive and forget the rule of the Thirty would be to disrespect the Athenians that lost
@@ -140,9 +161,9 @@ their lives under the rule of the Thirty
 \item Dismissing the crimes of the Thirty is equivalent to surrendering
 \end{itemize}
 \section{Helenica}
-\label{sec:org9ae61ab}
+\label{sec:org0b816cf}
 \subsection{General Arguments}
-\label{sec:org1127beb}
+\label{sec:orga6d247e}
 \begin{itemize}
 \item A closer look at the 30 tyrants and their actions
 \item Modern oligarchies operate better than traditional democracies
@@ -151,21 +172,21 @@ their lives under the rule of the Thirty
 \item Even one bad oligarch can be problematic as it creates a domino effect
 \end{itemize}
 \subsection{Socratic Arguments}
-\label{sec:orgcf8a78d}
+\label{sec:org79790d0}
 \begin{itemize}
 \item Oligarchies are fine but can crumble quickly when based solely on money and power
 \end{itemize}
 \section{The Economist}
-\label{sec:org1010f6a}
+\label{sec:orga05c614}
 \subsection{General Management}
-\label{sec:org5eb02fa}
+\label{sec:orgdb4a58a}
 \begin{itemize}
 \item House and Estate management
 \item Management has made Athens as successful as it was
 \item Rooted in moderation and hard work
 \end{itemize}
 \subsection{The Nature of Money \& Wealth}
-\label{sec:org63ee1a9}
+\label{sec:orgf2bf019}
 \begin{itemize}
 \item Money in the wrong hands can become contagious, wealth is therefore a big repsonsibility
 \item Not having wealth is not a bad thing, wealth comes with significant sacrifice
@@ -173,14 +194,14 @@ their lives under the rule of the Thirty
 \item Wives must be taught household management because they manage debt and money
 \end{itemize}
 \subsection{The Royal Code}
-\label{sec:orgcf5add3}
+\label{sec:orgc76fcbd}
 \begin{itemize}
 \item Surplus of wealth exists to help the less-forunate and the state
 \item Proper treatment of servants and employees
 \item Holders of wealth must not be selfish in any capacity
 \end{itemize}
 \subsection{Leadership}
-\label{sec:org8f40f47}
+\label{sec:orgd61e34b}
 \begin{itemize}
 \item Critical that wealthy, cultured people rule
 \begin{itemize}
@@ -190,9 +211,9 @@ their lives under the rule of the Thirty
 \item Empires are too large and convoluted to be just and harmoniou
 \end{itemize}
 \section{The Life of Lycurgus}
-\label{sec:org8ba4e4c}
+\label{sec:org328501b}
 \subsection{Social Mobility}
-\label{sec:org4385f53}
+\label{sec:orge5895bf}
 \begin{itemize}
 \item Breaking family ties to catalyze social mobility
 \begin{itemize}
@@ -202,34 +223,34 @@ their lives under the rule of the Thirty
 \item Children are the property of te state rather than of their parents
 \end{itemize}
 \subsection{Education}
-\label{sec:orgb81a129}
+\label{sec:orgf818f7b}
 \begin{itemize}
 \item Educating all of the children using the same standards
 \item Non-spartan, creates more thoughtful and state-minded individuals
 \end{itemize}
 \section{The Periclean Funeral Oration}
-\label{sec:org7901ac3}
+\label{sec:orga5c9805}
 \begin{itemize}
 \item Starts by honoring the dead of the Peloponnesian War
 \end{itemize}
 \subsection{Future of Athens}
-\label{sec:org5eab29a}
+\label{sec:org0ee9c08}
 \begin{itemize}
 \item Rebuild the Empire
 \item Democracy by meritocracy
 \item Athens is open to everyone, increases glory and importance of Athens
 \end{itemize}
 \subsection{Values}
-\label{sec:org6d80fa7}
+\label{sec:orgf95af79}
 \begin{itemize}
 \item Democracy is critical to the maintenance of the state
 \item Justice must be distributed equally without regard to status or ancestry
 \item Individual meritocracy is critical without regard to familial accomplishments
 \end{itemize}
 \subsection{Policy}
-\label{sec:org28afa3c}
+\label{sec:org5089469}
 \subsubsection{Periclean Philosophy}
-\label{sec:org6df6315}
+\label{sec:org5aab360}
 \begin{itemize}
 \item Open borders are necessary to share our knowledge and culture
 \item Empire rebuilding is important
@@ -240,24 +261,24 @@ their lives under the rule of the Thirty
 \end{itemize}
 \_ Education is not a hobby, it's something that must guide decision-making
 \subsubsection{The Socratic Rebuttal}
-\label{sec:orgc033d01}
+\label{sec:org677a41a}
 \begin{itemize}
 \item Empire is important but not a requirement
 \item Empires for the sake of profit must be rejeced outright
 \end{itemize}
 \section{Debating The Republic}
-\label{sec:org952f069}
+\label{sec:orga1a0dc7}
 \subsection{Socratics}
-\label{sec:org5a545d8}
+\label{sec:org842efd8}
 \subsubsection{Leadership Qualities}
-\label{sec:org6bee942}
+\label{sec:org0025f17}
 \begin{itemize}
 \item Love of learning
 \item Knowledge of one's own ignorace
 \item Prioritizing state interests over individual ones
 \end{itemize}
 \subsubsection{Education}
-\label{sec:org73a4d16}
+\label{sec:orgd859b5e}
 \begin{itemize}
 \item Begins with understanding the arts, gentleness, and compassion
 \item Followed by significant gymnastics
@@ -270,33 +291,33 @@ their lives under the rule of the Thirty
 participation and devotion to their state
 \end{itemize}
 \subsubsection{Citizenship}
-\label{sec:org66d28f7}
+\label{sec:orgdff2faf}
 \begin{itemize}
 \item Anyone with the necessary aptitude, including women, can become citizens
 \end{itemize}
 \subsection{Thrasybulans}
-\label{sec:org6d7ba79}
+\label{sec:org662a7a9}
 \begin{itemize}
 \item Injustice, while bad, indicates an unjust person rather than an unjust state
 \item Education need not necessitate an artistic background - a military education is far more important
 \item Socratic education is infeasible for all, which is unequal
 \end{itemize}
 \subsubsection{Citizenship}
-\label{sec:orgfc2ce0c}
+\label{sec:org5ca6f6f}
 \begin{itemize}
 \item Culture is critical to citizenship
 \end{itemize}
 \subsection{Solonians}
-\label{sec:org1ac6071}
+\label{sec:org817ce67}
 \subsubsection{Leadership Qualities}
-\label{sec:org8796077}
+\label{sec:org4331a64}
 \begin{itemize}
 \item Leaders should be well-versed and acting in the best interest of the state
 \item Leaders need to be well-rounded and certain people are better fit for these positions than others
 \item The assembly is chaotic and ineffective as a means of decision-making and ruling
 \end{itemize}
 \subsubsection{Societal Qualities}
-\label{sec:orgf253f46}
+\label{sec:org1c33b35}
 \begin{itemize}
 \item Forgiveness is necessary for past wrong-doings
 \item While wealth and education is largely cyclical, we should not be restructuring our society wholly
@@ -304,16 +325,16 @@ participation and devotion to their state
 don't have the education necessary to have a strong, educational conversation
 \end{itemize}
 \subsubsection{Citizenship}
-\label{sec:org27724a8}
+\label{sec:orgb5e61e5}
 \begin{itemize}
 \item Only strong, wealthy individuals should have citizenship to preserve the quality of Athens
 \end{itemize}
 \section{Characters \& Intro Notes}
-\label{sec:orgb717a18}
+\label{sec:org544cbcc}
 \subsection{Characters}
-\label{sec:org1a47214}
+\label{sec:org66fc92d}
 \subsubsection{Assignments}
-\label{sec:org90d231c}
+\label{sec:orgef99897}
 \begin{center}
 \begin{tabular}{ll}
 Names & Character\\
@@ -336,9 +357,9 @@ Vetri & Anytus\\
 \end{center}
 
 \subsection{Socrates \& Plato}
-\label{sec:org80998d5}
+\label{sec:orged87c70}
 \subsubsection{Socrates}
-\label{sec:org0e9d934}
+\label{sec:org7c4c148}
 \begin{itemize}
 \item We have no texts by Socrates
 \begin{itemize}
@@ -351,7 +372,7 @@ Vetri & Anytus\\
 \end{itemize}
 \end{itemize}
 \subsubsection{Biography}
-\label{sec:org226cecc}
+\label{sec:org7528d8b}
 \begin{itemize}
 \item Parents: Sophroniscus * Pharnarete
 \item Personal life; three sons
@@ -362,7 +383,7 @@ Vetri & Anytus\\
 \item Reputation in Athes: gafdly
 \end{itemize}
 \subsubsection{Plato}
-\label{sec:org843e031}
+\label{sec:org2c4328e}
 \begin{itemize}
 \item Greek philosopher, mathematician, stident of socrates, wroter of philosophical dialogue
 \item Founder of "The Academy"
@@ -376,7 +397,7 @@ Vetri & Anytus\\
 \item Parents: Ariston (descendant of Athenian king) and Perictione (niece of Critias)
 \end{itemize}
 \subsubsection{Plato's Argumentation}
-\label{sec:org296d60d}
+\label{sec:orgf93878c}
 \begin{itemize}
 \item Inductive reasoning: from particular examples to general truths
 \item Deductive reasoning: from general truths to a particular example within the subset of that truth
@@ -386,7 +407,7 @@ to somehting that is unfamiliar to them
 \end{itemize}
 
 \subsubsection{The Republic}
-\label{sec:org6681ee8}
+\label{sec:org1a14b1a}
 \begin{itemize}
 \item Written 380-375 BCE but claims to record a conversation during the Peloponnesian War
 \item Definition of justice and the role of a character in a just polis

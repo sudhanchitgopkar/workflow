@@ -1,3 +1,16 @@
+* Session 3
+** Voting Mechanism for Metic Citizenship
+*** Solonian Criterion
+- Born in Athens
+- Shown loyalty
+- Contributes to economy
+- Qualified and Educated to speak
+- Deeply affected by the 30
+- Contributions are made in the name of Athens
+*** Voting Distribution
+- Lysias: 300
+- Callias: 800
+- Thrasybulus: 700
 * Session 2
 ** Speech 1 
 - Being a good Athenian that helps your state and is just in your actions is all that is truly

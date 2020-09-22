@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-09-17 Thu 11:33 -->
+<!-- 2020-09-17 Thu 11:41 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,92 +233,93 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org3904c8b">1. Session 2</a>
+<li><a href="#orge5539d3">1. Session 2</a>
 <ul>
-<li><a href="#org8630c1c">1.1. Speech 1</a></li>
-<li><a href="#orgc232c23">1.2. Speech 2</a></li>
-<li><a href="#org3feb4b7">1.3. Speech 3</a></li>
-<li><a href="#org9ae7d90">1.4. Speech 4</a></li>
-<li><a href="#org3e6aac9">1.5. Speech 5</a></li>
+<li><a href="#org7349c74">1.1. Speech 1</a></li>
+<li><a href="#org290ebf7">1.2. Speech 2</a></li>
+<li><a href="#orgb8e5dd3">1.3. Speech 3</a></li>
+<li><a href="#orgd7c028d">1.4. Speech 4</a></li>
+<li><a href="#org0cb13d3">1.5. Speech 5</a></li>
+<li><a href="#org684d4b2">1.6. Speech 6</a></li>
 </ul>
 </li>
-<li><a href="#org1b2331c">2. Session 1</a>
+<li><a href="#org9777989">2. Session 1</a>
 <ul>
-<li><a href="#org4ee1695">2.1. President, Anytus</a></li>
-<li><a href="#org0492b3e">2.2. Crito</a></li>
-<li><a href="#org6cbcb77">2.3. Lithicles</a></li>
-<li><a href="#orgbba530f">2.4. Lycon</a></li>
+<li><a href="#org71ee8af">2.1. President, Anytus</a></li>
+<li><a href="#org3bca3aa">2.2. Crito</a></li>
+<li><a href="#org36e15a6">2.3. Lithicles</a></li>
+<li><a href="#org8568709">2.4. Lycon</a></li>
 </ul>
 </li>
-<li><a href="#org4857483">3. Helenica</a>
+<li><a href="#org3b8e319">3. Helenica</a>
 <ul>
-<li><a href="#org18178f6">3.1. General Arguments</a></li>
-<li><a href="#org8661f28">3.2. Socratic Arguments</a></li>
+<li><a href="#org9cd8902">3.1. General Arguments</a></li>
+<li><a href="#org2e943c2">3.2. Socratic Arguments</a></li>
 </ul>
 </li>
-<li><a href="#org59f1e0f">4. The Economist</a>
+<li><a href="#orgcebb4f2">4. The Economist</a>
 <ul>
-<li><a href="#org6f23b2e">4.1. General Management</a></li>
-<li><a href="#orgb9794fe">4.2. The Nature of Money &amp; Wealth</a></li>
-<li><a href="#org11e494e">4.3. The Royal Code</a></li>
-<li><a href="#org130aa01">4.4. Leadership</a></li>
+<li><a href="#org89d267d">4.1. General Management</a></li>
+<li><a href="#org5b5df0b">4.2. The Nature of Money &amp; Wealth</a></li>
+<li><a href="#org1b659bf">4.3. The Royal Code</a></li>
+<li><a href="#org4e01398">4.4. Leadership</a></li>
 </ul>
 </li>
-<li><a href="#orgc1fc374">5. The Life of Lycurgus</a>
+<li><a href="#org736b3c2">5. The Life of Lycurgus</a>
 <ul>
-<li><a href="#org233ba68">5.1. Social Mobility</a></li>
-<li><a href="#org9d49fc7">5.2. Education</a></li>
+<li><a href="#org418205c">5.1. Social Mobility</a></li>
+<li><a href="#org55d30ee">5.2. Education</a></li>
 </ul>
 </li>
-<li><a href="#org2f0a077">6. The Periclean Funeral Oration</a>
+<li><a href="#org692c897">6. The Periclean Funeral Oration</a>
 <ul>
-<li><a href="#org5b3a401">6.1. Future of Athens</a></li>
-<li><a href="#org8257a87">6.2. Values</a></li>
-<li><a href="#org33e7831">6.3. Policy</a>
+<li><a href="#org46942ac">6.1. Future of Athens</a></li>
+<li><a href="#org2013f65">6.2. Values</a></li>
+<li><a href="#orgd7632d5">6.3. Policy</a>
 <ul>
-<li><a href="#org877c0f8">6.3.1. Periclean Philosophy</a></li>
-<li><a href="#org27f3b9f">6.3.2. The Socratic Rebuttal</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orge49b916">7. Debating The Republic</a>
-<ul>
-<li><a href="#org1c51837">7.1. Socratics</a>
-<ul>
-<li><a href="#orgd00b623">7.1.1. Leadership Qualities</a></li>
-<li><a href="#org38ad5bc">7.1.2. Education</a></li>
-<li><a href="#orgb8181f2">7.1.3. Citizenship</a></li>
-</ul>
-</li>
-<li><a href="#org543a411">7.2. Thrasybulans</a>
-<ul>
-<li><a href="#orgfb077ee">7.2.1. Citizenship</a></li>
-</ul>
-</li>
-<li><a href="#org88f23e9">7.3. Solonians</a>
-<ul>
-<li><a href="#org5ca20a5">7.3.1. Leadership Qualities</a></li>
-<li><a href="#org767e431">7.3.2. Societal Qualities</a></li>
-<li><a href="#org21b9fe8">7.3.3. Citizenship</a></li>
+<li><a href="#org553dcfd">6.3.1. Periclean Philosophy</a></li>
+<li><a href="#org98c68e6">6.3.2. The Socratic Rebuttal</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orga401672">8. Characters &amp; Intro Notes</a>
+<li><a href="#org9f42961">7. Debating The Republic</a>
 <ul>
-<li><a href="#org6df4aa1">8.1. Characters</a>
+<li><a href="#org2422f31">7.1. Socratics</a>
 <ul>
-<li><a href="#orgdef1c44">8.1.1. Assignments</a></li>
+<li><a href="#org10c4abc">7.1.1. Leadership Qualities</a></li>
+<li><a href="#orgd5df035">7.1.2. Education</a></li>
+<li><a href="#org6da06cd">7.1.3. Citizenship</a></li>
 </ul>
 </li>
-<li><a href="#org843a213">8.2. Socrates &amp; Plato</a>
+<li><a href="#orgfda8876">7.2. Thrasybulans</a>
 <ul>
-<li><a href="#org8f57f21">8.2.1. Socrates</a></li>
-<li><a href="#org389dd4f">8.2.2. Biography</a></li>
-<li><a href="#org8c445eb">8.2.3. Plato</a></li>
-<li><a href="#org9d15c89">8.2.4. Plato's Argumentation</a></li>
-<li><a href="#orgfdde9f6">8.2.5. The Republic</a></li>
+<li><a href="#orgaf34888">7.2.1. Citizenship</a></li>
+</ul>
+</li>
+<li><a href="#orgad57163">7.3. Solonians</a>
+<ul>
+<li><a href="#org84fdbd2">7.3.1. Leadership Qualities</a></li>
+<li><a href="#org41c35bb">7.3.2. Societal Qualities</a></li>
+<li><a href="#org455905c">7.3.3. Citizenship</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org6a103d8">8. Characters &amp; Intro Notes</a>
+<ul>
+<li><a href="#org2792f20">8.1. Characters</a>
+<ul>
+<li><a href="#org9941fdf">8.1.1. Assignments</a></li>
+</ul>
+</li>
+<li><a href="#orgbf43ea8">8.2. Socrates &amp; Plato</a>
+<ul>
+<li><a href="#org6219661">8.2.1. Socrates</a></li>
+<li><a href="#org650567e">8.2.2. Biography</a></li>
+<li><a href="#orga760108">8.2.3. Plato</a></li>
+<li><a href="#org4bb4b8d">8.2.4. Plato's Argumentation</a></li>
+<li><a href="#org8538578">8.2.5. The Republic</a></li>
 </ul>
 </li>
 </ul>
@@ -326,12 +327,12 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org3904c8b" class="outline-2">
-<h2 id="org3904c8b"><span class="section-number-2">1</span> Session 2</h2>
+<div id="outline-container-orge5539d3" class="outline-2">
+<h2 id="orge5539d3"><span class="section-number-2">1</span> Session 2</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org8630c1c" class="outline-3">
-<h3 id="org8630c1c"><span class="section-number-3">1.1</span> Speech 1</h3>
+<div id="outline-container-org7349c74" class="outline-3">
+<h3 id="org7349c74"><span class="section-number-3">1.1</span> Speech 1</h3>
 <div class="outline-text-3" id="text-1-1">
 <ul class="org-ul">
 <li>Being a good Athenian that helps your state and is just in your actions is all that is truly
@@ -343,8 +344,8 @@ upon those that deserve it</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc232c23" class="outline-3">
-<h3 id="orgc232c23"><span class="section-number-3">1.2</span> Speech 2</h3>
+<div id="outline-container-org290ebf7" class="outline-3">
+<h3 id="org290ebf7"><span class="section-number-3">1.2</span> Speech 2</h3>
 <div class="outline-text-3" id="text-1-2">
 <ul class="org-ul">
 <li>Metics and slaves can't be trusted to put Athens above themselves</li>
@@ -357,8 +358,8 @@ many shops would close and our economy would decline</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3feb4b7" class="outline-3">
-<h3 id="org3feb4b7"><span class="section-number-3">1.3</span> Speech 3</h3>
+<div id="outline-container-orgb8e5dd3" class="outline-3">
+<h3 id="orgb8e5dd3"><span class="section-number-3">1.3</span> Speech 3</h3>
 <div class="outline-text-3" id="text-1-3">
 <ul class="org-ul">
 <li>Is every person fit to govern?</li>
@@ -373,8 +374,8 @@ assembly would create chaos</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9ae7d90" class="outline-3">
-<h3 id="org9ae7d90"><span class="section-number-3">1.4</span> Speech 4</h3>
+<div id="outline-container-orgd7c028d" class="outline-3">
+<h3 id="orgd7c028d"><span class="section-number-3">1.4</span> Speech 4</h3>
 <div class="outline-text-3" id="text-1-4">
 <ul class="org-ul">
 <li>The gods place us in our corresponding wombs with purpose. As a result, the gods do not want
@@ -387,8 +388,8 @@ to do this</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3e6aac9" class="outline-3">
-<h3 id="org3e6aac9"><span class="section-number-3">1.5</span> Speech 5</h3>
+<div id="outline-container-org0cb13d3" class="outline-3">
+<h3 id="org0cb13d3"><span class="section-number-3">1.5</span> Speech 5</h3>
 <div class="outline-text-3" id="text-1-5">
 <ul class="org-ul">
 <li>Metic anecdote</li>
@@ -399,13 +400,28 @@ to do this</li>
 </ul>
 </div>
 </div>
+<div id="outline-container-org684d4b2" class="outline-3">
+<h3 id="org684d4b2"><span class="section-number-3">1.6</span> Speech 6</h3>
+<div class="outline-text-3" id="text-1-6">
+<ul class="org-ul">
+<li>Sheep flock to the strongest speaker and leader in the Assembly - they don't have thoughts of 
+their own which is extremely dangerous in the Assembly</li>
+<li>The spartan method of education builds unity</li>
+<li>Judge the youth based on whether or not they have the philosophers' spirit</li>
+<li>Athena herself gave women an important education</li>
+<li>Those that do not come from Athenian heritage also may not have the ability to rule 
+but some may have that unique capacity</li>
+<li>The best path forward is to allow anyone with the proper education to rule</li>
+</ul>
 </div>
-<div id="outline-container-org1b2331c" class="outline-2">
-<h2 id="org1b2331c"><span class="section-number-2">2</span> Session 1</h2>
+</div>
+</div>
+<div id="outline-container-org9777989" class="outline-2">
+<h2 id="org9777989"><span class="section-number-2">2</span> Session 1</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org4ee1695" class="outline-3">
-<h3 id="org4ee1695"><span class="section-number-3">2.1</span> President, Anytus</h3>
+<div id="outline-container-org71ee8af" class="outline-3">
+<h3 id="org71ee8af"><span class="section-number-3">2.1</span> President, Anytus</h3>
 <div class="outline-text-3" id="text-2-1">
 <ul class="org-ul">
 <li>Anytus, For reconciliation</li>
@@ -417,8 +433,8 @@ to do this</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org0492b3e" class="outline-3">
-<h3 id="org0492b3e"><span class="section-number-3">2.2</span> Crito</h3>
+<div id="outline-container-org3bca3aa" class="outline-3">
+<h3 id="org3bca3aa"><span class="section-number-3">2.2</span> Crito</h3>
 <div class="outline-text-3" id="text-2-2">
 <ul class="org-ul">
 <li>Socratic method of reaching the truth requires forgetting the crimes of the Thirty and forgiving
@@ -432,8 +448,8 @@ crimes of the supporters</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6cbcb77" class="outline-3">
-<h3 id="org6cbcb77"><span class="section-number-3">2.3</span> Lithicles</h3>
+<div id="outline-container-org36e15a6" class="outline-3">
+<h3 id="org36e15a6"><span class="section-number-3">2.3</span> Lithicles</h3>
 <div class="outline-text-3" id="text-2-3">
 <ul class="org-ul">
 <li>Without prosecuting the Thirty, those that died under their rule have not recieved justice</li>
@@ -443,8 +459,8 @@ crimes of the supporters</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgbba530f" class="outline-3">
-<h3 id="orgbba530f"><span class="section-number-3">2.4</span> Lycon</h3>
+<div id="outline-container-org8568709" class="outline-3">
+<h3 id="org8568709"><span class="section-number-3">2.4</span> Lycon</h3>
 <div class="outline-text-3" id="text-2-4">
 <ul class="org-ul">
 <li>We must continue our democracy and rule of law</li>
@@ -458,12 +474,12 @@ their lives under the rule of the Thirty</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org4857483" class="outline-2">
-<h2 id="org4857483"><span class="section-number-2">3</span> Helenica</h2>
+<div id="outline-container-org3b8e319" class="outline-2">
+<h2 id="org3b8e319"><span class="section-number-2">3</span> Helenica</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org18178f6" class="outline-3">
-<h3 id="org18178f6"><span class="section-number-3">3.1</span> General Arguments</h3>
+<div id="outline-container-org9cd8902" class="outline-3">
+<h3 id="org9cd8902"><span class="section-number-3">3.1</span> General Arguments</h3>
 <div class="outline-text-3" id="text-3-1">
 <ul class="org-ul">
 <li>A closer look at the 30 tyrants and their actions</li>
@@ -474,8 +490,8 @@ their lives under the rule of the Thirty</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org8661f28" class="outline-3">
-<h3 id="org8661f28"><span class="section-number-3">3.2</span> Socratic Arguments</h3>
+<div id="outline-container-org2e943c2" class="outline-3">
+<h3 id="org2e943c2"><span class="section-number-3">3.2</span> Socratic Arguments</h3>
 <div class="outline-text-3" id="text-3-2">
 <ul class="org-ul">
 <li>Oligarchies are fine but can crumble quickly when based solely on money and power</li>
@@ -483,12 +499,12 @@ their lives under the rule of the Thirty</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org59f1e0f" class="outline-2">
-<h2 id="org59f1e0f"><span class="section-number-2">4</span> The Economist</h2>
+<div id="outline-container-orgcebb4f2" class="outline-2">
+<h2 id="orgcebb4f2"><span class="section-number-2">4</span> The Economist</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-org6f23b2e" class="outline-3">
-<h3 id="org6f23b2e"><span class="section-number-3">4.1</span> General Management</h3>
+<div id="outline-container-org89d267d" class="outline-3">
+<h3 id="org89d267d"><span class="section-number-3">4.1</span> General Management</h3>
 <div class="outline-text-3" id="text-4-1">
 <ul class="org-ul">
 <li>House and Estate management</li>
@@ -497,8 +513,8 @@ their lives under the rule of the Thirty</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb9794fe" class="outline-3">
-<h3 id="orgb9794fe"><span class="section-number-3">4.2</span> The Nature of Money &amp; Wealth</h3>
+<div id="outline-container-org5b5df0b" class="outline-3">
+<h3 id="org5b5df0b"><span class="section-number-3">4.2</span> The Nature of Money &amp; Wealth</h3>
 <div class="outline-text-3" id="text-4-2">
 <ul class="org-ul">
 <li>Money in the wrong hands can become contagious, wealth is therefore a big repsonsibility</li>
@@ -508,8 +524,8 @@ their lives under the rule of the Thirty</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org11e494e" class="outline-3">
-<h3 id="org11e494e"><span class="section-number-3">4.3</span> The Royal Code</h3>
+<div id="outline-container-org1b659bf" class="outline-3">
+<h3 id="org1b659bf"><span class="section-number-3">4.3</span> The Royal Code</h3>
 <div class="outline-text-3" id="text-4-3">
 <ul class="org-ul">
 <li>Surplus of wealth exists to help the less-forunate and the state</li>
@@ -518,8 +534,8 @@ their lives under the rule of the Thirty</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org130aa01" class="outline-3">
-<h3 id="org130aa01"><span class="section-number-3">4.4</span> Leadership</h3>
+<div id="outline-container-org4e01398" class="outline-3">
+<h3 id="org4e01398"><span class="section-number-3">4.4</span> Leadership</h3>
 <div class="outline-text-3" id="text-4-4">
 <ul class="org-ul">
 <li>Critical that wealthy, cultured people rule
@@ -532,12 +548,12 @@ their lives under the rule of the Thirty</li>
 </div>
 </div>
 </div>
-<div id="outline-container-orgc1fc374" class="outline-2">
-<h2 id="orgc1fc374"><span class="section-number-2">5</span> The Life of Lycurgus</h2>
+<div id="outline-container-org736b3c2" class="outline-2">
+<h2 id="org736b3c2"><span class="section-number-2">5</span> The Life of Lycurgus</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org233ba68" class="outline-3">
-<h3 id="org233ba68"><span class="section-number-3">5.1</span> Social Mobility</h3>
+<div id="outline-container-org418205c" class="outline-3">
+<h3 id="org418205c"><span class="section-number-3">5.1</span> Social Mobility</h3>
 <div class="outline-text-3" id="text-5-1">
 <ul class="org-ul">
 <li>Breaking family ties to catalyze social mobility
@@ -549,8 +565,8 @@ their lives under the rule of the Thirty</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9d49fc7" class="outline-3">
-<h3 id="org9d49fc7"><span class="section-number-3">5.2</span> Education</h3>
+<div id="outline-container-org55d30ee" class="outline-3">
+<h3 id="org55d30ee"><span class="section-number-3">5.2</span> Education</h3>
 <div class="outline-text-3" id="text-5-2">
 <ul class="org-ul">
 <li>Educating all of the children using the same standards</li>
@@ -559,15 +575,15 @@ their lives under the rule of the Thirty</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org2f0a077" class="outline-2">
-<h2 id="org2f0a077"><span class="section-number-2">6</span> The Periclean Funeral Oration</h2>
+<div id="outline-container-org692c897" class="outline-2">
+<h2 id="org692c897"><span class="section-number-2">6</span> The Periclean Funeral Oration</h2>
 <div class="outline-text-2" id="text-6">
 <ul class="org-ul">
 <li>Starts by honoring the dead of the Peloponnesian War</li>
 </ul>
 </div>
-<div id="outline-container-org5b3a401" class="outline-3">
-<h3 id="org5b3a401"><span class="section-number-3">6.1</span> Future of Athens</h3>
+<div id="outline-container-org46942ac" class="outline-3">
+<h3 id="org46942ac"><span class="section-number-3">6.1</span> Future of Athens</h3>
 <div class="outline-text-3" id="text-6-1">
 <ul class="org-ul">
 <li>Rebuild the Empire</li>
@@ -576,8 +592,8 @@ their lives under the rule of the Thirty</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org8257a87" class="outline-3">
-<h3 id="org8257a87"><span class="section-number-3">6.2</span> Values</h3>
+<div id="outline-container-org2013f65" class="outline-3">
+<h3 id="org2013f65"><span class="section-number-3">6.2</span> Values</h3>
 <div class="outline-text-3" id="text-6-2">
 <ul class="org-ul">
 <li>Democracy is critical to the maintenance of the state</li>
@@ -586,12 +602,12 @@ their lives under the rule of the Thirty</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org33e7831" class="outline-3">
-<h3 id="org33e7831"><span class="section-number-3">6.3</span> Policy</h3>
+<div id="outline-container-orgd7632d5" class="outline-3">
+<h3 id="orgd7632d5"><span class="section-number-3">6.3</span> Policy</h3>
 <div class="outline-text-3" id="text-6-3">
 </div>
-<div id="outline-container-org877c0f8" class="outline-4">
-<h4 id="org877c0f8"><span class="section-number-4">6.3.1</span> Periclean Philosophy</h4>
+<div id="outline-container-org553dcfd" class="outline-4">
+<h4 id="org553dcfd"><span class="section-number-4">6.3.1</span> Periclean Philosophy</h4>
 <div class="outline-text-4" id="text-6-3-1">
 <ul class="org-ul">
 <li>Open borders are necessary to share our knowledge and culture</li>
@@ -606,8 +622,8 @@ _ Education is not a hobby, it's something that must guide decision-making
 </p>
 </div>
 </div>
-<div id="outline-container-org27f3b9f" class="outline-4">
-<h4 id="org27f3b9f"><span class="section-number-4">6.3.2</span> The Socratic Rebuttal</h4>
+<div id="outline-container-org98c68e6" class="outline-4">
+<h4 id="org98c68e6"><span class="section-number-4">6.3.2</span> The Socratic Rebuttal</h4>
 <div class="outline-text-4" id="text-6-3-2">
 <ul class="org-ul">
 <li>Empire is important but not a requirement</li>
@@ -617,16 +633,16 @@ _ Education is not a hobby, it's something that must guide decision-making
 </div>
 </div>
 </div>
-<div id="outline-container-orge49b916" class="outline-2">
-<h2 id="orge49b916"><span class="section-number-2">7</span> Debating The Republic</h2>
+<div id="outline-container-org9f42961" class="outline-2">
+<h2 id="org9f42961"><span class="section-number-2">7</span> Debating The Republic</h2>
 <div class="outline-text-2" id="text-7">
 </div>
-<div id="outline-container-org1c51837" class="outline-3">
-<h3 id="org1c51837"><span class="section-number-3">7.1</span> Socratics</h3>
+<div id="outline-container-org2422f31" class="outline-3">
+<h3 id="org2422f31"><span class="section-number-3">7.1</span> Socratics</h3>
 <div class="outline-text-3" id="text-7-1">
 </div>
-<div id="outline-container-orgd00b623" class="outline-4">
-<h4 id="orgd00b623"><span class="section-number-4">7.1.1</span> Leadership Qualities</h4>
+<div id="outline-container-org10c4abc" class="outline-4">
+<h4 id="org10c4abc"><span class="section-number-4">7.1.1</span> Leadership Qualities</h4>
 <div class="outline-text-4" id="text-7-1-1">
 <ul class="org-ul">
 <li>Love of learning</li>
@@ -635,8 +651,8 @@ _ Education is not a hobby, it's something that must guide decision-making
 </ul>
 </div>
 </div>
-<div id="outline-container-org38ad5bc" class="outline-4">
-<h4 id="org38ad5bc"><span class="section-number-4">7.1.2</span> Education</h4>
+<div id="outline-container-orgd5df035" class="outline-4">
+<h4 id="orgd5df035"><span class="section-number-4">7.1.2</span> Education</h4>
 <div class="outline-text-4" id="text-7-1-2">
 <ul class="org-ul">
 <li>Begins with understanding the arts, gentleness, and compassion</li>
@@ -651,8 +667,8 @@ participation and devotion to their state</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb8181f2" class="outline-4">
-<h4 id="orgb8181f2"><span class="section-number-4">7.1.3</span> Citizenship</h4>
+<div id="outline-container-org6da06cd" class="outline-4">
+<h4 id="org6da06cd"><span class="section-number-4">7.1.3</span> Citizenship</h4>
 <div class="outline-text-4" id="text-7-1-3">
 <ul class="org-ul">
 <li>Anyone with the necessary aptitude, including women, can become citizens</li>
@@ -660,8 +676,8 @@ participation and devotion to their state</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org543a411" class="outline-3">
-<h3 id="org543a411"><span class="section-number-3">7.2</span> Thrasybulans</h3>
+<div id="outline-container-orgfda8876" class="outline-3">
+<h3 id="orgfda8876"><span class="section-number-3">7.2</span> Thrasybulans</h3>
 <div class="outline-text-3" id="text-7-2">
 <ul class="org-ul">
 <li>Injustice, while bad, indicates an unjust person rather than an unjust state</li>
@@ -669,8 +685,8 @@ participation and devotion to their state</li>
 <li>Socratic education is infeasible for all, which is unequal</li>
 </ul>
 </div>
-<div id="outline-container-orgfb077ee" class="outline-4">
-<h4 id="orgfb077ee"><span class="section-number-4">7.2.1</span> Citizenship</h4>
+<div id="outline-container-orgaf34888" class="outline-4">
+<h4 id="orgaf34888"><span class="section-number-4">7.2.1</span> Citizenship</h4>
 <div class="outline-text-4" id="text-7-2-1">
 <ul class="org-ul">
 <li>Culture is critical to citizenship</li>
@@ -678,12 +694,12 @@ participation and devotion to their state</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org88f23e9" class="outline-3">
-<h3 id="org88f23e9"><span class="section-number-3">7.3</span> Solonians</h3>
+<div id="outline-container-orgad57163" class="outline-3">
+<h3 id="orgad57163"><span class="section-number-3">7.3</span> Solonians</h3>
 <div class="outline-text-3" id="text-7-3">
 </div>
-<div id="outline-container-org5ca20a5" class="outline-4">
-<h4 id="org5ca20a5"><span class="section-number-4">7.3.1</span> Leadership Qualities</h4>
+<div id="outline-container-org84fdbd2" class="outline-4">
+<h4 id="org84fdbd2"><span class="section-number-4">7.3.1</span> Leadership Qualities</h4>
 <div class="outline-text-4" id="text-7-3-1">
 <ul class="org-ul">
 <li>Leaders should be well-versed and acting in the best interest of the state</li>
@@ -692,8 +708,8 @@ participation and devotion to their state</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org767e431" class="outline-4">
-<h4 id="org767e431"><span class="section-number-4">7.3.2</span> Societal Qualities</h4>
+<div id="outline-container-org41c35bb" class="outline-4">
+<h4 id="org41c35bb"><span class="section-number-4">7.3.2</span> Societal Qualities</h4>
 <div class="outline-text-4" id="text-7-3-2">
 <ul class="org-ul">
 <li>Forgiveness is necessary for past wrong-doings</li>
@@ -703,8 +719,8 @@ don't have the education necessary to have a strong, educational conversation</l
 </ul>
 </div>
 </div>
-<div id="outline-container-org21b9fe8" class="outline-4">
-<h4 id="org21b9fe8"><span class="section-number-4">7.3.3</span> Citizenship</h4>
+<div id="outline-container-org455905c" class="outline-4">
+<h4 id="org455905c"><span class="section-number-4">7.3.3</span> Citizenship</h4>
 <div class="outline-text-4" id="text-7-3-3">
 <ul class="org-ul">
 <li>Only strong, wealthy individuals should have citizenship to preserve the quality of Athens</li>
@@ -713,16 +729,16 @@ don't have the education necessary to have a strong, educational conversation</l
 </div>
 </div>
 </div>
-<div id="outline-container-orga401672" class="outline-2">
-<h2 id="orga401672"><span class="section-number-2">8</span> Characters &amp; Intro Notes</h2>
+<div id="outline-container-org6a103d8" class="outline-2">
+<h2 id="org6a103d8"><span class="section-number-2">8</span> Characters &amp; Intro Notes</h2>
 <div class="outline-text-2" id="text-8">
 </div>
-<div id="outline-container-org6df4aa1" class="outline-3">
-<h3 id="org6df4aa1"><span class="section-number-3">8.1</span> Characters</h3>
+<div id="outline-container-org2792f20" class="outline-3">
+<h3 id="org2792f20"><span class="section-number-3">8.1</span> Characters</h3>
 <div class="outline-text-3" id="text-8-1">
 </div>
-<div id="outline-container-orgdef1c44" class="outline-4">
-<h4 id="orgdef1c44"><span class="section-number-4">8.1.1</span> Assignments</h4>
+<div id="outline-container-org9941fdf" class="outline-4">
+<h4 id="org9941fdf"><span class="section-number-4">8.1.1</span> Assignments</h4>
 <div class="outline-text-4" id="text-8-1-1">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -814,12 +830,12 @@ don't have the education necessary to have a strong, educational conversation</l
 </div>
 </div>
 
-<div id="outline-container-org843a213" class="outline-3">
-<h3 id="org843a213"><span class="section-number-3">8.2</span> Socrates &amp; Plato</h3>
+<div id="outline-container-orgbf43ea8" class="outline-3">
+<h3 id="orgbf43ea8"><span class="section-number-3">8.2</span> Socrates &amp; Plato</h3>
 <div class="outline-text-3" id="text-8-2">
 </div>
-<div id="outline-container-org8f57f21" class="outline-4">
-<h4 id="org8f57f21"><span class="section-number-4">8.2.1</span> Socrates</h4>
+<div id="outline-container-org6219661" class="outline-4">
+<h4 id="org6219661"><span class="section-number-4">8.2.1</span> Socrates</h4>
 <div class="outline-text-4" id="text-8-2-1">
 <ul class="org-ul">
 <li>We have no texts by Socrates
@@ -834,8 +850,8 @@ don't have the education necessary to have a strong, educational conversation</l
 </ul>
 </div>
 </div>
-<div id="outline-container-org389dd4f" class="outline-4">
-<h4 id="org389dd4f"><span class="section-number-4">8.2.2</span> Biography</h4>
+<div id="outline-container-org650567e" class="outline-4">
+<h4 id="org650567e"><span class="section-number-4">8.2.2</span> Biography</h4>
 <div class="outline-text-4" id="text-8-2-2">
 <ul class="org-ul">
 <li>Parents: Sophroniscus * Pharnarete</li>
@@ -848,8 +864,8 @@ don't have the education necessary to have a strong, educational conversation</l
 </ul>
 </div>
 </div>
-<div id="outline-container-org8c445eb" class="outline-4">
-<h4 id="org8c445eb"><span class="section-number-4">8.2.3</span> Plato</h4>
+<div id="outline-container-orga760108" class="outline-4">
+<h4 id="orga760108"><span class="section-number-4">8.2.3</span> Plato</h4>
 <div class="outline-text-4" id="text-8-2-3">
 <ul class="org-ul">
 <li>Greek philosopher, mathematician, stident of socrates, wroter of philosophical dialogue</li>
@@ -865,8 +881,8 @@ don't have the education necessary to have a strong, educational conversation</l
 </ul>
 </div>
 </div>
-<div id="outline-container-org9d15c89" class="outline-4">
-<h4 id="org9d15c89"><span class="section-number-4">8.2.4</span> Plato's Argumentation</h4>
+<div id="outline-container-org4bb4b8d" class="outline-4">
+<h4 id="org4bb4b8d"><span class="section-number-4">8.2.4</span> Plato's Argumentation</h4>
 <div class="outline-text-4" id="text-8-2-4">
 <ul class="org-ul">
 <li>Inductive reasoning: from particular examples to general truths</li>
@@ -878,8 +894,8 @@ to somehting that is unfamiliar to them</li>
 </div>
 </div>
 
-<div id="outline-container-orgfdde9f6" class="outline-4">
-<h4 id="orgfdde9f6"><span class="section-number-4">8.2.5</span> The Republic</h4>
+<div id="outline-container-org8538578" class="outline-4">
+<h4 id="org8538578"><span class="section-number-4">8.2.5</span> The Republic</h4>
 <div class="outline-text-4" id="text-8-2-5">
 <ul class="org-ul">
 <li>Written 380-375 BCE but claims to record a conversation during the Peloponnesian War</li>
@@ -894,7 +910,7 @@ to somehting that is unfamiliar to them</li>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sudhan Chitgopkar</p>
-<p class="date">Created: 2020-09-17 Thu 11:33</p>
+<p class="date">Created: 2020-09-17 Thu 11:41</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
