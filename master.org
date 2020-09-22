@@ -1,15 +1,13 @@
 * 09.21.20
 ** School
-*** CSCI1730 [0%]
-**** TODO Assn03
+*** CSCI1730 [33%]
+**** DONE Assn03
      DEADLINE: <2020-09-25 Fri>
-**** IN-PROGRESS Dietel Readings
+**** TODO Dietel Readings
 **** TODO Exam Review
 *** ECOL1000 [0%]
 **** IN-PROGRESS Exam Study Guide
-     DEADLINE: <2020-09-21 Mon>
 **** WAITING Exam 1
-     SCHEDULED: <2020-09-23 Wed>
 *** ECOL1000L [0%]
 **** TODO SimBio Lab
      DEADLINE: <2020-09-23 Wed>
@@ -30,8 +28,8 @@
 *** MATH4670 [0%]
 **** TODO Weekly Meeting Time
 *** MATH4950 [%]
-*** FYOS1000 [0%]
-**** TODO Check-ins
+*** FYOS1000 [50%]
+**** DONE Check-ins
      DEADLINE: <2020-09-22 Tue>
 **** TODO PLaTO Course
      DEADLINE: <2020-09-24 Thu>
