@@ -5,11 +5,12 @@
      DEADLINE: <2020-09-25 Fri>
 **** TODO Dietel Readings
 **** TODO Exam Review
-*** ECOL1000 [50%]
+*** ECOL1000 [100%]
 **** DONE Exam Study Guide
-**** TODO Exam 1
-*** ECOL1000L [0%]
-**** TODO SimBio Lab
+**** DONE Exam 1
+     DEADLINE: <2020-09-23 Wed>
+*** ECOL1000L [100%]
+**** DONE SimBio Lab
      DEADLINE: <2020-09-23 Wed>
 *** ECON2106 [0%]
 **** TODO Econ V1-4
