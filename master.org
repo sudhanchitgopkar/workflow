@@ -5,9 +5,9 @@
      DEADLINE: <2020-09-25 Fri>
 **** TODO Dietel Readings
 **** TODO Exam Review
-*** ECOL1000 [0%]
-**** IN-PROGRESS Exam Study Guide
-**** WAITING Exam 1
+*** ECOL1000 [50%]
+**** DONE Exam Study Guide
+**** TODO Exam 1
 *** ECOL1000L [0%]
 **** TODO SimBio Lab
      DEADLINE: <2020-09-23 Wed>
@@ -16,6 +16,10 @@
 **** TODO Econ V4-8
 **** TODO Econ HW5
      DEADLINE: <2020-09-25 Fri>
+**** TODO Econ Practice Test
+     DEADLINE: <2020-09-24 Thu 11:10>
+**** WAITING Econ Class Review 
+     SCHEDULED: <2020-09-24 Thu 11:10>
 *** INTL3300 [0%]
 **** TODO INTL Quiz4
      DEADLINE: <2020-09-25 Fri>
@@ -28,28 +32,33 @@
 *** MATH4670 [0%]
 **** TODO Weekly Meeting Time
 *** MATH4950 [%]
-*** FYOS1000 [50%]
+*** FYOS1000 [100%]
 **** DONE Check-ins
      DEADLINE: <2020-09-22 Tue>
-**** TODO PLaTO Course
-     DEADLINE: <2020-09-24 Thu>
+**** DONE PLaTO Course
+     DEADLINE: <2020-09-26 Sat>
 ** Orgs
-*** MUN [0%]
-**** TODO Socials Master
+*** MUN [100%]
+**** DONE Socials Master
      DEADLINE: <2020-09-22 Tue 20:00>
-**** TODO Background Guide
+**** DONE Background Guide
      DEADLINE: <2020-09-22 Tue 20:00>
+**** DONE Meeting 2
+     SCHEDULED: <2020-09-22 Tue 19:30>
 *** Finch [0%]
 **** TODO Recap Video
 *** UGAHacks [0%]
 **** TODO Carson Email
 **** TODO General Emails
+**** WAITING Headshots
+     SCHEDULED: <2020-09-23 Wed 17:00>
 *** TEDxUGA [0%]
 **** TODO Application
 *** Honors [0%]
 **** TODO FFR Email
 ** Tutoring
-*** TODO Noah 
+*** DONE Noah
+    SCHEDULED: <2020-09-22 Tue 18:00>
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
