@@ -1,3 +1,81 @@
+* Chapter 5
+** Introduction
+- Efficiency: Are we getting the most that we can out of our scarce resources?
+- Equity: Is what we're getting out of our resources fairly dstributed?
+** Resource Allocation Methods
+- Scarce resources might be allocated by
+  - Market price
+  - Command (government, organizations and their hierarchical structures, rations, etc.)
+  - Majority rule
+  - Contest
+  - First come, first served
+  - Lottery
+  - Force
+** Demand and Consumer Surplus
+- Demand, Willingness to Pay, and Value
+  - Value is what we get, price is what we pay
+  - The value of one more unit of a good or service is its marginal benefit
+  - The maxumum price that a person is willing to pay reveals marginal benefit
+  - The demand curve is a marginal benefit curve
+- Individual Demand and Market Demand
+  - The relationship between the price of a good and the quantity demanded
+    - by one person: individual demand
+    - by all buyers in the market: market demand
+  - The market demand curve is the horizontal sum of individual demand curves
+- Consumer Surplus
+  - the excess of the benefit recieved from a good over the amount paid for it
+  - Calculate as the marginal benefit of a good - price, summed over quantity bought
+  - Market consumer surplus is the sum of individual consumer surplus
+** Supply and Producer Surplus
+- Supply and Marginal Cost
+  - To make a profit, firms must sell their output for a price > cost of production
+  - Cost is what the producer gives up, price is what the producer recieves
+- Supply, Marginal Cost, and Minimum Supply-Price
+  - The cost of one more unit of a good or service is the marginal cost
+  - The minimum price that a firm is willing to accept is its marginal cost
+  - A supply curve is a marginal cost curve
+- Producer surplus
+  - The excess of the amount recieved from a sale over the cost of production
+  - Calculate as price - marginal cost, summed over quantity
+** Is the Market Efficient?
+- Efficiency of Competitive Equilibrium
+  - Resources are allocated efficienty when marginal social benefit = marginal social cost
+  - If nobody other than producers and consumers are effected, the competitive equilibrium
+    can allocate resources efficiently
+** Underproduction and Overproduction
+- Market failure occurs upon an inefficient outcome (overproduction or underproduction)
+- Deadweight loss is the quantification of inefficiency by calculating the area of the 
+  full triangle before or after the equilibrium on a marginal social benefit & cost curve
+** Market Failure
+- Sources of Market Failure:
+  - Price and quantity regulations -> blocks price & production, leads to underproduction
+  - Taxes and subsidies -> taxes lead to underproduction, subsidies lead to overproduction
+  - Externalities -> a cost/benefot affecting someone other than seller/buyer, leads to either
+    underproduction or overproduction
+  - Public Goods and Common Resources
+    - Public goods: benefit everyone, nobody can be excluded. Nobody wants to pay for a public
+      good, leading to underproduction.
+    - Common resouce: owned by nobody, but can be used by everyone. Leads to tragedy of the commons
+      and overproduction
+    - Monopoly -> self-interest to produce profits results in underproduction
+    - High Transaction costs -> leads to underproduction
+** Fairness
+- Ideas of fairness can be divided into two rules
+  - Not fair if the result isn't fair
+    - Utilitarianism: greatest happiness for greatest number
+  - Not far if the rules aren't fair
+*** It's not Fair if the Results aren't Fair
+- If everyone gets the same marginal utility from a given amount of income, and 
+  if the marginal benefit of income decreases as income increases, then taking a dollar from a 
+  richer person and giving it to a poorer person increases total benefit
+- Only when income is equally distributed has the greatest happiness been achieved
+- Utlitarianism ignores the cost of making income transfers
+- Recognizing these costs leads to the big tradeoff between efficiency and fairness
+*** It's not Fair if Rules aren't Fair
+- Symmetry principle: the requirement that people in similar situation be treated similarly
+- Nozick suggests that fairness is based on two rules
+  - The state must create and enforce laws that establish/protect private property
+  - Private property may be transferred form one person to another only by voluntary exchange
 * Chapter 4
 ** Introduction to Elasticity
 - closeness of substitutes is critical to understanding elasticity of supply and demand
