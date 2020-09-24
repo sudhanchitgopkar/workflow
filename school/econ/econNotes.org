@@ -34,6 +34,8 @@
   - The cost of one more unit of a good or service is the marginal cost
   - The minimum price that a firm is willing to accept is its marginal cost
   - A supply curve is a marginal cost curve
+  - The market supply curve is the horizontal sum of the individual supply
+  curves and is formed by adding the quantities supplied by all the producers at each price.
 - Producer surplus
   - The excess of the amount recieved from a sale over the cost of production
   - Calculate as price - marginal cost, summed over quantity

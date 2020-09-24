@@ -12,27 +12,28 @@
 *** ECOL1000L [100%]
 **** DONE SimBio Lab
      DEADLINE: <2020-09-23 Wed>
-*** ECON2106 [0%]
-**** TODO Econ V1-4
-**** TODO Econ V4-8
-**** TODO Econ HW5
+*** ECON2106 [100%]
+**** DONE Econ V1-4
+**** DONE Econ V4-8
+**** DONE Econ HW5
      DEADLINE: <2020-09-25 Fri>
-**** TODO Econ Practice Test
+**** DONE Econ Practice Test
      DEADLINE: <2020-09-24 Thu 11:10>
-**** WAITING Econ Class Review 
+**** DONE Econ Class Review 
      SCHEDULED: <2020-09-24 Thu 11:10>
-*** INTL3300 [0%]
-**** TODO INTL Quiz4
+*** INTL3300 [100%]
+**** DONE INTL Quiz 4
+     DEADLINE: <2020-09-26 Sat>
+**** ABANDONED Discussion Board #2
      DEADLINE: <2020-09-25 Fri>
-**** TODO Discussion Board #2
-     DEADLINE: <2020-09-25 Fri>
-**** TODO INTL V1-2
+**** DONE INTL V1-2
 *** INTL4970 [0%]
-**** TODO Theory Section
+**** WAITING Theory Section
      DEADLINE: <2020-09-27 Sun>
-*** MATH4670 [0%]
-**** TODO Weekly Meeting Time
-*** MATH4950 [%]
+*** MATH4670 [100%]
+**** DONE Weekly Meeting Time
+*** MATH4950 [100%]
+**** ABANDONED 
 *** FYOS1000 [100%]
 **** DONE Check-ins
      DEADLINE: <2020-09-22 Tue>
@@ -46,8 +47,8 @@
      DEADLINE: <2020-09-22 Tue 20:00>
 **** DONE Meeting 2
      SCHEDULED: <2020-09-22 Tue 19:30>
-*** Finch [0%]
-**** TODO Recap Video
+*** Finch [100%]
+**** ABANDONED Recap Video
 *** UGAHacks [33%]
 **** TODO Carson Email
 **** TODO General Emails
@@ -55,13 +56,16 @@
      SCHEDULED: <2020-09-23 Wed 17:00>
 *** TEDxUGA [0%]
 **** TODO Application
+     DEADLINE: <2020-09-30 Wed>
 *** Honors [0%]
 **** TODO FFR Email
+     DEADLINE: <2020-09-25 Fri>
 ** Tutoring
 *** DONE Noah
     SCHEDULED: <2020-09-22 Tue 18:00>
-*** TODO Tom
-*** TODO Mebin
+*** ABANDONED Tom
+*** DONE Mebin
+    SCHEDULED: <2020-09-25 Fri 15:00>
 *** TODO Debate 1
 *** TODO Debate 2
 * 09.14.20
