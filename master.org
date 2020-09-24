@@ -48,10 +48,10 @@
      SCHEDULED: <2020-09-22 Tue 19:30>
 *** Finch [0%]
 **** TODO Recap Video
-*** UGAHacks [0%]
+*** UGAHacks [33%]
 **** TODO Carson Email
 **** TODO General Emails
-**** WAITING Headshots
+**** DONE Headshots
      SCHEDULED: <2020-09-23 Wed 17:00>
 *** TEDxUGA [0%]
 **** TODO Application

@@ -1,3 +1,59 @@
+* Module 6
+** Democratic Institutions
+*** Legislatures
+- Forum for national political Debate
+- Where laws are proposed or passed
+- Bicameral (two houses)
+  - Senate & House in US
+   - House of Lords & Commons in the UK
+- Unicameral
+  - Single house more likely to be found in smaller and more centralized democracies
+  - Sfound in Norway, South Koera
+*** Judiciary
+- Central to democracy's rule of law
+- Different types of courts and organizations of courts
+- Some countries have a constitutional court solely to interpret constitutional legality,
+  this is shown through judicial review
+- Not all countries have a supreme court that exercises judicial review
+*** Executvies
+ - Head of State
+  - Represents the government on the national/intl stage, mainly symbolid
+- Head of Government
+  - Focuses on policy-making
+- President of the US is both head of state and government
+- Types of Executive systems
+  - Parliamentary
+  - Presidential
+  - Semi-Presidential
+| Presidential                              | Parliamentary                         |
+| Limited government (Separation of powers) | High policy-making efficiency         |
+| Checks and Balances -> Gridlock           | Fusion of divisions != Gridlock       |
+| Popularly-elected executive               | Executive: leader of largest party    |
+| Fixed terms, no long term grip            | Parties can hold power for long times |
+| Elections are candidate-based             | Single party loyalty (?)              |
+** Electoral Systems
+*** Single-member District (SMD)
+- Also called the "first past the post" or "winner take all" system
+- Voting for candidates directly instead of for a party
+- Most likely to result in a two-party system
+  - Called Duverge's Law
+*** Proportional Representation (PR)
+- Made of multi-member districts (mmd) - more than 1 person elected from ea. electoral district
+- People vote for parties moreso than individuals
+- Votes are ranked for parties
+- Proportion of the vote for a particular party wins the party certain amounts of seats
+- Tends to result in multiple parties winning seats, generally leading to electoral thresholds
+*** Mixed Electoral Systems
+- A comboination of SMD and PR systems
+- Ranked voting
+  - Alternative Vote - Australia
+  - Single Transferrable Vote - Ireland
+*** Referenda and Initiatives
+- Some countries put political decisions in the hand of the people through a referendum
+- Can be seen as a cop-out by legislators and executives back to the people
+- Referenda can also be constitutionally-mandated as in Ireland
+- Initiatives are political decisions put to the people due to a petition
+- Certain number of people need to sign a petition before a vote
 * Module 5
 ** Political Economy
 - Political Economy: The study of how politics and economics are related
