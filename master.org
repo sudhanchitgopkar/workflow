@@ -21,14 +21,16 @@
      DEADLINE: <2020-09-24 Thu 11:10>
 **** DONE Econ Class Review 
      SCHEDULED: <2020-09-24 Thu 11:10>
-*** INTL3300 [100%]
+*** INTL3300 [75%]
 **** DONE INTL Quiz 4
      DEADLINE: <2020-09-26 Sat>
 **** ABANDONED Discussion Board #2
      DEADLINE: <2020-09-25 Fri>
 **** DONE INTL V1-2
+**** TODO Case Study Signup
+     DEADLINE: <2020-09-27 Sun>
 *** INTL4970 [0%]
-**** WAITING Theory Section
+**** IN-PROGRESS Theory Section
      DEADLINE: <2020-09-27 Sun>
 *** MATH4670 [100%]
 **** DONE Weekly Meeting Time
@@ -49,16 +51,16 @@
      SCHEDULED: <2020-09-22 Tue 19:30>
 *** Finch [100%]
 **** ABANDONED Recap Video
-*** UGAHacks [33%]
-**** TODO Carson Email
+*** UGAHacks [66%]
+**** DONE Carson Email
 **** TODO General Emails
 **** DONE Headshots
      SCHEDULED: <2020-09-23 Wed 17:00>
 *** TEDxUGA [0%]
-**** TODO Application
+**** TODO TEDx Application
      DEADLINE: <2020-09-30 Wed>
-*** Honors [0%]
-**** TODO FFR Email
+*** Honors [100%]
+**** DONE FFR Email
      DEADLINE: <2020-09-25 Fri>
 ** Tutoring
 *** DONE Noah
@@ -66,7 +68,7 @@
 *** ABANDONED Tom
 *** DONE Mebin
     SCHEDULED: <2020-09-25 Fri 15:00>
-*** TODO Debate 1
+*** ABANDONED Debate 1
 *** TODO Debate 2
 * 09.14.20
 ** School 
