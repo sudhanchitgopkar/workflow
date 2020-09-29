@@ -1,10 +1,61 @@
+* 09.28.20
+** School
+*** CSCI1730 [50%]
+**** TODO CS Exam 1
+     SCHEDULED: <2020-09-29 Tue>
+**** ABANDONED Assn04
+     DEADLINE: <2020-10-02 Fri>
+*** ECOL1000 [0%]
+**** TODO iClicker Assignment
+     DEADLINE: <2020-09-30 Wed>
+**** TODO Ecol HW 05
+     DEADLINE: <2020-10-02 Fri>
+*** ECOL1000L [0%]
+**** TODO Data Lab
+     SCHEDULED: <2020-09-30 Wed>
+**** TODO Lifestlye Check 1
+     DEADLINE: <2020-10-07 Wed>
+*** ECON2106 [0%]
+**** TODO Econ Exam 1
+     DEADLINE: <2020-10-01 Thu>
+*** INTL3300 [0%]
+**** TODO Journal Reflection 3
+     DEADLINE: <2020-10-04 Sun>
+*** INTL4970 [0%]
+*** MATH4670 [100%]
+**** DONE Class
+**** DONE Review Follow-up
+*** MATH4950 [%]
+*** FYOS1000 [0%]
+**** TODO Email Norman
+** Orgs
+*** MUN [0%]
+**** WAITING MUN Meeting
+*** Finch [%]
+*** UGAHacks [0%]
+**** TODO Update Handshake
+     DEADLINE: <2020-09-30 Wed>
+**** WAITING Career Fair
+     SCHEDULED: <2020-09-30 Wed>
+**** TODO CS Career Fair Signup
+     DEADLINE: <2020-09-29 Tue>
+*** TEDxUGA [0%]
+**** TODO TEDx Application
+     DEADLINE: <2020-09-30 Wed>
+** Tutoring
+*** TODO Noah 
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+
 * 09.21.20
 ** School
-*** CSCI1730 [33%]
+*** CSCI1730 [100%]
 **** DONE Assn03
      DEADLINE: <2020-09-25 Fri>
-**** TODO Dietel Readings
-**** TODO Exam Review
+**** ABANDONED Dietel Readings
+**** MIGRATED Exam Review
 *** ECOL1000 [100%]
 **** DONE Exam Study Guide
 **** DONE Exam 1
@@ -21,16 +72,16 @@
      DEADLINE: <2020-09-24 Thu 11:10>
 **** DONE Econ Class Review 
      SCHEDULED: <2020-09-24 Thu 11:10>
-*** INTL3300 [75%]
+*** INTL3300 [100%]
 **** DONE INTL Quiz 4
      DEADLINE: <2020-09-26 Sat>
 **** ABANDONED Discussion Board #2
      DEADLINE: <2020-09-25 Fri>
 **** DONE INTL V1-2
-**** TODO Case Study Signup
+**** DONE Case Study Signup
      DEADLINE: <2020-09-27 Sun>
-*** INTL4970 [0%]
-**** IN-PROGRESS Theory Section
+*** INTL4970 [100%]
+**** DONE Theory Section
      DEADLINE: <2020-09-27 Sun>
 *** MATH4670 [100%]
 **** DONE Weekly Meeting Time
@@ -51,13 +102,13 @@
      SCHEDULED: <2020-09-22 Tue 19:30>
 *** Finch [100%]
 **** ABANDONED Recap Video
-*** UGAHacks [66%]
+*** UGAHacks [100%]
 **** DONE Carson Email
-**** TODO General Emails
+**** DONE General Emails
 **** DONE Headshots
      SCHEDULED: <2020-09-23 Wed 17:00>
-*** TEDxUGA [0%]
-**** TODO TEDx Application
+*** TEDxUGA [100%]
+**** MIGRATED TEDx Application
      DEADLINE: <2020-09-30 Wed>
 *** Honors [100%]
 **** DONE FFR Email
@@ -69,7 +120,7 @@
 *** DONE Mebin
     SCHEDULED: <2020-09-25 Fri 15:00>
 *** ABANDONED Debate 1
-*** TODO Debate 2
+*** ABANDONED Debate 2
 * 09.14.20
 ** School 
 *** CSCI1730 [100%]
