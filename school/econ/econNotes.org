@@ -251,6 +251,51 @@
 - Decrease in supply
   - At the original price, there is a shortage
   - Price therefore increases
+* Chapter 2
+** Production Possibilities Frontier
+- PPF is the boundary between combinations of goods and services that can and can't be prodiced
+- Points outside the PPF are unattainable
+*** Production Efficiency
+- We can achieve production efficiency if we cannt make more of one good without making les
+  of another such good.
+- All points on the PPF are efficient, while all points within the PPF are inefficient
+** Opportunity Cost on the PPF
+- Every choice/movement along the PPF is an opportunity cost
+- Opportunity Cost = Amnt given up/Amnt gained
+- Opportunity cost increases as we move along the PPF
+  - Because resources are not equally productive for all activities, the PPF bows outwards
+  - The outward bow of the PPF means that as the quantity of each good increases, so does 
+    the opportunity cost
+** Marginal Costs
+- Marginal Cost: The opportunity cost of producing one more unit of that good
+- Marginal Cost curve slopes upward for the same reason that the PPF bows outward
+** Marginal Benefits
+- Preferences: A description of a person's likes and dislikes
+- Marignal benefit: the benefit recieved from consuming one more unit of that good
+- Marginal benefot is measured by the amount that a person is willing to pay for one more unit
+  of a particular good or service
+- Principle of Decreasing Marginal Benefit: The more we have of any good, the smaller the marginal
+  benefit of that good
+** Allocative Efficiency
+- When we cannot produce more of any one good without giving up some other good that we value
+  more highly
+- Point at which marginal cost and marginal benefit curve meet
+** Comparative & Absolute advantage
+- Comparative advantage: When a person can perform an activity at a lower opportunity cost than
+  anyone else
+- Absolute advantage: When a person is more productiv than others
+** Economic Growth
+- Two key factors:
+  - Technnological Change
+  - Capital accumulation (growth of capital resources)
+- Economic growth is not free, investing in tech and capital costs production today but helps
+  production tomorrow through smart investment
+** Cricular Flow Model
+- Need:
+  - Firms (take input, make output)
+  - Markets
+  - Property Rights
+  - Money
 * Chapter 1
 ** Scarcity
 - all economic questions arise because we want more than we can get
