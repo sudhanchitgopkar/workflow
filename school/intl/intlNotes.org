@@ -1,3 +1,13 @@
+* Module 7
+** Comparing the US & UK
+| UK                                          | US                            |
+| Parliamentary system                        | Presdential system            |
+| Single Member District Majoritarian System  | SMD + Majoritarian system     |
+| No single written constitution              | constitution est. 1787        |
+| Limited local govt. some devolved authority | Federal system w state powers |
+| 3 Branches of Govt. + Crown (Ceremonial)    | 3 Branches of gove            |
+| No checks and balances, sep. of powers      | Sep. of powers                |
+| House of Commons, House of Lords            | House of Rep, Senate          |
 * Module 6
 ** Democratic Institutions
 *** Legislatures

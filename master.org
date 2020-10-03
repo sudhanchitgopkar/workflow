@@ -44,15 +44,15 @@
 *** TEDxUGA [100%]
 **** DONE TEDx Application
      DEADLINE: <2020-09-30 Wed>
-** Tutoring [60%]
+** Tutoring [100%]
 *** ABANDONED Noah 
 *** DONE Tom
     SCHEDULED: <2020-10-01 Thu 12:45>
 *** DONE Mebin
     SCHEDULED: <2020-09-30 Wed 15:00>
-*** WAITING Debate 1
+*** DONE Debate 1
     SCHEDULED: <2020-10-02 Fri 15:00>
-*** WAITING Debate 2
+*** DONE Debate 2
     SCHEDULED: <2020-10-03 Sat 10:00>
 * 09.21.20
 ** School
