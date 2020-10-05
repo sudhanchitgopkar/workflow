@@ -42,6 +42,14 @@
   - Can be neutral, beneficial, or harmful
 - Genetic Recombination: The production of eggs and sperm that results in a shuffling of 
   alleles, creating new combinations in offspring
+** Natural Selection
+- Constant struggle of organisms to survive and mate
+- Organisms tend to produce more offspring that can survive
+- Individuals of the same species are not identical
+- Evidence of Natural Selection: Selective breeding (artificial selection) of dogs and cats
+- Natural selection results in changes in gene frequencies
+  - Some individuals will be able to obtain more resources and can produce more offspring
+   - Differential reproductive success results in changes to gene frequencies
 * 09.18.20
 ** Hurricanes
 *** How Hurricanes Form
