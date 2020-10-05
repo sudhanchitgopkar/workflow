@@ -1,3 +1,46 @@
+* 10.05.20
+** School
+*** CSCI1730 [0%]
+**** TODO Module 13-16
+**** TODO Assn04
+     DEADLINE: <2020-10-09 Fri>
+*** ECOL1000 [50%]
+**** DONE Sapling 3.1
+     DEADLINE: <2020-10-09 Fri>
+**** TODO Email Incorrect Grade
+*** ECOL1000L [0%]
+**** TODO Food Impacts Assignments
+     DEADLINE: <2020-10-07 Wed>
+**** TODO Diet Quiz
+     DEADLINE: <2020-10-07 Wed>
+**** TODO Data Check 1
+     DEADLINE: <2020-10-07 Wed>
+*** ECON2106 [%]
+*** INTL3300 [%]
+*** INTL4970 [0%]
+**** TODO Theory Follow-up
+     DEADLINE: <2020-10-05 Mon>
+*** MATH4670 [%]
+*** MATH4950 [%]
+*** FYOS1000 [%]
+** Orgs
+*** MUN [0%]
+**** WAITING MUN Meeting
+     SCHEDULED: <2020-10-06 Tue 20:00>
+*** Finch [%]
+*** UGAHacks [0%]
+**** TODO Career Fair Follow-ups 
+     DEADLINE: <2020-10-05 Mon>
+*** Misc [%]
+**** Ramsey Reward Pickup
+     SCHEDULED: <2020-10-08 Thu 13:00>
+** Tutoring [0%]
+*** TODO Noah 
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+
 * 09.28.20
 ** School
 *** CSCI1730 [100%]
@@ -16,10 +59,10 @@
 *** ECON2106 [100%]
 **** DONE Econ Exam 1
      DEADLINE: <2020-10-01 Thu>
-*** INTL3300 [0%]
-**** TODO Journal Reflection 3
+*** INTL3300 [100%]
+**** DONE Journal Reflection 3
      DEADLINE: <2020-10-04 Sun>
-**** TODO INTL V1-2
+**** DONE INTL V1-2
 *** INTL4970 
 *** MATH4670 [100%]
 **** DONE Class
@@ -516,3 +559,4 @@
 *** Mebin
 *** Debate 1
 *** Debate 2
+    
