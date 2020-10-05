@@ -1,3 +1,5 @@
+* Chapter 6
+* 
 * Chapter 5
 ** Introduction
 - Efficiency: Are we getting the most that we can out of our scarce resources?

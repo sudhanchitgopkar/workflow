@@ -4,38 +4,44 @@
 **** TODO Module 13-16
 **** TODO Assn04
      DEADLINE: <2020-10-09 Fri>
-*** ECOL1000 [50%]
+*** ECOL1000 [100%]
 **** DONE Sapling 3.1
-     DEADLINE: <2020-10-09 Fri>
-**** TODO Email Incorrect Grade
-*** ECOL1000L [0%]
+     DEADLINE: <2020-10-05 Mon>
+**** DONE Email Incorrect Grade
+*** ECOL1000L [33%]
 **** TODO Food Impacts Assignments
      DEADLINE: <2020-10-07 Wed>
-**** TODO Diet Quiz
-     DEADLINE: <2020-10-07 Wed>
+**** DONE Diet Quiz
+     DEADLINE: <2020-10-09 Fri>
 **** TODO Data Check 1
      DEADLINE: <2020-10-07 Wed>
-*** ECON2106 [%]
+*** ECON2106 [0%]
+**** TODO V1-3
+- [ ] V1
+- [ ] V2
+- [ ] V3
+**** TODO Econ HW6
 *** INTL3300 [%]
-*** INTL4970 [0%]
-**** TODO Theory Follow-up
+*** INTL4970 [100%]
+**** DONE Theory Follow-upt
      DEADLINE: <2020-10-05 Mon>
 *** MATH4670 [%]
 *** MATH4950 [%]
 *** FYOS1000 [%]
 ** Orgs
 *** MUN [0%]
-**** WAITING MUN Meeting
+**** MUN Meeting
      SCHEDULED: <2020-10-06 Tue 20:00>
 *** Finch [%]
 *** UGAHacks [0%]
-**** TODO Career Fair Follow-ups 
+**** TODO Career Fair Follow-ups
      DEADLINE: <2020-10-05 Mon>
-*** Misc [%]
+*** Misc [0%]
 **** Ramsey Reward Pickup
      SCHEDULED: <2020-10-08 Thu 13:00>
+**** TODO Advising appointment
 ** Tutoring [0%]
-*** TODO Noah 
+*** TODO Noah
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
@@ -63,11 +69,11 @@
 **** DONE Journal Reflection 3
      DEADLINE: <2020-10-04 Sun>
 **** DONE INTL V1-2
-*** INTL4970 
+*** INTL4970
 *** MATH4670 [100%]
 **** DONE Class
 **** DONE Review Follow-up
-*** MATH4950 
+*** MATH4950
 *** FYOS1000 [100%]
 **** DONE Email Norman
 ** Orgs
@@ -88,7 +94,7 @@
 **** DONE TEDx Application
      DEADLINE: <2020-09-30 Wed>
 ** Tutoring [100%]
-*** ABANDONED Noah 
+*** ABANDONED Noah
 *** DONE Tom
     SCHEDULED: <2020-10-01 Thu 12:45>
 *** DONE Mebin
@@ -118,7 +124,7 @@
      DEADLINE: <2020-09-25 Fri>
 **** DONE Econ Practice Test
      DEADLINE: <2020-09-24 Thu 11:10>
-**** DONE Econ Class Review 
+**** DONE Econ Class Review
      SCHEDULED: <2020-09-24 Thu 11:10>
 *** INTL3300 [100%]
 **** DONE INTL Quiz 4
@@ -134,7 +140,7 @@
 *** MATH4670 [100%]
 **** DONE Weekly Meeting Time
 *** MATH4950 [100%]
-**** ABANDONED 
+**** ABANDONED
 *** FYOS1000 [100%]
 **** DONE Check-ins
      DEADLINE: <2020-09-22 Tue>
@@ -170,11 +176,11 @@
 *** ABANDONED Debate 1
 *** ABANDONED Debate 2
 * 09.14.20
-** School 
+** School
 *** CSCI1730 [100%]
 **** DONE Assn002
      DEADLINE: <2020-09-18 Fri>
-**** DONE Module 9 
+**** DONE Module 9
 **** DONE Module 10
 **** MIGRATED Dietel Readings
 *** ECOL1000 [100%]
@@ -248,7 +254,7 @@
      SCHEDULED: <2020-09-17 Thu 15:00>
 *** DONE Debate 1
      SCHEDULED: <2020-09-18 Fri 15:00>
-*** DONE Debate 2 
+*** DONE Debate 2
 * 09.07.20
 ** School
 *** CSCI1730 [100%]
@@ -261,7 +267,7 @@
 **** DONE Lab 02
      SCHEDULED: <2020-09-08 Tue 09:35>
 **** DONE Module 8
-**** MIGRATED Module 9 
+**** MIGRATED Module 9
 *** ECOL1000 [100%]
 **** DONE HW3
      DEADLINE: <2020-09-11 Fri>
@@ -289,7 +295,7 @@
 **** DONE INTL Videos
 - [X] V1
 - [X] V2
-**** DONE Quiz 3 
+**** DONE Quiz 3
 **** DONE Flipgrid 2
 *** INTL4970 [100%]
 **** DONE Theory Section
@@ -319,16 +325,16 @@
 ** Email
 *** ABANDONED Schneider, Updates
 * 08.30.20
-** School 
+** School
 *** CSCI1730 [100%]
-**** DONE Module 3 Video 
+**** DONE Module 3 Video
 **** DONE Lab 01
      SCHEDULED: <2020-09-01 Tue 09:35>
 **** DONE Module 4-6
 **** DONE Module 7-8c
      DEADLINE: <2020-09-08 Tue>
 *** ECOL1000 [100%]
-**** DONE iCliker Reef Questions 1 
+**** DONE iCliker Reef Questions 1
      DEADLINE: <2020-09-02 Wed>
 **** DONE ECOLHW1
      DEADLINE: <2020-09-01 Tue>
@@ -342,7 +348,7 @@
      DEADLINE: <2020-09-04 Fri>
 *** ECOL1000L [100%]
 **** DONE Intro Discussion
-**** DONE Lifestyle Quiz     
+**** DONE Lifestyle Quiz
 **** MIGRATED Lifestyle Proposal
 *** ECON2106 [100%]
 **** DONE Ch2 Homework
@@ -388,8 +394,8 @@
      DEADLINE: <2020-08-25 Tue 9:00>
 **** DONE Reading 2
      DEADLINE: <2020-08-27 Thu 09:00>
-**** DONE Module 0 Video 
-**** DONE Module 1 Video 
+**** DONE Module 0 Video
+**** DONE Module 1 Video
 **** DONE Module 2 Video
 *** ECOL1000 [100%]
 **** DONE ECOL1.1
@@ -421,7 +427,7 @@
 **** DONE Module 1 [100%]
  DEADLINE: <2020-08-26 Wed>
 - [X] Lecture 1
-- [X] Lecture 2 
+- [X] Lecture 2
 - [X] Reading 1
 - [X] INTL Quiz 1
 - [X] Discussion 1
@@ -444,7 +450,7 @@
 **** DONE Math Zoom Class
      SCHEDULED: <2020-08-24 Mon 13:50-14:- ->
 *** MATH4950 [100%]
-**** DONE Registration 
+**** DONE Registration
 ** Orgs
 *** MUN [100%]
 **** DONE MUN Meeting
@@ -464,7 +470,7 @@
     SCHEDULED: <2020-08-24 Mon 15:30>
 *** DONE Noah 2
     SCHEDULED: <2020-08-27 Thu 15:30>
-*** DONE Debate 
+*** DONE Debate
     SCHEDULED: <2020-08-28 Fri 15:00>
 *** DONE Debate 2
     SCHEDULED: <2020-08-28 Fri 16:00>
@@ -476,29 +482,29 @@
 *** CSCI1730 [100%]
 **** DONE Done Class Rotation
 **** DONE Done Nike Password
-*** ECOL1000 [100%] 
-**** DONE Ecology Zoom Class 
+*** ECOL1000 [100%]
+**** DONE Ecology Zoom Class
      SCHEDULED: <2020-08-21 Fri 12:40>
 **** DONE Sapling Registration
 **** DONE iClicker Reef Registration
-**** DONE Syllabus Quiz 
+**** DONE Syllabus Quiz
 *** ECON2106 [100%]
 **** DONE MyEconLab Registration
 **** DONE Practice Assignment
      DEADLINE: <2020-08-21 Fri>
 *** INTL3300 [100%]
-**** MIGRATED Module 1 [0%] 
+**** MIGRATED Module 1 [0%]
      DEADLINE: <2020-08-26 Wed>
 - [ ] Lecture 1
-- [ ] Lecture 2 
+- [ ] Lecture 2
 - [ ] Reading 1
 - [ ] INTL Quiz 1
 - [ ] Discussion 1
-**** DONE Class Meeting 
+**** DONE Class Meeting
      SCHEDULED: <2020-08-21 Fri 13:55>
 **** DONE Email Online-only
 *** INTL4970 [100%]
-**** DONE Submit Course App 
+**** DONE Submit Course App
      DEADLINE: <2020-08-24 Mon>
 *** MATH-L
 ** Orgs
@@ -511,7 +517,7 @@
 **** MIGRATED [[~/workflow/munTryoutNotes.org][MUN Tryout Info]]
 *** UGAHacks
 *** FRC [100%]
-**** ABANDONED Director Meeting 
+**** ABANDONED Director Meeting
      DEADLINE: <2020-08-21 Fri>
 *** Finch [100%]
 **** DONE COVID Interview
@@ -534,7 +540,7 @@
     DEADLINE: <2020-08-21 Fri>
 *** DONE Iliev, Combinatorics
     DEADLINE: <2020-08-21 Fri>
-    
+
 *** MIGRATED Norman, PLA
 * Template
 ** School
@@ -554,9 +560,8 @@
 *** TEDxUGA [%]
 *** Honors [%]
 ** Tutoring
-*** Noah 
+*** Noah
 *** Tom
 *** Mebin
 *** Debate 1
 *** Debate 2
-    

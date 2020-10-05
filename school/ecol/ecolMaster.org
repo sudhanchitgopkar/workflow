@@ -1,3 +1,25 @@
+* 10.05.20
+- Following widespread usage of antibiotics on humans and animals, waste from livestock and humans
+  is generating antibiotic-resistance bacteria
+- These bacteria are getting back into the environment through out waste
+** Antibiotic Resistance is:
+- A complex problem that involves helping many actors see the big picture and not just their
+  part of it
+- Issues where an action affects (or is affected by) the environment surrounding the issue,
+  either the natural environment or the competitive environment
+- Problem whose solutions are not Obvious
+** Systems Thinking
+- Considers the whole rather than parts of the whole:
+  - Events
+  - Patterns 
+  - Underlying Structure
+** Cycle of Infection
+- Farm animals recieve antibiotics often, developing resistant bacteria in their gut
+- This can be transmitted through produce, waste, shared environments, etc.
+** Bacteria
+- Bacteria are single celled organisms that can grow in colonies
+- Many different kinds of bacteria can grow together in similar environments
+** Explaining Resistance
 * 09.18.20
 ** Hurricanes
 *** How Hurricanes Form
