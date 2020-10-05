@@ -20,6 +20,28 @@
 - Bacteria are single celled organisms that can grow in colonies
 - Many different kinds of bacteria can grow together in similar environments
 ** Explaining Resistance
+- Antibiotics kill almost all antibiotic sensitive bacteria, leaving few sensitive and many unsensitive
+- Reproduction occurs with the mostly-unsensitive remaining bacteria, leaving to many unsensitive off-
+  spring. This increases the amonut of resistant bacteria as a whole.
+** Genetic Variation
+- Variation in the susceptability of bacteria to antibiotics allows for the propogation of 
+  these genes in bacterial communities
+- Individuals of the same species have the same basic gene
+- Alleles: variants of genes that account for the diversity of traits seen in a populat
+- Adaptation: traits that promote the success of a species
+- An adaptive trait for one environmental condition does not mean that it is adaptive for all conditions
+** Genetic Diversity
+- Within populations, biodiversity is measured by genetic diversity
+- Genetic diversity improves survival of a population
+- Outbreeding, through sexual reproduction of not closely related individuals, maximizes genetic 
+  diversity
+- Inbreeding, or mating between closely related individuals, results from small 
+  populations, and increases chances of genetic diseases (e.g., hemophilia, cystic fibrosis, etc.)
+** Sources of Genetic Variation
+- Mutation: A change in the DNA sequence of sex cells that alter a gene
+  - Can be neutral, beneficial, or harmful
+- Genetic Recombination: The production of eggs and sperm that results in a shuffling of 
+  alleles, creating new combinations in offspring
 * 09.18.20
 ** Hurricanes
 *** How Hurricanes Form
