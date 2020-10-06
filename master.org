@@ -24,7 +24,8 @@
 - [ ] V5
 - [ ] V6
 **** IN-PROGRESS Econ HW6
-*** INTL3300 [100%]
+*** INTL3300 [0%]
+**** TODO Lectures 1-2
 *** INTL4970 [100%]
 **** DONE Theory Follow-upt
      DEADLINE: <2020-10-05 Mon>

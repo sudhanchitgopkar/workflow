@@ -42,6 +42,54 @@
 - Is Minimum Wage Fair?
   - Currently 7.25, same since 2009
   - Many economists believe that min wage rates increase unemployment of young, low-skilled workers
+** Taxes
+*** Tax Incidence
+- Tax incidence is the division of the burden of a tax between buyers and sellers
+- When an item is taxes, the price might rise by the full amount of the tax, by a lesser amount,
+  or not at all
+- If market price rises by the full amount of the tax, the buyer pays the tax
+- If the market rises by a lesser amount than the tax, the buyer and seller share the tax burden
+- If the market price doesn't change, sellers pay the tax
+*** Equivalence of a Tax on Buyers and Sellers
+- The effect of a tax is the same, regardless of which side of the market the tax is imposed upon
+- Demand decreases (moves down), Supply decreases (moves up), overall always decreasing quantity
+- Price paid by buyers is always higher than price recieved by sellers
+- Price paid by buyers is always on the original demand curve, price paid by sellers is 
+  always on the original supply curve
+- With no tax, marginal social benefit = marginal social cost, maximizing surplus
+- Taxes decrease quantity, raising buyer's price and lowering seller's cost
+- Tax revenue takes part of the total surplus
+*** Tax Incidence and Elasticity
+- The more inelastic the demand, the larger the buyers' share of the tax
+  - Perfectly inelastic: buyer pays full tax
+  - Perfectly elastic: seller pays full tax
+- The more inelastic the supply, the larger the sellers' share of the tax
+  - Perfectly inelastic supply: seller pays the full tax
+  - Perfectly elastic: buyer pays the full tax
+*** Taxes in Practice
+- Taxes are usually levied on goods and services w inelastic demand or inelastic supply
+- Alcohol, tobacco, and gasoline have inelastic demand, so buyers pay most of the tax
+- Labor has inelastic supply, so sellers usually pay most of the tax
+*** Taxes and Fairness
+- Benefits Principle: People should pay taxes equal to the benefits they recieve from the govt
+- Ability-to-Pay Principle: People should pay taxes based on how easily they can bear the tax
+** Quotas and Subsidies
+- Quota: an upper limit to the quantity of a good that may be produced during a specified period
+- Subsidy: a payment made by the government to a producer
+- Quotas help protect producers to create a profit when the market isn't doing well
+- Quotas make production inefficient and producers have an incentive to cheat
+** Markets for Illegal Goods
+*** Penalties
+- Penalties on sellers has the same effect of a tax on the seller
+- Supply of the good decreases to penalty * cost of being caught + marginal cost 
+  - Supply + Cost of Breaking the Law
+- Penalty on buyers = Demand - cost of breaking the law
+- Opportunity cost increases
+- Penalties on both buyers and sellers is the intersection of S+CBL and D-CBL
+- The new market price is P(c), buyer pays P(b) and seller gets P(s)
+*** Legalizing and Taxing Drugs
+- An illegal good can be legalized and taxed
+- A high enough tax rate decreases consumption to the level that occurs when trade is illegal
 * Chapter 5
 ** Introduction
 - Efficiency: Are we getting the most that we can out of our scarce resources?
