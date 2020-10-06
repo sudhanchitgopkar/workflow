@@ -1,5 +1,47 @@
 * Chapter 6
-* 
+** Price Ceiling 
+- Price ceiling or price cap is a regulation that makes it illegal to charge higher than a 
+  specified level
+- Price ceilings applied to a housing market is called a rent ceiling
+- If the rent ceiling is above equilibrium rent, it has no effect. 
+ A rent ceiling set below the equilibrium creates
+  - A housing shortage
+  - Increased search activity
+  - Black Market
+  - Occurs because the legal price cannot eliminate the shortage and other mechanisms take over
+- Increased search activity: the time spent looking for someone with whom to do business activity
+  - Opp. cost of housing = rent (regulated) + opp cost of search activity (unregulated)
+  - The opportunity cost of housing can exceed unregulated rent (cost is higher than equilibrium)
+- A Black Market: An illegal market that operates alongside a legal market in which a price ceiling
+  or other restriction has been imposed.
+- Rent Ceiling Inefficiency
+  - A rent ceiling below equilibrium leads to inefficient underproduction
+  - Rent ceiling decreases quantity suppled to less than efficient quantity
+  - Marginal social benefit exceeds Marginal cost and deadweight loss occurs
+- Are Rent Ceilings Fair
+  - According to fair rules, rent ceilings are unfair because they block voluntary exchange
+  - According to fair results, a rent ceiling is unfair because it doesn't usually benefit the poor
+  - Allocation methods:
+    - Lower willingness to pay search costs
+    - Lottery, doesn't help the poor more than others
+    - First come, first served
+    - Discrimination
+** Price Floor
+- A price floor is a regulation that makes it illegal to trade at a price lower than a specific lvl
+- Price floor applied to labor market = minimum wage
+- Price floors below the equilibrium have no effect
+- If minimum wage is above equilibrium wage, quantity of labor supplied exceeds quantity demanded
+  by employers, creating a suprlus of labor
+- Because the legal wage rate can't eliminate surplus, this causes unemployment
+- Inefficency of a Minimum Wage
+  - Supply of labor measures the social cost of labor to workers
+  - The demand for labor measures its marginal social benefit
+  - A minimum wage above equilivium wage decreases the quantity of labor emplyed
+  - Deadweight loss arises with potential loss from increased job search costs
+- Ultimately, both this price floor and price ceilings lead to underproduction
+- Is Minimum Wage Fair?
+  - Currently 7.25, same since 2009
+  - Many economists believe that min wage rates increase unemployment of young, low-skilled workers
 * Chapter 5
 ** Introduction
 - Efficiency: Are we getting the most that we can out of our scarce resources?

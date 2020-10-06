@@ -2,7 +2,7 @@
 ** School
 *** CSCI1730 [0%]
 **** TODO Module 13-16
-**** TODO Assn04
+**** IN-PROGRESS Assn04
      DEADLINE: <2020-10-09 Fri>
 *** ECOL1000 [100%]
 **** DONE Sapling 3.1
@@ -16,23 +16,29 @@
 **** TODO Data Check 1
      DEADLINE: <2020-10-07 Wed>
 *** ECON2106 [0%]
-**** TODO V1-3
-- [ ] V1
-- [ ] V2
-- [ ] V3
-**** TODO Econ HW6
-*** INTL3300 [%]
+**** IN-PROGRESS V1-6
+- [X] V1
+- [X] V2
+- [X] V3
+- [ ] V4
+- [ ] V5
+- [ ] V6
+**** IN-PROGRESS Econ HW6
+*** INTL3300 [100%]
 *** INTL4970 [100%]
 **** DONE Theory Follow-upt
      DEADLINE: <2020-10-05 Mon>
-*** MATH4670 [%]
-*** MATH4950 [%]
-*** FYOS1000 [%]
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+*** FYOS1000 [100%]
+**** FYO Seminar
+     SCHEDULED: <2020-10-06 Tue 11:10>
 ** Orgs
 *** MUN [0%]
 **** MUN Meeting
      SCHEDULED: <2020-10-06 Tue 20:00>
-*** Finch [%]
+*** Finch [0%]
+**** TODO Website Redesign
 *** UGAHacks [0%]
 **** TODO Career Fair Follow-ups
      DEADLINE: <2020-10-05 Mon>
@@ -41,11 +47,14 @@
      SCHEDULED: <2020-10-08 Thu 13:00>
 **** TODO Advising appointment
 ** Tutoring [0%]
-*** TODO Noah
+*** WAITING Noah
+    SCHEDULED: <2020-10-07 Wed 10:30>
 *** TODO Tom
 *** TODO Mebin
-*** TODO Debate 1
-*** TODO Debate 2
+*** WAITING Debate 1
+    SCHEDULED: <2020-10-09 Fri 15:00>
+*** WAITING Debate 2
+    SCHEDULED: <2020-10-10 Sat 10:00>
 
 * 09.28.20
 ** School
@@ -565,3 +574,4 @@
 *** Mebin
 *** Debate 1
 *** Debate 2
+
