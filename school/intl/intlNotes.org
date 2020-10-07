@@ -1,3 +1,35 @@
+* Module 8
+** Developed Democracies
+- Post-modern or post-material values: values things more than just the ability to live
+  from day to day; Increasing quality of life through high mass consumption and self-
+  acutalization
+- Began and most prevalent in Europe, least prevalent in Africa w NA,SA in between
+- Economic development often supports democratic development but does not always relate
+- Human Development Index shows that just because a country is rich doesn't mean wealth
+  is evenly distributed
+- Gini Index can be used to show inequality, Social democracies have low gini scores
+  - US is an anomaly here
+  - COVID shows that death rate is extremely low for mercantile democracy
+** The EU & Germany
+*** History of the EU
+- Began as the European Coal and Steel Community (1951)
+- Started with France, Germany, Italy, Benelux
+- Added European Economic Community & European Atomic Energy Community (1957) Treaty of Rome
+- Brought the whole thing together with the Single European Act (1986)
+- Single European Act -> Maastrict Treaty (1991)
+- EU declared (1993)
+- Currently 27 member states
+*** Structure of the EU
+- European Council - heads of govt of each member
+- Council of the EU - Main legislative body, crafts legislation and budget w parliament
+- EU Parliament - elected by citizens of respective member states, shares duties w council
+- Court of Justice of the EU - hears cases brought by/against member states, EU citizens, companies, etc.
+- Court of Auditors - controls EU budget
+- European Central Bank - forms EU econ and monetary policy, manages Euro
+*** Germany & The EU
+- Largest pop of EU members
+- Highest GDP of EU members
+- Second highest employment rate, third lowest unemployment rate with a national min wage
 * Module 7
 ** Comparing the US & UK
 | UK                                          | US                            |

@@ -8,22 +8,20 @@
 **** DONE Sapling 3.1
      DEADLINE: <2020-10-05 Mon>
 **** DONE Email Incorrect Grade
-*** ECOL1000L [33%]
-**** TODO Food Impacts Assignments
+*** ECOL1000L [100%]
+**** DONE Stream Lab
+     SCHEDULED: <2020-10-09 Fri>
+**** DONE Data Check 1
      DEADLINE: <2020-10-07 Wed>
-**** DONE Diet Quiz
-     DEADLINE: <2020-10-09 Fri>
-**** TODO Data Check 1
-     DEADLINE: <2020-10-07 Wed>
-*** ECON2106 [0%]
-**** IN-PROGRESS V1-6
+*** ECON2106 [100%]
+**** DONE V1-6
 - [X] V1
 - [X] V2
 - [X] V3
 - [ ] V4
 - [ ] V5
 - [ ] V6
-**** IN-PROGRESS Econ HW6
+**** DONE Econ HW6
 *** INTL3300 [0%]
 **** TODO Lectures 1-2
 *** INTL4970 [100%]
@@ -36,6 +34,7 @@
      SCHEDULED: <2020-10-06 Tue 11:10>
 ** Orgs
 *** MUN [0%]
+**** TODO Headshot Form
 **** MUN Meeting
      SCHEDULED: <2020-10-06 Tue 20:00>
 *** Finch [0%]
