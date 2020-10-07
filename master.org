@@ -22,8 +22,12 @@
 - [ ] V5
 - [ ] V6
 **** DONE Econ HW6
-*** INTL3300 [0%]
-**** TODO Lectures 1-2
+*** INTL3300 [33%]
+**** DONE Lectures 1-2
+**** WAITING INTL Quiz 5
+     DEADLINE: <2020-10-09 Fri>
+**** WAITING Flipgrid 4
+     DEADLINE: <2020-10-09 Fri>
 *** INTL4970 [100%]
 **** DONE Theory Follow-upt
      DEADLINE: <2020-10-05 Mon>
@@ -33,17 +37,17 @@
 **** FYO Seminar
      SCHEDULED: <2020-10-06 Tue 11:10>
 ** Orgs
-*** MUN [0%]
-**** TODO Headshot Form
-**** MUN Meeting
-     SCHEDULED: <2020-10-06 Tue 20:00>
+*** MUN [100%]
+**** DONE Headshot Form
+**** DONE MUN Meeting
+     SCHEDULED: <2020-10-07 Wed 20:00>
 *** Finch [0%]
 **** TODO Website Redesign
 *** UGAHacks [0%]
 **** TODO Career Fair Follow-ups
      DEADLINE: <2020-10-05 Mon>
 *** Misc [0%]
-**** Ramsey Reward Pickup
+**** WAITING Ramsey Reward Pickup
      SCHEDULED: <2020-10-08 Thu 13:00>
 **** TODO Advising appointment
 ** Tutoring [0%]
