@@ -3,7 +3,7 @@
 *** CSCI1730 [0%]
 **** TODO Module 13-16
 **** IN-PROGRESS Assn04
-     DEADLINE: <2020-10-09 Fri>
+DEADLINE: <2020-10-09 Fri>
 *** ECOL1000 [100%]
 **** DONE Sapling 3.1
      DEADLINE: <2020-10-05 Mon>
@@ -18,9 +18,9 @@
 - [X] V1
 - [X] V2
 - [X] V3
-- [ ] V4
-- [ ] V5
-- [ ] V6
+- [X] V4
+- [X] V5
+- [X] V6
 **** DONE Econ HW6
 *** INTL3300 [33%]
 **** DONE Lectures 1-2
@@ -34,7 +34,7 @@
 *** MATH4670 [100%]
 *** MATH4950 [100%]
 *** FYOS1000 [100%]
-**** FYO Seminar
+**** DONE FYO Seminar
      SCHEDULED: <2020-10-06 Tue 11:10>
 ** Orgs
 *** MUN [100%]
@@ -50,14 +50,14 @@
 **** WAITING Ramsey Reward Pickup
      SCHEDULED: <2020-10-08 Thu 13:00>
 **** TODO Advising appointment
-** Tutoring [0%]
-*** WAITING Noah
+** Tutoring [20%]
+*** DONE Noah
     SCHEDULED: <2020-10-07 Wed 10:30>
 *** TODO Tom
 *** TODO Mebin
 *** WAITING Debate 1
     SCHEDULED: <2020-10-09 Fri 15:00>
-*** WAITING Debate 2
+*** TODO Debate 2
     SCHEDULED: <2020-10-10 Sat 10:00>
 
 * 09.28.20

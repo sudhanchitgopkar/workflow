@@ -1,3 +1,12 @@
+* 10.07.20
+** Genetic Diversity & Natural Selection
+- Genetic diversity in a population is the raw material natural selection
+- The larger the amount of genetic diversity, the higher probability that some individuals from
+  that pool can survive changes to its environment
+- Phenotype = expressed gene
+- Natural selection acts directly on the phenotype, resulting in changes in allele frequencies
+  from parental to offspring generations
+-
 * 10.05.20
 - Following widespread usage of antibiotics on humans and animals, waste from livestock and humans
   is generating antibiotic-resistance bacteria
