@@ -53,7 +53,8 @@ DEADLINE: <2020-10-09 Fri>
 ** Tutoring [20%]
 *** DONE Noah
     SCHEDULED: <2020-10-07 Wed 10:30>
-*** TODO Tom
+*** WAITING Tom
+SCHEDULED: <2020-10-08 Thu 12:45>
 *** TODO Mebin
 *** WAITING Debate 1
     SCHEDULED: <2020-10-09 Fri 15:00>
