@@ -1,3 +1,9 @@
+* 10.11.20
+** Migrated:
+*** TODO Advising Appointment
+DEADLINE: <2020-10-14 Wed>
+*** TODO Website Redesign
+DEADLINE: <2020-10-18 Sun>
 * 10.05.20
 ** School
 *** CSCI1730 [50%]
@@ -41,16 +47,16 @@ DEADLINE: <2020-10-09 Fri>
 **** DONE Headshot Form
 **** DONE MUN Meeting
      SCHEDULED: <2020-10-07 Wed 20:00>
-*** Finch [0%]
-**** IN-PROGRESS Website Redesign
+*** Finch [100%]
+**** MIGRATED Website Redesign
 DEADLINE: <2020-10-18 Sun>
 *** UGAHacks [100%]
 **** DONE Career Fair Follow-ups
      DEADLINE: <2020-10-05 Mon>
-*** Misc [50%]
+*** Misc [100%]
 **** DONE Ramsey Reward Pickup
      SCHEDULED: <2020-10-08 Thu 13:00>
-**** TODO Advising appointment
+**** MIGRATED Advising appointment
 ** Tutoring [60%]
 *** DONE Noah
     SCHEDULED: <2020-10-07 Wed 10:30>
