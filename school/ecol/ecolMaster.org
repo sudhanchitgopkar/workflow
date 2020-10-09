@@ -6,12 +6,11 @@
 - Phenotype = expressed gene
 - Natural selection acts directly on the phenotype, resulting in changes in allele frequencies
   from parental to offspring generations
--
 * 10.05.20
 - Following widespread usage of antibiotics on humans and animals, waste from livestock and humans
   is generating antibiotic-resistance bacteria
 - These bacteria are getting back into the environment through out waste
-** Antibiotic Resistance is:
+** Antibiotic Resistance:
 - A complex problem that involves helping many actors see the big picture and not just their
   part of it
 - Issues where an action affects (or is affected by) the environment surrounding the issue,
