@@ -1,14 +1,51 @@
 * 10.11.20
-** Migrated:
-*** TODO Advising Appointment
-DEADLINE: <2020-10-14 Wed>
-*** TODO Website Redesign
+** School
+*** CSCI1730 [0%]
+**** TODO Assn05
 DEADLINE: <2020-10-18 Sun>
+**** TODO Modules 17-19
+*** ECOL1000 [0%]
+**** TODO iClicker 6
+DEADLINE: <2020-10-15 Thu>
+**** TODO iClicker 7
+DEADLINE: <2020-10-16 Fri>
+*** ECOL1000L [0%]
+**** TODO Food Impacts Assignment
+SCHEDULED: <2020-10-14 Wed>
+*** ECON2106 [0%]
+**** TODO Econ HW 11
+*** INTL3300 [%]
+*** INTL4970 [%]
+*** MATH4670 [%]
+*** MATH4950 [%]
+*** CLAS1010H [0%]
+**** WAITING Preferences Quiz
+** Orgs
+*** MUN [100%]
+**** MUN Meeting
+SCHEDULED: <2020-10-13 Tue 20:00>
+*** Finch [0%]
+**** TODO Website Redesign
+DEADLINE: <2020-10-18 Sun>
+*** UGAHacks [0%]
+**** 1:1 Jeffery Meeting
+SCHEDULED: <2020-10-11 Sun 16:15>
+*** Misc [0%]
+**** TODO Advising Appointment
+DEADLINE: <2020-10-12 Mon>
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+SCHEDULED: <2020-10-12 Mon 11:00>
+*** TODO Debate 2
+*** TODO Debate 3
 * 10.05.20
 ** School
-*** CSCI1730 [50%]
+*** CSCI1730 [100%]
 **** DONE Module 13-16
-**** IN-PROGRESS Assn04
+**** DONE Assn04
 DEADLINE: <2020-10-09 Fri>
 *** ECOL1000 [100%]
 **** DONE Sapling 3.1
@@ -57,15 +94,15 @@ DEADLINE: <2020-10-18 Sun>
 **** DONE Ramsey Reward Pickup
      SCHEDULED: <2020-10-08 Thu 13:00>
 **** MIGRATED Advising appointment
-** Tutoring [60%]
+** Tutoring [100%]
 *** DONE Noah
     SCHEDULED: <2020-10-07 Wed 10:30>
 *** DONE Tom
 SCHEDULED: <2020-10-08 Thu 12:45>
 *** DONE Mebin
-*** WAITING Debate 1
+*** DONE Debate 1
     SCHEDULED: <2020-10-09 Fri 15:00>
-*** TODO Debate 2
+*** MIGRATED Debate 2
     SCHEDULED: <2020-10-10 Sat 10:00>
 
 * 09.28.20
@@ -586,4 +623,3 @@ SCHEDULED: <2020-10-08 Thu 12:45>
 *** Mebin
 *** Debate 1
 *** Debate 2
-
