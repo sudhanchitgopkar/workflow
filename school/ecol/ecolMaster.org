@@ -1,3 +1,40 @@
+* 10.09.20
+** Evolution and Resistance
+- Evolution happens to populations, not individuals
+- Natural selection is the mechanism for evolution
+- Genetic drift more likely with low population size
+- The potential for antibiotic resistance to develop in bacteria is very high
+- Improper waste disposal
+** Athens Water Quality
+- 10/17 Athens watershed are impaired or unhealthy
+- Athens drinking water comes from:
+  - N Oconee River
+  - Middle Oconee River
+  - Cedar Creek
+- Athens had E. Coli outbreaks in water, showing prevalence of bacteria
+** Gonnorhea & Resistance
+- Gonorrhea treatment is done through antibiotics
+- Shown increase in resistance to every drug used to treat Gonnorhea
+- CDC currently recommending two-drug comination to preserve our last
+  highly effective antibiotic
+- Higher reported rates of Gonnorhea occur in SE US, on an overall upward
+  trend with younger populations
+** Developing new Antibiotics
+- First antibiotic developed by Alexander Fleming in 1982 after noticing the fungus penicillium could kill disease causing bacteria
+- Antibiotics aren't profitable for drug companies
+- Developing antibiotics are high risk, very expensive, and very difficult
+- Low return on investment, development void since 1990
+** Post-antibiotic Era
+- Currently:
+  - 80% of gonnorhea infections now resistant to antibiotics- 440,000 new cases of resistant tuberculosis annually
+- In the future
+  - Strep throats to scraped knees could be deadly
+  - Cost to treat drug resistant double that of the status quo
+- Davos Declaration
+  - Reducing the development of drug resistance.
+  - Increasing investment in R&D that meets global public health needs.
+  - Improve access to high-quality antibiotics for all.
+  - Signed by 98 companies, 11 industrial associations in 21 countries
 * 10.07.20
 ** Genetic Diversity & Natural Selection
 - Genetic diversity in a population is the raw material natural selection
