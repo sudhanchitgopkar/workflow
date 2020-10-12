@@ -8,7 +8,7 @@ int numberOfOnes(unsigned long int value) {
   while (value >= 1) {
     rem = value % 2;
     value =  value / 2;
-   // std::cout << "value: "<< value << std::endl;
+    //std::cout << "value: "<< value << std::endl;
     if (rem == 1) {
       numOfOnes++;
     } //if

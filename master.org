@@ -19,10 +19,10 @@ SCHEDULED: <2020-10-14 Wed>
 *** MATH4670 [%]
 *** MATH4950 [%]
 *** CLAS1010H [0%]
-**** WAITING Preferences Quiz
+**** TODO Preferences Quiz
 ** Orgs
-*** MUN [100%]
-**** MUN Meeting
+*** MUN [0%]
+**** TODO MUN Meeting
 SCHEDULED: <2020-10-13 Tue 20:00>
 *** Finch [0%]
 **** TODO Website Redesign
