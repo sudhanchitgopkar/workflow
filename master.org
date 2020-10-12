@@ -13,13 +13,21 @@ DEADLINE: <2020-10-16 Fri>
 **** TODO Food Impacts Assignment
 SCHEDULED: <2020-10-14 Wed>
 *** ECON2106 [0%]
+**** TODO Econ V1-5
+- [ ] V1
+- [ ] V2
+- [ ] V3
+- [ ] V4
+- [ ] V5
 **** TODO Econ HW 11
-*** INTL3300 [%]
+*** INTL3300 [0%]
+**** TODO Film Viewing
+DEADLINE: <2020-10-14 Wed>
 *** INTL4970 [%]
 *** MATH4670 [%]
 *** MATH4950 [%]
 *** CLAS1010H [0%]
-**** TODO Preferences Quiz
+**** WAITING Preferences Quiz
 ** Orgs
 *** MUN [0%]
 **** TODO MUN Meeting

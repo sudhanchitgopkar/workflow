@@ -1,3 +1,60 @@
+* 10.12.20
+** Definitions of Diversity
+- Genetic Diversity: Variations in the genes among individuals of the same species
+- Species Diversity: The variety of species present in an area; includes the number of different species that are present as well as their relative abundance
+- Ecological Diversity: The variety of habitats, niches, trophic levels, and community interactions
+** Robust Redhorse
+- Thought to be extinct until rediscovered in the Oconee in 1991
+- Extripated: Extinct in a local area
+** Species Diversity
+- Richness: number of different species
+- Evenness: relative abundance of each species
+- Diversity: combined richness and evenness
+** Endemic Species
+- Because areas w high ecological diversity offer many habitats and niches, they have a large number of endemic species
+- Endemic species: a species that is native to a particular area and not usually found elsewhere
+  - Most commonly found in small ecosystems
+** Hotspots
+- Biodiversity hotspots: areas that have high endemism and have lost at least 70% of their original habitat
+- These areas contain a large number of endangered species (species at high risk of becoming extinct)
+- The Southeast US is a global hotspot of freshwater biodiversity supporting 2/3 of the country's fish species, over 90% of the US total species of mussels and nearly half of the global total of crayfish species
+** Habitat v Niche
+- Habitat: the physical location of an species
+- Niche: the biotic and abiotic needs for a species to survive
+** Biodiversity Loss
+- As much as 20% of the world's biodiversity may be lost in the next 30 years
+- 50-66% of biodiversity may be lost by the end of the century
+- Current rate of extinction is 1500 times greater than pre-human background rate
+** Causes of Biodiversity Loss
+- Human actions are having significant impacts on biodiversity loss
+- Threats include:
+  - Habitat destruction
+  - Invasive Species introduction
+  - Pollution
+  - Overharvesting
+  - Climate change
+** Value of Biodiversity
+- Provides key connections between species and their environment
+- Provides direct protection against disease
+- Provide food, fuel, building materials, and pharmaceuticals
+** Ecosystem Services
+- Supportive Services:
+  - Purification of air and water
+  - Carbon sequestration
+  - Erosion Prevention
+  - Habitats for animals and Plants
+- Provisioning Services: Food, resources, water, fuel
+- Regulating Services: Pollination, seed dispersal, protection, biological control
+- Cultural Services: Recreation, Spiritual Tourism, mental health
+- Human Wellbeing:
+  - Strong economic growth
+  - Medicinal resources
+  - Reduction in toxin exposure
+** Isolation and Extinction Risk
+- Number of unique species increases with isolation
+  - Isolation and high endemism makes remote islands particularly vulnerable to species loss
+  - Human impact contributes to isolation in the form of habitat fragmentation
+  - Habitat fragmentation: destruction of part of an area that creates a patchwork of suitable and unsuitable havitat areas that may exclude some species altogether
 * 10.09.20
 ** Evolution and Resistance
 - Evolution happens to populations, not individuals
