@@ -1,3 +1,41 @@
+* 10.14.20
+- Exam Review
+  - Taxonomoc group with the most known species: insects
+  - Types of biodiversity
+    - Genetic
+    - Species
+    - Ecosystem
+  - Biodiversity in the Southeast
+    - Describe SE biodoviersity using the terms "richness," "endemic," and "hotspot"
+  - Mussels: diversity, life history, and ecosystem service (nutrient cycling)
+  - What is diversity?
+- Isolation & Extinction Risk
+  - Hawaii's biodiversity is vulnerable to extinction - more than 90% of native species on Hawaiian islands are endemic, one half of indigenous species face extinction
+** Community Ecology
+- Mutualism - A symbiotic relationship between individuals where both species benefit
+- Parasitism - A symbiotic relationship between individuals of two species in which one benefits and the other is negatively affected (may or may not lead to death)
+- Commensalism - A symbiotic relationship between individuals of two species in which one is benefitted and the other is unaffected
+- All species contribute to theur ecosystem but some are more important than others
+- Keystone species influence community structure disporportionately to their abundance
+  - Role: create/modify habitats, influence interactions between other species
+  - Removal of a keystone species may lead to a loss of biodiversity and changes in community structure within the ecosystem
+- Food web: complex and realistic representation of how species feed on each other in a community
+- Food chains: a linear representation of how different species in a community feed on each other
+- Producers and Consumers
+  - Producers: photosynthetic organisms that capture energy directly form the sun and convert it into food
+  - Consumers: organisms that gain energy and nutruents by eating other organisms
+    - Animals, fungi, most bacteria, and protozoa
+- Trophic level - a level in a food chain or food web
+  - Primary consumer: a species that eats producers
+  - Secondary consumer: a species that eats primary consumers
+  - Tertiary consumer: a species that eats secondary consumers
+  - Decomposers can be put practically anywhere on the food web
+- Conservation Status: IUCN Designations
+  - The International Union for Conservation of Nature established the Red List of Threatened Species in 1963
+- Single species conservation programs focus on an individual species, successfully protecting some high-profile species but are less often used for less visible or valued species
+- CITES
+  - Convention on International Trade in Endangered Species of Wild Flora and Fauna
+- Lacey Act: First law protecting wildlife
 * 10.12.20
 ** Definitions of Diversity
 - Genetic Diversity: Variations in the genes among individuals of the same species

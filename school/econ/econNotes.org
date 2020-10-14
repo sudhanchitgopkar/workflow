@@ -1,3 +1,51 @@
+* Chapter 11
+** Introduction
+- Decision timeframes
+  - The firm makes many decisions to achieve profit maximization
+  - 2 time frames: short run and long run
+- The short run: a timeframe in which the quantity of one or more resources used in production is fixed. For most firms, the capital, called the firm's plant, is fixed in the short run. Other reousrces used by the firm (labor, raw materials, energy) can be changed in the short run
+- The long run: a timeframe in which the quantities of all resources, including plant size, can be varied
+- A sunk cost is a cost incurred by the firm that can't be changed
+- Sunk costs are irrelevant to a firm's current decisions because the sunk cost can't be changed
+** Short Run Tech Constraint
+- To increase output in hte short run, a firm must increase amount of labor employed
+- Marginal Product of Labor: change in the total product that results from a one-unit increase in the quantity of labor emplyed w all other inputers remaining the same
+- Average product of labor = total product / quantity of labor employed
+- Total product = total output
+- As quantity of labor employed increases,
+  - Total product increases
+  - Marginal product increases initially but then decreases
+  - Average product eventually decreases
+  - Increasing marginal returns initially
+  - Diminishing marginal returns eventually
+- Increasing Marginal Returns
+  - increased marginal returns arise from increased specialization and division of labor
+  - Diminishing marginal returns arises because each additional worker has less access to capital and less space in which to work
+- Law of Diminishing Returns: A firm uses more of a variable input within a given quantity of fixed inputs,the marginal product of variable input eventually diminishes
+- Average Product Curve
+  - When marginal product exceeds average product, average product increases
+  - When marginal product is below average product, average product decreases
+  - Average product will fall eventually because we know marginal product will fall over time as a result of the law of diminishing returns
+  - When marginal product = average product, average product is at its maximum
+** Costs in the Short Run
+ - Three cost concepts and types of cost curves:
+   - Total Cost
+   - Marginal Cost
+   - Average cost
+- Total Cost (TC)
+  - Cost of all resources used
+  - Total Fixed Cost = cost of the firms fixed inputs, fixed costs don't change with output
+  - Total Variable Cost = total cost of firm's variable inputs, var costs change with output
+  - TC = Total fixed cost + total variable cost
+- Average Cost
+  - Average fixed cost = total fixed cost/unit of output
+  - Average variable cost = total variable cost/unit of output
+  - Average total cost = total cost/unit of output
+  - Average cost = Average fixed cost + Average variable cost
+- Marginal Cost (MC)
+  - Marginal cost is the increase in total cost that results from a one unit increase in total product
+  - Over the output range with increasing marignal returns, marginal cost falls as output increases
+  - Over the output range with diminishing marginal returns, marginal cost rises as output increases
 * Chapter 6
 ** Price Ceiling 
 - Price ceiling or price cap is a regulation that makes it illegal to charge higher than a 
