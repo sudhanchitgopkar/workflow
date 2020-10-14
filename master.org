@@ -4,9 +4,13 @@
 **** TODO Assn05
 DEADLINE: <2020-10-18 Sun>
 **** TODO Modules 17-19
-*** ECOL1000 [0%]
-**** TODO iClicker 6
-DEADLINE: <2020-10-15 Thu>
+*** ECOL1000 [50%]
+**** DONE Sapling Module
+DEADLINE: <2020-10-14 Wed>
+**** TODO Ecol HW 7
+DEADLINE: <2020-10-16 Fri>
+**** DONE iClicker 6
+DEADLINE: <2020-10-13 Tue>
 **** TODO iClicker 7
 DEADLINE: <2020-10-16 Fri>
 *** ECOL1000L [0%]
@@ -24,30 +28,43 @@ SCHEDULED: <2020-10-14 Wed>
 **** TODO Film Viewing
 DEADLINE: <2020-10-14 Wed>
 *** INTL4970 [%]
-*** MATH4670 [%]
+*** MATH4670 [100%]
+**** DONE Iliev Meeting
+SCHEDULED: <2020-10-17 Sat 15:00>
 *** MATH4950 [%]
-*** CLAS1010H [0%]
-**** WAITING Preferences Quiz
+*** CLAS1010H [100%]
+**** DONE Preferences Quiz
 ** Orgs
-*** MUN [0%]
-**** TODO MUN Meeting
-SCHEDULED: <2020-10-13 Tue 20:00>
+*** MUN [50%]
+**** DONE MUN Meeting
+SCHEDULED: <2020-10-16 Fri 20:00>
+**** WAITING Meeting w Alexa
+SCHEDULED: <2020-10-18 Sun 15:00>
 *** Finch [0%]
-**** TODO Website Redesign
+**** IN-PROGRESS Website Redesign
 DEADLINE: <2020-10-18 Sun>
-*** UGAHacks [0%]
-**** 1:1 Jeffery Meeting
+*** UGAHacks [100%]
+**** DONE 1-1 Jeffery Meeting
 SCHEDULED: <2020-10-11 Sun 16:15>
-*** Misc [0%]
-**** TODO Advising Appointment
+**** DONE Email RHA Rep
 DEADLINE: <2020-10-12 Mon>
+*** Misc [0%]
+**** WAITING Advising Appointment
+***** WAITING CS
+SCHEDULED: <2020-10-16 Fri 10:00>
+***** WAITING IA
+SCHEDULED: <2020-10-15 Thu 13:00>
+**** TODO CGI Application
+DEADLINE: <2020-10-18 Sun>
 ** Tutoring
-*** TODO Noah
+*** WAITING Noah
+SCHEDULED: <2020-10-18 Sun 16:00>
 *** TODO Tom
 *** TODO Mebin
-*** TODO Debate 1
+*** DONE Debate 1
 SCHEDULED: <2020-10-12 Mon 11:00>
-*** TODO Debate 2
+*** WAITING Debate 2
+SCHEDULED: <2020-10-16 Fri 15:00>
 *** TODO Debate 3
 * 10.05.20
 ** School
