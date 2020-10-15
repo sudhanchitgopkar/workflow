@@ -46,6 +46,36 @@
   - Marginal cost is the increase in total cost that results from a one unit increase in total product
   - Over the output range with increasing marignal returns, marginal cost falls as output increases
   - Over the output range with diminishing marginal returns, marginal cost rises as output increases
+- The average fixed cost shows that average fixed cost falls as output increases
+- The average variable cost is U shaped
+  - As output increases, average variable cost falls to a minimum then increases
+- Average Total Cost curve is also U-shaped because it is the sum of AVC and AFC
+- Average total cost falls at first because of
+  - Decreased fixed cost with more output
+  - Specialization and division of labor
+- ATF will keep falling for some time after AVC starts rising because of AFC continuing to fall. Eventually, AVC gets larger and AFC falls only a little, bringing ATC higher
+- Marginal Cost curve passes through the minimums of AVC and ATC curves
+- For outputs over which AVC is falling, MC is below AVC
+- For outputs over which AVC is rising, MC is above AVC
+- For the output at minimum AVC, MC = AVC
+- For outputs over which ATC is rising, MC is above ATC; For outputs over which ATC is decreasing, MC is below ATC
+- For output at minimum ATC, MC = ATC
+*** Summary
+- ATC curve is the vertical sum of AFC and AVC
+- The U shape of ATC comes because of
+  - Spreading total fixed cost over a larger output (AFC slopes downward)
+  - Eventually diminishing returns from the U shaped AVC curve
+** Shifts in the Cost Curves
+ - Two factors can shoft a firm's cost curves
+   - Technology: relationship between inputs and outputs
+     - Technology can change both product and cost curves
+     - Increase in productivity shifts product curve upward, cost curve downward
+     - Tech advance usually results in using more capital and less labor, fixed costs     increase and var costs decrease
+   - Prices of Factos of Production
+     - An increase in the price of a factor of production increases costs and shifts cost curves
+     - An increase in fixed cost shifts TC and ATC curves upward
+     - An increase in variable cost shifts the TC, ATC, AVC, and MC
+** Costs in the Long Run
 * Chapter 6
 ** Price Ceiling 
 - Price ceiling or price cap is a regulation that makes it illegal to charge higher than a 
