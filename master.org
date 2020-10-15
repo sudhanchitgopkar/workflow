@@ -4,7 +4,7 @@
 **** TODO Assn05
 DEADLINE: <2020-10-18 Sun>
 **** TODO Modules 17-19
-*** ECOL1000 [50%]
+*** ECOL1000 [40%]
 **** DONE Sapling Module
 DEADLINE: <2020-10-14 Wed>
 **** TODO Ecol HW 7
@@ -13,8 +13,10 @@ DEADLINE: <2020-10-16 Fri>
 DEADLINE: <2020-10-13 Tue>
 **** TODO iClicker 7
 DEADLINE: <2020-10-16 Fri>
-*** ECOL1000L [0%]
-**** TODO Food Impacts Assignment
+**** TODO Ecol Study Guide
+DEADLINE: <2020-10-16 Fri>
+*** ECOL1000L [100%]
+**** DONE Food Impacts Assignment
 SCHEDULED: <2020-10-14 Wed>
 *** ECON2106 [100%]
 **** DONE Econ V1-5
@@ -27,7 +29,9 @@ SCHEDULED: <2020-10-14 Wed>
 *** INTL3300 [0%]
 **** TODO Film Viewing
 DEADLINE: <2020-10-14 Wed>
-*** INTL4970 [%]
+**** TODO Journal Reflection 3
+*** INTL4970 [100%]
+**** DONE Email Response
 *** MATH4670 [100%]
 **** DONE Iliev Meeting
 SCHEDULED: <2020-10-17 Sat 15:00>
@@ -43,11 +47,12 @@ SCHEDULED: <2020-10-18 Sun 15:00>
 *** Finch [0%]
 **** IN-PROGRESS Website Redesign
 DEADLINE: <2020-10-18 Sun>
-*** UGAHacks [100%]
+*** UGAHacks [66%]
 **** DONE 1-1 Jeffery Meeting
 SCHEDULED: <2020-10-11 Sun 16:15>
 **** DONE Email RHA Rep
 DEADLINE: <2020-10-12 Mon>
+**** IN-PROGRESS RHA Allocations Form
 *** Misc [0%]
 **** WAITING Advising Appointment
 ***** WAITING CS
@@ -58,8 +63,9 @@ SCHEDULED: <2020-10-15 Thu 13:00>
 DEADLINE: <2020-10-18 Sun>
 ** Tutoring
 *** WAITING Noah
-SCHEDULED: <2020-10-18 Sun 16:00>
-*** TODO Tom
+SCHEDULED: <2020-10-16 Fri 16:00>
+*** WAITING Tom
+SCHEDULED: <2020-10-15 Thu 12:30>
 *** TODO Mebin
 *** DONE Debate 1
 SCHEDULED: <2020-10-12 Mon 11:00>

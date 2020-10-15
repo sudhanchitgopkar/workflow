@@ -76,6 +76,32 @@
      - An increase in fixed cost shifts TC and ATC curves upward
      - An increase in variable cost shifts the TC, ATC, AVC, and MC
 ** Costs in the Long Run
+ - In the long run, all inputs are variable and all costs are variable
+*** The Production Function
+- The Behavior of long-run cost depends on the firm's production function
+- The production function is the relationship between maximum output attainable and the quantities of both capital and labor
+- As the size of the plant increases, the output that a given quantity of labor can produce increases
+- For each plant, as the quantity of labor increases, diminishing returns occur
+*** Diminishing Marginal Product of Capital
+- The marginal product of capital is the increase in output resulting from a one unit increase in the amount of capital employed, holding the amount of labor employed constant
+- A firm's production exhibits
+  - Diminishing marginal returns to labor for a given plant
+  - Diminishing marginal returns to caputal for a given amount of labor
+- For each plant, diminishing marginal product of labor creates a set of short run, U-shaped curves for MC, AVC, and ATC
+*** Short Run Cost and Long Run Cost
+- The average cost of producing a given output varies and depends on the firm's plant
+- The larger the plant, the greater the output at which ATC is a minimum
+- The long run average cost curve is the relationship between lowest attainable average total cost and output when both plant and labor are varies
+- It is made up from the lowest ATC for each output level
+*** Economies and Diseconomies of Scale
+- Economies of scale are features of a firm's technology that leads to falling long run average cost (LRAC) (High initial costs mean that serving few customers/having low output makes it more costly to have a smaller firm than a bigger one)
+- Diseconomies of scale are features of a firm's technology that lead to rising LRAC as output increases (Management costs make it so difficult to manage a firm that a big firm has higher costs than a smaller one)
+- Constant returns to scale are features of a firm's technology that lead to constant LRAC as output increases
+- Economies of scale is when LRAC is falling, Diseconomies of scale is when LRAC is rising, Constant returns means LRAC is constant
+*** Minimum Efficient Scale
+- A firm experiences economies of scale up to some output level
+- Beyond that output level, it moves into constant returns to scale or diseconomies of scale
+- Minimum efficient scale = smallest output quantity at which LRAC is at its lowest level
 * Chapter 6
 ** Price Ceiling 
 - Price ceiling or price cap is a regulation that makes it illegal to charge higher than a 
