@@ -1,17 +1,17 @@
 * 10.11.20
 ** School
-*** CSCI1730 [0%]
+*** CSCI1730 [50%]
 **** TODO Assn05
 DEADLINE: <2020-10-18 Sun>
-**** TODO Modules 17-19
-*** ECOL1000 [40%]
+**** ABANDONED Modules 17-19
+*** ECOL1000 [60%]
 **** DONE Sapling Module
 DEADLINE: <2020-10-14 Wed>
-**** TODO Ecol HW 7
+**** DONE Ecol HW 7
 DEADLINE: <2020-10-16 Fri>
 **** DONE iClicker 6
 DEADLINE: <2020-10-13 Tue>
-**** TODO iClicker 7
+**** WAITING iClicker 7
 DEADLINE: <2020-10-16 Fri>
 **** TODO Ecol Study Guide
 DEADLINE: <2020-10-16 Fri>
@@ -26,8 +26,8 @@ SCHEDULED: <2020-10-14 Wed>
 - [X] V4
 - [X] V5
 **** DONE Econ HW 11
-*** INTL3300 [0%]
-**** TODO Film Viewing
+*** INTL3300 [50%]
+**** ABANDONED Film Viewing
 DEADLINE: <2020-10-14 Wed>
 **** TODO Journal Reflection 3
 *** INTL4970 [100%]
@@ -35,7 +35,7 @@ DEADLINE: <2020-10-14 Wed>
 *** MATH4670 [100%]
 **** DONE Iliev Meeting
 SCHEDULED: <2020-10-17 Sat 15:00>
-*** MATH4950 [%]
+*** MATH4950 [100%]
 *** CLAS1010H [100%]
 **** DONE Preferences Quiz
 ** Orgs
@@ -47,25 +47,25 @@ SCHEDULED: <2020-10-18 Sun 15:00>
 *** Finch [0%]
 **** IN-PROGRESS Website Redesign
 DEADLINE: <2020-10-18 Sun>
-*** UGAHacks [66%]
+*** UGAHacks [100%]
 **** DONE 1-1 Jeffery Meeting
 SCHEDULED: <2020-10-11 Sun 16:15>
 **** DONE Email RHA Rep
 DEADLINE: <2020-10-12 Mon>
-**** IN-PROGRESS RHA Allocations Form
-*** Misc [0%]
-**** WAITING Advising Appointment
-***** WAITING CS
+**** DONE RHA Allocations Form
+*** Misc [50%]
+**** DONE Advising Appointment
+***** DONE CS
 SCHEDULED: <2020-10-16 Fri 10:00>
-***** WAITING IA
+***** DONE IA
 SCHEDULED: <2020-10-15 Thu 13:00>
 **** TODO CGI Application
 DEADLINE: <2020-10-18 Sun>
 ** Tutoring
 *** WAITING Noah
 SCHEDULED: <2020-10-16 Fri 16:00>
-*** WAITING Tom
-SCHEDULED: <2020-10-15 Thu 12:30>
+*** DONE Tom
+SCHEDULED: <2020-10-17 Sat 12:30>
 *** TODO Mebin
 *** DONE Debate 1
 SCHEDULED: <2020-10-12 Mon 11:00>
