@@ -4,16 +4,16 @@
 **** TODO Assn05
 DEADLINE: <2020-10-18 Sun>
 **** ABANDONED Modules 17-19
-*** ECOL1000 [60%]
+*** ECOL1000 [80%]
 **** DONE Sapling Module
 DEADLINE: <2020-10-14 Wed>
 **** DONE Ecol HW 7
 DEADLINE: <2020-10-16 Fri>
 **** DONE iClicker 6
 DEADLINE: <2020-10-13 Tue>
-**** WAITING iClicker 7
+**** DONE iClicker 7
 DEADLINE: <2020-10-16 Fri>
-**** TODO Ecol Study Guide
+**** IN-PROGRESS Ecol Study Guide
 DEADLINE: <2020-10-16 Fri>
 *** ECOL1000L [100%]
 **** DONE Food Impacts Assignment
