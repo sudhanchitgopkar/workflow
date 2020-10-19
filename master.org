@@ -1,10 +1,10 @@
 * 10.11.20
 ** School
-*** CSCI1730 [50%]
-**** TODO Assn05
+*** CSCI1730 [100%]
+**** DONE Assn05
 DEADLINE: <2020-10-18 Sun>
 **** ABANDONED Modules 17-19
-*** ECOL1000 [80%]
+*** ECOL1000 [100%]
 **** DONE Sapling Module
 DEADLINE: <2020-10-14 Wed>
 **** DONE Ecol HW 7
@@ -13,7 +13,7 @@ DEADLINE: <2020-10-16 Fri>
 DEADLINE: <2020-10-13 Tue>
 **** DONE iClicker 7
 DEADLINE: <2020-10-16 Fri>
-**** IN-PROGRESS Ecol Study Guide
+**** DONE Ecol Study Guide
 DEADLINE: <2020-10-16 Fri>
 *** ECOL1000L [100%]
 **** DONE Food Impacts Assignment
@@ -26,10 +26,10 @@ SCHEDULED: <2020-10-14 Wed>
 - [X] V4
 - [X] V5
 **** DONE Econ HW 11
-*** INTL3300 [50%]
+*** INTL3300 [100%]
 **** ABANDONED Film Viewing
 DEADLINE: <2020-10-14 Wed>
-**** TODO Journal Reflection 3
+**** DONE Journal Reflection 3
 *** INTL4970 [100%]
 **** DONE Email Response
 *** MATH4670 [100%]
@@ -39,11 +39,13 @@ SCHEDULED: <2020-10-17 Sat 15:00>
 *** CLAS1010H [100%]
 **** DONE Preferences Quiz
 ** Orgs
-*** MUN [50%]
+*** MUN [66%]
 **** DONE MUN Meeting
 SCHEDULED: <2020-10-16 Fri 20:00>
-**** WAITING Meeting w Alexa
+**** DONE Meeting w Alexa
 SCHEDULED: <2020-10-18 Sun 15:00>
+**** WAITING BG Meeting 2
+SCHEDULED: <2020-10-19 Mon 19:00>
 *** Finch [0%]
 **** IN-PROGRESS Website Redesign
 DEADLINE: <2020-10-18 Sun>
@@ -62,16 +64,16 @@ SCHEDULED: <2020-10-15 Thu 13:00>
 **** TODO CGI Application
 DEADLINE: <2020-10-18 Sun>
 ** Tutoring
-*** WAITING Noah
+*** DONE Noah
 SCHEDULED: <2020-10-16 Fri 16:00>
 *** DONE Tom
 SCHEDULED: <2020-10-17 Sat 12:30>
-*** TODO Mebin
+*** ABANDONED Mebin
 *** DONE Debate 1
 SCHEDULED: <2020-10-12 Mon 11:00>
-*** WAITING Debate 2
+*** DONE Debate 2
 SCHEDULED: <2020-10-16 Fri 15:00>
-*** TODO Debate 3
+*** ABANDONED Debate 3
 * 10.05.20
 ** School
 *** CSCI1730 [100%]
