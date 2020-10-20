@@ -1,3 +1,40 @@
+* 10.19.20
+** School
+*** CSCI1730 [0%]
+**** TODO Ch 9-11
+**** TODO Mod 17-19
+**** WAITING Assn06
+     DEADLINE: <2020-10-25 Sun>
+*** ECOL1000 [0%]
+**** TODO iClicker 4.3
+     DEADLINE: <2020-10-23 Fri>
+*** ECOL1000L [0%]
+**** TODO Consumer Assignment
+     DEADLINE: <2020-10-21 Wed>
+*** ECON2106 [0%]
+**** TODO Econ V1-10
+- [ ]V1-5
+- [ ]V6-10
+**** TODO HW 12
+*** INTL3300 [0%]
+**** TODO Country Presentation
+**** TODO INTL V1-2
+*** INTL4970 [%]
+*** MATH4670 [%]
+*** MATH4950 [%]
+*** CLAS1010H [100%]
+ Orgs
+*** MUN [%]
+*** Finch [%]
+*** UGAHacks [0%]
+**** TODO RHA Meeting Contact
+*** Honors [%]
+** Tutoring
+*** Noah
+*** Tom
+*** Mebin
+*** Debate 1
+*** Debate 2
 * 10.11.20
 ** School
 *** CSCI1730 [100%]
