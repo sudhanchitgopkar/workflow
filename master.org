@@ -3,10 +3,10 @@
 *** CSCI1730 [0%]
 **** TODO Ch 9-11
 **** TODO Mod 17-19
-**** WAITING Assn06
-     DEADLINE: <2020-10-25 Sun>
+**** TODO Assn06
+     DEADLINE: <2020-10-24 Sat>
 *** ECOL1000 [0%]
-**** TODO iClicker 4.3
+**** TODO Sapling 4.3
      DEADLINE: <2020-10-23 Fri>
 *** ECOL1000L [0%]
 **** TODO Consumer Assignment
@@ -19,22 +19,32 @@
 *** INTL3300 [0%]
 **** TODO Country Presentation
 **** TODO INTL V1-2
-*** INTL4970 [%]
+*** INTL4970 [0%]
+**** TODO Email Follow-up
+**** TODO Email Data Contact
 *** MATH4670 [%]
-*** MATH4950 [%]
+*** MATH4950 [0%]
+**** TODO Email Follow-up
 *** CLAS1010H [100%]
  Orgs
-*** MUN [%]
-*** Finch [%]
-*** UGAHacks [0%]
-**** TODO RHA Meeting Contact
-*** Honors [%]
+*** MUN [0%]
+**** WAITING MUN Meeting
+     SCHEDULED: <2020-10-20 Tue 20:00>
+     - Weather Friday
+     - Internet Saturday
+     - BG Commenting via Gdocs, Website
+**** IN-PROGRESS BG Draft 1
+     DEADLINE: <2020-10-20 Tue 20:00>
+*** Finch [0%]
+**** IN-PROGRESS Website Redesign
+*** UGAHacks [100%]
+**** DONE RHA Meeting Contact
 ** Tutoring
-*** Noah
-*** Tom
-*** Mebin
-*** Debate 1
-*** Debate 2
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
 * 10.11.20
 ** School
 *** CSCI1730 [100%]
