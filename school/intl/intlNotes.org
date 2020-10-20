@@ -1,3 +1,53 @@
+* Module 10
+** Developing Countries
+- Economic Development
+  - Economic development can be indicated by GDP and GDP per capita
+  - GDP/Capita doesn't account for income inequality, which is accounted for by the Gini Index
+- Sub-national Variations
+  - Components of Index:
+    - Life expectancy at birth
+    - Expected years of schooling
+    - GNI (Gross National Income) per capita
+  - Looking at national indeces is not as specific or accurate, many times
+- First, Second, Third World
+  - Used during the cold war but no longer used by political scientists
+  - West = first world
+  - Second world = communist
+  - Third world = everyone else
+- Middle and Lower Income Country
+  - Middle-Income Country: Historically less-developed country that experienced significant economic growth and democratization
+  - Lower-Income Country: A country that lacks significant economic development or political institutionalization, or both
+  - Not static definitions, imply a path along which a country is moving
+- Roots of Middle & Lower Income Countrues
+  - Imperialism: projecting power outside the state in order to gain resources
+  - Colonialism: A greater degree of physical occupation by the imperial power (not just a skeleton crew in charge of shipping good back home)
+- Historical Roots of Middle and Lower Income Countries
+  - Spain & Portugal: Central/South America
+  - Britain & France: North America
+  - Japan: Chunks of Asia
+  - Various European Powers: N Afrrica -> Most of Africa -> Middle East -> Asia
+- What Imperialism Meant:
+  - Imposition of imperial power's institutions obliterating original institutions
+  - Borders reflected imperial country's strategic interests, not geographic or demographic realities
+  - Imperial power's state was trying to "civilize" or "modernize" territory
+  - Bureaucratic structures established by imperial powers (National language, legal code, administrative capacities)
+** Developing Countries (cont.)
+*** Imperialism & Culture
+- Identity shift: before imperialism, people held identities based on clans, religion, econ status, gender, etc. The imperial powers constructed and imposed new national/ethnic identities for conquered territories based on ascribed racial characteristics. These identities were used for classification and admin purposes, distribution of resources to indigenous populations
+- Religion transplant
+  - Catholocism in Latin America
+  - Islam in North Africa, Mediterranean
+  - Protestantism in North America
+- Gender roles transplanted as well, diminished status of women and took out matriarchies
+- Legacies of imperialism: Belgium -> Hutus & Tutsis -> Rwandan Genocide
+*** Imperialism & Culture
+- Production & Dependence
+  - Traditional socieities turned into cash socieities, stemming from th resource needs of imperial powers
+  - Significant mercantilist economies
+  - Massive companies acted as states in territories (Dutch East India Company
+*** Development in the Modern Era
+- Third wave of democratization
+- Colonies gained independence in the 1960s under harsh conditions to take full autonomy over
 * 10.09.20
 Donald Trump, during his time as president of the United States has upheld American democracy by abiding by the systems of checks and balances in the branches of government and actively contributing to passing policy that he promised during the 2016 election cycle. Democracies are based largely upon governments following the will of the people and the argument can be made that when Donald Trump was elected in 2016, the people wanted the policies he promised.
 * Module 8

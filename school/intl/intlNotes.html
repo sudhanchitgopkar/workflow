@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-10-05 Mon 15:57 -->
+<!-- 2020-10-20 Tue 16:56 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -161,6 +161,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -181,50 +194,28 @@
   /*]]>*/-->
 </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.cacheClassElem = elem.className;
+         elem.cacheClassTarget = target.className;
+         target.className = "code-highlighted";
+         elem.className   = "code-highlighted";
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(elem.cacheClassElem)
+         elem.className = elem.cacheClassElem;
+       if(elem.cacheClassTarget)
+         target.className = elem.cacheClassTarget;
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -233,88 +224,113 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org72f1821">1. Module 7</a>
+<li><a href="#org4109d04">1. Module 10</a>
 <ul>
-<li><a href="#org7755fb0">1.1. Comparing the US &amp; UK</a></li>
-</ul>
-</li>
-<li><a href="#org1de5aec">2. Module 6</a>
+<li><a href="#org703fa40">1.1. Developing Countries</a></li>
+<li><a href="#orge153ecb">1.2. Developing Countries (cont.)</a>
 <ul>
-<li><a href="#org31f0dc9">2.1. Democratic Institutions</a>
-<ul>
-<li><a href="#org57db1e2">2.1.1. Legislatures</a></li>
-<li><a href="#orgbd8965f">2.1.2. Judiciary</a></li>
-<li><a href="#org6e462d0">2.1.3. Executvies</a></li>
-</ul>
-</li>
-<li><a href="#orgbaadfbb">2.2. Electoral Systems</a>
-<ul>
-<li><a href="#orgdc5a3a3">2.2.1. Single-member District (SMD)</a></li>
-<li><a href="#orgfb624c9">2.2.2. Proportional Representation (PR)</a></li>
-<li><a href="#org22bfe45">2.2.3. Mixed Electoral Systems</a></li>
-<li><a href="#orgcb18098">2.2.4. Referenda and Initiatives</a></li>
+<li><a href="#org955d32d">1.2.1. Imperialism &amp; Culture</a></li>
+<li><a href="#org73ea00d">1.2.2. Imperialism &amp; Culture</a></li>
+<li><a href="#orgc55cb8d">1.2.3. Development in the Modern Era</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgd6cf408">3. Module 5</a>
+<li><a href="#orgb0a50f1">2. 10.09.20</a></li>
+<li><a href="#org51ebab7">3. Module 8</a>
 <ul>
-<li><a href="#org27f47fd">3.1. Political Economy</a></li>
-<li><a href="#org00d9d1d">3.2. Varieties of Capitalism</a></li>
+<li><a href="#org3a1210d">3.1. Developed Democracies</a></li>
+<li><a href="#orgf6cac3f">3.2. The EU &amp; Germany</a>
+<ul>
+<li><a href="#orgb0e64e3">3.2.1. History of the EU</a></li>
+<li><a href="#org124d36d">3.2.2. Structure of the EU</a></li>
+<li><a href="#org2eb5218">3.2.3. Germany &amp; The EU</a></li>
 </ul>
 </li>
-<li><a href="#org1db1cc7">4. Module 4</a>
-<ul>
-<li><a href="#org540b870">4.1. Nations &amp; Society</a></li>
-<li><a href="#org6bc9a17">4.2. Political Culture &amp; Ideology</a></li>
 </ul>
 </li>
-<li><a href="#orgd151757">5. 09.02.20</a>
+<li><a href="#org953dba6">4. Module 7</a>
 <ul>
-<li><a href="#org11af597">5.1. State Development</a></li>
+<li><a href="#org0014a38">4.1. Comparing the US &amp; UK</a></li>
 </ul>
 </li>
-<li><a href="#orge3dd280">6. Module 3</a>
+<li><a href="#orgdfaf6ac">5. Module 6</a>
 <ul>
-<li><a href="#orgd33de5a">6.1. Institutions and States</a>
+<li><a href="#orgf4a0a4b">5.1. Democratic Institutions</a>
 <ul>
-<li><a href="#org05217e6">6.1.1. Institutions</a></li>
-<li><a href="#org7e6cdcc">6.1.2. The State</a></li>
-<li><a href="#org9da64de">6.1.3. Definitions</a></li>
+<li><a href="#org55ce793">5.1.1. Legislatures</a></li>
+<li><a href="#org0d4ed85">5.1.2. Judiciary</a></li>
+<li><a href="#org8f2ca72">5.1.3. Executvies</a></li>
 </ul>
 </li>
-<li><a href="#orgd496662">6.2. Legitimacy &amp; Sovereignty</a></li>
+<li><a href="#org377db3a">5.2. Electoral Systems</a>
+<ul>
+<li><a href="#org33f033f">5.2.1. Single-member District (SMD)</a></li>
+<li><a href="#org9fcb635">5.2.2. Proportional Representation (PR)</a></li>
+<li><a href="#orgc1c7918">5.2.3. Mixed Electoral Systems</a></li>
+<li><a href="#orgfa19509">5.2.4. Referenda and Initiatives</a></li>
 </ul>
 </li>
-<li><a href="#org24f89b0">7. 08.26.20</a>
-<ul>
-<li><a href="#org6f54e0e">7.1. Defining a Good Society</a></li>
 </ul>
 </li>
-<li><a href="#orgd77ccc8">8. Module 2</a>
+<li><a href="#org1570b9e">6. Module 5</a>
 <ul>
-<li><a href="#orgff7f56a">8.1. Video 1</a>
-<ul>
-<li><a href="#org4f87787">8.1.1. "Traditional Approach"</a></li>
-<li><a href="#org962c6c2">8.1.2. Modern Era (1960s-1980s)</a></li>
-<li><a href="#org33cd717">8.1.3. Development (1960s-1980s)</a></li>
-<li><a href="#orgcfb75c0">8.1.4. Critiques of Behavioralims/Developmentalism</a></li>
-<li><a href="#org5df5a0b">8.1.5. Post-Behavioralism (1990s-Present)</a></li>
-<li><a href="#orgfecb89c">8.1.6. New Institutionalism (Past 25 years)</a></li>
+<li><a href="#orgf29f9cd">6.1. Political Economy</a></li>
+<li><a href="#org4a84a2d">6.2. Varieties of Capitalism</a></li>
 </ul>
 </li>
-<li><a href="#org2796e55">8.2. Video 2</a>
+<li><a href="#orgd330ed7">7. Module 4</a>
 <ul>
-<li><a href="#org3521053">8.2.1. The Study of Comparative Politics</a></li>
-<li><a href="#org0084a34">8.2.2. Goals</a></li>
-<li><a href="#org741c21d">8.2.3. Challenges</a></li>
+<li><a href="#org311b9c5">7.1. Nations &amp; Society</a></li>
+<li><a href="#org62d06f4">7.2. Political Culture &amp; Ideology</a></li>
 </ul>
 </li>
-<li><a href="#org748787e">8.3. Video 3</a>
+<li><a href="#org9c0a38b">8. 09.02.20</a>
 <ul>
-<li><a href="#orgf4d5bcf">8.3.1. Most Similar Systems Design (MSS)</a></li>
-<li><a href="#org6f25c44">8.3.2. Most-Different Systems Design (MDS)</a></li>
-<li><a href="#org5cf56b7">8.3.3. Overview</a></li>
+<li><a href="#orgff1f6c0">8.1. State Development</a></li>
+</ul>
+</li>
+<li><a href="#org80d0e27">9. Module 3</a>
+<ul>
+<li><a href="#org96e97fb">9.1. Institutions and States</a>
+<ul>
+<li><a href="#org784eab4">9.1.1. Institutions</a></li>
+<li><a href="#org640065e">9.1.2. The State</a></li>
+<li><a href="#org2837524">9.1.3. Definitions</a></li>
+</ul>
+</li>
+<li><a href="#org189119c">9.2. Legitimacy &amp; Sovereignty</a></li>
+</ul>
+</li>
+<li><a href="#org1552b7f">10. 08.26.20</a>
+<ul>
+<li><a href="#org76f067f">10.1. Defining a Good Society</a></li>
+</ul>
+</li>
+<li><a href="#orgd98b898">11. Module 2</a>
+<ul>
+<li><a href="#orgd3a87b3">11.1. Video 1</a>
+<ul>
+<li><a href="#org46d1fc2">11.1.1. &ldquo;Traditional Approach&rdquo;</a></li>
+<li><a href="#org59c49fd">11.1.2. Modern Era (1960s-1980s)</a></li>
+<li><a href="#orge2d73fb">11.1.3. Development (1960s-1980s)</a></li>
+<li><a href="#orgd45c5b9">11.1.4. Critiques of Behavioralims/Developmentalism</a></li>
+<li><a href="#org26eb9d7">11.1.5. Post-Behavioralism (1990s-Present)</a></li>
+<li><a href="#orgb48b3aa">11.1.6. New Institutionalism (Past 25 years)</a></li>
+</ul>
+</li>
+<li><a href="#org7aafb30">11.2. Video 2</a>
+<ul>
+<li><a href="#org18568f1">11.2.1. The Study of Comparative Politics</a></li>
+<li><a href="#org5255c34">11.2.2. Goals</a></li>
+<li><a href="#orgef1b6db">11.2.3. Challenges</a></li>
+</ul>
+</li>
+<li><a href="#orgaa7d620">11.3. Video 3</a>
+<ul>
+<li><a href="#orgf5094b2">11.3.1. Most Similar Systems Design (MSS)</a></li>
+<li><a href="#org1e09d78">11.3.2. Most-Different Systems Design (MDS)</a></li>
+<li><a href="#org3b6356f">11.3.3. Overview</a></li>
 </ul>
 </li>
 </ul>
@@ -322,13 +338,189 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org72f1821" class="outline-2">
-<h2 id="org72f1821"><span class="section-number-2">1</span> Module 7</h2>
+<div id="outline-container-org4109d04" class="outline-2">
+<h2 id="org4109d04"><span class="section-number-2">1</span> Module 10</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org7755fb0" class="outline-3">
-<h3 id="org7755fb0"><span class="section-number-3">1.1</span> Comparing the US &amp; UK</h3>
+<div id="outline-container-org703fa40" class="outline-3">
+<h3 id="org703fa40"><span class="section-number-3">1.1</span> Developing Countries</h3>
 <div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li>Economic Development
+<ul class="org-ul">
+<li>Economic development can be indicated by GDP and GDP per capita</li>
+<li>GDP/Capita doesn&rsquo;t account for income inequality, which is accounted for by the Gini Index</li>
+</ul></li>
+<li>Sub-national Variations
+<ul class="org-ul">
+<li>Components of Index:
+<ul class="org-ul">
+<li>Life expectancy at birth</li>
+<li>Expected years of schooling</li>
+<li>GNI (Gross National Income) per capita</li>
+</ul></li>
+<li>Looking at national indeces is not as specific or accurate, many times</li>
+</ul></li>
+<li>First, Second, Third World
+<ul class="org-ul">
+<li>Used during the cold war but no longer used by political scientists</li>
+<li>West = first world</li>
+<li>Second world = communist</li>
+<li>Third world = everyone else</li>
+</ul></li>
+<li>Middle and Lower Income Country
+<ul class="org-ul">
+<li>Middle-Income Country: Historically less-developed country that experienced significant economic growth and democratization</li>
+<li>Lower-Income Country: A country that lacks significant economic development or political institutionalization, or both</li>
+<li>Not static definitions, imply a path along which a country is moving</li>
+</ul></li>
+<li>Roots of Middle &amp; Lower Income Countrues
+<ul class="org-ul">
+<li>Imperialism: projecting power outside the state in order to gain resources</li>
+<li>Colonialism: A greater degree of physical occupation by the imperial power (not just a skeleton crew in charge of shipping good back home)</li>
+</ul></li>
+<li>Historical Roots of Middle and Lower Income Countries
+<ul class="org-ul">
+<li>Spain &amp; Portugal: Central/South America</li>
+<li>Britain &amp; France: North America</li>
+<li>Japan: Chunks of Asia</li>
+<li>Various European Powers: N Afrrica -&gt; Most of Africa -&gt; Middle East -&gt; Asia</li>
+</ul></li>
+<li>What Imperialism Meant:
+<ul class="org-ul">
+<li>Imposition of imperial power&rsquo;s institutions obliterating original institutions</li>
+<li>Borders reflected imperial country&rsquo;s strategic interests, not geographic or demographic realities</li>
+<li>Imperial power&rsquo;s state was trying to &ldquo;civilize&rdquo; or &ldquo;modernize&rdquo; territory</li>
+<li>Bureaucratic structures established by imperial powers (National language, legal code, administrative capacities)</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge153ecb" class="outline-3">
+<h3 id="orge153ecb"><span class="section-number-3">1.2</span> Developing Countries (cont.)</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+<div id="outline-container-org955d32d" class="outline-4">
+<h4 id="org955d32d"><span class="section-number-4">1.2.1</span> Imperialism &amp; Culture</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<ul class="org-ul">
+<li>Identity shift: before imperialism, people held identities based on clans, religion, econ status, gender, etc. The imperial powers constructed and imposed new national/ethnic identities for conquered territories based on ascribed racial characteristics. These identities were used for classification and admin purposes, distribution of resources to indigenous populations</li>
+<li>Religion transplant
+<ul class="org-ul">
+<li>Catholocism in Latin America</li>
+<li>Islam in North Africa, Mediterranean</li>
+<li>Protestantism in North America</li>
+</ul></li>
+<li>Gender roles transplanted as well, diminished status of women and took out matriarchies</li>
+<li>Legacies of imperialism: Belgium -&gt; Hutus &amp; Tutsis -&gt; Rwandan Genocide</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org73ea00d" class="outline-4">
+<h4 id="org73ea00d"><span class="section-number-4">1.2.2</span> Imperialism &amp; Culture</h4>
+<div class="outline-text-4" id="text-1-2-2">
+<ul class="org-ul">
+<li>Production &amp; Dependence
+<ul class="org-ul">
+<li>Traditional socieities turned into cash socieities, stemming from th resource needs of imperial powers</li>
+<li>Significant mercantilist economies</li>
+<li>Massive companies acted as states in territories (Dutch East India Company</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc55cb8d" class="outline-4">
+<h4 id="orgc55cb8d"><span class="section-number-4">1.2.3</span> Development in the Modern Era</h4>
+<div class="outline-text-4" id="text-1-2-3">
+<ul class="org-ul">
+<li>Third wave of democratization</li>
+<li>Colonies gained independence in the 1960s under harsh conditions to take full autonomy over</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-orgb0a50f1" class="outline-2">
+<h2 id="orgb0a50f1"><span class="section-number-2">2</span> 10.09.20</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Donald Trump, during his time as president of the United States has upheld American democracy by abiding by the systems of checks and balances in the branches of government and actively contributing to passing policy that he promised during the 2016 election cycle. Democracies are based largely upon governments following the will of the people and the argument can be made that when Donald Trump was elected in 2016, the people wanted the policies he promised.
+</p>
+</div>
+</div>
+<div id="outline-container-org51ebab7" class="outline-2">
+<h2 id="org51ebab7"><span class="section-number-2">3</span> Module 8</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org3a1210d" class="outline-3">
+<h3 id="org3a1210d"><span class="section-number-3">3.1</span> Developed Democracies</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>Post-modern or post-material values: values things more than just the ability to live
+from day to day; Increasing quality of life through high mass consumption and self-
+acutalization</li>
+<li>Began and most prevalent in Europe, least prevalent in Africa w NA,SA in between</li>
+<li>Economic development often supports democratic development but does not always relate</li>
+<li>Human Development Index shows that just because a country is rich doesn&rsquo;t mean wealth
+is evenly distributed</li>
+<li>Gini Index can be used to show inequality, Social democracies have low gini scores
+<ul class="org-ul">
+<li>US is an anomaly here</li>
+<li>COVID shows that death rate is extremely low for mercantile democracy</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf6cac3f" class="outline-3">
+<h3 id="orgf6cac3f"><span class="section-number-3">3.2</span> The EU &amp; Germany</h3>
+<div class="outline-text-3" id="text-3-2">
+</div>
+<div id="outline-container-orgb0e64e3" class="outline-4">
+<h4 id="orgb0e64e3"><span class="section-number-4">3.2.1</span> History of the EU</h4>
+<div class="outline-text-4" id="text-3-2-1">
+<ul class="org-ul">
+<li>Began as the European Coal and Steel Community (1951)</li>
+<li>Started with France, Germany, Italy, Benelux</li>
+<li>Added European Economic Community &amp; European Atomic Energy Community (1957) Treaty of Rome</li>
+<li>Brought the whole thing together with the Single European Act (1986)</li>
+<li>Single European Act -&gt; Maastrict Treaty (1991)</li>
+<li>EU declared (1993)</li>
+<li>Currently 27 member states</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org124d36d" class="outline-4">
+<h4 id="org124d36d"><span class="section-number-4">3.2.2</span> Structure of the EU</h4>
+<div class="outline-text-4" id="text-3-2-2">
+<ul class="org-ul">
+<li>European Council - heads of govt of each member</li>
+<li>Council of the EU - Main legislative body, crafts legislation and budget w parliament</li>
+<li>EU Parliament - elected by citizens of respective member states, shares duties w council</li>
+<li>Court of Justice of the EU - hears cases brought by/against member states, EU citizens, companies, etc.</li>
+<li>Court of Auditors - controls EU budget</li>
+<li>European Central Bank - forms EU econ and monetary policy, manages Euro</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2eb5218" class="outline-4">
+<h4 id="org2eb5218"><span class="section-number-4">3.2.3</span> Germany &amp; The EU</h4>
+<div class="outline-text-4" id="text-3-2-3">
+<ul class="org-ul">
+<li>Largest pop of EU members</li>
+<li>Highest GDP of EU members</li>
+<li>Second highest employment rate, third lowest unemployment rate with a national min wage</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org953dba6" class="outline-2">
+<h2 id="org953dba6"><span class="section-number-2">4</span> Module 7</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org0014a38" class="outline-3">
+<h3 id="org0014a38"><span class="section-number-3">4.1</span> Comparing the US &amp; UK</h3>
+<div class="outline-text-3" id="text-4-1">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -385,17 +577,17 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org1de5aec" class="outline-2">
-<h2 id="org1de5aec"><span class="section-number-2">2</span> Module 6</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-orgdfaf6ac" class="outline-2">
+<h2 id="orgdfaf6ac"><span class="section-number-2">5</span> Module 6</h2>
+<div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org31f0dc9" class="outline-3">
-<h3 id="org31f0dc9"><span class="section-number-3">2.1</span> Democratic Institutions</h3>
-<div class="outline-text-3" id="text-2-1">
+<div id="outline-container-orgf4a0a4b" class="outline-3">
+<h3 id="orgf4a0a4b"><span class="section-number-3">5.1</span> Democratic Institutions</h3>
+<div class="outline-text-3" id="text-5-1">
 </div>
-<div id="outline-container-org57db1e2" class="outline-4">
-<h4 id="org57db1e2"><span class="section-number-4">2.1.1</span> Legislatures</h4>
-<div class="outline-text-4" id="text-2-1-1">
+<div id="outline-container-org55ce793" class="outline-4">
+<h4 id="org55ce793"><span class="section-number-4">5.1.1</span> Legislatures</h4>
+<div class="outline-text-4" id="text-5-1-1">
 <ul class="org-ul">
 <li>Forum for national political Debate</li>
 <li>Where laws are proposed or passed</li>
@@ -414,11 +606,11 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgbd8965f" class="outline-4">
-<h4 id="orgbd8965f"><span class="section-number-4">2.1.2</span> Judiciary</h4>
-<div class="outline-text-4" id="text-2-1-2">
+<div id="outline-container-org0d4ed85" class="outline-4">
+<h4 id="org0d4ed85"><span class="section-number-4">5.1.2</span> Judiciary</h4>
+<div class="outline-text-4" id="text-5-1-2">
 <ul class="org-ul">
-<li>Central to democracy's rule of law</li>
+<li>Central to democracy&rsquo;s rule of law</li>
 <li>Different types of courts and organizations of courts</li>
 <li>Some countries have a constitutional court solely to interpret constitutional legality,
 this is shown through judicial review</li>
@@ -426,9 +618,9 @@ this is shown through judicial review</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6e462d0" class="outline-4">
-<h4 id="org6e462d0"><span class="section-number-4">2.1.3</span> Executvies</h4>
-<div class="outline-text-4" id="text-2-1-3">
+<div id="outline-container-org8f2ca72" class="outline-4">
+<h4 id="org8f2ca72"><span class="section-number-4">5.1.3</span> Executvies</h4>
+<div class="outline-text-4" id="text-5-1-3">
 <ul class="org-ul">
 <li>Head of State
 <ul class="org-ul">
@@ -491,26 +683,26 @@ this is shown through judicial review</li>
 </div>
 </div>
 </div>
-<div id="outline-container-orgbaadfbb" class="outline-3">
-<h3 id="orgbaadfbb"><span class="section-number-3">2.2</span> Electoral Systems</h3>
-<div class="outline-text-3" id="text-2-2">
+<div id="outline-container-org377db3a" class="outline-3">
+<h3 id="org377db3a"><span class="section-number-3">5.2</span> Electoral Systems</h3>
+<div class="outline-text-3" id="text-5-2">
 </div>
-<div id="outline-container-orgdc5a3a3" class="outline-4">
-<h4 id="orgdc5a3a3"><span class="section-number-4">2.2.1</span> Single-member District (SMD)</h4>
-<div class="outline-text-4" id="text-2-2-1">
+<div id="outline-container-org33f033f" class="outline-4">
+<h4 id="org33f033f"><span class="section-number-4">5.2.1</span> Single-member District (SMD)</h4>
+<div class="outline-text-4" id="text-5-2-1">
 <ul class="org-ul">
-<li>Also called the "first past the post" or "winner take all" system</li>
+<li>Also called the &ldquo;first past the post&rdquo; or &ldquo;winner take all&rdquo; system</li>
 <li>Voting for candidates directly instead of for a party</li>
 <li>Most likely to result in a two-party system
 <ul class="org-ul">
-<li>Called Duverge's Law</li>
+<li>Called Duverge&rsquo;s Law</li>
 </ul></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgfb624c9" class="outline-4">
-<h4 id="orgfb624c9"><span class="section-number-4">2.2.2</span> Proportional Representation (PR)</h4>
-<div class="outline-text-4" id="text-2-2-2">
+<div id="outline-container-org9fcb635" class="outline-4">
+<h4 id="org9fcb635"><span class="section-number-4">5.2.2</span> Proportional Representation (PR)</h4>
+<div class="outline-text-4" id="text-5-2-2">
 <ul class="org-ul">
 <li>Made of multi-member districts (mmd) - more than 1 person elected from ea. electoral district</li>
 <li>People vote for parties moreso than individuals</li>
@@ -520,9 +712,9 @@ this is shown through judicial review</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org22bfe45" class="outline-4">
-<h4 id="org22bfe45"><span class="section-number-4">2.2.3</span> Mixed Electoral Systems</h4>
-<div class="outline-text-4" id="text-2-2-3">
+<div id="outline-container-orgc1c7918" class="outline-4">
+<h4 id="orgc1c7918"><span class="section-number-4">5.2.3</span> Mixed Electoral Systems</h4>
+<div class="outline-text-4" id="text-5-2-3">
 <ul class="org-ul">
 <li>A comboination of SMD and PR systems</li>
 <li>Ranked voting
@@ -533,9 +725,9 @@ this is shown through judicial review</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgcb18098" class="outline-4">
-<h4 id="orgcb18098"><span class="section-number-4">2.2.4</span> Referenda and Initiatives</h4>
-<div class="outline-text-4" id="text-2-2-4">
+<div id="outline-container-orgfa19509" class="outline-4">
+<h4 id="orgfa19509"><span class="section-number-4">5.2.4</span> Referenda and Initiatives</h4>
+<div class="outline-text-4" id="text-5-2-4">
 <ul class="org-ul">
 <li>Some countries put political decisions in the hand of the people through a referendum</li>
 <li>Can be seen as a cop-out by legislators and executives back to the people</li>
@@ -547,13 +739,13 @@ this is shown through judicial review</li>
 </div>
 </div>
 </div>
-<div id="outline-container-orgd6cf408" class="outline-2">
-<h2 id="orgd6cf408"><span class="section-number-2">3</span> Module 5</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-org1570b9e" class="outline-2">
+<h2 id="org1570b9e"><span class="section-number-2">6</span> Module 5</h2>
+<div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-org27f47fd" class="outline-3">
-<h3 id="org27f47fd"><span class="section-number-3">3.1</span> Political Economy</h3>
-<div class="outline-text-3" id="text-3-1">
+<div id="outline-container-orgf29f9cd" class="outline-3">
+<h3 id="orgf29f9cd"><span class="section-number-3">6.1</span> Political Economy</h3>
+<div class="outline-text-3" id="text-6-1">
 <ul class="org-ul">
 <li>Political Economy: The study of how politics and economics are related</li>
 <li>Components:
@@ -569,7 +761,7 @@ this is shown through judicial review</li>
 <li>Public Goods &amp; Social ExpendituresL
 <ul class="org-ul">
 <li>Public goods: Those goods provided or secured by the state and are available for everyone</li>
-<li>Social expenditure: The state's provision of public benefits or welfare
+<li>Social expenditure: The state&rsquo;s provision of public benefits or welfare
 <ul class="org-ul">
 <li>All states have some kind of social expenditure</li>
 </ul></li>
@@ -602,9 +794,9 @@ through the use of a comparative advantage</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org00d9d1d" class="outline-3">
-<h3 id="org00d9d1d"><span class="section-number-3">3.2</span> Varieties of Capitalism</h3>
-<div class="outline-text-3" id="text-3-2">
+<div id="outline-container-org4a84a2d" class="outline-3">
+<h3 id="org4a84a2d"><span class="section-number-3">6.2</span> Varieties of Capitalism</h3>
+<div class="outline-text-3" id="text-6-2">
 <ul class="org-ul">
 <li>Advantages of market systems
 <ul class="org-ul">
@@ -644,13 +836,13 @@ state management of economy and provision of social expenditures
 </div>
 </div>
 </div>
-<div id="outline-container-org1db1cc7" class="outline-2">
-<h2 id="org1db1cc7"><span class="section-number-2">4</span> Module 4</h2>
-<div class="outline-text-2" id="text-4">
+<div id="outline-container-orgd330ed7" class="outline-2">
+<h2 id="orgd330ed7"><span class="section-number-2">7</span> Module 4</h2>
+<div class="outline-text-2" id="text-7">
 </div>
-<div id="outline-container-org540b870" class="outline-3">
-<h3 id="org540b870"><span class="section-number-3">4.1</span> Nations &amp; Society</h3>
-<div class="outline-text-3" id="text-4-1">
+<div id="outline-container-org311b9c5" class="outline-3">
+<h3 id="org311b9c5"><span class="section-number-3">7.1</span> Nations &amp; Society</h3>
+<div class="outline-text-3" id="text-7-1">
 <ul class="org-ul">
 <li>Goals of nation-building:
 <ul class="org-ul">
@@ -658,7 +850,7 @@ state management of economy and provision of social expenditures
 <li>Legitimacy</li>
 <li>Identity</li>
 </ul></li>
-<li>Society: "A collection of people bound by shared institutions that define how relations
+<li>Society: &ldquo;A collection of people bound by shared institutions that define how relations
 should be conducted</li>
 <li>Types of Identity:
 <ul class="org-ul">
@@ -667,7 +859,7 @@ should be conducted</li>
 <li>Socially constructed (develops over time)</li>
 </ul></li>
 <li>Identity is not inherently political but can be politicized</li>
-<li>Citizenship: An individual or group's relation to the state</li>
+<li>Citizenship: An individual or group&rsquo;s relation to the state</li>
 <li>Different states have different citizenship regimes
 <ul class="org-ul">
 <li>Allowance of dual citizenship</li>
@@ -680,15 +872,15 @@ should be conducted</li>
 <li>Politicization of identities increases probability of conflict</li>
 </ul></li>
 <li>Ethnic conflict: Conflict between ethnic groups that struggle to acheive goals
-at each other's expense</li>
+at each other&rsquo;s expense</li>
 <li>National Conflict: Conflict in which one or more groups within a country 
 develops clear aspirations for political independence, clashing with others as a result</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6bc9a17" class="outline-3">
-<h3 id="org6bc9a17"><span class="section-number-3">4.2</span> Political Culture &amp; Ideology</h3>
-<div class="outline-text-3" id="text-4-2">
+<div id="outline-container-org62d06f4" class="outline-3">
+<h3 id="org62d06f4"><span class="section-number-3">7.2</span> Political Culture &amp; Ideology</h3>
+<div class="outline-text-3" id="text-7-2">
 <ul class="org-ul">
 <li>Political culture is very difficult to define and is relative
 <ul class="org-ul">
@@ -725,17 +917,17 @@ develops clear aspirations for political independence, clashing with others as a
 </div>
 </div>
 </div>
-<div id="outline-container-orgd151757" class="outline-2">
-<h2 id="orgd151757"><span class="section-number-2">5</span> 09.02.20</h2>
-<div class="outline-text-2" id="text-5">
+<div id="outline-container-org9c0a38b" class="outline-2">
+<h2 id="org9c0a38b"><span class="section-number-2">8</span> 09.02.20</h2>
+<div class="outline-text-2" id="text-8">
 </div>
-<div id="outline-container-org11af597" class="outline-3">
-<h3 id="org11af597"><span class="section-number-3">5.1</span> State Development</h3>
-<div class="outline-text-3" id="text-5-1">
+<div id="outline-container-orgff1f6c0" class="outline-3">
+<h3 id="orgff1f6c0"><span class="section-number-3">8.1</span> State Development</h3>
+<div class="outline-text-3" id="text-8-1">
 <ul class="org-ul">
 <li>Europe v the New World
 <ul class="org-ul">
-<li>Compare the state development of European, "old-world" countries and "new world" countries"
+<li>Compare the state development of European, &ldquo;old-world&rdquo; countries and &ldquo;new world&rdquo; countries&ldquo;
 <ul class="org-ul">
 <li>Old world countries tend to be more imperialistic while new countries have a common exp
 of being colonies</li>
@@ -755,17 +947,17 @@ feudal properties were likely, so organization of resources and capabilities was
 </div>
 </div>
 </div>
-<div id="outline-container-orge3dd280" class="outline-2">
-<h2 id="orge3dd280"><span class="section-number-2">6</span> Module 3</h2>
-<div class="outline-text-2" id="text-6">
+<div id="outline-container-org80d0e27" class="outline-2">
+<h2 id="org80d0e27"><span class="section-number-2">9</span> Module 3</h2>
+<div class="outline-text-2" id="text-9">
 </div>
-<div id="outline-container-orgd33de5a" class="outline-3">
-<h3 id="orgd33de5a"><span class="section-number-3">6.1</span> Institutions and States</h3>
-<div class="outline-text-3" id="text-6-1">
+<div id="outline-container-org96e97fb" class="outline-3">
+<h3 id="org96e97fb"><span class="section-number-3">9.1</span> Institutions and States</h3>
+<div class="outline-text-3" id="text-9-1">
 </div>
-<div id="outline-container-org05217e6" class="outline-4">
-<h4 id="org05217e6"><span class="section-number-4">6.1.1</span> Institutions</h4>
-<div class="outline-text-4" id="text-6-1-1">
+<div id="outline-container-org784eab4" class="outline-4">
+<h4 id="org784eab4"><span class="section-number-4">9.1.1</span> Institutions</h4>
+<div class="outline-text-4" id="text-9-1-1">
 <ul class="org-ul">
 <li>Institution: Institutions are formal and informal rules 
 that structure the relationship among individuals</li>
@@ -779,9 +971,9 @@ that structure the relationship among individuals</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org7e6cdcc" class="outline-4">
-<h4 id="org7e6cdcc"><span class="section-number-4">6.1.2</span> The State</h4>
-<div class="outline-text-4" id="text-6-1-2">
+<div id="outline-container-org640065e" class="outline-4">
+<h4 id="org640065e"><span class="section-number-4">9.1.2</span> The State</h4>
+<div class="outline-text-4" id="text-9-1-2">
 <ul class="org-ul">
 <li>An organization that maintains a legitimate monopoly of force over a certain territory
 and its population</li>
@@ -797,15 +989,15 @@ basic tasks and responsibilities</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9da64de" class="outline-4">
-<h4 id="org9da64de"><span class="section-number-4">6.1.3</span> Definitions</h4>
-<div class="outline-text-4" id="text-6-1-3">
+<div id="outline-container-org2837524" class="outline-4">
+<h4 id="org2837524"><span class="section-number-4">9.1.3</span> Definitions</h4>
+<div class="outline-text-4" id="text-9-1-3">
 </div>
 <ol class="org-ol">
-<li><a id="org80cc649"></a>General<br />
-<div class="outline-text-5" id="text-6-1-3-1">
+<li><a id="org26a9ebf"></a>General<br />
+<div class="outline-text-5" id="text-9-1-3-1">
 <ul class="org-ul">
-<li>State: governing structur's legitimate expression of sovereignty/main political organization 
+<li>State: governing structur&rsquo;s legitimate expression of sovereignty/main political organization 
 of a country</li>
 <li>Regime: Informal institutions that guide how a state operates</li>
 <li>Government: Collection of actors in charge of carrying out political decisions of the regime
@@ -817,8 +1009,8 @@ to establish and express political interests</li>
 </ul>
 </div>
 </li>
-<li><a id="orgacebf55"></a>Strength of States<br />
-<div class="outline-text-5" id="text-6-1-3-2">
+<li><a id="org0c2390d"></a>Strength of States<br />
+<div class="outline-text-5" id="text-9-1-3-2">
 <ul class="org-ul">
 <li>Institutional Capabilities
 <ul class="org-ul">
@@ -837,9 +1029,9 @@ to establish and express political interests</li>
 </ol>
 </div>
 </div>
-<div id="outline-container-orgd496662" class="outline-3">
-<h3 id="orgd496662"><span class="section-number-3">6.2</span> Legitimacy &amp; Sovereignty</h3>
-<div class="outline-text-3" id="text-6-2">
+<div id="outline-container-org189119c" class="outline-3">
+<h3 id="org189119c"><span class="section-number-3">9.2</span> Legitimacy &amp; Sovereignty</h3>
+<div class="outline-text-3" id="text-9-2">
 <ul class="org-ul">
 <li>Legitimacy: a value whereby something or someone is recognized and accepted by a large 
 portion of the population as right and proper (is highly subjective)</li>
@@ -860,47 +1052,47 @@ portion of the population as right and proper (is highly subjective)</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org24f89b0" class="outline-2">
-<h2 id="org24f89b0"><span class="section-number-2">7</span> 08.26.20</h2>
-<div class="outline-text-2" id="text-7">
+<div id="outline-container-org1552b7f" class="outline-2">
+<h2 id="org1552b7f"><span class="section-number-2">10</span> 08.26.20</h2>
+<div class="outline-text-2" id="text-10">
 </div>
-<div id="outline-container-org6f54e0e" class="outline-3">
-<h3 id="org6f54e0e"><span class="section-number-3">7.1</span> Defining a Good Society</h3>
-<div class="outline-text-3" id="text-7-1">
+<div id="outline-container-org76f067f" class="outline-3">
+<h3 id="org76f067f"><span class="section-number-3">10.1</span> Defining a Good Society</h3>
+<div class="outline-text-3" id="text-10-1">
 <ul class="org-ul">
 <li>Although observable, empirical assessments may differ from person to person,
 depending upon factors that may distort individual observation.</li>
-<li>Multiple factors contribute to whether a society is "good" or not, critical to comparing countries and 
+<li>Multiple factors contribute to whether a society is &ldquo;good&rdquo; or not, critical to comparing countries and 
 political systems</li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-orgd77ccc8" class="outline-2">
-<h2 id="orgd77ccc8"><span class="section-number-2">8</span> Module 2</h2>
-<div class="outline-text-2" id="text-8">
+<div id="outline-container-orgd98b898" class="outline-2">
+<h2 id="orgd98b898"><span class="section-number-2">11</span> Module 2</h2>
+<div class="outline-text-2" id="text-11">
 </div>
-<div id="outline-container-orgff7f56a" class="outline-3">
-<h3 id="orgff7f56a"><span class="section-number-3">8.1</span> Video 1</h3>
-<div class="outline-text-3" id="text-8-1">
+<div id="outline-container-orgd3a87b3" class="outline-3">
+<h3 id="orgd3a87b3"><span class="section-number-3">11.1</span> Video 1</h3>
+<div class="outline-text-3" id="text-11-1">
 </div>
-<div id="outline-container-org4f87787" class="outline-4">
-<h4 id="org4f87787"><span class="section-number-4">8.1.1</span> "Traditional Approach"</h4>
-<div class="outline-text-4" id="text-8-1-1">
+<div id="outline-container-org46d1fc2" class="outline-4">
+<h4 id="org46d1fc2"><span class="section-number-4">11.1.1</span> &ldquo;Traditional Approach&rdquo;</h4>
+<div class="outline-text-4" id="text-11-1-1">
 <ul class="org-ul">
-<li>Focus on a "formal-legal" aspects of political institutions</li>
+<li>Focus on a &ldquo;formal-legal&rdquo; aspects of political institutions</li>
 <li>Mostly a categorizing exercise with little analysis</li>
 <li>Many European ex-pats were these scholars</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org962c6c2" class="outline-4">
-<h4 id="org962c6c2"><span class="section-number-4">8.1.2</span> Modern Era (1960s-1980s)</h4>
-<div class="outline-text-4" id="text-8-1-2">
+<div id="outline-container-org59c49fd" class="outline-4">
+<h4 id="org59c49fd"><span class="section-number-4">11.1.2</span> Modern Era (1960s-1980s)</h4>
+<div class="outline-text-4" id="text-11-1-2">
 <ul class="org-ul">
 <li>Scholars stop describing, start comparing</li>
 <li>Behavioral Revolution - emphasis on individual, group behavior, not static institutions</li>
-<li>Gave rise to "developmentalism" or "modernization theory" 
+<li>Gave rise to &ldquo;developmentalism&rdquo; or &ldquo;modernization theory&rdquo; 
 <ul class="org-ul">
 <li>Proposed that a state develops economically, political and social development follows</li>
 <li>Functionalism (functions of differently societal elements lay foundation for growth)</li>
@@ -908,9 +1100,9 @@ political systems</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org33cd717" class="outline-4">
-<h4 id="org33cd717"><span class="section-number-4">8.1.3</span> Development (1960s-1980s)</h4>
-<div class="outline-text-4" id="text-8-1-3">
+<div id="outline-container-orge2d73fb" class="outline-4">
+<h4 id="orge2d73fb"><span class="section-number-4">11.1.3</span> Development (1960s-1980s)</h4>
+<div class="outline-text-4" id="text-11-1-3">
 <ul class="org-ul">
 <li>5 stages each society goes through for development:</li>
 <li>Traditional society (no mass production)</li>
@@ -921,21 +1113,21 @@ political systems</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgcfb75c0" class="outline-4">
-<h4 id="orgcfb75c0"><span class="section-number-4">8.1.4</span> Critiques of Behavioralims/Developmentalism</h4>
-<div class="outline-text-4" id="text-8-1-4">
+<div id="outline-container-orgd45c5b9" class="outline-4">
+<h4 id="orgd45c5b9"><span class="section-number-4">11.1.4</span> Critiques of Behavioralims/Developmentalism</h4>
+<div class="outline-text-4" id="text-11-1-4">
 <ul class="org-ul">
 <li>Enthocentric and ideologically driven</li>
 <li>Creates dependency: capitalism creates a situation where underdeveloped countries depend
 on developed countries</li>
-<li>Developmentalist theories tried to be a one-size-fit-all theory which wasn't bale to be applied
+<li>Developmentalist theories tried to be a one-size-fit-all theory which wasn&rsquo;t bale to be applied
 to all individual case studies</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5df5a0b" class="outline-4">
-<h4 id="org5df5a0b"><span class="section-number-4">8.1.5</span> Post-Behavioralism (1990s-Present)</h4>
-<div class="outline-text-4" id="text-8-1-5">
+<div id="outline-container-org26eb9d7" class="outline-4">
+<h4 id="org26eb9d7"><span class="section-number-4">11.1.5</span> Post-Behavioralism (1990s-Present)</h4>
+<div class="outline-text-4" id="text-11-1-5">
 <ul class="org-ul">
 <li>Development of middle-range theories instead of one single theory</li>
 <li>Diversity of approaches (qualitative, quantitative, case sudies)</li>
@@ -945,9 +1137,9 @@ to all individual case studies</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgfecb89c" class="outline-4">
-<h4 id="orgfecb89c"><span class="section-number-4">8.1.6</span> New Institutionalism (Past 25 years)</h4>
-<div class="outline-text-4" id="text-8-1-6">
+<div id="outline-container-orgb48b3aa" class="outline-4">
+<h4 id="orgb48b3aa"><span class="section-number-4">11.1.6</span> New Institutionalism (Past 25 years)</h4>
+<div class="outline-text-4" id="text-11-1-6">
 <ul class="org-ul">
 <li>Institutions are the nexus of political action</li>
 <li>Institutions are dynamic that interact over time w other variables</li>
@@ -957,13 +1149,13 @@ to all individual case studies</li>
 </div>
 </div>
 
-<div id="outline-container-org2796e55" class="outline-3">
-<h3 id="org2796e55"><span class="section-number-3">8.2</span> Video 2</h3>
-<div class="outline-text-3" id="text-8-2">
+<div id="outline-container-org7aafb30" class="outline-3">
+<h3 id="org7aafb30"><span class="section-number-3">11.2</span> Video 2</h3>
+<div class="outline-text-3" id="text-11-2">
 </div>
-<div id="outline-container-org3521053" class="outline-4">
-<h4 id="org3521053"><span class="section-number-4">8.2.1</span> The Study of Comparative Politics</h4>
-<div class="outline-text-4" id="text-8-2-1">
+<div id="outline-container-org18568f1" class="outline-4">
+<h4 id="org18568f1"><span class="section-number-4">11.2.1</span> The Study of Comparative Politics</h4>
+<div class="outline-text-4" id="text-11-2-1">
 <ul class="org-ul">
 <li>Comparative politics implies a method of study or an approach to an analysis, not a single theory</li>
 <li>greatest challenge is that events occur in real time with unreplicable environments</li>
@@ -971,9 +1163,9 @@ to all individual case studies</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org0084a34" class="outline-4">
-<h4 id="org0084a34"><span class="section-number-4">8.2.2</span> Goals</h4>
-<div class="outline-text-4" id="text-8-2-2">
+<div id="outline-container-org5255c34" class="outline-4">
+<h4 id="org5255c34"><span class="section-number-4">11.2.2</span> Goals</h4>
+<div class="outline-text-4" id="text-11-2-2">
 <ul class="org-ul">
 <li>Goal: To assess which factors cause a certain outcome by comparing or contrasting cases</li>
 <li>Cases: One of the group of things (events, states, actors, etc.) to be studied</li>
@@ -993,9 +1185,9 @@ to all individual case studies</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org741c21d" class="outline-4">
-<h4 id="org741c21d"><span class="section-number-4">8.2.3</span> Challenges</h4>
-<div class="outline-text-4" id="text-8-2-3">
+<div id="outline-container-orgef1b6db" class="outline-4">
+<h4 id="orgef1b6db"><span class="section-number-4">11.2.3</span> Challenges</h4>
+<div class="outline-text-4" id="text-11-2-3">
 <ul class="org-ul">
 <li>Goal: to determine causality, not just correlation</li>
 
@@ -1020,13 +1212,13 @@ or the outcome caused that factor to occur</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org748787e" class="outline-3">
-<h3 id="org748787e"><span class="section-number-3">8.3</span> Video 3</h3>
-<div class="outline-text-3" id="text-8-3">
+<div id="outline-container-orgaa7d620" class="outline-3">
+<h3 id="orgaa7d620"><span class="section-number-3">11.3</span> Video 3</h3>
+<div class="outline-text-3" id="text-11-3">
 </div>
-<div id="outline-container-orgf4d5bcf" class="outline-4">
-<h4 id="orgf4d5bcf"><span class="section-number-4">8.3.1</span> Most Similar Systems Design (MSS)</h4>
-<div class="outline-text-4" id="text-8-3-1">
+<div id="outline-container-orgf5094b2" class="outline-4">
+<h4 id="orgf5094b2"><span class="section-number-4">11.3.1</span> Most Similar Systems Design (MSS)</h4>
+<div class="outline-text-4" id="text-11-3-1">
 <ul class="org-ul">
 <li>A method in which as many independent vars as possible are held constant to explain a political
 outcome: similar cases, different outcomes can help isolate a variable</li>
@@ -1038,18 +1230,18 @@ outcome: similar cases, different outcomes can help isolate a variable</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6f25c44" class="outline-4">
-<h4 id="org6f25c44"><span class="section-number-4">8.3.2</span> Most-Different Systems Design (MDS)</h4>
-<div class="outline-text-4" id="text-8-3-2">
+<div id="outline-container-org1e09d78" class="outline-4">
+<h4 id="org1e09d78"><span class="section-number-4">11.3.2</span> Most-Different Systems Design (MDS)</h4>
+<div class="outline-text-4" id="text-11-3-2">
 <ul class="org-ul">
 <li>Looks at cases that are different from one another and observes why the same political outcome is
 observed as a method of understanding how to isolate a single causal variable</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5cf56b7" class="outline-4">
-<h4 id="org5cf56b7"><span class="section-number-4">8.3.3</span> Overview</h4>
-<div class="outline-text-4" id="text-8-3-3">
+<div id="outline-container-org3b6356f" class="outline-4">
+<h4 id="org3b6356f"><span class="section-number-4">11.3.3</span> Overview</h4>
+<div class="outline-text-4" id="text-11-3-3">
 <ul class="org-ul">
 <li>Probable causal explanations (hypotheses): goal of these comparative approaches</li>
 <li>Theories can be built from the strongest hypothesis</li>
@@ -1062,8 +1254,7 @@ observed as a method of understanding how to isolate a single causal variable</l
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sudhan Chitgopkar</p>
-<p class="date">Created: 2020-10-05 Mon 15:57</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2020-10-20 Tue 16:56</p>
 </div>
 </body>
 </html>

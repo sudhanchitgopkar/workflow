@@ -5,9 +5,9 @@
 **** TODO Mod 17-19
 **** TODO Assn06
      DEADLINE: <2020-10-24 Sat>
-*** ECOL1000 [0%]
-**** TODO Sapling 4.3
-     DEADLINE: <2020-10-23 Fri>
+*** ECOL1000 [100%]
+**** DONE Sapling 4.3
+     DEADLINE: <2020-10-24 Sat>
 *** ECOL1000L [0%]
 **** TODO Consumer Assignment
      DEADLINE: <2020-10-21 Wed>
@@ -16,29 +16,32 @@
 - [ ]V1-5
 - [ ]V6-10
 **** TODO HW 12
-*** INTL3300 [0%]
-**** TODO Country Presentation
+*** INTL3300 [50%]
+**** DONE Country Presentation
 **** TODO INTL V1-2
-*** INTL4970 [0%]
-**** TODO Email Follow-up
+*** INTL4970 [50%]
+**** DONE Email Follow-up
 **** TODO Email Data Contact
 *** MATH4670 [%]
-*** MATH4950 [0%]
-**** TODO Email Follow-up
+*** MATH4950 [100%]
+**** DONE Email Follow-up
 *** CLAS1010H [100%]
- Orgs
-*** MUN [0%]
+** Orgs
+*** MUN [50%]
 **** WAITING MUN Meeting
      SCHEDULED: <2020-10-20 Tue 20:00>
      - Weather Friday
      - Internet Saturday
      - BG Commenting via Gdocs, Website
-**** IN-PROGRESS BG Draft 1
+**** DONE BG Draft 1
      DEADLINE: <2020-10-20 Tue 20:00>
 *** Finch [0%]
 **** IN-PROGRESS Website Redesign
 *** UGAHacks [100%]
 **** DONE RHA Meeting Contact
+*** Misc
+**** TODO CGI Application
+     DEADLINE: <2020-10-25 Sun>
 ** Tutoring
 *** TODO Noah
 *** TODO Tom
@@ -86,29 +89,28 @@ SCHEDULED: <2020-10-17 Sat 15:00>
 *** CLAS1010H [100%]
 **** DONE Preferences Quiz
 ** Orgs
-*** MUN [66%]
+*** MUN [100%]
 **** DONE MUN Meeting
 SCHEDULED: <2020-10-16 Fri 20:00>
 **** DONE Meeting w Alexa
 SCHEDULED: <2020-10-18 Sun 15:00>
-**** WAITING BG Meeting 2
+**** DONE BG Meeting 2
 SCHEDULED: <2020-10-19 Mon 19:00>
-*** Finch [0%]
-**** IN-PROGRESS Website Redesign
-DEADLINE: <2020-10-18 Sun>
+*** Finch [100%]
+**** MIGRATED Website Redesign
 *** UGAHacks [100%]
 **** DONE 1-1 Jeffery Meeting
 SCHEDULED: <2020-10-11 Sun 16:15>
 **** DONE Email RHA Rep
 DEADLINE: <2020-10-12 Mon>
 **** DONE RHA Allocations Form
-*** Misc [50%]
+*** Misc [100%]
 **** DONE Advising Appointment
 ***** DONE CS
 SCHEDULED: <2020-10-16 Fri 10:00>
 ***** DONE IA
 SCHEDULED: <2020-10-15 Thu 13:00>
-**** TODO CGI Application
+**** MIGRATED CGI Application
 DEADLINE: <2020-10-18 Sun>
 ** Tutoring
 *** DONE Noah
