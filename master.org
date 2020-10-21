@@ -8,17 +8,17 @@
 *** ECOL1000 [100%]
 **** DONE Sapling 4.3
      DEADLINE: <2020-10-24 Sat>
-*** ECOL1000L [0%]
-**** TODO Consumer Assignment
+*** ECOL1000L [100%]
+**** DONE Consumer Assignment
      DEADLINE: <2020-10-21 Wed>
 *** ECON2106 [0%]
 **** TODO Econ V1-10
 - [ ]V1-5
 - [ ]V6-10
 **** TODO HW 12
-*** INTL3300 [50%]
+*** INTL3300 [100%]
 **** DONE Country Presentation
-**** TODO INTL V1-2
+**** DONE INTL V1-2
 *** INTL4970 [50%]
 **** DONE Email Follow-up
 **** TODO Email Data Contact
@@ -43,7 +43,8 @@
 **** TODO CGI Application
      DEADLINE: <2020-10-25 Sun>
 ** Tutoring
-*** TODO Noah
+*** WAITING Noah
+    SCHEDULED: <2020-10-21 Wed 15:30>
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
