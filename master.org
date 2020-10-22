@@ -19,16 +19,16 @@
 *** INTL3300 [100%]
 **** DONE Country Presentation
 **** DONE INTL V1-2
-*** INTL4970 [50%]
+*** INTL4970 [100%]
 **** DONE Email Follow-up
-**** TODO Email Data Contact
-*** MATH4670 [%]
+**** DONE Email Data Contact
+*** MATH4670 [100%]
 *** MATH4950 [100%]
 **** DONE Email Follow-up
 *** CLAS1010H [100%]
 ** Orgs
-*** MUN [50%]
-**** WAITING MUN Meeting
+*** MUN [100%]
+**** DONE MUN Meeting
      SCHEDULED: <2020-10-20 Tue 20:00>
      - Weather Friday
      - Internet Saturday
@@ -40,10 +40,10 @@
 *** UGAHacks [100%]
 **** DONE RHA Meeting Contact
 *** Misc
-**** TODO CGI Application
+**** DONE CGI Application
      DEADLINE: <2020-10-25 Sun>
 ** Tutoring
-*** WAITING Noah
+*** DONE Noah
     SCHEDULED: <2020-10-21 Wed 15:30>
 *** TODO Tom
 *** TODO Mebin

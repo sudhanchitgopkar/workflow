@@ -1,3 +1,28 @@
+* Chapter 12
+** Introduction
+- Perfect competition is a market in which
+  - Many firms sell identical products to many buyers
+  - There are no restrictions to entry into the industry
+  - Established firms have no advantages over the new ones
+  - Sellers and buyers are well informed about prices
+- Perfect Competition arises when
+  - The firms minimum efficient scale is small relative to market demand
+    - There is enough demand foe many firms to enter the market and explit all economies of scale
+  - Each firm is percieved to produce a good/service that has no unique characteristics
+- Price takers
+  - In perfect competition, each firm is a price taker
+  - A price taker is a firm that can't influence the price of a good or service
+  - Each firm's output is a perfect substitute for that of other firms so demand for each output is perfectly elastic
+** Cost, Revenue, and Profit
+*** Economic Profit and Cost
+- The goal of each firm is to maximize economic profit, which equals total revenue - total cost
+- total cost is the opportunity cost of production which is the value of the best alternative use of resources that a firm uses in production
+- The opportunity cost includes normal profit, which is the profit an entreprenier can expect to recieve on average
+*** Economic Profit and Revenue
+- A firm's total revenue = price, P, multiplied by quantity sold, Q; revenue = P * Q
+- A firm's marginal revenue is the change in total revenue that results from a one-unit increase in quantity sold
+  - can be complicated because price and quantity may be interdependent
+  - does not exist when everyone is a price taker
 * Chapter 11
 ** Introduction
 - Decision timeframes
