@@ -12,10 +12,10 @@
 **** DONE Consumer Assignment
      DEADLINE: <2020-10-21 Wed>
 *** ECON2106 [0%]
-**** TODO Econ V1-10
-- [ ]V1-5
-- [ ]V6-10
-**** TODO HW 12
+**** IN-PROGRESS Econ V1-10
+- [X] V1-5
+- [ ] V6-10
+**** IN-PROGRESS HW 12
 *** INTL3300 [100%]
 **** DONE Country Presentation
 **** DONE INTL V1-2
