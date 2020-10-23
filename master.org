@@ -1,8 +1,8 @@
 * 10.19.20
 ** School
-*** CSCI1730 [0%]
+*** CSCI1730 [33%]
 **** TODO Ch 9-11
-**** TODO Mod 17-19
+**** DONE Mod 17-19
 **** TODO Assn06
      DEADLINE: <2020-10-24 Sat>
 *** ECOL1000 [100%]
@@ -11,11 +11,11 @@
 *** ECOL1000L [100%]
 **** DONE Consumer Assignment
      DEADLINE: <2020-10-21 Wed>
-*** ECON2106 [0%]
-**** IN-PROGRESS Econ V1-10
+*** ECON2106 [100%]
+**** DONE Econ V1-10
 - [X] V1-5
-- [ ] V6-10
-**** IN-PROGRESS HW 12
+- [X] V6-10
+**** DONE HW 12
 *** INTL3300 [100%]
 **** DONE Country Presentation
 **** DONE INTL V1-2
@@ -45,10 +45,12 @@
 ** Tutoring
 *** DONE Noah
     SCHEDULED: <2020-10-21 Wed 15:30>
-*** TODO Tom
-*** TODO Mebin
-*** TODO Debate 1
-*** TODO Debate 2
+*** WAITING Tom
+SCHEDULED: <2020-10-23 Fri 11:30>
+*** DONE Mebin
+SCHEDULED: <2020-10-22 Thu 15:00>
+*** WAITING Debate 1
+*** WAITING Debate 2
 * 10.11.20
 ** School
 *** CSCI1730 [100%]
