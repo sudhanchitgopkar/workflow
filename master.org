@@ -12,6 +12,8 @@
      DEADLINE: <2020-10-28 Wed>
 **** WAITING iClicker 8
      DEADLINE: <2020-10-30 Fri>
+**** TODO Extra Credit Film
+     DEADLINE: <2020-11-09 Mon>
 *** ECOL1000L [0%]
 **** TODO Population Growth Assignment
      DEADLINE: <2020-10-28 Wed>
@@ -21,8 +23,8 @@
      SCHEDULED: <2020-10-29 Thu 11:10>
 **** TODO Econ HW 13
      DEADLINE: <2020-11-01 Sun>
-*** INTL3300 [0%]
-**** TODO Nigeria Quiz
+*** INTL3300 [50%]
+**** DONE Nigeria Quiz
      DEADLINE: <2020-10-26 Mon>
 **** WAITING Discussion Post
      SCHEDULED: <2020-11-02 Mon>
@@ -47,11 +49,11 @@
 *** Misc [0%]
 **** TODO NCUR Email
 ** Tutoring
-*** Noah
-*** Tom
-*** Mebin
-*** Debate 1
-*** Debate 2
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
 * 10.19.20
 ** School
 *** CSCI1730 [33%]

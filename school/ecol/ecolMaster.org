@@ -1,3 +1,70 @@
+* 10.26.20
+- Disease cases frim infected mosquitoes, ticks, and fleas have tripled in the last 13 years
+** Malaria
+- Vector: Mosquito
+- Transmission: Bite from infected mosquitoes
+- Prevalence: Est 219M cases of Malaria, cases are mostly children w 660k Deaths
+- US Prevalence: An average of 1,500 reported cases of malaria in the U.S. each year
+** Dengue Gever:
+- Vector: Asian tiger mosquito (in 36 US states)
+- Transmission: Bite from infected mosquito
+- Prevalence: 100M cases worldwide, endemic in the Americas
+- Occurs rarely, but there is a small risk for dengue outbreaks in the continental United States, mainly in the Southern US
+** Chikungunya
+- Transmitted by mosquitoes
+- Mainly in Africa, Asia, Europe, Indian, and Pacific Oceans
+- First found in the Americas on Carribean islands in 2013
+- Beginning in 2014, reported in US travelers
+** West Nile Virus
+- Vector: Mosquito
+- Transmission: Bite form infected mosquito
+- Prevalence: commonly found in Africa, Europe,Middle East, North America, West Asia
+- U.S. Prevalence: Between 1999 and 2012, about 37,000 cases of West Nile Virus were reported in the U.S. Over 1,500 people died as a result.
+** Spread of Disease
+- Increased connectivity increases rate and spread of infectious diseases across the globe
+- Correlation between travel advisory and amount of travel to infected areas for Zika
+- Zika most likely to be found in the Southeast because of Zika-transmitting mosquito population residence
+- High poverty rates correlated with high risk of disease spread due to high population density, potential lack of good healthcare
+- Warmer average temps, longer growing seasons, changes in precipiation may lead to more standing water and conditions that may be better for disease spread
+- Warning temps could expose more than 1.3B people to Zika by 2050
+** Climate Change and Health
+- Without effective responses, climate change will:
+  - Water quality and quantity:  Contributing to a doubling of people living in water-stressed basins by 2050.
+  - Food security: In some African countries, yields from rain-fed agriculture may halve by 2020.
+  - Control of infectious disease: Increasing population at risk of malaria in Africa by 170 million by 2030, and at risk of dengue by 2 billion by 2080s.
+  - Protection from disasters: Increasing exposure to coastal flooding by a factor of 10, and land area in extreme drought by a factor of 10-30
+- Rainfall: tranports and disseminates infectious agents
+- Flooding: sewage treatment plants overflow, water sources contaminated
+- Sea levels rise: Increased risk of severe flooding
+- Higher temps: increases growth and survival rates of infection
+- Drought: increases concentration of pathogens, hurts hygiene
+** Health Outcomes from Climate Change
+- Some expected impacts will be beneficial but most will be adverse.Expectations are mainly for changes in frequency or severity of familiar health risks
+- See Zika Climate Final for diagrams
+** Poverty and Disease
+- Diarrhea is related to temperature and precipiatation; Diarrhea increased 8% for each 1 degree C temp increase
+- Health impacts of climate change unfairly distributed, hurt mortality of developing, low-income countries, especially in Africa
+** Temperature Effects on Vectors and Pathogens
+- Vector:
+  - Survival inc/dec depending on species
+  - Changes susceptibility of vectors to some pathogens
+  - Changes in rate of vector population growth
+  - Changes in feeding rate and host contact
+- Pathogen:
+  - Decreased incubation period at higher temps
+  - Changes in transmission season
+  - Changes in georgraphical distribution
+  - Decreased viral replication
+** Percipitation Effects on Vectors
+- Survival: increased rain may increase larval habitat
+- Excess rain can eliminate habitat by flooding•Low rainfall can create habitat as rivers dry into pools (dry season malaria)
+- Decreased rain can increase container-breeding mosquitoes by forcing increased water storage
+- Heavy rainfall events can synchronize vector host-seeking and virus transmission
+- Increased humidity increases vector survival and vice-versa
+** IPCC
+- Intergovernmental Panel on Climate Change, intl body for assessing the science related to climate change
+- Set up in 1988 by the World Meteorological Organization and the UN Environmental Programme
+- Provide policymakers w regular assessments about climate change, impacts and future risks, options for mitigation and adaptation
 * 10.14.20
 - Exam Review
   - Taxonomoc group with the most known species: insects
