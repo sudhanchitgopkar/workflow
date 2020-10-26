@@ -1,3 +1,57 @@
+* 10.26.20
+** School
+*** CSCI1730 [0%]
+**** TODO M19-25
+**** TODO Ch9-12
+**** TODO Assn07
+     DEADLINE: <2020-11-01 Sun>
+*** ECOL1000 [0%]
+**** TODO ECOL HW 8
+     DEADLINE: <2020-10-28 Wed>
+**** TODO Sapling 5.3
+     DEADLINE: <2020-10-28 Wed>
+**** WAITING iClicker 8
+     DEADLINE: <2020-10-30 Fri>
+*** ECOL1000L [0%]
+**** TODO Population Growth Assignment
+     DEADLINE: <2020-10-28 Wed>
+*** ECON2106 [0%]
+**** TODO Econ V1-6
+**** TODO Econ Review 2
+     SCHEDULED: <2020-10-29 Thu 11:10>
+**** TODO Econ HW 13
+     DEADLINE: <2020-11-01 Sun>
+*** INTL3300 [0%]
+**** TODO Nigeria Quiz
+     DEADLINE: <2020-10-26 Mon>
+**** WAITING Discussion Post
+     SCHEDULED: <2020-11-02 Mon>
+*** INTL4970 [0%]
+**** WAITING Database Meeting
+     SCHEDULED: <2020-10-29 Thu 16:00>
+*** MATH4670 [%]
+*** MATH4950 [%]
+**** Midterm
+*** CLAS1010H [0%]
+**** TODO Email Kelly - Payment
+**** TODO Notify about absences
+** Orgs
+*** MUN [0%]
+**** TODO 7 PM Sec Meeting
+**** TODO Headshot Pref form
+*** Finch [0%]
+**** IN-PROGRESS Web Redesign
+*** UGAHacks [0%]
+**** TODO Instagram Takeover Video
+**** TODO Email SGA Rep
+*** Misc [0%]
+**** TODO NCUR Email
+** Tutoring
+*** Noah
+*** Tom
+*** Mebin
+*** Debate 1
+*** Debate 2
 * 10.19.20
 ** School
 *** CSCI1730 [33%]
