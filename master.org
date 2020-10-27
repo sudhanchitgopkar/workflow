@@ -3,12 +3,12 @@
 *** CSCI1730 [0%]
 **** TODO M19-25
 **** TODO Ch9-12
-**** TODO Assn07
-     DEADLINE: <2020-11-01 Sun>
-*** ECOL1000 [0%]
-**** TODO ECOL HW 8
+**** WAITING Assn07
+     DEADLINE: <2020-11-03 Tue>
+*** ECOL1000 [50%]
+**** DONE ECOL HW 8
      DEADLINE: <2020-10-28 Wed>
-**** TODO Sapling 5.3
+**** DONE Sapling 5.3
      DEADLINE: <2020-10-28 Wed>
 **** WAITING iClicker 8
      DEADLINE: <2020-10-30 Fri>
@@ -43,10 +43,12 @@
 **** TODO Headshot Pref form
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
-*** UGAHacks [0%]
-**** TODO Instagram Takeover Video
+*** UGAHacks [50%]
+**** DONE Instagram Takeover Video
 **** TODO Email SGA Rep
-*** Misc [0%]
+*** Misc [50%]
+**** DONE CogSci Meeting 1
+     SCHEDULED: <2020-10-28 Wed 18:00>
 **** TODO NCUR Email
 ** Tutoring
 *** TODO Noah
