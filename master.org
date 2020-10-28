@@ -5,15 +5,17 @@
 **** TODO Ch9-12
 **** WAITING Assn07
      DEADLINE: <2020-11-03 Tue>
+**** TODO RQ1-2
+     DEADLINE: <2020-10-30 Fri>
 *** ECOL1000 [50%]
-**** DONE ECOL HW 8
-     DEADLINE: <2020-10-28 Wed>
-**** DONE Sapling 5.3
-     DEADLINE: <2020-10-28 Wed>
 **** WAITING iClicker 8
      DEADLINE: <2020-10-30 Fri>
 **** TODO Extra Credit Film
      DEADLINE: <2020-11-09 Mon>
+**** DONE Sapling 5.3
+     DEADLINE: <2020-10-28 Wed>
+**** DONE ECOL HW 8
+     DEADLINE: <2020-10-28 Wed>
 *** ECOL1000L [0%]
 **** TODO Population Growth Assignment
      DEADLINE: <2020-10-28 Wed>
@@ -24,34 +26,37 @@
 **** TODO Econ HW 13
      DEADLINE: <2020-11-01 Sun>
 *** INTL3300 [50%]
-**** DONE Nigeria Quiz
-     DEADLINE: <2020-10-26 Mon>
 **** WAITING Discussion Post
      SCHEDULED: <2020-11-02 Mon>
-*** INTL4970 [0%]
-**** WAITING Database Meeting
+**** DONE Nigeria Quiz
+     DEADLINE: <2020-10-26 Mon>
+*** INTL4970 [100%]
+**** DONE Database Meeting
      SCHEDULED: <2020-10-29 Thu 16:00>
 *** MATH4670 [%]
-*** MATH4950 [%]
-**** Midterm
-*** CLAS1010H [0%]
-**** TODO Email Kelly - Payment
+*** MATH4950 [100%]
+**** DONE Midterm
+*** CLAS1010H [50%]
 **** TODO Notify about absences
+**** DONE Email Kelly - Payment
 ** Orgs
-*** MUN [0%]
-**** TODO 7 PM Sec Meeting
-**** TODO Headshot Pref form
+*** MUN [100%]
+**** ABANDONED 7 PM Sec Meeting
+**** DONE Headshot Pref form
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
-*** UGAHacks [50%]
+*** UGAHacks [66%]
+**** TODO SGA Form
+**** DONE Email SGA Rep
 **** DONE Instagram Takeover Video
-**** TODO Email SGA Rep
 *** Misc [50%]
+**** TODO NCUR Email
 **** DONE CogSci Meeting 1
      SCHEDULED: <2020-10-28 Wed 18:00>
-**** TODO NCUR Email
 ** Tutoring
-*** TODO Noah
+*** DONE Noah
+    SCHEDULED: <2020-10-30 Fri 18:15>
+*** WAITING Noah 2
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
