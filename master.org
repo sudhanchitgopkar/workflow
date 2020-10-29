@@ -3,21 +3,21 @@
 *** CSCI1730 [0%]
 **** TODO M19-25
 **** TODO Ch9-12
-**** WAITING Assn07
+**** TODO Assn07
      DEADLINE: <2020-11-03 Tue>
 **** TODO RQ1-2
      DEADLINE: <2020-10-30 Fri>
 *** ECOL1000 [50%]
-**** WAITING iClicker 8
-     DEADLINE: <2020-10-30 Fri>
 **** TODO Extra Credit Film
      DEADLINE: <2020-11-09 Mon>
+**** IN-PROGRESS iClicker 8
+     DEADLINE: <2020-10-30 Fri>
 **** DONE Sapling 5.3
      DEADLINE: <2020-10-28 Wed>
 **** DONE ECOL HW 8
      DEADLINE: <2020-10-28 Wed>
-*** ECOL1000L [0%]
-**** TODO Population Growth Assignment
+*** ECOL1000L [100%]
+**** DONE Population Growth Assignment
      DEADLINE: <2020-10-28 Wed>
 *** ECON2106 [0%]
 **** TODO Econ V1-6
@@ -57,6 +57,7 @@
 *** DONE Noah
     SCHEDULED: <2020-10-30 Fri 18:15>
 *** WAITING Noah 2
+    SCHEDULED: <2020-10-29 Thu 10:00>
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
