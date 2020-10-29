@@ -1,3 +1,7 @@
+* 11.02.20
+** Migrated
+*** INTL Discussion Post
+*** ECOL Extra Credit
 * 10.26.20
 ** School
 *** CSCI1730 [0%]
@@ -7,8 +11,8 @@
      DEADLINE: <2020-11-03 Tue>
 **** TODO RQ1-2
      DEADLINE: <2020-10-30 Fri>
-*** ECOL1000 [50%]
-**** TODO Extra Credit Film
+*** ECOL1000 [75%]
+**** MIGRATED Extra Credit Film
      DEADLINE: <2020-11-09 Mon>
 **** IN-PROGRESS iClicker 8
      DEADLINE: <2020-10-30 Fri>
@@ -25,11 +29,12 @@
      SCHEDULED: <2020-10-29 Thu 11:10>
 **** TODO Econ HW 13
      DEADLINE: <2020-11-01 Sun>
-*** INTL3300 [50%]
-**** WAITING Discussion Post
+*** INTL3300 [66%]
+**** MIGRATED Discussion Post
      SCHEDULED: <2020-11-02 Mon>
 **** DONE Nigeria Quiz
      DEADLINE: <2020-10-26 Mon>
+**** TODO INTL V1-2
 *** INTL4970 [100%]
 **** DONE Database Meeting
      SCHEDULED: <2020-10-29 Thu 16:00>
@@ -64,11 +69,11 @@
 *** TODO Debate 2
 * 10.19.20
 ** School
-*** CSCI1730 [33%]
-**** TODO Ch 9-11
+*** CSCI1730 [100%]
+**** MIGRATED Ch 9-11
 **** DONE Mod 17-19
-**** TODO Assn06
-     DEADLINE: <2020-10-24 Sat>
+**** DONE Assn06
+     DEADLINE: <2020-10-26 Mon>
 *** ECOL1000 [100%]
 **** DONE Sapling 4.3
      DEADLINE: <2020-10-24 Sat>
@@ -99,8 +104,8 @@
      - BG Commenting via Gdocs, Website
 **** DONE BG Draft 1
      DEADLINE: <2020-10-20 Tue 20:00>
-*** Finch [0%]
-**** IN-PROGRESS Website Redesign
+*** Finch [100%]
+**** MIGRATED Website Redesign
 *** UGAHacks [100%]
 **** DONE RHA Meeting Contact
 *** Misc
@@ -113,8 +118,8 @@
 SCHEDULED: <2020-10-23 Fri 11:30>
 *** DONE Mebin
 SCHEDULED: <2020-10-22 Thu 15:00>
-*** WAITING Debate 1
-*** WAITING Debate 2
+*** DONE Debate 1
+*** ABANDONED Debate 2
 * 10.11.20
 ** School
 *** CSCI1730 [100%]
