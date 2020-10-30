@@ -5,7 +5,7 @@
 *** ECOL Extra Credit
     DEADLINE: <2020-11-04 Wed>
 *** ECON Practice Test
-    DEADLINE: <2020-11-02 Mon>
+    DEADLINE: <2020-11-05 Thu>
 * 10.26.20
 ** School
 *** CSCI1730 [0%]
@@ -26,11 +26,11 @@
 *** ECOL1000L [100%]
 **** DONE Population Growth Assignment
      DEADLINE: <2020-10-28 Wed>
-*** ECON2106 [33%]
-**** TODO Econ V1-6
+*** ECON2106 [100%]
+**** DONE Econ V1-6
 **** DONE Econ Review 2
      SCHEDULED: <2020-10-29 Thu 11:10>
-**** TODO Econ HW 13
+**** DONE Econ HW 13
      DEADLINE: <2020-11-01 Sun>
 *** INTL3300 [66%]
 **** TODO INTL V1-2
@@ -40,7 +40,7 @@
 *** INTL4970 [100%]
 **** DONE Database Meeting
      SCHEDULED: <2020-10-29 Thu 16:00>
-*** MATH4670 [%]
+*** MATH4670 [100%]
 *** MATH4950 [100%]
 **** DONE Midterm
 *** CLAS1010H [100%]
@@ -65,9 +65,9 @@
 ** Tutoring
 *** DONE Noah
     SCHEDULED: <2020-10-30 Fri 18:15>
-*** WAITING Noah 2
+*** ABANDONED Noah 2
     SCHEDULED: <2020-10-29 Thu 10:00>
-*** WAITING Tom
+*** DONE Tom
 *** DONE Mebin
 *** WAITING Debate 1
 *** TODO Debate 2

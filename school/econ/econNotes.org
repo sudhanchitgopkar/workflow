@@ -1,3 +1,90 @@
+* Chapter 13
+** Introduction
+ - A monopoly is a market:
+   - that produces a good or service with no close substitutes
+   - that has one supplier protected by barriers to entry
+   - no threat of competition
+   - Barries to entry prevent new firms from tntering the market and can be natural,    ownership, legal
+** Types of Barriers to Entry
+- Natural barriers to entry create natural monopoly. A natural monopoly is a market in which econmies of scale enable one firm to supply the entire market at the lowest possible cost.
+  - Over the relevant part of the market, you never finish exploiting economies of scale.
+  - In a natural monopoly, economies of scale are so powerful that they are still being achieved even when the entire market demand is met
+  - The Long Run Average Cost curve is still sloping downward when it meets the demand curve
+- Ownership barriers to entry: occurs when one firm owns a significant portuion of a key resource
+- Legal barriers create a legal monopoly
+  - Legal monpoly is a market where competition and entry are restricted by the granting of a
+    - public franchise
+    - government license
+    - patent/copyright
+** How a Single-Price Monpoly Chooses Price and Quantity
+- Monpoly price-setting strategies
+- Monopolies are price-setters.
+- For a monpoly firm to determine the quantity it sells, it must choose the appropriate price
+- There are two types of monopoly price-setting strategies:
+  - single-price monopoly: a form that must sell each unit of its output for the same price to all its customers
+  - price duscrimination is the practice of selling different units of a good or service for different prices
+- A single price monopoliy maximizes profit by choosing quantity where marginal revenue = marginal cost
+  - but a monopolist's marginal revenue depends on quantity
+  - to sell a larger quantity, a monopoly must set a lower price
+  - this is because the demand for the monpoly's output is the market demand
+- Determining Marginal Revenue: TR = P * Q;
+  - For a single price monpoly, marginal revenue is less than the price at each level of output
+  - MR < P
+- If demand is elastic: A fall in the price brings an increase in total revenue, MR > 0
+- If demand is inelastic: A fall in price brings a decrease in total revenue, MR < 0
+- If demand is unit elastic: A fall in price does not change total revenue, MR = 0
+  - Total revenue is maximized when MR = 0
+- A single price monopoly never produces an output at which demand is inelastic
+- Price and Output Decision
+  - The monpoly chooses the profit-maximizing quantity where MR = MC.
+  - The monopoly sets the price at the highest price at which the profit-maximizing quantity will sell.
+  - Find intersection of MR and MC, move up all the way to the demand curve
+  - Monopoly earns a profut of (P-ATC) * Q
+- The monopoly can earn an economic profit, even in the long run, because abrriers to entry protect the form from market entry by competitor firms. A monopoly that incurs an economic lass can shut down termporarily in the short run or exit the market in the long run.
+** Comparison of a Single Price Monopoly to Perfect Competition
+- Perfect competition: Equilibrium occurs where the quantity demanded = quantity supplied.
+- Because price exceeds marginal social cost, MSB > MSC and deadweight loss occurs
+- Redistribution of surplus: some of the lost consumer surplus goes to the monopoly as producer surplus
+- Rent seeking: Any surplus - consumer surplus, producer surplus, or economic profit, is called economic rent.
+- Rent seeking is the pursuit of wealth by caputring economic rent
+- Rent seekers pursue their goals in two main ways
+  - Buy a monopoly
+  - Create a monopoly
+- Rent seeking costs can shoft the ATC cruve upward, causing producer surplus to disappear
+- The deadweight loss would increase to the larger gray area
+** Price Discrimination
+- Practice of selling different units of a good/service for different prices
+  - To be able to price discriminate, a monopoly must
+    1: identify aand separate different buyer types
+    2: Sell a product that can't be resold
+- Methods of discrimination:
+  - Among groups of buyers
+  - Among units of a good
+- By price discriminating, a monopoly caputes consumer surplus and converts it into producer surplus
+- More producer surplus = economic profit
+- Calculations:
+  - Economic profit = TR - TC
+  - Producer surplus = TR - TVC
+  - Economic Profit = Producer Surplus - TFC
+- Perfect price discrimination: occurs if a firm is able to sell each unit of out[ut for the highest price someone is willing to pay
+- Marginal revenue = price, Demand = MR
+- Consumer surplus is 0, there is no deadweight loss, producer surplus is maximized.
+- Economic profit attracts even more rent seeking, increases the amount of inefficiency.
+** Monopoly Regulation
+- Regulation: rules administrated by a government agency to influence prices, quantities, entry, and other aspects of economic activity.
+- Two theories about how regulation works are social interest theory and capute theory:
+  - Social Interest theory: political and regulatory process relentlessly seeks out inefficiency and reulates to eliminate deadweight loss
+  - Caputre theory: regulatino serves the self interest of the producer who caputes the regulator and maximizes economic profit
+- Rate of Return Regulation
+  - Firm must justify its price by showing that its return on capital doesn't exceed a certain rate
+- Price cap regulation: imposition of a price ceiling, incentive to operate efficiently
+- Efficient regulation of a natural monopoly
+  - Marginal cost pricing rule sets price = marginal cost.
+    makes quantity demanded the efficient quantity
+  - Average cost exceeds price, firm incurs economic loss
+  - Natural monopoly might charge a fixed fee to voer its fixed costs then charge a price = marginal cost in order to get around economic losses
+- Average cost pricing rule
+  - the firm produces the quantity at which price = average cost and to set price = average cost. firm breaks even but produces less than efficient quantity.
 * Chapter 12
 ** Introduction
 - Perfect competition is a market in which
