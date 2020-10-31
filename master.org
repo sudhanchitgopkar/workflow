@@ -8,13 +8,13 @@
     DEADLINE: <2020-11-05 Thu>
 * 10.26.20
 ** School
-*** CSCI1730 [0%]
+*** CSCI1730 [25%]
 **** TODO M19-25
-**** TODO Ch9-12
+**** IN-PROGRESS Ch9-12
 **** TODO Assn07
      DEADLINE: <2020-11-03 Tue>
-**** TODO RQ1-2
-     DEADLINE: <2020-10-30 Fri>
+**** DONE RQ1-2
+     DEADLINE: <2020-11-01 Sun>
 *** ECOL1000 [75%]
 **** MIGRATED Extra Credit Film
 **** WAITING iClicker 8
@@ -62,7 +62,7 @@
 **** TODO NCUR Email
 **** DONE CogSci Meeting 1
      SCHEDULED: <2020-10-28 Wed 18:00>
-** Tutoring
+** Tutoring [66%]
 *** DONE Noah
     SCHEDULED: <2020-10-30 Fri 18:15>
 *** ABANDONED Noah 2
