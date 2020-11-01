@@ -15,9 +15,9 @@
      DEADLINE: <2020-11-03 Tue>
 **** DONE RQ1-2
      DEADLINE: <2020-11-01 Sun>
-*** ECOL1000 [75%]
+*** ECOL1000 [100%]
 **** MIGRATED Extra Credit Film
-**** WAITING iClicker 8
+**** DONE iClicker 8
      DEADLINE: <2020-10-30 Fri>
 **** DONE Sapling 5.3
      DEADLINE: <2020-10-28 Wed>
@@ -62,7 +62,7 @@
 **** TODO NCUR Email
 **** DONE CogSci Meeting 1
      SCHEDULED: <2020-10-28 Wed 18:00>
-** Tutoring [83%]
+** Tutoring [100%]
 *** DONE Noah
     SCHEDULED: <2020-10-30 Fri 18:15>
 *** ABANDONED Noah 2
@@ -70,7 +70,7 @@
 *** DONE Tom
 *** DONE Mebin
 *** DONE Debate 1
-*** WAITING Debate 2
+*** DONE Debate 2
 * 10.19.20
 ** School
 *** CSCI1730 [100%]
