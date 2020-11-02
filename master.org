@@ -1,17 +1,80 @@
 * 11.02.20
-** Migrated
-*** INTL Discussion Post
-    DEADLINE: <2020-11-02 Mon>
-*** ECOL Extra Credit
-    DEADLINE: <2020-11-04 Wed>
-*** ECON Practice Test
-    DEADLINE: <2020-11-05 Thu>
-* 10.26.20
 ** School
-*** CSCI1730 [25%]
+*** CSCI1730 [0%]
 **** TODO M19-25
 **** IN-PROGRESS Ch9-12
 **** IN-PROGRESS Assn07
+DEADLINE: <2020-11-03 Tue>
+**** WAITING Assn08
+*** ECOL1000 [14%]
+**** TODO ECOL Extra Credit
+    DEADLINE: <2020-11-04 Wed>
+
+**** TODO iClicker 9
+DEADLINE: <2020-11-02 Mon>
+**** TODO ECOL HW10
+DEADLINE: <2020-11-04 Wed>
+**** DONE LC 5.2
+DEADLINE: <2020-11-02 Mon>
+**** TODO LC 5.3
+DEADLINE: <2020-11-02 Mon>
+**** TODO LC 6.1
+DEADLINE: <2020-11-04 Wed>
+**** TODO LC 6.2
+DEADLINE: <2020-11-04 Wed>
+*** ECOL1000L [100%]
+*** ECON2106 [0%]
+**** TODO ECON Practice Test
+    DEADLINE: <2020-11-05 Thu>
+**** WAITING ECON Exam 2
+SCHEDULED: <2020-11-05 Thu 11:10>
+*** INTL3300 [0%]
+**** TODO INTL Discussion Post
+DEADLINE: <2020-11-02 Mon>
+**** TODO INTL V1-4
+- [ ] V1
+- [ ] V2
+- [ ] V3
+- [ ] V4
+*** INTL4970 [0%]
+**** TODO Email Librarians
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+** Orgs
+*** MUN [0%]
+**** TODO LaTeX Conversions
+DEADLINE: <2020-11-02 Mon>
+*** Finch [0%]
+**** IN-PROGRESS Web Redesign
+*** UGAHacks [0%]
+**** TODO RHA Meeting 2
+*** FRC [0%]
+**** WAITING CAPS Presentation
+SCHEDULED: <2020-11-04 Wed 16:00>
+**** WAITING Mindfulness Hour
+SCHEDULED: <2020-11-05 Thu 18:00>
+**** WAITING Cookie Night
+SCHEDULED: <2020-11-08 Sun 18:00>
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+*** IN-PROGRESS Payment[1/7]
+**** TODO Noah
+**** TODO Tom
+**** DONE Mebin
+**** TODO Allen
+**** TODO Uday
+**** TODO Sam
+**** TODO Antony
+* 10.26.20
+** School
+*** CSCI1730 [100%]
+**** MIGRATED M19-25
+**** MIGRATED Ch9-12
+**** MIGRATED Assn07
      DEADLINE: <2020-11-03 Tue>
 **** DONE RQ1-2
      DEADLINE: <2020-11-01 Sun>
@@ -32,8 +95,8 @@
      SCHEDULED: <2020-10-29 Thu 11:10>
 **** DONE Econ HW 13
      DEADLINE: <2020-11-01 Sun>
-*** INTL3300 [66%]
-**** TODO INTL V1-2
+*** INTL3300 [100%]
+**** MIGRATED INTL V1-2
 **** MIGRATED Discussion Post
 **** DONE Nigeria Quiz
      DEADLINE: <2020-10-26 Mon>
@@ -58,8 +121,8 @@
 **** DONE SGA Form
 **** DONE Email SGA Rep
 **** DONE Instagram Takeover Video
-*** Misc [50%]
-**** TODO NCUR Email
+*** Misc [100%]
+**** ABANDONED NCUR Email
 **** DONE CogSci Meeting 1
      SCHEDULED: <2020-10-28 Wed 18:00>
 ** Tutoring [100%]
@@ -395,7 +458,7 @@ SCHEDULED: <2020-10-08 Thu 12:45>
 ** School
 *** CSCI1730 [100%]
 **** DONE Assn002
-     DEADLINE: <2020-09-18 Fri>
+DEADLINE: <2020-09-18 Fri>
 **** DONE Module 9
 **** DONE Module 10
 **** MIGRATED Dietel Readings
