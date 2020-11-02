@@ -1,3 +1,96 @@
+* 11.02.20
+** Triple Bottom Line
+- An assessment of the cost of a good or service should include more than just the economic costs; it should also include the social and environmental cost
+- IPAT Equation:
+  I = P * A * T; I = Impact, P = Population size, A = Affluence(products/person), T = Tech Usage (impact/product)
+** Assumptions of Mainstream Economics
+- Environmental economists argue that mainstream economics will fail in the long run because it makes some assumptions that are inconsistent with the way nature operates
+**** Assumption:
+- Natural and human resources are infinite, substitutes can be found as necessary
+- Economic growth will go on forever
+- Something that benefits/harms us today is more important than something that ight do so tomorrow
+**** Impacts:
+- Linear economic production models use inputs and produce waste without regard to sustainability; circular systems depend on renewable resources and see waste as a useful inp
+- Cradle to Cradle mentality creates sustainability whereas crade to grave increase the amount of overall waste
+** Market solutions
+- Alternatve: Command and Control
+  - Command = estbalishment of performance standards by a govt authority that must be complied with
+  - Control = negative consequences that could result from non-compliance
+- Performance Standards
+- Tradeable permits
+  - Important to consider the effect on environmental justice
+Economic Incentives
+  - Seek to reduce or eliminate negative environmental externalities (such as pollution) by incorporating the external cost of production.
+  - The general focus is prevention rather than remediation
+- Payment for Ecosystem Services
+  - NYC protecting its water supply
+** Environmental Policy
+- Environmental policy = A course of action adopted by a government or organization intended to improve the natural environment and public health and reduce human impact on the environment
+- Collective action undertaken to manage natural resources and human impacts on the environment.
+- Things like:
+  – Laws
+  – Regulations
+  – International agreements
+  – Funding decisions
+** Why is Environmental Policy Challenging
+- Many environmental problems trasncend boundaries
+- Lots of WICKED problems, very complex with mulitple stakeholders
+- Lawmakers must juggle many factors
+  - Effectiveness of the policy
+  - Negative tradeoffs
+  - Cost burden (internal, external costs)
+  - Flexibility of the policy to accomodate changes
+- Many times, voters and lawmakers don't agree that they are necessary
+** History of Environmental Policy
+ - Before 1960's
+   - How best to use resources
+   - Pollution not key objective
+   - Primerily dealt with at the state level
+   - Environmental problems addressed after the fact through litigation, favored the pollutor
+ - Changes
+   - As industry, pollution inc, pollution crossed state lines
+   - Massive outcry in the 60's and 70's lef to federal legislation
+   - Performance standards let to a prevention-focused regulation
+** Who Makes Environmentla Policy?
+- Elected Officials
+- Federal and State Agencies
+- Local departments: planning and zoning, public works, etc/
+- Courts
+- Corporations and other businesses
+** NEPA
+- NEPA’s key feature is the Environmental Impact Statement (EIS)—a report that details the likely impacts (positive and negative) of a proposed action.
+- The goal of an EIS is to identify problems before they occur so that stakeholders can choose the most acceptable course of action.
+- The findings are made available to everyone (citizens, policy makers, and special interest groups)—this keeps the process transparent and everyone is given a chance to respon
+** Policy Decision Making Process
+- Identify problem -> Consider options -> Formulate Plan -> Adopt Law -> Implement Law
+  -> Evaluate effectiveness
+- Statutes:
+  - Provide policies, goals
+  - Typically mandate an agency to promulgate regulations according to staturoy standards and enforce them
+  - Often authorize states to enforce them
+  - Often dictate funding allocations
+- Regulations:
+  - Regulation = rule = administrative law
+  - The actual technical and programmatic standards for environmental protection
+  - Standards usually in regulagtions instead of statutes because of ease of amendment
+- Court Decisions
+  - Rule on constitutionality of statute, regulation, or other deferal action
+  - Rule on application of statue or regulation
+  - Rule on meaning (language/intent)
+- Executive Orders
+  - Presidential directives to do something
+  - Often involve internal affairs, Development of amendments to regulations
+** Misc
+- Most environmental regulation passed between the 70's and 90's, no significant regulation since
+- Enforcement and Definitions absolutely essential
+- Trump and Environmental Policy
+  - Treaties
+  – Paris Climate Agreement
+  - Agency heads, federal judges
+  - Agency directives –rules/regulations
+  - Rule rollbacks
+  - No new rules or policies
+  - More state authority
 * 10.26.20
 - Disease cases frim infected mosquitoes, ticks, and fleas have tripled in the last 13 years
 ** Malaria
