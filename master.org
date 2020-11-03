@@ -6,21 +6,20 @@
 **** IN-PROGRESS Assn07
 DEADLINE: <2020-11-02 Mon>
 **** WAITING Assn08
-*** ECOL1000 [28%]
+*** ECOL1000 [42%]
 **** TODO ECOL Extra Credit
     DEADLINE: <2020-11-04 Wed>
-
 **** TODO iClicker 9
-DEADLINE: <2020-11-02 Mon>
+DEADLINE: <2020-11-06 Fri>
 **** TODO ECOL HW10
+DEADLINE: <2020-11-04 Wed>
+**** TODO LC 6.2
 DEADLINE: <2020-11-04 Wed>
 **** DONE LC 5.2
 DEADLINE: <2020-11-02 Mon>
 **** DONE LC 5.3
 DEADLINE: <2020-11-02 Mon>
-**** TODO LC 6.1
-DEADLINE: <2020-11-04 Wed>
-**** TODO LC 6.2
+**** DONE LC 6.1
 DEADLINE: <2020-11-04 Wed>
 *** ECOL1000L [100%]
 *** ECON2106 [0%]
@@ -42,7 +41,7 @@ DEADLINE: <2020-11-02 Mon>
 *** MATH4950 [100%]
 ** Orgs
 *** MUN [0%]
-**** TODO LaTeX Conversions
+**** IN-PROGRESS LaTeX Conversions
 DEADLINE: <2020-11-02 Mon>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
