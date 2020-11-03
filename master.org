@@ -1,17 +1,15 @@
 * 11.02.20
 ** School
-*** CSCI1730 [25%]
+*** CSCI1730 [50%]
 **** TODO M19-25
 **** IN-PROGRESS Ch9-12
 **** DONE Assn07
 DEADLINE: <2020-11-02 Mon>
-**** WAITING Assn08
-*** ECOL1000 [57%]
-**** TODO ECOL Extra Credit
-    DEADLINE: <2020-11-04 Wed>
-**** TODO iClicker 9
-DEADLINE: <2020-11-06 Fri>
-**** TODO ECOL HW10
+**** ABANDONED Assn08
+*** ECOL1000 [85%]
+**** WAITING iClicker 9
+DEADLINE: <2020-11-09 Mon>
+**** DONE ECOL HW10
 DEADLINE: <2020-11-04 Wed>
 **** DONE LC 5.2
 DEADLINE: <2020-11-02 Mon>
@@ -21,6 +19,8 @@ DEADLINE: <2020-11-02 Mon>
 DEADLINE: <2020-11-04 Wed>
 **** DONE LC 6.2
 DEADLINE: <2020-11-04 Wed>
+**** DONE ECOL Extra Credit
+    DEADLINE: <2020-11-04 Wed>
 *** ECOL1000L [100%]
 *** ECON2106 [0%]
 **** TODO ECON Practice Test
@@ -28,13 +28,13 @@ DEADLINE: <2020-11-04 Wed>
 **** WAITING ECON Exam 2
 SCHEDULED: <2020-11-05 Thu 11:10>
 *** INTL3300 [50%]
-**** DONE INTL Discussion Post
-DEADLINE: <2020-11-02 Mon>
 **** TODO INTL V1-4
 - [ ] V1
 - [ ] V2
 - [ ] V3
 - [ ] V4
+**** DONE INTL Discussion Post
+DEADLINE: <2020-11-02 Mon>
 *** INTL4970 [0%]
 **** TODO Email Librarians
 *** MATH4670 [100%]
@@ -43,10 +43,15 @@ DEADLINE: <2020-11-02 Mon>
 *** MUN [0%]
 **** IN-PROGRESS LaTeX Conversions
 DEADLINE: <2020-11-02 Mon>
+**** WAITING MUN Meeting
+SCHEDULED: <2020-11-03 Tue 19:40>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
 *** UGAHacks [0%]
 **** WAITING RHA Meeting 2
+SCHEDULED: <2020-11-03 Tue 19:30>
+**** WAITING Sponsorship Meeting 9
+SCHEDULED: <2020-11-06 Fri 19:00>
 *** FRC [0%]
 **** WAITING CAPS Presentation
 SCHEDULED: <2020-11-04 Wed 16:00>
