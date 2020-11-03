@@ -1,25 +1,25 @@
 * 11.02.20
 ** School
-*** CSCI1730 [0%]
+*** CSCI1730 [25%]
 **** TODO M19-25
 **** IN-PROGRESS Ch9-12
-**** IN-PROGRESS Assn07
+**** DONE Assn07
 DEADLINE: <2020-11-02 Mon>
 **** WAITING Assn08
-*** ECOL1000 [42%]
+*** ECOL1000 [57%]
 **** TODO ECOL Extra Credit
     DEADLINE: <2020-11-04 Wed>
 **** TODO iClicker 9
 DEADLINE: <2020-11-06 Fri>
 **** TODO ECOL HW10
 DEADLINE: <2020-11-04 Wed>
-**** TODO LC 6.2
-DEADLINE: <2020-11-04 Wed>
 **** DONE LC 5.2
 DEADLINE: <2020-11-02 Mon>
 **** DONE LC 5.3
 DEADLINE: <2020-11-02 Mon>
 **** DONE LC 6.1
+DEADLINE: <2020-11-04 Wed>
+**** DONE LC 6.2
 DEADLINE: <2020-11-04 Wed>
 *** ECOL1000L [100%]
 *** ECON2106 [0%]
@@ -46,7 +46,7 @@ DEADLINE: <2020-11-02 Mon>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
 *** UGAHacks [0%]
-**** TODO RHA Meeting 2
+**** WAITING RHA Meeting 2
 *** FRC [0%]
 **** WAITING CAPS Presentation
 SCHEDULED: <2020-11-04 Wed 16:00>
