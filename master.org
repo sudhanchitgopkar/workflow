@@ -40,18 +40,18 @@ DEADLINE: <2020-11-02 Mon>
 *** MATH4670 [100%]
 *** MATH4950 [100%]
 ** Orgs
-*** MUN [0%]
+*** MUN [50%]
 **** IN-PROGRESS LaTeX Conversions
 DEADLINE: <2020-11-02 Mon>
-**** WAITING MUN Meeting
+**** DONE MUN Meeting
 SCHEDULED: <2020-11-03 Tue 19:40>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
-*** UGAHacks [0%]
-**** WAITING RHA Meeting 2
-SCHEDULED: <2020-11-03 Tue 19:30>
+*** UGAHacks [50%]
 **** WAITING Sponsorship Meeting 9
 SCHEDULED: <2020-11-06 Fri 19:00>
+**** DONE RHA Meeting 2
+SCHEDULED: <2020-11-03 Tue 19:30>
 *** FRC [0%]
 **** WAITING CAPS Presentation
 SCHEDULED: <2020-11-04 Wed 16:00>
@@ -60,7 +60,8 @@ SCHEDULED: <2020-11-05 Thu 18:00>
 **** WAITING Cookie Night
 SCHEDULED: <2020-11-08 Sun 18:00>
 ** Tutoring
-*** TODO Noah
+*** WAITING Noah
+SCHEDULED: <2020-11-04 Wed 17:30>
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
