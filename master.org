@@ -22,11 +22,11 @@ DEADLINE: <2020-11-04 Wed>
 **** DONE ECOL Extra Credit
     DEADLINE: <2020-11-04 Wed>
 *** ECOL1000L [100%]
-*** ECON2106 [0%]
-**** TODO ECON Practice Test
-    DEADLINE: <2020-11-05 Thu>
+*** ECON2106 [50%]
 **** WAITING ECON Exam 2
 SCHEDULED: <2020-11-05 Thu 11:10>
+**** DONE ECON Practice Test
+    DEADLINE: <2020-11-05 Thu>
 *** INTL3300 [50%]
 **** TODO INTL V1-4
 - [ ] V1
@@ -42,26 +42,24 @@ DEADLINE: <2020-11-02 Mon>
 ** Orgs
 *** MUN [50%]
 **** IN-PROGRESS LaTeX Conversions
-DEADLINE: <2020-11-02 Mon>
+DEADLINE: <2020-11-06 Fri>
 **** DONE MUN Meeting
 SCHEDULED: <2020-11-03 Tue 19:40>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
-*** UGAHacks [50%]
-**** WAITING Sponsorship Meeting 9
+*** UGAHacks [100%]
+**** DONE Sponsorship Meeting 9
 SCHEDULED: <2020-11-06 Fri 19:00>
 **** DONE RHA Meeting 2
 SCHEDULED: <2020-11-03 Tue 19:30>
-*** FRC [0%]
-**** WAITING CAPS Presentation
-SCHEDULED: <2020-11-04 Wed 16:00>
+*** FRC [33%]
 **** WAITING Mindfulness Hour
 SCHEDULED: <2020-11-05 Thu 18:00>
 **** WAITING Cookie Night
 SCHEDULED: <2020-11-08 Sun 18:00>
+**** DONE CAPS Presentation
+SCHEDULED: <2020-11-04 Wed 16:00>
 ** Tutoring
-*** WAITING Noah
-SCHEDULED: <2020-11-04 Wed 17:30>
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
@@ -74,6 +72,8 @@ SCHEDULED: <2020-11-04 Wed 17:30>
 **** TODO Uday
 **** TODO Sam
 **** TODO Antony
+*** DONE Noah
+SCHEDULED: <2020-11-04 Wed 17:30>
 * 10.26.20
 ** School
 *** CSCI1730 [100%]
