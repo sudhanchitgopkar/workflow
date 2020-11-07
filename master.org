@@ -6,9 +6,7 @@
 **** DONE Assn07
 DEADLINE: <2020-11-02 Mon>
 **** ABANDONED Assn08
-*** ECOL1000 [85%]
-**** WAITING iClicker 9
-DEADLINE: <2020-11-09 Mon>
+*** ECOL1000 [100%]
 **** DONE ECOL HW10
 DEADLINE: <2020-11-04 Wed>
 **** DONE LC 5.2
@@ -19,11 +17,13 @@ DEADLINE: <2020-11-02 Mon>
 DEADLINE: <2020-11-04 Wed>
 **** DONE LC 6.2
 DEADLINE: <2020-11-04 Wed>
+**** DONE iClicker 9
+DEADLINE: <2020-11-09 Mon>
 **** DONE ECOL Extra Credit
     DEADLINE: <2020-11-04 Wed>
 *** ECOL1000L [100%]
-*** ECON2106 [50%]
-**** WAITING ECON Exam 2
+*** ECON2106 [100%]
+**** DONE ECON Exam 2
 SCHEDULED: <2020-11-05 Thu 11:10>
 **** DONE ECON Practice Test
     DEADLINE: <2020-11-05 Thu>
@@ -52,17 +52,14 @@ SCHEDULED: <2020-11-03 Tue 19:40>
 SCHEDULED: <2020-11-06 Fri 19:00>
 **** DONE RHA Meeting 2
 SCHEDULED: <2020-11-03 Tue 19:30>
-*** FRC [33%]
-**** WAITING Mindfulness Hour
-SCHEDULED: <2020-11-05 Thu 18:00>
+*** FRC [66%]
 **** WAITING Cookie Night
 SCHEDULED: <2020-11-08 Sun 18:00>
+**** DONE Mindfulness Hour
+SCHEDULED: <2020-11-05 Thu 18:00>
 **** DONE CAPS Presentation
 SCHEDULED: <2020-11-04 Wed 16:00>
 ** Tutoring
-*** TODO Tom
-*** TODO Mebin
-*** TODO Debate 1
 *** TODO Debate 2
 *** IN-PROGRESS Payment[1/7]
 **** TODO Noah
@@ -72,6 +69,11 @@ SCHEDULED: <2020-11-04 Wed 16:00>
 **** TODO Uday
 **** TODO Sam
 **** TODO Antony
+*** DONE Debate 1
+*** DONE Mebin
+SCHEDULED: <2020-11-05 Thu 15:00>
+*** DONE Tom
+SCHEDULED: <2020-11-05 Thu 14:00>
 *** DONE Noah
 SCHEDULED: <2020-11-04 Wed 17:30>
 * 10.26.20
