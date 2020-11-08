@@ -1,8 +1,8 @@
 * 11.02.20
 ** School
-*** CSCI1730 [50%]
-**** TODO M19-25
-**** IN-PROGRESS Ch9-12
+*** CSCI1730 [100%]
+**** DONE M19-25
+**** DONE Ch9-12
 **** DONE Assn07
 DEADLINE: <2020-11-02 Mon>
 **** ABANDONED Assn08
@@ -42,7 +42,7 @@ DEADLINE: <2020-11-02 Mon>
 ** Orgs
 *** MUN [50%]
 **** IN-PROGRESS LaTeX Conversions
-DEADLINE: <2020-11-06 Fri>
+DEADLINE: <2020-11-08 Sun>
 **** DONE MUN Meeting
 SCHEDULED: <2020-11-03 Tue 19:40>
 *** Finch [0%]
@@ -60,7 +60,6 @@ SCHEDULED: <2020-11-05 Thu 18:00>
 **** DONE CAPS Presentation
 SCHEDULED: <2020-11-04 Wed 16:00>
 ** Tutoring
-*** TODO Debate 2
 *** IN-PROGRESS Payment[1/7]
 **** TODO Noah
 **** TODO Tom
@@ -70,6 +69,7 @@ SCHEDULED: <2020-11-04 Wed 16:00>
 **** TODO Sam
 **** TODO Antony
 *** DONE Debate 1
+*** DONE Debate 2
 *** DONE Mebin
 SCHEDULED: <2020-11-05 Thu 15:00>
 *** DONE Tom
