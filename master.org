@@ -1,3 +1,55 @@
+* 11.09.20
+** School
+*** CSCI1730 [0%]
+**** WAITING Exam 2
+SCHEDULED: <2020-11-10 Tue>
+**** WAITING Assignment 08
+*** ECOL1000 [0%]
+**** TODO iClicker 11
+DEADLINE: <2020-11-12 Thu>
+**** TODO ECOL HW 11
+DEADLINE: <2020-11-11 Wed>
+*** ECOL1000L [0%]
+**** TODO Ethics Lab
+DEADLINE: <2020-11-11 Wed>
+*** ECON2106 [0%]
+**** TODO CH14 Homework
+DEADLINE: <2020-11-13 Fri>
+*** INTL3300 [0%]
+**** TODO INTL V1-6
+**** WAITING Discussion Post
+*** INTL4970 [0%]
+**** TODO Email Librarians
+**** TODO Update Saglam
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+*** FYOS1000 [0%]
+**** TODO Check Payment
+** Orgs
+*** MUN [0%]
+**** IN-PROGRESS LaTeX Conversions
+DEADLINE: <2020-11-09 Mon>
+**** WAITING Weekly Meeting
+SCHEDULED: <2020-11-10 Tue 19:30>
+**** WAITING Registration Setup
+**** TODO Sophia Meeting
+*** Finch [0%]
+**** IN-PROGRESS Web Redesign
+*** FRC [%]
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+*** IN-PROGRESS Payment[1/7]
+**** TODO Noah
+**** TODO Tom
+**** DONE Mebin
+**** TODO Allen
+**** TODO Uday
+**** TODO Sam
+**** TODO Antony
 * 11.02.20
 ** School
 *** CSCI1730 [100%]
@@ -40,34 +92,34 @@ DEADLINE: <2020-11-02 Mon>
 *** MATH4670 [100%]
 *** MATH4950 [100%]
 ** Orgs
-*** MUN [50%]
-**** IN-PROGRESS LaTeX Conversions
+*** MUN [100%]
+**** MIGRATED LaTeX Conversions
 DEADLINE: <2020-11-08 Sun>
 **** DONE MUN Meeting
 SCHEDULED: <2020-11-03 Tue 19:40>
-*** Finch [0%]
-**** IN-PROGRESS Web Redesign
+*** Finch [100%]
+**** MIGRATED Web Redesign
 *** UGAHacks [100%]
 **** DONE Sponsorship Meeting 9
 SCHEDULED: <2020-11-06 Fri 19:00>
 **** DONE RHA Meeting 2
 SCHEDULED: <2020-11-03 Tue 19:30>
-*** FRC [66%]
-**** WAITING Cookie Night
+*** FRC [100%]
+**** ABANDONED Cookie Night
 SCHEDULED: <2020-11-08 Sun 18:00>
 **** DONE Mindfulness Hour
 SCHEDULED: <2020-11-05 Thu 18:00>
 **** DONE CAPS Presentation
 SCHEDULED: <2020-11-04 Wed 16:00>
 ** Tutoring
-*** IN-PROGRESS Payment[1/7]
-**** TODO Noah
-**** TODO Tom
+*** MIGRATED Payment[7/7]
+**** MIGRATED Noah
+**** MIGRATED Tom
 **** DONE Mebin
-**** TODO Allen
-**** TODO Uday
-**** TODO Sam
-**** TODO Antony
+**** MIGRATED Allen
+**** MIGRATED Uday
+**** MIGRATED Sam
+**** MIGRATED Antony
 *** DONE Debate 1
 *** DONE Debate 2
 *** DONE Mebin
