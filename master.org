@@ -4,10 +4,10 @@
 **** WAITING Exam 2
 SCHEDULED: <2020-11-10 Tue>
 **** WAITING Assignment 08
-*** ECOL1000 [0%]
+*** ECOL1000 [50%]
 **** TODO iClicker 11
 DEADLINE: <2020-11-12 Thu>
-**** TODO ECOL HW 11
+**** DONE ECOL HW 11
 DEADLINE: <2020-11-11 Wed>
 *** ECOL1000L [0%]
 **** TODO Ethics Lab
@@ -32,7 +32,8 @@ DEADLINE: <2020-11-09 Mon>
 **** WAITING Weekly Meeting
 SCHEDULED: <2020-11-10 Tue 19:30>
 **** WAITING Registration Setup
-**** TODO Sophia Meeting
+**** WAITING Sophia Meeting
+SCHEDULED: <2020-11-09 Mon 17:00>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
 *** FRC [%]
