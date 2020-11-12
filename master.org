@@ -4,22 +4,22 @@
 **** DONE Exam 2
 SCHEDULED: <2020-11-10 Tue>
 **** ABANDONED Assignment 08
-*** ECOL1000 [50%]
-**** TODO iClicker 11
+*** ECOL1000 [100%]
+**** DONE iClicker 11
 DEADLINE: <2020-11-12 Thu>
 **** DONE ECOL HW 11
 DEADLINE: <2020-11-11 Wed>
 *** ECOL1000L [100%]
 **** DONE Ethics Lab
 DEADLINE: <2020-11-11 Wed>
-*** ECON2106 [0%]
-**** TODO CH14 Homework
+*** ECON2106 [100%]
+**** DONE CH14 Homework
 DEADLINE: <2020-11-13 Fri>
-*** INTL3300 [0%]
+*** INTL3300 [33%]
 **** TODO INTL V1-4
-**** TODO INTL Film
-DEADLINE: <2020-11-11 Wed>
 **** TODO Discussion Post
+**** DONE INTL Film
+DEADLINE: <2020-11-11 Wed>
 *** INTL4970 [50%]
 **** TODO Email Librarians
 **** DONE Update Saglam
@@ -42,12 +42,15 @@ SCHEDULED: <2020-11-09 Mon 17:00>
 *** UGAHacks
 **** TODO Email SGA Rep
 **** TODO Prepare SGA Presentation
-*** TODO Class Registration
+*** WAITING Class Registration
 SCHEDULED: <2020-11-13 Fri 08:30>
 ** Tutoring
-*** TODO Noah
-*** TODO Tom
-*** TODO Mebin
+*** WAITING Noah
+SCHEDULED: <2020-11-12 Thu 18:30>
+*** DONE Tom
+SCHEDULED: <2020-11-11 Wed 16:15>
+*** DONE Mebin
+SCHEDULED: <2020-11-11 Wed 15:00>
 *** TODO Debate 1
 *** TODO Debate 2
 *** IN-PROGRESS Payment[1/7]

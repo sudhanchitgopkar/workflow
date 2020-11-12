@@ -1,3 +1,106 @@
+* Module 12
+** Political Violence
+- Political Violence: Violence ouside of state control that is politically motivates
+  - A challenge to the legitimacy and authority of state/state institutions
+  - Can be domestic, international, or both
+  - Can include: revolutions, civil wars, riots, strikes
+- Contention: Forms of collective political struggle which may or may not inclue violence
+- Roots of political violence
+  - Institutional - Institutions can constrain or enable activity
+    - Winner take all systmes tend to
+      - result in two party rule
+      - increase marginalization of some groups
+      - increase the likelihood of conflict
+  - Ideational - Based in the power of ideas and preferences for political/economic organization, or religion/culture/history
+    - Ideas shape:
+      - World views
+      - Problem identification
+      - Formation of solutions to problems
+      - Means to achieve these solutions
+  - Individual
+    - Relative deprivation (usually economic or sociopolitlcal)
+    - Marginalization (humiliation, lack of dignity, equality, etc)
+    - {art of a mass movement (collective) or absed on personal experiences
+- Responses to Political Violence
+  - Balancing freedom/privacy and security
+  - Problematic in a democracy
+    - Danger of a surveillance state
+** Social Movements
+- Social Movements Definition
+  - Kriesi: An organized, sustained, self-conscious challenge to existing authorities on behalf of constitutencies whose goals are not effectively taken into account by authorities
+  - Tarrow: Collective challenges to elites, authorities, etc by people with a common purpose and solidarity in sustained interactions with elites, opponents, and authorities
+  - Have loose organization with spatial and temporal limitations
+    - Still true with social media?
+  - Networks with weak ties
+    - Emphaized by physical separation of the internet
+  - Can become interest groups/pol parties but often lack the singlular mission and collective cohesion to do social
+- A social movement comprises:
+  - Mobilitzation/prganization of members
+  - Establishment of a community of believers
+  - Segmented, polycentric leadership
+  - Evolution through stages (may not move linearly)
+- Stages of Social Movements
+  - Spontaneous response from the concerned
+  - Organizational structure emerges
+  - Interest groups become institutionalized, can influence policy
+  - Advocates become policy-makers
+- Social movements and the Internet
+  - Makes it easier for connection and spread
+  - Weaker ties because of the isolated nature of the internet
+* Module 11
+** Non-Democratic Systems
+- Often have the same institutions as democratic systems but the institutions don't have to answer to the people
+- Sources of Non-democratic rule
+  - Many argue that without a middle class, there can be no democracy
+  - Modernization can bring democratization but can also bring instability that increases chances of non-democracy
+    - + inflation, unemployment, changing employment sectors
+    - social instabiltiy
+    - weak institutions
+- The Resourse Trap
+  - Presence of natural resources can encourage leaders/elites to siphon wealth for themselves while keeping public in check through
+    - Violence/terror
+    - Corporatism
+- Rent-seeking behavior by elites can lead to kleptocracy with attention on gaining wealth, non controlling population. Situation can backfire if resources are depleted or if market prices of resources fall
+- Populism: an appeal by certain leaders to the population for support in working against current institutions structure in the name of interests of the people
+- Civil society: societal associations organized around interests of a group of people
+- Civil society in non-democracies are
+  - co-opted by the state
+  - prohibited by the state
+  - regulated by the state
+- Social and Political culture
+  - religion critical in shaping political culture
+  - cultures can be heterogeneous making it difficult for consesus rule, seeds of competitions for resources and conflict amongst groups
+  - cultures with a dominant group in control can lead to exclusion aof the minortiy group
+- Maintenance of the State
+  - Coercian and surveillance
+  - Cooptation
+    - corporatism
+    - clientelims/patronage
+    - neopatrimonialism
+    - nepotism
+  - Personality cults (often based on charismatic/traditional legitimacy)
+** Types of Non-Democratic Systems
+*** Models of Non-democratic Rule
+- Military
+  - Common over the past 50 years in Latin America, Africa, some of Asia
+  - Usually via coup or military intervention where regimes are weak
+  - Most civili liberties and political parties suspended
+- Personal/Monarchical
+  - Leaders draw on traditional and charismatic legitimacy
+  - Weak/non-existent ideology
+  - State and society are subjects of the leader
+  - Patrimonialism: clientelism for a select few
+- One-Party
+  - Single political party monopolizes politics
+  - Often uses corporatism for popular control
+  - Party mobilizes citizens through propoganda and indoctrination
+- Illiberal/Hybrid
+  - Partially free - restricts individual liberties and combines democratic and non-democratic insitutions
+  - Weak rule of law
+  - Executives hold inordinate amount of power
+- Theocracy
+  - Rule by God
+  - Fundamentalism fusion of the state and religion where the state is surbordinate to religious tenets
 * Module 10
 ** Developing Countries
 - Economic Development
