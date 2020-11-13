@@ -15,9 +15,10 @@ DEADLINE: <2020-11-11 Wed>
 *** ECON2106 [100%]
 **** DONE CH14 Homework
 DEADLINE: <2020-11-13 Fri>
-*** INTL3300 [33%]
-**** TODO INTL V1-4
+*** INTL3300 [66%]
 **** TODO Discussion Post
+DEADLINE: <2020-11-16 Mon>
+**** DONE INTL V1-4
 **** DONE INTL Film
 DEADLINE: <2020-11-11 Wed>
 *** INTL4970 [50%]
@@ -45,22 +46,22 @@ SCHEDULED: <2020-11-09 Mon 17:00>
 *** WAITING Class Registration
 SCHEDULED: <2020-11-13 Fri 08:30>
 ** Tutoring
-*** WAITING Noah
+*** DONE Noah
 SCHEDULED: <2020-11-12 Thu 18:30>
 *** DONE Tom
 SCHEDULED: <2020-11-11 Wed 16:15>
 *** DONE Mebin
 SCHEDULED: <2020-11-11 Wed 15:00>
-*** TODO Debate 1
+*** WAITING Debate 1
 *** TODO Debate 2
-*** IN-PROGRESS Payment[1/7]
-**** TODO Noah
+*** IN-PROGRESS Payment[2/7]
+**** WAITING Noah
 **** TODO Tom
 **** DONE Mebin
 **** TODO Allen
 **** TODO Uday
-**** TODO Sam
-**** TODO Antony
+**** DONE Sam
+**** WAITING Antony
 * 11.02.20
 ** School
 *** CSCI1730 [100%]
