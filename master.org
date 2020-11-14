@@ -54,16 +54,16 @@ SCHEDULED: <2020-11-12 Thu 18:30>
 SCHEDULED: <2020-11-11 Wed 16:15>
 *** DONE Mebin
 SCHEDULED: <2020-11-11 Wed 15:00>
-*** WAITING Debate 1
-*** TODO Debate 2
-*** IN-PROGRESS Payment[2/7]
+*** DONE Debate 1
+*** DONE Debate 2
+*** IN-PROGRESS Payment[3/7]
 **** WAITING Noah
 **** TODO Tom
 **** DONE Mebin
 **** TODO Allen
 **** TODO Uday
 **** DONE Sam
-**** WAITING Antony
+**** DONE Antony
 * 11.02.20
 ** School
 *** CSCI1730 [100%]
