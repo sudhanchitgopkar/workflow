@@ -42,7 +42,9 @@ SCHEDULED: <2020-11-09 Mon 17:00>
 *** FRC [100%]
 *** UGAHacks
 **** TODO Email SGA Rep
+DEADLINE: <2020-11-15 Sun 12:00>
 **** TODO Prepare SGA Presentation
+DEADLINE: <2020-11-16 Mon>
 *** WAITING Class Registration
 SCHEDULED: <2020-11-13 Fri 08:30>
 ** Tutoring
