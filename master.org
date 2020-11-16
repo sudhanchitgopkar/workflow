@@ -1,3 +1,56 @@
+* 11.16.20
+** School
+*** CSCI1730 [0%]
+**** WAITING Assn08
+DEADLINE: <2020-11-22 Sun>
+*** ECOL1000 [0%]
+**** TODO Sapling 2.1
+DEADLINE: <2020-11-20 Fri>
+**** TODO Sapling 7.2
+DEADLINE: <2020-11-20 Fri>
+**** TODO Sapling 7.3
+DEADLINE: <2020-11-20 Fri>
+**** TODO ECOL HW 11
+DEADLINE: <2020-11-20 Fri>
+*** ECOL1000L [0%]
+**** TODO Progress Check 2
+DEADLINE: <2020-11-20 Fri>
+*** ECON2106 [0%]
+**** TODO ECON HW 15
+*** INTL3300 [0%]
+**** TODO Film Reflection
+DEADLINE: <2020-11-16 Mon>
+*** INTL4970 [0%]
+**** TODO Update Saglam
+**** TODO Operationalization Section
+**** TODO Email Librarians
+*** MATH4670 [%]
+*** MATH4950 [%]
+** Orgs
+*** MUN [0%]
+**** TODO Outreach Meeting
+*** Finch [0%]
+**** WAITING Web Redesign
+*** UGAHacks [0%]
+**** WAITING RHA Exec Presentation
+SCHEDULED: <2020-11-16 Mon 19:30>
+**** WAITING RHA Body Presentation
+SCHEDULED: <2020-11-16 Mon 19:30>
+**** TODO SGA Follow-up
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+*** IN-PROGRESS Payment[4/7]
+**** DONE Noah
+**** TODO Tom
+**** DONE Mebin
+**** TODO Allen
+**** TODO Uday
+**** DONE Sam
+**** DONE Antony
 * 11.09.20
 ** School
 *** CSCI1730 [100%]
@@ -15,14 +68,14 @@ DEADLINE: <2020-11-11 Wed>
 *** ECON2106 [100%]
 **** DONE CH14 Homework
 DEADLINE: <2020-11-13 Fri>
-*** INTL3300 [66%]
-**** TODO Discussion Post
+*** INTL3300 [100%]
+**** MIGRATED Discussion Post
 DEADLINE: <2020-11-16 Mon>
 **** DONE INTL V1-4
 **** DONE INTL Film
 DEADLINE: <2020-11-11 Wed>
-*** INTL4970 [50%]
-**** TODO Email Librarians
+*** INTL4970 [100%]
+**** MIGRATED Email Librarians
 **** DONE Update Saglam
 *** MATH4670 [100%]
 *** MATH4950 [100%]
@@ -37,15 +90,15 @@ SCHEDULED: <2020-11-10 Tue 19:30>
 **** DONE Registration Setup
 **** DONE Sophia Meeting
 SCHEDULED: <2020-11-09 Mon 17:00>
-*** Finch [0%]
-**** IN-PROGRESS Web Redesign
+*** Finch [100%]
+**** MIGRATED Web Redesign
 *** FRC [100%]
 *** UGAHacks
-**** TODO Email SGA Rep
+**** DONE Email SGA Rep
 DEADLINE: <2020-11-15 Sun 12:00>
-**** TODO Prepare SGA Presentation
+**** DONE Prepare SGA Presentation
 DEADLINE: <2020-11-16 Mon>
-*** WAITING Class Registration
+*** DONE Class Registration
 SCHEDULED: <2020-11-13 Fri 08:30>
 ** Tutoring
 *** DONE Noah
@@ -56,12 +109,12 @@ SCHEDULED: <2020-11-11 Wed 16:15>
 SCHEDULED: <2020-11-11 Wed 15:00>
 *** DONE Debate 1
 *** DONE Debate 2
-*** IN-PROGRESS Payment[3/7]
-**** WAITING Noah
-**** TODO Tom
+*** MIGRATED Payment[7/7]
+**** DONE Noah
+**** MIGRATED Tom
 **** DONE Mebin
-**** TODO Allen
-**** TODO Uday
+**** MIGRATED Allen
+**** MIGRATED Uday
 **** DONE Sam
 **** DONE Antony
 * 11.02.20
