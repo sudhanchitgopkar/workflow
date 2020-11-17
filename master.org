@@ -23,6 +23,7 @@ DEADLINE: <2020-11-16 Mon>
 *** INTL4970 [33%]
 **** DONE Update Saglam
 **** TODO Operationalization Section
+DEADLINE: <2020-11-18 Wed>
 **** TODO Email Librarians
 *** MATH4670 [100%]
 *** MATH4950 [100%]
@@ -32,10 +33,10 @@ DEADLINE: <2020-11-16 Mon>
 SCHEDULED: <2020-11-17 Tue 18:00>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
-*** UGAHacks [33%]
-**** WAITING RHA Exec Presentation
-SCHEDULED: <2020-11-16 Mon 19:30>
+*** UGAHacks [66%]
 **** WAITING RHA Body Presentation
+SCHEDULED: <2020-11-16 Mon 19:30>
+**** DONE RHA Exec Presentation
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE SGA Follow-up
 ** Tutoring
