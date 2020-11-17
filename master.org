@@ -3,52 +3,53 @@
 *** CSCI1730 [0%]
 **** WAITING Assn08
 DEADLINE: <2020-11-22 Sun>
-*** ECOL1000 [0%]
-**** TODO Sapling 2.1
+*** ECOL1000 [100%]
+**** DONE ECOL HW 11
 DEADLINE: <2020-11-20 Fri>
-**** TODO Sapling 7.2
+**** DONE Sapling 2.1
+DEADLINE: <2020-11-23 Mon>
+**** DONE Sapling 7.2
 DEADLINE: <2020-11-20 Fri>
-**** TODO Sapling 7.3
-DEADLINE: <2020-11-20 Fri>
-**** TODO ECOL HW 11
+**** DONE Sapling 7.3
 DEADLINE: <2020-11-20 Fri>
 *** ECOL1000L [0%]
-**** TODO Progress Check 2
+**** WAITING Progress Check 2
 DEADLINE: <2020-11-20 Fri>
 *** ECON2106 [0%]
 **** TODO ECON HW 15
-*** INTL3300 [0%]
-**** TODO Film Reflection
+*** INTL3300 [100%]
+**** DONE Film Reflection
 DEADLINE: <2020-11-16 Mon>
-*** INTL4970 [0%]
-**** TODO Update Saglam
+*** INTL4970 [33%]
+**** DONE Update Saglam
 **** TODO Operationalization Section
 **** TODO Email Librarians
-*** MATH4670 [%]
-*** MATH4950 [%]
+*** MATH4670 [100%]
+*** MATH4950 [100%]
 ** Orgs
 *** MUN [0%]
-**** TODO Outreach Meeting
+**** WAITING Outreach Meeting
+SCHEDULED: <2020-11-17 Tue 18:00>
 *** Finch [0%]
-**** WAITING Web Redesign
-*** UGAHacks [0%]
+**** IN-PROGRESS Web Redesign
+*** UGAHacks [33%]
 **** WAITING RHA Exec Presentation
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** WAITING RHA Body Presentation
 SCHEDULED: <2020-11-16 Mon 19:30>
-**** TODO SGA Follow-up
+**** DONE SGA Follow-up
 ** Tutoring
 *** TODO Noah
-*** TODO Tom
+*** WAITING Tom
 *** TODO Mebin
 *** TODO Debate 1
 *** TODO Debate 2
-*** IN-PROGRESS Payment[4/7]
+*** WAITING Payment[4/7]
 **** DONE Noah
-**** TODO Tom
+**** WAITING Tom
 **** DONE Mebin
-**** TODO Allen
-**** TODO Uday
+**** WAITING Allen
+**** WAITING Uday
 **** DONE Sam
 **** DONE Antony
 * 11.09.20
@@ -70,7 +71,6 @@ DEADLINE: <2020-11-11 Wed>
 DEADLINE: <2020-11-13 Fri>
 *** INTL3300 [100%]
 **** MIGRATED Discussion Post
-DEADLINE: <2020-11-16 Mon>
 **** DONE INTL V1-4
 **** DONE INTL Film
 DEADLINE: <2020-11-11 Wed>
