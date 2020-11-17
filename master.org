@@ -1,7 +1,7 @@
 * 11.16.20
 ** School
 *** CSCI1730 [0%]
-**** WAITING Assn08
+**** TODO Assn08
 DEADLINE: <2020-11-22 Sun>
 *** ECOL1000 [100%]
 **** DONE ECOL HW 11
@@ -15,8 +15,8 @@ DEADLINE: <2020-11-20 Fri>
 *** ECOL1000L [0%]
 **** WAITING Progress Check 2
 DEADLINE: <2020-11-20 Fri>
-*** ECON2106 [0%]
-**** TODO ECON HW 15
+*** ECON2106 [100%]
+**** DONE ECON HW 15
 *** INTL3300 [100%]
 **** DONE Film Reflection
 DEADLINE: <2020-11-16 Mon>
@@ -45,11 +45,11 @@ SCHEDULED: <2020-11-16 Mon 19:30>
 *** TODO Mebin
 *** TODO Debate 1
 *** TODO Debate 2
-*** WAITING Payment[4/7]
+*** WAITING Payment[5/7]
 **** DONE Noah
 **** WAITING Tom
 **** DONE Mebin
-**** WAITING Allen
+**** DONE Allen
 **** WAITING Uday
 **** DONE Sam
 **** DONE Antony
