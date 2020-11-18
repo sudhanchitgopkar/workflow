@@ -20,31 +20,38 @@ DEADLINE: <2020-11-20 Fri>
 *** INTL3300 [100%]
 **** DONE Film Reflection
 DEADLINE: <2020-11-16 Mon>
-*** INTL4970 [33%]
-**** DONE Update Saglam
-**** TODO Operationalization Section
+*** INTL4970 [100%]
+**** DONE RD Section
 DEADLINE: <2020-11-18 Wed>
-**** TODO Email Librarians
+**** DONE Update Saglam
+**** ABANDONED Email Librarians
 *** MATH4670 [100%]
 *** MATH4950 [100%]
 ** Orgs
-*** MUN [0%]
-**** WAITING Outreach Meeting
+*** MUN [100%]
+**** DONE Outreach Meeting
 SCHEDULED: <2020-11-17 Tue 18:00>
 *** Finch [0%]
 **** IN-PROGRESS Web Redesign
-*** UGAHacks [66%]
-**** WAITING RHA Body Presentation
+*** UGAHacks [100%]
+**** DONE RHA Body Presentation
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE RHA Exec Presentation
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE SGA Follow-up
+*** FRC
+**** WAITING Iliev Talk
+**** TODO Service Project Posting
 ** Tutoring
 *** TODO Noah
 *** WAITING Tom
-*** TODO Mebin
+SCHEDULED: <2020-11-20 Fri 18:00>
+*** WAITING Mebin
+SCHEDULED: <2020-11-18 Wed 15:45>
 *** TODO Debate 1
+SCHEDULED: <2020-11-20 Fri 15:00>
 *** TODO Debate 2
+SCHEDULED: <2020-11-21 Sat 10:00>
 *** WAITING Payment[5/7]
 **** DONE Noah
 **** WAITING Tom
