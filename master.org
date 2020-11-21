@@ -1,7 +1,7 @@
 * 11.16.20
 ** School
 *** CSCI1730 [0%]
-**** TODO Assn08
+**** IN-PROGRESS Assn08
 DEADLINE: <2020-11-22 Sun>
 *** ECOL1000 [100%]
 **** DONE ECOL HW 11
@@ -12,9 +12,9 @@ DEADLINE: <2020-11-23 Mon>
 DEADLINE: <2020-11-20 Fri>
 **** DONE Sapling 7.3
 DEADLINE: <2020-11-20 Fri>
-*** ECOL1000L [0%]
-**** WAITING Progress Check 2
-DEADLINE: <2020-11-20 Fri>
+*** ECOL1000L [100%]
+**** DONE Progress Check 2
+DEADLINE: <2020-11-22 Sun>
 *** ECON2106 [100%]
 **** DONE ECON HW 15
 *** INTL3300 [100%]
@@ -40,24 +40,26 @@ SCHEDULED: <2020-11-16 Mon 19:30>
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE SGA Follow-up
 *** FRC
-**** WAITING Iliev Talk
-**** TODO Service Project Posting
+**** DONE Iliev Talk
+**** DONE Service Project Posting
+DEADLINE: <2020-11-20 Fri>
 ** Tutoring
-*** TODO Noah
-*** WAITING Tom
-SCHEDULED: <2020-11-20 Fri 18:00>
-*** WAITING Mebin
-SCHEDULED: <2020-11-18 Wed 15:45>
-*** TODO Debate 1
-SCHEDULED: <2020-11-20 Fri 15:00>
 *** TODO Debate 2
 SCHEDULED: <2020-11-21 Sat 10:00>
-*** WAITING Payment[5/7]
+*** DONE Noah
+SCHEDULED: <2020-11-19 Thu 18:30>
+*** DONE Debate 1
+SCHEDULED: <2020-11-20 Fri 15:00>
+*** DONE Tom
+SCHEDULED: <2020-11-22 Sun 18:00>
+*** DONE Mebin
+SCHEDULED: <2020-11-18 Wed 15:45>
+*** DONE Payment[7/7]
 **** DONE Noah
-**** WAITING Tom
+**** DONE Tom
 **** DONE Mebin
 **** DONE Allen
-**** WAITING Uday
+**** DONE Uday
 **** DONE Sam
 **** DONE Antony
 * 11.09.20

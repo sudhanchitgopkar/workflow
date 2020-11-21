@@ -1,3 +1,44 @@
+* 11.20.20
+** What does it take to grow a tomato?
+- Nursery (Water, energu, materials, presicides, etc)
+- Nursery to farm transport
+- Cultivation (Pesticides, land use, tillage, etc)
+- Farm to Packaging-House transport
+- Packaging (Energy, water, packaging)
+- Transportation (Freight ship route, truck route)
+** Ecosystem Services
+- Provisioning Services (Prodicts obtained from the ecosystem)
+- Regulating Services (Benefits from regulation of ecosystems)
+- Cultural Services (non-material benefits obtained from ecosystems)
+- Life on earth depends on ecosystem services provided by natures
+- Recognizing the value of rhese services may motivate us to protect them
+** Nutrition
+- Currently produce 1/3 more calories than needed
+- UN 2013, 842M people (12% of the world) suffers from undernutrition (not enough calories)
+- Civil war and Climate change contribute to a significant increase in recent famine
+- Although we produce enough food to feed everyone, nearly 1B people don't have access to enough nutritious food
+- The rise of industrial agriculture and the Green Revolution helped fight hunger in the 20th century but came w some unintended consequences
+- Employing a variety of agricultural methods and addressing socioeconomic drivers of poverty necessary to fight hunger
+** Food Security
+- Food security: having enough physical, social, and economic access to sufficient safe and nutritious food
+- Food insecurity is a problem due to
+  - Inadequate distribution of food
+  - Inadequate funds to buy food
+- Undernourishment: When a person does not have enough to eat
+- Worldwide, 1/4 children experiences stunted growth due to undernutrition
+- Malnutrition: a state of poor health that results from a nutritional imbalance due to a lack of essential nutrients
+  - can serve as a prelude to many duseases
+  - UN est that the cost of treating malnourishment in children under 2 is double of the cost to prevent it in the first place
+- Overnutrition: the consumption of too many calories
+  - considered a form of malnutrition
+  - affects 1.5B people
+  - increases susceptibility to diseases
+  - problem of both the wealthy and poor
+- Protein deficiency -> Kwashiorkor
+- Calorie and protein deficiency -> wasting disease
+- Vitamin deficiency -> many diseases
+** Food Deserts
+   - 13/30 of athens census tracts are labeled as food deserts, 33% of residents live 1+ mile from a grocery store
 * 11.11.20
 ** Cannabis & Sustaibaility
 - Now that cannabis legalization is sweeping North America, we need to better understand its impact on freshwater systems
