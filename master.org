@@ -1,7 +1,7 @@
 * 11.16.20
 ** School
-*** CSCI1730 [0%]
-**** WAITING Assn08
+*** CSCI1730 [100%]
+**** DONE Assn08
 DEADLINE: <2020-11-22 Sun>
 *** ECOL1000 [100%]
 **** DONE ECOL HW 11
@@ -31,8 +31,8 @@ DEADLINE: <2020-11-18 Wed>
 *** MUN [100%]
 **** DONE Outreach Meeting
 SCHEDULED: <2020-11-17 Tue 18:00>
-*** Finch [0%]
-**** IN-PROGRESS Web Redesign
+*** Finch [100%]
+**** MIGRATED Web Redesign
 *** UGAHacks [100%]
 **** DONE RHA Body Presentation
 SCHEDULED: <2020-11-16 Mon 19:30>
@@ -40,7 +40,7 @@ SCHEDULED: <2020-11-16 Mon 19:30>
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE SGA Follow-up
 *** FRC
-**** WAITING Cookie Night
+**** DONE Cookie Night
 SCHEDULED: <2020-11-22 Sun 18:00>
 **** DONE Iliev Talk
 **** DONE Service Project Posting
@@ -53,7 +53,7 @@ SCHEDULED: <2020-11-19 Thu 18:30>
 *** DONE Debate 1
 SCHEDULED: <2020-11-20 Fri 15:00>
 *** DONE Tom
-SCHEDULED: <2020-11-22 Sun 18:00>
+SCHEDULED: <2020-11-17 Tue 18:00>
 *** DONE Mebin
 SCHEDULED: <2020-11-18 Wed 15:45>
 *** DONE Payment[7/7]
