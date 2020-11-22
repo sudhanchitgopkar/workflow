@@ -1,7 +1,7 @@
 * 11.16.20
 ** School
 *** CSCI1730 [0%]
-**** IN-PROGRESS Assn08
+**** WAITING Assn08
 DEADLINE: <2020-11-22 Sun>
 *** ECOL1000 [100%]
 **** DONE ECOL HW 11
@@ -44,7 +44,7 @@ SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE Service Project Posting
 DEADLINE: <2020-11-20 Fri>
 ** Tutoring
-*** TODO Debate 2
+*** ABANDONED Debate 2
 SCHEDULED: <2020-11-21 Sat 10:00>
 *** DONE Noah
 SCHEDULED: <2020-11-19 Thu 18:30>
