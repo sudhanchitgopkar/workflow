@@ -40,6 +40,8 @@ SCHEDULED: <2020-11-16 Mon 19:30>
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE SGA Follow-up
 *** FRC
+**** WAITING Cookie Night
+SCHEDULED: <2020-11-22 Sun 18:00>
 **** DONE Iliev Talk
 **** DONE Service Project Posting
 DEADLINE: <2020-11-20 Fri>
