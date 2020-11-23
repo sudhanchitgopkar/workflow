@@ -1,3 +1,73 @@
+* 11.23.20
+** Tomato Agriculture
+- Tomato is one of the most valuable crops in the world
+- Originally from S America, transported to Europe by early 17th century, back to N America in 18th century
+- Annual production > 175M tons, 85B USD
+- Important plant model
+  - 15,000+ known varieties
+  - Member of important Solanaceae family
+** Ecosystems
+- The provisioning of ecosystem services is dependent upon functioning ecosystems
+- Biosphere: the total area on Earth where living things are found; the sum total of all biomes
+- Ecosystem: all of the organisms in a given area + the physical environment in which, and with which, they interact
+- Community: all the populations (plants, animals, other species) living and interacting in an area
+- Population: all the individuals of a species that live in the same geographic area and are able to interact and interbreed
+- Ecosystem ecologists: study how ecosystems work in relation to their biotic and abiotic components
+- Population ecologists: study how populations change over time and space
+- Community ecologists: investigate the factors that influence biodiversity, community structure, and the distribution and abundance of specie
+** Energy and Matter
+- All ecosystems function through:
+  - Matter cycles: movement of life's essential chemicals/nutrients through an ecosystem
+  - Energy flow: the one-way passage of energy through an ecosystem
+- Earth is materially closed but energetically open
+- Biomass can't enter or leave the system, but energy can
+- Energy enters as sunlight through either heat or light
+- Photosynthesis: the chem eraction done by producers to convert energy of the sun using carbon dioxide and water -> sugar and oxygen
+** Biomes
+- Biomes: specific portions of the biosphere determined by climate and identified by the predominant vegetation and organisms adapted to live there
+- Biomes are divided into three main categories
+  - Terrestrial
+  - Marine
+  - Freshwater
+** Limiting Factors & Distribution
+- Limiting factor: the critical resource whose supply determines the population size of a given species in a given ecosystem
+- Range of tolerance: the rande, within upper and lower limits, of a limiting factor that can limit population size
+- Limiting factors determine the distribution and size of populations
+- Variability increases a population's range of toleration, expanding its distributoin and increasbing the chance that it will be able to adapt to changing conditions
+** Review
+- Food insecurity is global and heterogeneous
+- There are 4 types of ecosystem services
+- Biophysical charactersistics of systems govern what and how much of a crop can be produced into a region
+** Matter
+- Matter cycles that move nutrients through ecosystems depend on living organisms and abiotic sinks of those resources
+- Biotic: the living, organic components of an ecosystem
+- Abiotic: the non-living compoenents of an ecosystem, important for nutrient cycling
+- BiogeochemistryL the ways in which an element or compound moves between its various living and nonliving forms and locations in the bioshphere
+- Elements required for life: Carbon, Hydrogen, Ditrogen, Oxygen, Phosphorus, Sulfur
+- Biogeochemical Cycles:
+  - Water cycle
+  - Carbon cycle
+  - Nitrogen cycle
+  - Phosphorus Cycle
+** Carbon Cycle
+- Photosynthesis: Plants and other photosynthetic organisms produce sugars
+  - Utilize sunlight and CO2, produce oxygen
+  - Photosynthesizers known as producers
+- Cellular respiration: Organisms break down sugar to release energy
+  - Utilizes oxygen, produces CO2, known as consumers
+** Nitrogen Cycle
+- Nitrogen is the most abundant gas in the air but has a very tight bond, bond must be broken (fixed) before use by producers
+- Nitrogen cal also be released back into the atmosphere
+- Nitrogen Cycle: a continuous series of natural processes by which nitrogen passes from air -> soil -> organisms -> air/soil
+- Nitrogen enters ecosystem through nitrogen fixation
+- Nitrogen exits the ecosystem when other bacteria convert nitrate back to molecular Nitrogen
+- Humans are disrupting the nitrogen cycle
+  - Fertilizers and emissions are doubling availbility of nitrogen
+  - While nitrogen is no longer a limitng factor for plant growth, the additional notrigen can disrupt the ecosystem
+** Phosphorus Cycle
+- Different than other cycles because phosporus doesn't exist in the atmosphere
+- Only found in solid, liquid form
+- Phosphorus cycle: a series of natural processes by which phosphorus moves from rock -> soil, water -> living organisms -> soil
 * 11.20.20
 ** What does it take to grow a tomato?
 - Nursery (Water, energu, materials, presicides, etc)

@@ -14,10 +14,10 @@ DEADLINE: <2020-11-24 Tue>
 *** ECON2106 [0%]
 **** TODO HW 16
 DEADLINE: <2020-12-04 Fri>
-*** INTL3300 [0%]
-**** TODO Quiz 7
+*** INTL3300 [100%]
+**** DONE Quiz 7
 DEADLINE: <2020-11-24 Tue>
-**** TODO Factoid 6
+**** DONE Factoid 6
 DEADLINE: <2020-11-24 Tue>
 *** INTL4970 [100%]
 *** MATH4670 [100%]
