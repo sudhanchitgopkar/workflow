@@ -1,3 +1,40 @@
+* 11.23.20
+** School
+*** CSCI1730 [%]
+*** ECOL1000 [66%]
+**** TODO iClicker 11
+DEADLINE: <2020-11-25 Wed>
+**** DONE M8.2 LC
+DEADLINE: <2020-11-23 Mon>
+**** DONE M8.1 LC
+DEADLINE: <2020-11-24 Tue>
+*** ECOL1000L [0%]
+**** TODO Final Poster
+DEADLINE: <2020-11-24 Tue>
+*** ECON2106 [0%]
+**** TODO HW 16
+DEADLINE: <2020-12-04 Fri>
+*** INTL3300 [0%]
+**** TODO Quiz 7
+DEADLINE: <2020-11-24 Tue>
+**** TODO Factoid 6
+DEADLINE: <2020-11-24 Tue>
+*** INTL4970 [100%]
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+** Orgs
+*** MUN [%]
+*** Finch [0%]
+**** IN-PROGRESS Website Redesign
+*** UGAHacks [0%]
+**** WAITING SGA Allocations
+SCHEDULED: <2020-11-24 Tue 08:00>
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
 * 11.16.20
 ** School
 *** CSCI1730 [100%]
@@ -39,7 +76,7 @@ SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE RHA Exec Presentation
 SCHEDULED: <2020-11-16 Mon 19:30>
 **** DONE SGA Follow-up
-*** FRC
+*** FRC [100%]
 **** DONE Cookie Night
 SCHEDULED: <2020-11-22 Sun 18:00>
 **** DONE Iliev Talk
