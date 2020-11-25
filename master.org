@@ -1,11 +1,11 @@
 * 11.23.20
 ** School
-*** CSCI1730 [%]
-*** ECOL1000 [50%]
-**** TODO iClicker 11
-DEADLINE: <2020-11-25 Wed>
+*** CSCI1730 [100%]
+*** ECOL1000 [75%]
 **** TODO Extra Credit #2
 DEADLINE: <2020-12-04 Fri>
+**** DONE iClicker 11
+DEADLINE: <2020-11-25 Wed>
 **** DONE M8.2 LC
 DEADLINE: <2020-11-23 Mon>
 **** DONE M8.1 LC
@@ -25,7 +25,7 @@ DEADLINE: <2020-11-24 Tue>
 *** MATH4670 [100%]
 *** MATH4950 [100%]
 ** Orgs
-*** MUN [%]
+*** MUN [100%]
 *** Finch [0%]
 **** IN-PROGRESS Website Redesign
 *** UGAHacks [100%]
