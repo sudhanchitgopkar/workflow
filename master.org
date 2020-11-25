@@ -1,15 +1,17 @@
 * 11.23.20
 ** School
 *** CSCI1730 [%]
-*** ECOL1000 [66%]
+*** ECOL1000 [50%]
 **** TODO iClicker 11
 DEADLINE: <2020-11-25 Wed>
+**** TODO Extra Credit #2
+DEADLINE: <2020-12-04 Fri>
 **** DONE M8.2 LC
 DEADLINE: <2020-11-23 Mon>
 **** DONE M8.1 LC
 DEADLINE: <2020-11-24 Tue>
-*** ECOL1000L [0%]
-**** TODO Final Poster
+*** ECOL1000L [100%]
+**** DONE Final Poster
 DEADLINE: <2020-11-24 Tue>
 *** ECON2106 [0%]
 **** TODO HW 16
@@ -26,8 +28,8 @@ DEADLINE: <2020-11-24 Tue>
 *** MUN [%]
 *** Finch [0%]
 **** IN-PROGRESS Website Redesign
-*** UGAHacks [0%]
-**** WAITING SGA Allocations
+*** UGAHacks [100%]
+**** DONE SGA Allocations
 SCHEDULED: <2020-11-24 Tue 08:00>
 ** Tutoring
 *** TODO Noah
