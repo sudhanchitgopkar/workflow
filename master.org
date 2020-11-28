@@ -14,7 +14,7 @@ DEADLINE: <2020-11-24 Tue>
 **** DONE Final Poster
 DEADLINE: <2020-11-24 Tue>
 *** ECON2106 [0%]
-**** TODO HW 16
+ø**** TODO HW 16
 DEADLINE: <2020-12-04 Fri>
 *** INTL3300 [100%]
 **** DONE Quiz 7
@@ -32,11 +32,14 @@ DEADLINE: <2020-11-24 Tue>
 **** DONE SGA Allocations
 SCHEDULED: <2020-11-24 Tue 08:00>
 ** Tutoring
-*** TODO Noah
-*** TODO Tom
-*** TODO Mebin
-*** TODO Debate 1
-*** TODO Debate 2
+*** DONE Noah
+SCHEDULED: <2020-11-28 Sat 11:00>
+*** ABANDONED Tom
+*** ABANDONED Mebin
+*** DONE Debate 1
+SCHEDULED: <2020-11-28 Sat 10:00>
+*** DONE Debate 2
+SCHEDULED: <2020-11-28 Sat 10:00>
 * 11.16.20
 ** School
 *** CSCI1730 [100%]
