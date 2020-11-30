@@ -1,3 +1,56 @@
+* 11.30.20
+** Human Impacts on the Phosphorus Cycle
+- inc fetrilizer use increases phosphorus runoff into waterways, increases eutrophication
+- all farmers need phosphorus, but 5 countries control ~85% of world's remaining phosphate reserves
+- phsophorus critical to fertility, high crop yields, overall necessary to food production
+- phosphorus quickly becoming more expensive
+** Major Issues Assiciated with Current Phosphorus Usage
+- Inefficient global food system
+  - 4/5 of phosphorus is lost/wasted in the supply chain from mine to field to fork
+- Cheap fertilizer
+  - Farmers need access to phosphorus, yet up to 1B farmers lack access to fertilizer markets
+- No Monitoring
+  - Currently no international or national policies, guidelines, or organizations responsible for ensuring long term availability and accessibility of phosphorus of food production
+** Phosphate Prices
+- temporary phosphorus price spikes in 2008 affected farmers from Australia to Ethopia, leading to farmer riots and suicides - was a wake up call to the fragility of the world food sitation
+** Sustainable Phosphorus Measures
+- Much of phosphorus is lost in waste, can be recycled and recouped
+- Critical to maintain a more sustainable diet
+** Soil & Soil Dynamics
+- Critical Concepts:
+  - Physical and Chemical Weathering
+  - Erosion
+  - How long do soils take to form?
+  - Soil loss & conversion
+** Physical and Chemical Weathering
+- Weathering = breakdown of rocks, soil, minerals often done by water or organisms
+  - Physical weathering = simply breaking down rocks
+  - Chemical weathering - changing the chemical structure of rock, soil, etc
+- Makes up ~50% of the soil
+- Takes an extremely long time
+** Soil Complexity
+- Diverse organisms contribute to soil structure
+- Soil is often linked between the different spheres of the world and supports biodiversity significantly
+- Climate effects soil in different ways
+  - Tropical forest: generally infertile due to heavy rainfall and decomposition rates
+  - Temperate forest: usually fertile and neutral to slightly aciding
+  - Temperate grassland: neutral to slightly basic, high to moderate fertility
+  - Desert: low fertility and organic magter, often high in salt content
+- It can take 500+ years for 2.5 cm of soil to form
+- Poor land use practices cause soil erosion
+** Weathering vs Erosion
+- Weathering: the breakdown of rock to soil (creating soil)
+- Erosion: the movement of soil, minerals, etc to another place (taking away soil)
+- Overgrazing: removal of plant matter by livestock exposes soil to erosion
+- Deforestation exposes soil to loss
+- Desetification: Semiarid range land becomes permanently less productive when overgrazed
+** Summary
+- There are biotic and abiotic components of ecosystems
+- Global biogeochemical cycles are essential to supportiong biology and the economy
+- Phosphorus is especially important. It is distributed heterogeneously and limitation of it may compromise agricultural production. An excess of phosphorus is a major quatic pollutant
+- Access to elements will govern patterns in economic and technological development
+- Soils are complex and take extremely long times to form. Soils are strongly influenced by climate.
+- A variety of activities compromise soils.
 * 11.23.20
 ** Tomato Agriculture
 - Tomato is one of the most valuable crops in the world
