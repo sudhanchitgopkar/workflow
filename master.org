@@ -1,50 +1,50 @@
 * 11.30.20
 ** School
 *** CSCI1730 [0%]
-**** TODO Assn09
-*** ECOL1000 [0%]
-**** TODO HW12
+**** WAITING Assn09
+*** ECOL1000 [100%]
+**** DONE HW12
 DEADLINE: <2020-11-30 Mon>
-**** TODO LC 9.1
+**** DONE LC 11.1
+DEADLINE: <2020-12-02 Wed>
+**** DONE LC 11.2
+DEADLINE: <2020-12-02 Wed>
+**** DONE LC 9.1
 DEADLINE: <2020-11-30 Mon>
-**** TODO LC 11.1
+**** DONE [#A] iClicker 12
 DEADLINE: <2020-12-02 Wed>
-**** TODO LC 11.2
-DEADLINE: <2020-12-02 Wed>
-**** TODO iClicker 12
-DEADLINE: <2020-12-02 Wed>
-**** TODO Extra Credit 2
+**** DONE [#A] Extra Credit 2
 DEADLINE: <2020-12-04 Fri>
-*** ECOL1000L [0%]
-**** TODO Climate Change Lab
+*** ECOL1000L [66%]
+**** WAITING [#C] Virtual Fair
+DEADLINE: <2020-12-04 Fri>
+**** DONE Course Eval
+DEADLINE: <2020-12-04 Fri>
+**** DONE [#B] Climate Change Lab
 DEADLINE: <2020-12-02 Wed>
-**** TODO Virtual Fair
-DEADLINE: <2020-12-04 Fri>
-**** TODO Course Eval
-DEADLINE: <2020-12-04 Fri>
 *** ECON2106 [0%]
-**** TODO Ch16 HW 
+**** TODO [#C] Ch16 HW
 DEADLINE: <2020-12-04 Fri>
-**** TODO Ch17 HW
+**** TODO [#C] Ch17 HW
 DEADLINE: <2020-12-04 Fri>
 *** INTL3300 [0%]
-**** TODO Sweden Lit Review
+**** TODO [#B] Sweden Lit Review
 DEADLINE: <2020-12-02 Wed>
 *** INTL4970 [0%]
-**** TODO API Dev
+**** TODO [#B] API Dev
 *** MATH4670 [100%]
 *** MATH4950 [0%]
-**** TODO Mars Form
+**** TODO [#C] Mars Form
 DEADLINE: <2020-12-06 Sun>
 *** FYOS1000 [0%]
-**** WAITING Payment Update
+**** WAITING [#C] Payment Update
 ** Orgs
 *** MUN [0%]
 **** TODO Website Bios
 *** Finch [0%]
 **** IN-PROGRESS Website Redesign
-*** UGAHacks [0%]
-**** TODO Update Kuck
+*** UGAHacks [100%]
+**** DONE Update Kuck
 DEADLINE: <2020-11-30 Mon>
 ** Tutoring
 *** TODO Noah
