@@ -1,7 +1,7 @@
 * 11.30.20
 ** School
 *** CSCI1730 [0%]
-**** WAITING Assn09
+**** TODO Assn09
 *** ECOL1000 [100%]
 **** DONE HW12
 DEADLINE: <2020-11-30 Mon>
@@ -22,13 +22,13 @@ DEADLINE: <2020-12-04 Fri>
 DEADLINE: <2020-12-04 Fri>
 **** DONE [#B] Climate Change Lab
 DEADLINE: <2020-12-02 Wed>
-*** ECON2106 [0%]
-**** TODO [#C] Ch16 HW
+*** ECON2106 [100%]
+**** DONE [#C] Ch16 HW
 DEADLINE: <2020-12-04 Fri>
-**** TODO [#C] Ch17 HW
+**** DONE [#C] Ch17 HW
 DEADLINE: <2020-12-04 Fri>
-*** INTL3300 [0%]
-**** TODO [#B] Sweden Lit Review
+*** INTL3300 [100%]
+**** DONE [#B] Sweden Lit Review
 DEADLINE: <2020-12-02 Wed>
 *** INTL4970 [0%]
 **** TODO [#B] API Dev
@@ -46,6 +46,12 @@ DEADLINE: <2020-12-06 Sun>
 *** UGAHacks [100%]
 **** DONE Update Kuck
 DEADLINE: <2020-11-30 Mon>
+**** DONE Garrett Meeting
+*** FRC
+**** WAITING TEDx Event
+SCHEDULED: <2020-12-04 Fri 19:00>
+**** DONE TEDx Presentation
+DEADLINE: <2020-12-02 Wed>
 ** Tutoring
 *** TODO Noah
 *** TODO Tom
@@ -55,9 +61,8 @@ DEADLINE: <2020-11-30 Mon>
 * 11.23.20
 ** School
 *** CSCI1730 [100%]
-*** ECOL1000 [75%]
-**** TODO Extra Credit #2
-DEADLINE: <2020-12-04 Fri>
+*** ECOL1000 [100%]
+**** MIGRATED Extra Credit #2
 **** DONE iClicker 11
 DEADLINE: <2020-11-25 Wed>
 **** DONE M8.2 LC
@@ -67,9 +72,8 @@ DEADLINE: <2020-11-24 Tue>
 *** ECOL1000L [100%]
 **** DONE Final Poster
 DEADLINE: <2020-11-24 Tue>
-*** ECON2106 [0%]
-ø**** TODO HW 16
-DEADLINE: <2020-12-04 Fri>
+*** ECON2106 [100%]
+**** MIGRATED HW 16
 *** INTL3300 [100%]
 **** DONE Quiz 7
 DEADLINE: <2020-11-24 Tue>
@@ -80,8 +84,8 @@ DEADLINE: <2020-11-24 Tue>
 *** MATH4950 [100%]
 ** Orgs
 *** MUN [100%]
-*** Finch [0%]
-**** IN-PROGRESS Website Redesign
+*** Finch [100%]
+**** MIGRATED Website Redesign
 *** UGAHacks [100%]
 **** DONE SGA Allocations
 SCHEDULED: <2020-11-24 Tue 08:00>
