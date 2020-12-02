@@ -38,6 +38,7 @@ DEADLINE: <2020-12-02 Wed>
 DEADLINE: <2020-12-06 Sun>
 *** FYOS1000 [0%]
 **** WAITING [#C] Payment Update
+SCHEDULED: <2020-12-04 Fri>
 ** Orgs
 *** MUN [0%]
 **** TODO Website Bios
@@ -53,11 +54,20 @@ SCHEDULED: <2020-12-04 Fri 19:00>
 **** DONE TEDx Presentation
 DEADLINE: <2020-12-02 Wed>
 ** Tutoring
-*** TODO Noah
+*** WAITING Noah
+SCHEDULED: <2020-12-02 Wed 19:00>
 *** TODO Tom
 *** TODO Mebin
 *** TODO Debate 1
 *** TODO Debate 2
+*** Payment [1/7]
+**** TODO Tom
+**** DONE Mebin
+**** TODO Noah
+**** TODO Allen
+**** TODO Uday
+**** TODO Sam
+**** TODO Antony
 * 11.23.20
 ** School
 *** CSCI1730 [100%]
