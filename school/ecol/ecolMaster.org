@@ -1,3 +1,72 @@
+* 12.04.20
+** Locust Outbreaks
+- What triggers locust outbreaks?
+  - Locust outbreaks are caused by excessive rain, contributing to a moist area
+  - Recent cyclones have contirbuted to very high amounts of recent rainfall
+- Why are they so devastating?
+  - A single locust can eat their own body weight (2g) per day, multiplied by the millions of locusts that comprise a single swarm
+- What can be done to help control outbreaks?
+  - Loud noises and preventing the locusts from laying their eggs is critical
+  - Pesticide application and swarm location identification through an application
+** Small Scale Farming and Food Security
+ - Progress requires creating opportunities for innovation and entrepreneurship
+ - Increased public research and extension investment
+ - Small scale sustainability poses challenging policy choices: payment for ecological services, decentralized governance systems, and technology choices
+** Economics and the Environment
+- Economics isn't just about money, it is also about the environmental resources we depend on
+  - Economics: the social science that deals with the production, distribution, and consumption of goods and services
+- Environmental resources include ecosystem services
+  - Ecosystem services: essential ecological processes that make life on Earth possible
+- Environmental economists argue that mainstream economics will fail in the long run because it makes some assumptions that are inconsistent with the way nature operates.
+- When the price of a product doesn't reflect the external social and environmental costs, those costs are paid by people other than the consumer. Internalizing external costs better reflects the true cost of a product
+- Many US industries can't exist without illegal immigrants
+- Undocumented immigrants make up more than half of hired labors on farms, 15% of construction workforce, 5% of total workforce
+** The Great Climate Migration
+- As climate change effects become more significant, more people will be required to move away from their homes
+- Climate change also uniquely harms agricultural productivity
+** Summary
+- The Green revolution supported exponential increases in global population. Temporal changes in human behavior, production, and pollution are asociated with the Green Revoluution
+- There are different ways to approach agricultural production
+- Human migration patterns, economic development, and agricultural production are inextricably linked
+** Energy, Coal, Oil, and Gas
+- Forms of hyrdocarbons
+  - Fossil fuels: nonrenewable resources like coal, oil, and natural gas that were formed over millions of years from the remains of dead organisms
+  - Forms the majority of the energy used by modern society
+  - Crude oil (liquid). natural gas (gas), coal (solid)
+** Electricity Generation
+- US: 33% coal, 33% natural gases, 19% nuclear, 7% renewable, 6% hydroelectric
+  - Drawbacks; greenhouse gases, acid rain, acid mine drainage, particulates
+- EROEI of Coal
+  - Energy return on energy investment (EROEI): A measure of the net energy from an energy source
+  - Energy in the source - Energy required to get, process, ship, and use it
+  - EROEI of coal = 11.5:1
+** Coal Formation
+- Process of coal formation occurs best in river deltas/coastal plains
+- Formation of Appalachian Mountains were the last and greatest of the events that joined all of the world's land into one super-continent
+- Coal is mined from underground or surface mines (now accounts for 60% of coal produced in the US)
+  - Top coal producing states: Wyoming > Kentucky > W Virgina
+- Surface mining: Occurs at depts above 180 ft
+  - Strip mining
+  - Open pit mining
+  - Mountaintop removal mining
+  - Highwall mining
+- Underground mining: Below 300 ft, accounts for 60% of world coal production
+** Coal Transportation
+- shipped by train or barge to destination
+- may be refined before shipping (washing w water or chemical bath to remove impurities)
+- when coal arrives at the power plant, it is pulverized into a heavy powder that is suitable for burning
+** Advantage of Coal
+- Widely distributed around the world
+- Proven reserves are est to last for 100 more years
+- Easier and sager to transport compared to other fossil fuels
+- Affordable
+** Disadvantages of Mountaintop Removal
+- Higher rates of cancer, respiratory diseases amongst miners and local communities
+- Loss of forest and compaction of soil
+- Explosions send rock and debris flying
+- Toxic substances permeate region's rivers
+- Coal extraction creates toxic slurry
+- Toxic fly ash created 
 * 12.02.20
 ** Provisioning Services
 - Products obtained from ecosystems

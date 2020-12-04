@@ -1,4 +1,15 @@
-* 11.30.20
+* Final Exams
+** TODO CSCI1730
+SCHEDULED: <2020-12-17 Thu 15:30>
+** TODO ECOL1000
+SCHEDULED: <2020-12-11 Fri 12:00>
+** TODO ECON2106
+SCHEDULED: <2020-12-15 Tue 12:00>
+** TODO INTL3300
+*** TODO Country Brochure
+DEADLINE: <2020-12-07 Mon>
+*** TODO Comparative Analysis
+DEADLINE: <2020-12-14 Mon>
 ** School
 *** CSCI1730 [0%]
 **** TODO Assn09
@@ -15,8 +26,8 @@ DEADLINE: <2020-11-30 Mon>
 DEADLINE: <2020-12-02 Wed>
 **** DONE [#A] Extra Credit 2
 DEADLINE: <2020-12-04 Fri>
-*** ECOL1000L [66%]
-**** WAITING [#C] Virtual Fair
+*** ECOL1000L [100%]
+**** DONE [#C] Virtual Fair
 DEADLINE: <2020-12-04 Fri>
 **** DONE Course Eval
 DEADLINE: <2020-12-04 Fri>
@@ -36,8 +47,8 @@ DEADLINE: <2020-12-02 Wed>
 *** MATH4950 [0%]
 **** TODO [#C] Mars Form
 DEADLINE: <2020-12-06 Sun>
-*** FYOS1000 [0%]
-**** WAITING [#C] Payment Update
+*** FYOS1000 [100%]
+**** DONE [#C] Payment Update
 SCHEDULED: <2020-12-04 Fri>
 ** Orgs
 *** MUN [0%]
@@ -48,26 +59,26 @@ SCHEDULED: <2020-12-04 Fri>
 **** DONE Update Kuck
 DEADLINE: <2020-11-30 Mon>
 **** DONE Garrett Meeting
-*** FRC
+*** FRC [50%]
 **** WAITING TEDx Event
 SCHEDULED: <2020-12-04 Fri 19:00>
 **** DONE TEDx Presentation
 DEADLINE: <2020-12-02 Wed>
 ** Tutoring
-*** WAITING Noah
+*** DONE Noah
 SCHEDULED: <2020-12-02 Wed 19:00>
-*** TODO Tom
-*** TODO Mebin
-*** TODO Debate 1
+*** DONE Tom
+*** DONE Mebin
+*** WAITING Debate 1
 *** TODO Debate 2
-*** Payment [1/7]
+*** Payment [3/7]
 **** TODO Tom
+**** WAITING Allen
+**** WAITING Noah
+**** WAITING Antony
+**** DONE Uday
 **** DONE Mebin
-**** TODO Noah
-**** TODO Allen
-**** TODO Uday
-**** TODO Sam
-**** TODO Antony
+**** DONE Sam
 * 11.23.20
 ** School
 *** CSCI1730 [100%]
