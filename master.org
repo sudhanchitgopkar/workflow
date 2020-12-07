@@ -1,18 +1,16 @@
 * Final Exams
 ** TODO CSCI1730
-SCHEDULED: <2020-12-17 Thu 15:30>
 ** TODO ECOL1000
-SCHEDULED: <2020-12-11 Fri 12:00>
 ** TODO ECON2106
-SCHEDULED: <2020-12-15 Tue 12:00>
 ** TODO INTL3300
 *** TODO Country Brochure
 DEADLINE: <2020-12-07 Mon>
 *** TODO Comparative Analysis
 DEADLINE: <2020-12-14 Mon>
+* 11.30.20
 ** School
-*** CSCI1730 [0%]
-**** TODO Assn09
+*** CSCI1730 [100%]
+**** DONE Assn09
 *** ECOL1000 [100%]
 **** DONE HW12
 DEADLINE: <2020-11-30 Mon>
@@ -59,8 +57,8 @@ SCHEDULED: <2020-12-04 Fri>
 **** DONE Update Kuck
 DEADLINE: <2020-11-30 Mon>
 **** DONE Garrett Meeting
-*** FRC [50%]
-**** WAITING TEDx Event
+*** FRC [100%]
+**** DONE TEDx Event
 SCHEDULED: <2020-12-04 Fri 19:00>
 **** DONE TEDx Presentation
 DEADLINE: <2020-12-02 Wed>
@@ -69,13 +67,13 @@ DEADLINE: <2020-12-02 Wed>
 SCHEDULED: <2020-12-02 Wed 19:00>
 *** DONE Tom
 *** DONE Mebin
-*** WAITING Debate 1
-*** TODO Debate 2
-*** Payment [3/7]
-**** TODO Tom
-**** WAITING Allen
-**** WAITING Noah
-**** WAITING Antony
+*** DONE Debate 1
+*** DONE Debate 2
+*** Payment [7/7]
+**** ABANDONED Tom
+**** DONE Allen
+**** DONE Noah
+**** DONE Antony
 **** DONE Uday
 **** DONE Mebin
 **** DONE Sam
