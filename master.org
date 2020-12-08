@@ -1,12 +1,41 @@
 * Final Exams
-** TODO CSCI1730
-** TODO ECOL1000
-** TODO ECON2106
-** TODO INTL3300
-*** TODO Country Brochure
-DEADLINE: <2020-12-07 Mon>
+** CSCI1730
+SCHEDULED: <2020-12-17 Thu>
+** ECOL1000
+SCHEDULED: <2020-12-11 Fri 12:00>
+** ECON2106
+SCHEDULED: <2020-12-15 Tue 12:00>
+** INTL3300
+*** DONE Country Brochure
+DEADLINE: <2020-12-09 Wed>
 *** TODO Comparative Analysis
 DEADLINE: <2020-12-14 Mon>
+* 12.07.20
+** School
+*** CSCI1730 [100%]
+*** ECOL1000 [100%]
+**** DONE HW13
+**** DONE iClicker 13
+**** DONE iClicker 14
+*** ECOL1000L [100%]
+*** ECON2106 [100%]
+*** INTL3300 [100%]
+*** INTL4970 [0%]
+**** TODO LitReview/T
+*** MATH4670 [100%]
+*** MATH4950 [0%]
+**** TODO Mars Assignment
+** Orgs
+*** MUN [0%]
+**** TODO Website Bios
+*** Finch [100%]
+*** UGAHacks [100%]
+** Tutoring
+*** DONE Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
 * 11.30.20
 ** School
 *** CSCI1730 [100%]
@@ -39,20 +68,19 @@ DEADLINE: <2020-12-04 Fri>
 *** INTL3300 [100%]
 **** DONE [#B] Sweden Lit Review
 DEADLINE: <2020-12-02 Wed>
-*** INTL4970 [0%]
-**** TODO [#B] API Dev
+*** INTL4970 [100%]
+**** MIGRATED [#B] API Dev
 *** MATH4670 [100%]
-*** MATH4950 [0%]
-**** TODO [#C] Mars Form
-DEADLINE: <2020-12-06 Sun>
+*** MATH4950 [100%]
+**** MIGRATED [#C] Mars Form
 *** FYOS1000 [100%]
 **** DONE [#C] Payment Update
 SCHEDULED: <2020-12-04 Fri>
 ** Orgs
-*** MUN [0%]
-**** TODO Website Bios
-*** Finch [0%]
-**** IN-PROGRESS Website Redesign
+*** MUN [100%]
+**** MIGRATED Website Bios
+*** Finch [100%]
+**** DONE Website Redesign
 *** UGAHacks [100%]
 **** DONE Update Kuck
 DEADLINE: <2020-11-30 Mon>
