@@ -20,20 +20,21 @@ DEADLINE: <2020-12-14 Mon>
 *** ECOL1000L [100%]
 *** ECON2106 [100%]
 *** INTL3300 [100%]
-*** INTL4970 [0%]
-**** TODO LitReview/T
+*** INTL4970 [100%]
+**** DONE LitReview/T
 *** MATH4670 [100%]
 *** MATH4950 [0%]
 **** TODO Mars Assignment
 ** Orgs
-*** MUN [0%]
-**** TODO Website Bios
+*** MUN [50%]
+**** ABANDONED Website Bios
+**** TODO Mega Email Updates
 *** Finch [100%]
 *** UGAHacks [100%]
 ** Tutoring
 *** DONE Noah
-*** TODO Tom
-*** TODO Mebin
+*** DONE Tom
+*** DONE Mebin
 *** TODO Debate 1
 *** TODO Debate 2
 * 11.30.20

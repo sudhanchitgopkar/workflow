@@ -1,3 +1,34 @@
+* 12.09.20
+** Wicked Problems
+- Interconnected, complex problems that are very difficult to solve because of the multitude of opinions and effects they have
+- Scientific knowledge is reliable and durable but it is never absolute or certain
+** Spheres of Influence
+- Economy -> Community -> Environment
+- Economy is a social construct that exists within the community which resides inside on an environment
+** Sustainable Living
+- Need to meet the needs of today without compromising the needs of future generations
+- Must be belowing carrying capacity and live a sustainable lifestyle
+** Weather v Climate
+- Weather: Conditions of atmosphere at a particular time/place
+- Climate: Longer term than weather
+** Keeling Curve
+- Measure atmospheric CO2 from the Monnoloah observatory, showed increasing CO2 causing increased global warming and lower oceanwater PH
+** Storm and Hurricane Intensification
+- Climate change leading to a significant increase in weather and climate disasters
+- Such disasters are extremely troublesome because of their impact on lives and economics
+** Antibiotics
+- Development of antibiotic resistance through natural selection
+- Overuse of antibiotics in both humans and animals
+- Natural selection results in changes in gene frequencies
+  - Some individuals are more successful at obtaining resources, are able to produce more offspring
+- Evolution: Changes in the heritable traits of a population of organisms as successive generations continue
+- Increased connectivity will increase the rate and speed at which diseases are transmitted across the world.
+** Freshwater
+- Need approx 50l. to survive per day
+- Not evenly distributed across the world
+- Found mostly in aquifers
+- Cannabis industry having a significant impact on social, cultural, economic, and environmental issues
+-
 * 12.07.20
 ** EROEI Ratio
 - A measure of the net energy from an energy source
