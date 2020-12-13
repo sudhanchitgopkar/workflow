@@ -35,8 +35,8 @@ DEADLINE: <2020-12-14 Mon>
 *** DONE Noah
 *** DONE Tom
 *** DONE Mebin
-*** TODO Debate 1
-*** TODO Debate 2
+*** DONE Debate 2
+*** DONE Debate 1
 * 11.30.20
 ** School
 *** CSCI1730 [100%]
