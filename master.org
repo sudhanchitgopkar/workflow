@@ -270,11 +270,11 @@ SCHEDULED: <2020-11-11 Wed 15:00>
 *** DONE Debate 1
 *** DONE Debate 2
 *** MIGRATED Payment[7/7]
-**** DONE Noah
 **** MIGRATED Tom
-**** DONE Mebin
 **** MIGRATED Allen
 **** MIGRATED Uday
+**** DONE Noah
+**** DONE Mebin
 **** DONE Sam
 **** DONE Antony
 * 11.02.20
