@@ -23,12 +23,12 @@ DEADLINE: <2020-12-14 Mon>
 *** INTL4970 [100%]
 **** DONE LitReview/T
 *** MATH4670 [100%]
-*** MATH4950 [0%]
-**** TODO Mars Assignment
+*** MATH4950 [100%]
+**** DONE Mars Assignment
 ** Orgs
-*** MUN [50%]
+*** MUN [100%]
 **** ABANDONED Website Bios
-**** TODO Mega Email Updates
+**** ABANDONED Mega Email Updates
 *** Finch [100%]
 *** UGAHacks [100%]
 ** Tutoring
