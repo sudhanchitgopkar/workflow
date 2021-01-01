@@ -8,12 +8,16 @@ This directory contains all coursework and notes completed for registered & audi
 - INTL3300
 - ECOL1000
 - ECON2106
+
 In-progress coursework includes:
+
 - CSCI2670
 - CSCI2720
 - INTL4440
 - INTL4710
+
 Coursework to be migrated includes:
+
 - CSCI1301
 - CSCI1302
 - INTL1110
