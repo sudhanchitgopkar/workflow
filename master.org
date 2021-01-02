@@ -1,3 +1,8 @@
+* 01.03.20
+** TODO MUN Email Blast
+** TODO Saglam Recommendation
+DEADLINE: <2021-01-30 Sat>
+** TODO CMLT Waitlist Update
 * Final Exams
 ** DONE CSCI1730
 SCHEDULED: <2020-12-19 Sat>
