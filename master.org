@@ -3,6 +3,8 @@
 ** TODO Saglam Recommendation
 DEADLINE: <2021-01-30 Sat>
 ** TODO CMLT Waitlist Update
+** TODO Test
+SCHEDULED: <2021-01-02 Sat>
 * Final Exams
 ** DONE CSCI1730
 SCHEDULED: <2020-12-19 Sat>
