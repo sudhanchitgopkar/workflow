@@ -1,10 +1,19 @@
 * 01.03.20
-** TODO MUN Email Blast
-** TODO Saglam Recommendation
+** General [0%]
+*** WAITING Finch AfterDark Meeting
+SCHEDULED: <2021-01-04 Mon 16:00>
+*** TODO MUN Email Blast
+*** TODO Saglam Recommendation
 DEADLINE: <2021-01-30 Sat>
-** TODO CMLT Waitlist Update
-** TODO Test
-SCHEDULED: <2021-01-02 Sat>
+*** TODO CMLT Waitlist Update
+** Tutoring
+*** WAITING Spencer
+SCHEDULED: <2021-01-04 Mon 10:00>
+*** TODO Noah
+*** TODO Mebin
+*** TODO Tom
+*** TODO Debate 1
+*** TODO Debate 2
 * Final Exams
 ** DONE CSCI1730
 SCHEDULED: <2020-12-19 Sat>
@@ -85,7 +94,7 @@ DEADLINE: <2020-12-02 Wed>
 **** DONE [#C] Payment Update
 SCHEDULED: <2020-12-04 Fri>
 ** Orgs
-*** MUN [100%]
+*** MUN [0%]
 **** MIGRATED Website Bios
 *** Finch [100%]
 **** DONE Website Redesign
