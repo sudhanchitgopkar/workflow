@@ -1,14 +1,16 @@
 * 01.03.20
-** General [0%]
-*** WAITING Finch AfterDark Meeting
-SCHEDULED: <2021-01-04 Mon 16:00>
+** General [25%]
 *** TODO MUN Email Blast
 *** TODO Saglam Recommendation
 DEADLINE: <2021-01-30 Sat>
 *** TODO CMLT Waitlist Update
-** Tutoring
-*** WAITING Spencer
+*** DONE Finch AfterDark Meeting
+SCHEDULED: <2021-01-04 Mon 16:00>
+** Tutoring [28%]
+*** DONE Spencer 1
 SCHEDULED: <2021-01-04 Mon 10:00>
+*** DONE Spencer 2
+SCHEDULED: <2021-01-05 Tue 10:00>
 *** TODO Noah
 *** TODO Mebin
 *** TODO Tom
