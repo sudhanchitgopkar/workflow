@@ -1,21 +1,29 @@
 * 01.03.20
-** General [25%]
-*** TODO MUN Email Blast
+** General [40%]
 *** TODO Saglam Recommendation
 DEADLINE: <2021-01-30 Sat>
 *** TODO CMLT Waitlist Update
+*** WAITING SC Interview
+SCHEDULED: <2021-01-08 Fri 10:00>
+*** DONE MUN Email Blast
 *** DONE Finch AfterDark Meeting
 SCHEDULED: <2021-01-04 Mon 16:00>
-** Tutoring [28%]
-*** DONE Spencer 1
-SCHEDULED: <2021-01-04 Mon 10:00>
+** Tutoring [33%]
+*** TODO Debate 1
+*** TODO Mebin
+*** TODO Debate 2
+*** WAITING Spencer 4
+*** WAITING Tom
+SCHEDULED: <2021-01-07 Thu 12:00>
+*** IN-PROGRESS Spencer 3
 *** DONE Spencer 2
 SCHEDULED: <2021-01-05 Tue 10:00>
-*** TODO Noah
-*** TODO Mebin
+*** DONE Noah
+*** DONE Spencer 1
+SCHEDULED: <2021-01-04 Mon 10:00>
+** Payment
 *** TODO Tom
-*** TODO Debate 1
-*** TODO Debate 2
+*** WAITING Spencer
 * Final Exams
 ** DONE CSCI1730
 SCHEDULED: <2020-12-19 Sat>
