@@ -8,19 +8,19 @@ SCHEDULED: <2021-01-08 Fri 10:00>
 *** DONE MUN Email Blast
 *** DONE Finch AfterDark Meeting
 SCHEDULED: <2021-01-04 Mon 16:00>
-** Tutoring [33%]
+** Tutoring [77%]
 *** TODO Debate 1
-*** TODO Mebin
 *** TODO Debate 2
-*** WAITING Spencer 4
-*** WAITING Tom
-SCHEDULED: <2021-01-07 Thu 12:00>
-*** IN-PROGRESS Spencer 3
+*** DONE Mebin
+*** DONE Spencer 3
 *** DONE Spencer 2
 SCHEDULED: <2021-01-05 Tue 10:00>
 *** DONE Noah
 *** DONE Spencer 1
 SCHEDULED: <2021-01-04 Mon 10:00>
+*** ABANDONED Spencer 4
+*** ABANDONED Tom
+SCHEDULED: <2021-01-10 Sun 12:00>
 ** Payment
 *** TODO Tom
 *** WAITING Spencer
