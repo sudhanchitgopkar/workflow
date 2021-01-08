@@ -1,5 +1,7 @@
 * 01.03.20
-** General [40%]
+** General [33%]
+*** TODO UGAHacks Documentation
+DEADLINE: <2021-01-11 Mon>
 *** TODO Saglam Recommendation
 DEADLINE: <2021-01-30 Sat>
 *** TODO CMLT Waitlist Update
