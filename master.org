@@ -1,18 +1,21 @@
 * 01.03.20
-** General [33%]
+** General [57%]
 *** TODO UGAHacks Documentation
 DEADLINE: <2021-01-11 Mon>
-*** TODO Saglam Recommendation
-DEADLINE: <2021-01-30 Sat>
 *** TODO CMLT Waitlist Update
-*** WAITING SC Interview
+*** IN-PROGRESS Saglam Recommendation
+DEADLINE: <2021-01-30 Sat>
+*** DONE Finch AfterDark Meeting 2
+SCHEDULED: <2021-01-09 Sat 21:00>
+*** DONE SC Interview
 SCHEDULED: <2021-01-08 Fri 10:00>
 *** DONE MUN Email Blast
 *** DONE Finch AfterDark Meeting
 SCHEDULED: <2021-01-04 Mon 16:00>
-** Tutoring [77%]
-*** TODO Debate 1
-*** TODO Debate 2
+** Tutoring [100%]
+*** DONE Debate 2
+*** DONE Debate 3
+*** DONE Debate 1
 *** DONE Mebin
 *** DONE Spencer 3
 *** DONE Spencer 2
@@ -25,7 +28,8 @@ SCHEDULED: <2021-01-04 Mon 10:00>
 SCHEDULED: <2021-01-07 Thu 12:00>
 ** Payment
 *** TODO Tom
-*** WAITING Spencer
+*** WAITING IBA Judging
+*** DONE Spencer
 * Final Exams
 ** DONE CSCI1730
 SCHEDULED: <2020-12-19 Sat>
