@@ -1,12 +1,15 @@
 * 01.03.20
-** General [50%]
-*** TODO UGAHacks Documentation
-DEADLINE: <2021-01-11 Mon>
-*** TODO CMLT Waitlist Update
-*** TODO Mercer Essay Review
-DEADLINE: <2021-01-10 Sun>
-*** IN-PROGRESS Saglam Recommendation
+** General [70%]
+*** TODO Domain Name Purchase
+*** WAITING CMLT Waitlist Update
+*** WAITING Saglam Recommendation
 DEADLINE: <2021-01-30 Sat>
+*** DONE UGAHacks Documentation
+DEADLINE: <2021-01-11 Mon>
+*** DONE FRC Reapplication
+DEADLINE: <2021-01-11 Mon>
+*** DONE Mercer Essay Review
+DEADLINE: <2021-01-10 Sun>
 *** DONE Finch AfterDark Meeting 2
 SCHEDULED: <2021-01-09 Sat 21:00>
 *** DONE SC Interview
