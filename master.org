@@ -1,9 +1,34 @@
+* 01.11.20
+** School
+*** DONE CMLT Waitlist Update
+*** DONE Saglam Recommendation
+DEADLINE:* 01.11.20
+** Orgs
+*** MUN [33%]
+**** TODO MUN Outreach Emails
+**** TODO MUN Picture Upload
+**** DONE MUN Email Template
+DEADLINE: <2021-01-12 Tue>
+*** Finch [100%]
+**** DONE Strike Magazine Update
+DEADLINE: <2021-01-12 Tue>
+*** UGAHacks [0%]
+**** WAITING Opening Speech
+SCHEDULED: <2021-01-16 Sat 10:00>
+*** Campaign [0%]
+**** TODO Domain Name Purchase
+** Tutoring [20%]
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+*** WAITING Noah
+SCHEDULED: <2021-01-13 Wed 16:00>
+*** DONE Tom
+** Payment [0%]
+*** TODO Tom
+*** WAITING IBA
 * 01.03.20
-** General [70%]
-*** TODO Domain Name Purchase
-*** WAITING CMLT Waitlist Update
-*** WAITING Saglam Recommendation
-DEADLINE: <2021-01-30 Sat>
+** General [100%]
 *** DONE UGAHacks Documentation
 DEADLINE: <2021-01-11 Mon>
 *** DONE FRC Reapplication
@@ -31,9 +56,9 @@ SCHEDULED: <2021-01-04 Mon 10:00>
 *** ABANDONED Spencer 4
 *** ABANDONED Tom
 SCHEDULED: <2021-01-07 Thu 12:00>
-** Payment
-*** TODO Tom
-*** WAITING IBA Judging
+** Payment [100%]
+*** MIGRATED Tom
+*** MIGRATED IBA Judging
 *** DONE Spencer
 * Final Exams
 ** DONE CSCI1730
