@@ -5,23 +5,25 @@
 DEADLINE:* 01.11.20
 ** Orgs
 *** MUN [33%]
-**** TODO MUN Outreach Emails
 **** TODO MUN Picture Upload
+**** WAITING MUN Outreach Emails
 **** DONE MUN Email Template
 DEADLINE: <2021-01-12 Tue>
-*** Finch [100%]
+*** Finch [50%]
 **** DONE Strike Magazine Update
 DEADLINE: <2021-01-12 Tue>
+**** WAITING Strike Mag Interview
+SCHEDULED: <2021-01-14 Thu 17:00>
 *** UGAHacks [0%]
 **** WAITING Opening Speech
 SCHEDULED: <2021-01-16 Sat 10:00>
 *** Campaign [0%]
 **** TODO Domain Name Purchase
-** Tutoring [20%]
-*** TODO Mebin
+** Tutoring [60%]
 *** TODO Debate 1
 *** TODO Debate 2
-*** WAITING Noah
+*** DONE Mebin
+*** DONE Noah
 SCHEDULED: <2021-01-13 Wed 16:00>
 *** DONE Tom
 ** Payment [0%]
