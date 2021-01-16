@@ -9,26 +9,31 @@ DEADLINE:* 01.11.20
 **** WAITING MUN Outreach Emails
 **** DONE MUN Email Template
 DEADLINE: <2021-01-12 Tue>
-*** Finch [50%]
+*** Finch [100%]
 **** DONE Strike Magazine Update
 DEADLINE: <2021-01-12 Tue>
-**** WAITING Strike Mag Interview
+**** DONE Strike Mag Interview
 SCHEDULED: <2021-01-14 Thu 17:00>
-*** UGAHacks [0%]
-**** WAITING Opening Speech
-SCHEDULED: <2021-01-16 Sat 10:00>
+*** UGAHacks [100%]
+**** DONE Opening Speech
+SCHEDULED: <2021-01-17 Sun 10:00>
 *** Campaign [0%]
 **** TODO Domain Name Purchase
-** Tutoring [60%]
-*** TODO Debate 1
-*** TODO Debate 2
+*** FRC [0%]
+**** WAITING Welcome Meeting
+SCHEDULED: <2021-01-15 Fri 17:30>
+** Tutoring [80%]
+*** WAITING Debate 2
+SCHEDULED: <2021-01-17 Sun 10:00>
+*** DONE Debate 1
+SCHEDULED: <2021-01-15 Fri 15:00>
 *** DONE Mebin
 *** DONE Noah
 SCHEDULED: <2021-01-13 Wed 16:00>
 *** DONE Tom
-** Payment [0%]
+** Payment [50%]
 *** TODO Tom
-*** WAITING IBA
+*** DONE IBA
 * 01.03.20
 ** General [100%]
 *** DONE UGAHacks Documentation
