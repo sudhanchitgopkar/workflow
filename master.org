@@ -19,11 +19,11 @@ SCHEDULED: <2021-01-14 Thu 17:00>
 SCHEDULED: <2021-01-17 Sun 10:00>
 *** Campaign [0%]
 **** TODO Domain Name Purchase
-*** FRC [0%]
-**** WAITING Welcome Meeting
+*** FRC [100%]
+**** DONE Welcome Meeting
 SCHEDULED: <2021-01-15 Fri 17:30>
-** Tutoring [80%]
-*** WAITING Debate 2
+** Tutoring [100%]
+*** DONE Debate 2
 SCHEDULED: <2021-01-17 Sun 10:00>
 *** DONE Debate 1
 SCHEDULED: <2021-01-15 Fri 15:00>
