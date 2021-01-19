@@ -31,8 +31,8 @@ SCHEDULED: <2021-01-15 Fri 15:00>
 *** DONE Noah
 SCHEDULED: <2021-01-13 Wed 16:00>
 *** DONE Tom
-** Payment [50%]
-*** TODO Tom
+** Payment [100%]
+*** MIGRATED Tom
 *** DONE IBA
 * 01.03.20
 ** General [100%]
