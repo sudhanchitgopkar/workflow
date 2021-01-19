@@ -1,3 +1,30 @@
+* 01.18.20
+** School
+*** CSCI2720 [%]
+*** CSCI2670 [%]
+*** INTL4440 [%]
+*** INTL4710 [%]
+*** INTL4260 [%]
+** Orgs
+*** MUN [0%]
+**** Outreach Meeting
+SCHEDULED: <2021-01-19 Tue 19:00>
+**** Sec/General Meeting
+SCHEDULED: <2021-01-19 Tue 19:30>
+*** Finch [0%]
+**** WAITING Iliev Meeting
+SCHEDULED: <2021-01-20 Wed 15:00>
+*** UGAHacks [%]
+*** FRC [0%]
+**** WAITING Room Signups
+SCHEDULED: <2021-01-22 Fri 17:00>
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Debate 1
+*** TODO Debate 2
+*** WAITING Mebin
+SCHEDULED: <2021-01-19 Tue 15:45>
 * 01.11.20
 ** TODO Vaccine Survey
 ** School
@@ -1176,7 +1203,25 @@ DEADLINE: <2020-09-18 Fri>
     DEADLINE: <2020-08-21 Fri>
 
 *** MIGRATED Norman, PLA
-* Template
+* Template Sprint 2021
+** School
+*** CSCI2720 [%]
+*** CSCI2670 [%]
+*** INTL4440 [%]
+*** INTL4710 [%]
+*** INTL4260 [%]
+** Orgs
+*** MUN [%]
+*** Finch [%]
+*** UGAHacks [%]
+*** FRC [%]
+** Tutoring
+*** Noah
+*** Tom
+*** Mebin
+*** Debate 1
+*** Debate 2
+* Template Fall 2020
 ** School
 *** CSCI1730 [%]
 *** ECOL1000 [%]
