@@ -24,7 +24,7 @@ DEADLINE: <2021-01-26 Tue>
 ** School
 *** CSCI2720 [0%]
 **** TODO C++ Review Reading
-DEADLINE: <2021-01-20 Wed>
+DEADLINE: <2021-01-24 Sun>
 *** CSCI2670 [100%]
 *** INTL4440 [40%]
 **** TODO Johnson
@@ -37,7 +37,9 @@ DEADLINE: <2021-01-20 Wed>
 **** TODO Putnam
 **** IN-PROGRESS Fearon
 **** DONE Khan
-*** Research [100%]
+*** Research [75%]
+**** TODO Research Design Section
+DEADLINE: <2021-01-31 Sun>
 **** DONE Iliev Email
 **** DONE Saglam Meeting
 SCHEDULED: <2021-01-21 Thu 10:00>
@@ -60,10 +62,10 @@ SCHEDULED: <2021-01-21 Thu 15:45>
 **** DONE Room Signups
 SCHEDULED: <2021-01-22 Fri 17:00>
 ** Tutoring
-*** TODO Debate 1
 *** TODO Debate 2
 *** WAITING Noah
 SCHEDULED: <2021-01-23 Sat 11:00>
+*** DONE Debate 1
 *** DONE Tom
 SCHEDULED: <2021-01-21 Thu 17:30>
 *** DONE Mebin
