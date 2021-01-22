@@ -4,8 +4,10 @@
 *** CSCI2670 [%]
 *** INTL4440 [%]
 *** INTL4710 [0%]
-**** WAITING Mod1 Reader
-**** WAITING Mod 1 Quiz
+**** TODO Mod1 Reader
+DEADLINE: <2021-01-26 Tue>
+**** TODO Mod 1 Quiz
+DEADLINE: <2021-01-26 Tue>
 *** INTL4260 [%]
 ** Orgs
 *** MUN [%]
@@ -24,7 +26,7 @@
 **** TODO C++ Review Reading
 DEADLINE: <2021-01-20 Wed>
 *** CSCI2670 [100%]
-*** INTL4440 [0%]
+*** INTL4440 [40%]
 **** TODO Johnson
 **** TODO Turner
 **** TODO Warner
@@ -35,38 +37,39 @@ DEADLINE: <2021-01-20 Wed>
 **** TODO Putnam
 **** IN-PROGRESS Fearon
 **** DONE Khan
-*** Research [0%]
-**** TODO Iliev Email
-**** TODO Schneider Email
-**** WAITING Saglam Meeting
+*** Research [100%]
+**** DONE Iliev Email
+**** DONE Saglam Meeting
 SCHEDULED: <2021-01-21 Thu 10:00>
+**** DONE Schneider Email
 ** Orgs
 *** MUN [100%]
 **** DONE Website Updates
 **** DONE Outreach Emails
-**** DONE [#B] Outreach Meeting
+**** DONE Outreach Meeting
 SCHEDULED: <2021-01-19 Tue 19:00>
 **** DONE Sec/General Meeting
 SCHEDULED: <2021-01-19 Tue 19:30>
-*** Finch [50%]
+*** Finch [100%]
 **** DONE Iliev Meeting
 SCHEDULED: <2021-01-20 Wed 15:00>
-**** WAITING Iliev Follow-up
+**** DONE Iliev Follow-up
 SCHEDULED: <2021-01-21 Thu 15:45>
 *** UGAHacks [100%]
 *** FRC [100%]
 **** DONE Room Signups
 SCHEDULED: <2021-01-22 Fri 17:00>
 ** Tutoring
-*** TODO Tom
 *** TODO Debate 1
 *** TODO Debate 2
 *** WAITING Noah
 SCHEDULED: <2021-01-23 Sat 11:00>
+*** DONE Tom
+SCHEDULED: <2021-01-21 Thu 17:30>
 *** DONE Mebin
 SCHEDULED: <2021-01-21 Thu 15:45>
 ** Misc
-*** WAITING Vaccine Survey
+*** DONE Vaccine Survey
 * 01.11.20
 ** MIGRATED Vaccine Survey
 ** School
