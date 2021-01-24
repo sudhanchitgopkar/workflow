@@ -8,7 +8,10 @@
 DEADLINE: <2021-01-26 Tue>
 **** TODO Mod 1 Quiz
 DEADLINE: <2021-01-26 Tue>
-*** INTL4260 [%]
+*** INTL4260 [0%]
+**** TODO Putnam
+**** TODO Sagan
+**** WAITING Qualtrics Registration
 ** Orgs
 *** MUN [%]
 *** Finch [%]
@@ -21,21 +24,24 @@ DEADLINE: <2021-01-26 Tue>
 *** Debate 1
 *** Debate 2
 * 01.18.20
+** CMU
+*** WAITING Rec 1
+*** TODO Exp Section
 ** School
 *** CSCI2720 [0%]
 **** TODO C++ Review Reading
 DEADLINE: <2021-01-24 Sun>
 *** CSCI2670 [100%]
-*** INTL4440 [40%]
+*** INTL4440 [66%]
 **** TODO Johnson
-**** TODO Turner
-**** TODO Warner
+**** DONE Warner
+**** DONE Turner
 *** INTL4710 [100%]
 **** MIGRATED Mod1 Reader
 **** MIGRATED Mod1 Quiz
-*** INTL4260 [33%]
-**** TODO Putnam
-**** IN-PROGRESS Fearon
+*** INTL4260 [100%]
+**** MIGRATED Putnam
+**** DONE Fearon
 **** DONE Khan
 *** Research [75%]
 **** TODO Research Design Section
@@ -62,8 +68,8 @@ SCHEDULED: <2021-01-21 Thu 15:45>
 **** DONE Room Signups
 SCHEDULED: <2021-01-22 Fri 17:00>
 ** Tutoring
-*** TODO Debate 2
-*** WAITING Noah
+*** DONE Debate 2
+*** DONE Noah
 SCHEDULED: <2021-01-23 Sat 11:00>
 *** DONE Debate 1
 *** DONE Tom
