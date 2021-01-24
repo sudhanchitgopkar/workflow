@@ -3,26 +3,37 @@
 *** CSCI2720 [%]
 *** CSCI2670 [%]
 *** INTL4440 [%]
-*** INTL4710 [0%]
-**** TODO Mod1 Reader
-DEADLINE: <2021-01-26 Tue>
+*** INTL4710 [66%]
 **** TODO Mod 1 Quiz
+DEADLINE: <2021-01-26 Tue>
+**** DONE Mod1 Reader
+DEADLINE: <2021-01-26 Tue>
+**** DONE Mod1 Survey
 DEADLINE: <2021-01-26 Tue>
 *** INTL4260 [0%]
 **** TODO Putnam
 **** TODO Sagan
 **** WAITING Qualtrics Registration
+*** Research [0%]
+**** TODO Research Design Section
+DEADLINE: <2021-01-31 Sun>
+**** TODO GROVI Email
+DEADLINE: <2021-01-25 Mon>
 ** Orgs
 *** MUN [%]
-*** Finch [%]
+*** Finch [0%]
+**** WAITING Iliev Interview 2
+SCHEDULED: <2021-01-25 Mon 15:00>
+**** TODO AfterDark Intro
+DEADLINE: <2021-01-24 Sun>
 *** UGAHacks [%]
 *** FRC [%]
 ** Tutoring
-*** Noah
-*** Tom
-*** Mebin
-*** Debate 1
-*** Debate 2
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
 * 01.18.20
 ** CMU
 *** WAITING Rec 1
@@ -43,9 +54,8 @@ DEADLINE: <2021-01-24 Sun>
 **** MIGRATED Putnam
 **** DONE Fearon
 **** DONE Khan
-*** Research [75%]
-**** TODO Research Design Section
-DEADLINE: <2021-01-31 Sun>
+*** Research [100%]
+**** MIGRATED Research Design Section
 **** DONE Iliev Email
 **** DONE Saglam Meeting
 SCHEDULED: <2021-01-21 Thu 10:00>
