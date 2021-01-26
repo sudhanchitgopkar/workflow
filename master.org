@@ -13,6 +13,7 @@
 SCHEDULED: <2021-02-04 Thu>
 - C++ Review Sessions
 - Textbook Ch. 2
+**** TODO Mathematical Review
 *** CSCI2670 [100%]
 **** DONE CW-1
 CLOSED: [2021-01-26 Tue 01:16]
@@ -33,34 +34,37 @@ DEADLINE: <2021-01-26 Tue>
 **** TODO Sagan
 **** DONE Qualtrics Registration
 CLOSED: [2021-01-25 Mon 10:31]
-*** Research [0%]
+*** Research [33%]
+**** TODO SPIA URC App
+DEADLINE: <2021-02-16 Tue>
 **** TODO Research Design Section
 DEADLINE: <2021-01-31 Sun>
-**** TODO [#A] GROVI Email
-DEADLINE: <2021-01-25 Mon>
+**** DONE GROVI Email
+CLOSED: [2021-01-26 Tue 11:17] DEADLINE: <2021-01-28 Thu>
 ** Orgs
 *** MUN [0%]
 **** TODO [#A] Headshot + Bio Activation
 DEADLINE: <2021-01-26 Tue 19:00>
-*** Finch [50%]
+*** Finch [33%]
 **** DONE Iliev Interview 2
 CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
+**** TODO Audio Editing
 **** TODO AfterDark Intro
 DEADLINE: <2021-01-24 Sun>
 *** UGAHacks [%]
 *** FRC [%]
 ** Tutoring
-*** TODO Noah
+*** WAITING Noah
+SCHEDULED: <2021-01-26 Tue 21:30>
+*** WAITING Mebin
+SCHEDULED: <2021-01-26 Tue 16:00>
 *** TODO Tom
-*** TODO Mebin
 *** TODO Debate 1
 *** TODO Debate 2
 ** Misc
 *** DONE Background Check SC
 CLOSED: [2021-01-26 Tue 10:01] DEADLINE: <2021-01-25 Mon>
-*** TODO Domain Name Purchase
-*** TODO SPIA URC App
-DEADLINE: <2021-02-16 Tue>
+*** WAITING Domain Name Purchase
 * 01.18.20
 ** CMU
 *** MIGRATED Rec 1
