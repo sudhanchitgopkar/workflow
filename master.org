@@ -4,7 +4,8 @@
 *** TODO Exp Section
 *** TODO Achievements Section
 *** TODO Short Essay Prompts
-*** TODO [#B] Course Catalogs
+*** TODO Course Catalogs
+*** TODO College Report
 ** School
 *** CSCI2720 [0%]
 **** WAITING Assn01
@@ -16,10 +17,12 @@ SCHEDULED: <2021-02-04 Thu>
 **** DONE CW-1
 CLOSED: [2021-01-26 Tue 01:16]
 *** INTL4440 [0%]
-**** TODO eLC Lecture
+**** TODO [#A] eLC Lecture
 **** IN-PROGRESS Johnson
 *** INTL4710 [100%]
-**** DONE [#A] Mod 1 Quiz
+**** DONE Mod1 Position
+CLOSED: [2021-01-26 Tue 10:56]
+**** DONE Mod 1 Quiz
 CLOSED: [2021-01-26 Tue 00:32] DEADLINE: <2021-01-28 Thu>
 **** DONE Mod1 Reader
 DEADLINE: <2021-01-26 Tue>
@@ -37,7 +40,7 @@ DEADLINE: <2021-01-31 Sun>
 DEADLINE: <2021-01-25 Mon>
 ** Orgs
 *** MUN [0%]
-**** TODO Headshot + Bio Activation
+**** TODO [#A] Headshot + Bio Activation
 DEADLINE: <2021-01-26 Tue 19:00>
 *** Finch [50%]
 **** DONE Iliev Interview 2
@@ -53,8 +56,11 @@ DEADLINE: <2021-01-24 Sun>
 *** TODO Debate 1
 *** TODO Debate 2
 ** Misc
-*** WAITING [#A] Background Check SC
-DEADLINE: <2021-01-25 Mon>
+*** DONE Background Check SC
+CLOSED: [2021-01-26 Tue 10:01] DEADLINE: <2021-01-25 Mon>
+*** TODO Domain Name Purchase
+*** TODO SPIA URC App
+DEADLINE: <2021-02-16 Tue>
 * 01.18.20
 ** CMU
 *** MIGRATED Rec 1
@@ -116,9 +122,11 @@ SCHEDULED: <2021-01-21 Thu 15:45>
 *** DONE Saglam Recommendation
 DEADLINE:* 01.11.20
 ** Orgs
-*** MUN [33%]
-**** TODO MUN Picture Upload
-**** WAITING MUN Outreach Emails
+*** MUN [100%]
+**** MIGRATED MUN Picture Upload
+CLOSED: [2021-01-26 Tue 10:57]
+**** MIGRATED MUN Outreach Emails
+CLOSED: [2021-01-26 Tue 10:57]
 **** DONE MUN Email Template
 DEADLINE: <2021-01-12 Tue>
 *** Finch [100%]
@@ -129,8 +137,9 @@ SCHEDULED: <2021-01-14 Thu 17:00>
 *** UGAHacks [100%]
 **** DONE Opening Speech
 SCHEDULED: <2021-01-17 Sun 10:00>
-*** Campaign [0%]
-**** TODO Domain Name Purchase
+*** Campaign [100%]
+**** MIGRATED Domain Name Purchase
+CLOSED: [2021-01-26 Tue 10:57]
 *** FRC [100%]
 **** DONE Welcome Meeting
 SCHEDULED: <2021-01-15 Fri 17:30>
