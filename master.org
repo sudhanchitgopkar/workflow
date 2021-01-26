@@ -4,34 +4,44 @@
 *** TODO Exp Section
 *** TODO Achievements Section
 *** TODO Short Essay Prompts
-*** TODO Course Catalogs
+*** TODO [#B] Course Catalogs
 ** School
-*** CSCI2720 [%]
-*** CSCI2670 [%]
+*** CSCI2720 [0%]
+**** WAITING Assn01
+**** WAITING Quiz01
+SCHEDULED: <2021-02-04 Thu>
+- C++ Review Sessions
+- Textbook Ch. 2
+*** CSCI2670 [100%]
+**** DONE CW-1
+CLOSED: [2021-01-26 Tue 01:16]
 *** INTL4440 [0%]
+**** TODO eLC Lecture
 **** IN-PROGRESS Johnson
-*** INTL4710 [66%]
-**** IN-PROGRESS Mod 1 Quiz
-DEADLINE: <2021-01-28 Thu>
+*** INTL4710 [100%]
+**** DONE [#A] Mod 1 Quiz
+CLOSED: [2021-01-26 Tue 00:32] DEADLINE: <2021-01-28 Thu>
 **** DONE Mod1 Reader
 DEADLINE: <2021-01-26 Tue>
 **** DONE Mod1 Survey
 DEADLINE: <2021-01-26 Tue>
-*** INTL4260 [0%]
+*** INTL4260 [33%]
 **** TODO Putnam
 **** TODO Sagan
-**** TODO Qualtrics Registration
+**** DONE Qualtrics Registration
+CLOSED: [2021-01-25 Mon 10:31]
 *** Research [0%]
 **** TODO Research Design Section
 DEADLINE: <2021-01-31 Sun>
-**** TODO GROVI Email
+**** TODO [#A] GROVI Email
 DEADLINE: <2021-01-25 Mon>
 ** Orgs
 *** MUN [0%]
 **** TODO Headshot + Bio Activation
-*** Finch [0%]
-**** WAITING Iliev Interview 2
-SCHEDULED: <2021-01-25 Mon 15:00>
+DEADLINE: <2021-01-26 Tue 19:00>
+*** Finch [50%]
+**** DONE Iliev Interview 2
+CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
 **** TODO AfterDark Intro
 DEADLINE: <2021-01-24 Sun>
 *** UGAHacks [%]
@@ -43,7 +53,7 @@ DEADLINE: <2021-01-24 Sun>
 *** TODO Debate 1
 *** TODO Debate 2
 ** Misc
-*** TODO Background Check SC
+*** WAITING [#A] Background Check SC
 DEADLINE: <2021-01-25 Mon>
 * 01.18.20
 ** CMU
