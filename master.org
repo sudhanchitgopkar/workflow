@@ -1,11 +1,11 @@
 * 01.25.20
 ** CMU
-*** WAITING Rec 1
 *** TODO Exp Section
 *** TODO Achievements Section
 *** TODO Short Essay Prompts
 *** TODO Course Catalogs
 *** TODO College Report
+*** WAITING Rec 1
 ** School
 *** CSCI2720 [0%]
 **** WAITING Assn01
@@ -17,9 +17,13 @@ SCHEDULED: <2021-02-04 Thu>
 *** CSCI2670 [100%]
 **** DONE CW-1
 CLOSED: [2021-01-26 Tue 01:16]
-*** INTL4440 [0%]
-**** TODO [#A] eLC Lecture
+*** INTL4440 [25%]
+**** TODO Paper 1
+DEADLINE: <2021-02-01 Mon>
+**** TODO Phythian
 **** IN-PROGRESS Johnson
+**** DONE eLC Lecture
+CLOSED: [2021-01-27 Wed 00:02]
 *** INTL4710 [100%]
 **** DONE Mod1 Position
 CLOSED: [2021-01-26 Tue 10:56]
@@ -46,25 +50,25 @@ CLOSED: [2021-01-26 Tue 11:17] DEADLINE: <2021-01-28 Thu>
 **** TODO [#A] Headshot + Bio Activation
 DEADLINE: <2021-01-26 Tue 19:00>
 *** Finch [33%]
-**** DONE Iliev Interview 2
-CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
 **** TODO Audio Editing
 **** TODO AfterDark Intro
 DEADLINE: <2021-01-24 Sun>
-*** UGAHacks [%]
-*** FRC [%]
+**** DONE Iliev Interview 2
+CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
+*** UGAHacks [100%]
+*** FRC [100%]
 ** Tutoring
-*** WAITING Noah
-SCHEDULED: <2021-01-26 Tue 21:30>
-*** WAITING Mebin
-SCHEDULED: <2021-01-26 Tue 16:00>
 *** TODO Tom
 *** TODO Debate 1
 *** TODO Debate 2
+*** DONE Noah
+CLOSED: [2021-01-26 Tue 23:28] SCHEDULED: <2021-01-26 Tue 21:30>
+*** DONE Mebin
+CLOSED: [2021-01-26 Tue 16:06] SCHEDULED: <2021-01-26 Tue 16:00>
 ** Misc
 *** DONE Background Check SC
 CLOSED: [2021-01-26 Tue 10:01] DEADLINE: <2021-01-25 Mon>
-*** WAITING Domain Name Purchase
+*** WAITING [#A] Domain Name Purchase
 * 01.18.20
 ** CMU
 *** MIGRATED Rec 1
