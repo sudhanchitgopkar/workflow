@@ -9,6 +9,7 @@
 ** School
 *** CSCI2720 [0%]
 **** WAITING Assn01
+DEADLINE: <2021-02-03 Wed>
 **** WAITING Quiz01
 SCHEDULED: <2021-02-04 Thu>
 - C++ Review Sessions
@@ -17,11 +18,13 @@ SCHEDULED: <2021-02-04 Thu>
 *** CSCI2670 [100%]
 **** DONE CW-1
 CLOSED: [2021-01-26 Tue 01:16]
-*** INTL4440 [25%]
+*** INTL4440 [75%]
 **** TODO Paper 1
 DEADLINE: <2021-02-01 Mon>
-**** TODO Phythian
-**** IN-PROGRESS Johnson
+**** DONE Phythian
+CLOSED: [2021-01-27 Wed 19:07]
+**** DONE Johnson
+CLOSED: [2021-01-27 Wed 19:07]
 **** DONE eLC Lecture
 CLOSED: [2021-01-27 Wed 00:02]
 *** INTL4710 [100%]
@@ -33,9 +36,11 @@ CLOSED: [2021-01-26 Tue 00:32] DEADLINE: <2021-01-28 Thu>
 DEADLINE: <2021-01-26 Tue>
 **** DONE Mod1 Survey
 DEADLINE: <2021-01-26 Tue>
-*** INTL4260 [33%]
-**** TODO Putnam
-**** TODO Sagan
+*** INTL4260 [100%]
+**** DONE Sagan
+CLOSED: [2021-01-27 Wed 19:58]
+**** DONE Putnam
+CLOSED: [2021-01-27 Wed 17:40]
 **** DONE Qualtrics Registration
 CLOSED: [2021-01-25 Mon 10:31]
 *** Research [33%]
@@ -58,9 +63,10 @@ CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
 *** UGAHacks [100%]
 *** FRC [100%]
 ** Tutoring
-*** TODO Tom
 *** TODO Debate 1
 *** TODO Debate 2
+*** WAITING Tom
+SCHEDULED: <2021-01-28 Thu 16:00>
 *** DONE Noah
 CLOSED: [2021-01-26 Tue 23:28] SCHEDULED: <2021-01-26 Tue 21:30>
 *** DONE Mebin
@@ -69,6 +75,8 @@ CLOSED: [2021-01-26 Tue 16:06] SCHEDULED: <2021-01-26 Tue 16:00>
 *** DONE Background Check SC
 CLOSED: [2021-01-26 Tue 10:01] DEADLINE: <2021-01-25 Mon>
 *** WAITING [#A] Domain Name Purchase
+*** WAITING Big Sat Lab Meeting
+SCHEDULED: <2021-01-28 Thu 20:00>
 * 01.18.20
 ** CMU
 *** MIGRATED Rec 1
@@ -504,16 +512,18 @@ DEADLINE: <2020-11-09 Mon>
 SCHEDULED: <2020-11-05 Thu 11:10>
 **** DONE ECON Practice Test
     DEADLINE: <2020-11-05 Thu>
-*** INTL3300 [50%]
-**** TODO INTL V1-4
+*** INTL3300 [100%]
+**** ABANDONED INTL V1-4
+CLOSED: [2021-01-27 Wed 10:20]
 - [ ] V1
 - [ ] V2
 - [ ] V3
 - [ ] V4
 **** DONE INTL Discussion Post
 DEADLINE: <2020-11-02 Mon>
-*** INTL4970 [0%]
-**** TODO Email Librarians
+*** INTL4970 [100%]
+**** ABANDONED Email Librarians
+CLOSED: [2021-01-27 Wed 10:20]
 *** MATH4670 [100%]
 *** MATH4950 [100%]
 ** Orgs
@@ -598,8 +608,9 @@ SCHEDULED: <2020-11-04 Wed 17:30>
 *** MUN [100%]
 **** ABANDONED 7 PM Sec Meeting
 **** DONE Headshot Pref form
-*** Finch [0%]
-**** IN-PROGRESS Web Redesign
+*** Finch [100%]
+**** MIGRATED Web Redesign
+CLOSED: [2021-01-27 Wed 10:20]
 *** UGAHacks [100%]
 **** DONE SGA Form
 **** DONE Email SGA Rep
