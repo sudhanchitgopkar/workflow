@@ -4,9 +4,9 @@
 *** TODO Achievements Section
 *** TODO Short Essay Prompts
 *** TODO Course Catalogs
-*** WAITING College Report
-SCHEDULED: <2021-01-29 Fri 15:15>
 *** WAITING Rec 1
+*** IN-PROGRESS College Report
+SCHEDULED: <2021-01-29 Fri 15:15>
 ** School
 *** CSCI2720 [33%]
 **** WAITING Assn01
@@ -67,12 +67,13 @@ CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
 *** UGAHacks [100%]
 *** FRC [100%]
 ** Tutoring
-*** TODO Debate 1
 *** TODO Debate 2
 *** WAITING Tom
 SCHEDULED: <2021-01-31 Sun>
-*** WAITING Noah 2
-SCHEDULED: <2021-01-28 Thu 18:30>
+*** DONE Debate 1
+CLOSED: [2021-01-29 Fri 20:31] SCHEDULED: <2021-01-29 Fri 15:45>
+*** DONE Noah 2
+CLOSED: [2021-01-29 Fri 20:31] SCHEDULED: <2021-01-28 Thu 18:30>
 *** DONE Mebin
 CLOSED: [2021-01-26 Tue 16:06] SCHEDULED: <2021-01-26 Tue 16:00>
 *** DONE Noah
