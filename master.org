@@ -81,9 +81,10 @@ CLOSED: [2021-01-26 Tue 23:28] SCHEDULED: <2021-01-26 Tue 21:30>
 ** Misc
 *** DONE Background Check SC
 CLOSED: [2021-01-26 Tue 10:01] DEADLINE: <2021-01-25 Mon>
-*** WAITING [#A] Domain Name Purchase
-*** WAITING Big Sat Lab Meeting
-SCHEDULED: <2021-01-28 Thu 20:00>
+*** DONE Domain Name Purchase
+CLOSED: [2021-01-29 Fri 20:48]
+*** DONE Big Sat Lab Meeting
+CLOSED: [2021-01-29 Fri 20:48] SCHEDULED: <2021-01-28 Thu 20:00>
 * 01.18.20
 ** CMU
 *** MIGRATED Rec 1
