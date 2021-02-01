@@ -4,9 +4,9 @@
 *** TODO Achievements Section
 *** TODO Short Essay Prompts
 *** TODO Course Catalogs
-*** WAITING Rec 1
-*** IN-PROGRESS College Report
+*** TODO College Report
 SCHEDULED: <2021-01-29 Fri 15:15>
+*** WAITING Rec 1
 ** School
 *** CSCI2720 [33%]
 **** WAITING Assn01
@@ -21,9 +21,9 @@ CLOSED: [2021-01-28 Thu 01:57]
 **** TODO HW01
 DEADLINE: <2021-02-05 Fri>
 **** DONE CW-1
-CLOSED: [2021-01-26 Tue 01:16]
+CLOSED: [2021-01-29 Fri 21:35]
 *** INTL4440 [75%]
-**** TODO Paper 1
+**** IN-PROGRESS Paper 1
 DEADLINE: <2021-02-01 Mon>
 **** DONE Phythian
 CLOSED: [2021-01-27 Wed 19:07]
@@ -47,11 +47,11 @@ CLOSED: [2021-01-27 Wed 19:58]
 CLOSED: [2021-01-27 Wed 17:40]
 **** DONE Qualtrics Registration
 CLOSED: [2021-01-25 Mon 10:31]
-*** Research [33%]
+*** Research [66%]
 **** TODO SPIA URC App
 DEADLINE: <2021-02-16 Tue>
-**** TODO Research Design Section
-DEADLINE: <2021-01-31 Sun>
+**** DONE Research Design Section
+CLOSED: [2021-02-01 Mon 02:23] DEADLINE: <2021-01-31 Sun>
 **** DONE GROVI Email
 CLOSED: [2021-01-26 Tue 11:17] DEADLINE: <2021-01-28 Thu>
 ** Orgs
@@ -67,9 +67,8 @@ CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
 *** UGAHacks [100%]
 *** FRC [100%]
 ** Tutoring
-*** TODO Debate 2
-*** WAITING Tom
-SCHEDULED: <2021-01-31 Sun>
+*** DONE Debate 2
+CLOSED: [2021-01-31 Sun 17:11]
 *** DONE Debate 1
 CLOSED: [2021-01-29 Fri 20:31] SCHEDULED: <2021-01-29 Fri 15:45>
 *** DONE Noah 2
@@ -78,6 +77,8 @@ CLOSED: [2021-01-29 Fri 20:31] SCHEDULED: <2021-01-28 Thu 18:30>
 CLOSED: [2021-01-26 Tue 16:06] SCHEDULED: <2021-01-26 Tue 16:00>
 *** DONE Noah
 CLOSED: [2021-01-26 Tue 23:28] SCHEDULED: <2021-01-26 Tue 21:30>
+*** ABANDONED Tom
+CLOSED: [2021-01-31 Sun 17:11] SCHEDULED: <2021-01-31 Sun>
 ** Misc
 *** DONE Background Check SC
 CLOSED: [2021-01-26 Tue 10:01] DEADLINE: <2021-01-25 Mon>
@@ -264,32 +265,32 @@ DEADLINE: <2020-12-02 Wed>
 DEADLINE: <2020-12-02 Wed>
 **** DONE LC 9.1
 DEADLINE: <2020-11-30 Mon>
-**** DONE [#A] iClicker 12
+**** DONE iClicker 12
 DEADLINE: <2020-12-02 Wed>
-**** DONE [#A] Extra Credit 2
+**** DONE Extra Credit 2
 DEADLINE: <2020-12-04 Fri>
 *** ECOL1000L [100%]
-**** DONE [#C] Virtual Fair
+**** DONE Virtual Fair
 DEADLINE: <2020-12-04 Fri>
 **** DONE Course Eval
 DEADLINE: <2020-12-04 Fri>
-**** DONE [#B] Climate Change Lab
+**** DONE Climate Change Lab
 DEADLINE: <2020-12-02 Wed>
 *** ECON2106 [100%]
-**** DONE [#C] Ch16 HW
+**** DONE Ch16 HW
 DEADLINE: <2020-12-04 Fri>
-**** DONE [#C] Ch17 HW
+**** DONE Ch17 HW
 DEADLINE: <2020-12-04 Fri>
 *** INTL3300 [100%]
-**** DONE [#B] Sweden Lit Review
+**** DONE Sweden Lit Review
 DEADLINE: <2020-12-02 Wed>
 *** INTL4970 [100%]
-**** MIGRATED [#B] API Dev
+**** MIGRATED API Dev
 *** MATH4670 [100%]
 *** MATH4950 [100%]
-**** MIGRATED [#C] Mars Form
+**** MIGRATED Mars Form
 *** FYOS1000 [100%]
-**** DONE [#C] Payment Update
+**** DONE Payment Update
 SCHEDULED: <2020-12-04 Fri>
 ** Orgs
 *** MUN [0%]
