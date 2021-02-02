@@ -1,0 +1,1271 @@
+* Final Exams
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** DONE CSCI1730
+SCHEDULED: <2020-12-19 Sat>
+** DONE ECON2106
+SCHEDULED: <2020-12-16 Wed 12:00>
+** DONE ECOL1000
+SCHEDULED: <2020-12-11 Fri 12:00>
+** DONE INTL3300
+*** DONE Country Brochure
+DEADLINE: <2020-12-09 Wed>
+*** DONE Comparative Analysis
+DEADLINE: <2020-12-14 Mon>
+
+* 12.07.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+*** ECOL1000 [100%]
+**** DONE HW13
+**** DONE iClicker 13
+**** DONE iClicker 14
+*** ECOL1000L [100%]
+*** ECON2106 [100%]
+*** INTL3300 [100%]
+*** INTL4970 [100%]
+**** DONE LitReview/T
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+**** DONE Mars Assignment
+** Orgs
+*** MUN [100%]
+**** ABANDONED Website Bios
+**** ABANDONED Mega Email Updates
+*** Finch [100%]
+*** UGAHacks [100%]
+** Tutoring
+*** DONE Noah
+*** DONE Tom
+*** DONE Mebin
+*** DONE Debate 2
+*** DONE Debate 1
+
+* 11.30.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Assn09
+*** ECOL1000 [100%]
+**** DONE HW12
+DEADLINE: <2020-11-30 Mon>
+**** DONE LC 11.1
+DEADLINE: <2020-12-02 Wed>
+**** DONE LC 11.2
+DEADLINE: <2020-12-02 Wed>
+**** DONE LC 9.1
+DEADLINE: <2020-11-30 Mon>
+**** DONE [#A] iClicker 12
+DEADLINE: <2020-12-02 Wed>
+**** DONE [#A] Extra Credit 2
+DEADLINE: <2020-12-04 Fri>
+*** ECOL1000L [100%]
+**** DONE [#C] Virtual Fair
+DEADLINE: <2020-12-04 Fri>
+**** DONE Course Eval
+DEADLINE: <2020-12-04 Fri>
+**** DONE [#B] Climate Change Lab
+DEADLINE: <2020-12-02 Wed>
+*** ECON2106 [100%]
+**** DONE [#C] Ch16 HW
+DEADLINE: <2020-12-04 Fri>
+**** DONE [#C] Ch17 HW
+DEADLINE: <2020-12-04 Fri>
+*** INTL3300 [100%]
+**** DONE [#B] Sweden Lit Review
+DEADLINE: <2020-12-02 Wed>
+*** INTL4970 [100%]
+**** MIGRATED [#B] API Dev
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+**** MIGRATED [#C] Mars Form
+*** FYOS1000 [100%]
+**** DONE [#C] Payment Update
+SCHEDULED: <2020-12-04 Fri>
+** Orgs
+*** MUN [0%]
+**** MIGRATED Website Bios
+*** Finch [100%]
+**** DONE Website Redesign
+*** UGAHacks [100%]
+**** DONE Update Kuck
+DEADLINE: <2020-11-30 Mon>
+**** DONE Garrett Meeting
+*** FRC [100%]
+**** DONE TEDx Event
+SCHEDULED: <2020-12-04 Fri 19:00>
+**** DONE TEDx Presentation
+DEADLINE: <2020-12-02 Wed>
+** Tutoring
+*** DONE Noah
+SCHEDULED: <2020-12-02 Wed 19:00>
+*** DONE Tom
+*** DONE Mebin
+*** DONE Debate 1
+*** DONE Debate 2
+*** Payment [7/7]
+**** ABANDONED Tom
+**** DONE Allen
+**** DONE Noah
+**** DONE Antony
+**** DONE Uday
+**** DONE Mebin
+**** DONE Sam
+
+* 11.23.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+*** ECOL1000 [100%]
+**** MIGRATED Extra Credit #2
+**** DONE iClicker 11
+DEADLINE: <2020-11-25 Wed>
+**** DONE M8.2 LC
+DEADLINE: <2020-11-23 Mon>
+**** DONE M8.1 LC
+DEADLINE: <2020-11-24 Tue>
+*** ECOL1000L [100%]
+**** DONE Final Poster
+DEADLINE: <2020-11-24 Tue>
+*** ECON2106 [100%]
+**** MIGRATED HW 16
+*** INTL3300 [100%]
+**** DONE Quiz 7
+DEADLINE: <2020-11-24 Tue>
+**** DONE Factoid 6
+DEADLINE: <2020-11-24 Tue>
+*** INTL4970 [100%]
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+** Orgs
+*** MUN [100%]
+*** Finch [100%]
+**** MIGRATED Website Redesign
+*** UGAHacks [100%]
+**** DONE SGA Allocations
+SCHEDULED: <2020-11-24 Tue 08:00>
+** Tutoring
+*** DONE Noah
+SCHEDULED: <2020-11-28 Sat 11:00>
+*** ABANDONED Tom
+*** ABANDONED Mebin
+*** DONE Debate 1
+SCHEDULED: <2020-11-28 Sat 10:00>
+*** DONE Debate 2
+SCHEDULED: <2020-11-28 Sat 10:00>
+
+* 11.16.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Assn08
+DEADLINE: <2020-11-22 Sun>
+*** ECOL1000 [100%]
+**** DONE ECOL HW 11
+DEADLINE: <2020-11-20 Fri>
+**** DONE Sapling 2.1
+DEADLINE: <2020-11-23 Mon>
+**** DONE Sapling 7.2
+DEADLINE: <2020-11-20 Fri>
+**** DONE Sapling 7.3
+DEADLINE: <2020-11-20 Fri>
+*** ECOL1000L [100%]
+**** DONE Progress Check 2
+DEADLINE: <2020-11-22 Sun>
+*** ECON2106 [100%]
+**** DONE ECON HW 15
+*** INTL3300 [100%]
+**** DONE Film Reflection
+DEADLINE: <2020-11-16 Mon>
+*** INTL4970 [100%]
+**** DONE RD Section
+DEADLINE: <2020-11-18 Wed>
+**** DONE Update Saglam
+**** ABANDONED Email Librarians
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+** Orgs
+*** MUN [100%]
+**** DONE Outreach Meeting
+SCHEDULED: <2020-11-17 Tue 18:00>
+*** Finch [100%]
+**** MIGRATED Web Redesign
+*** UGAHacks [100%]
+**** DONE RHA Body Presentation
+SCHEDULED: <2020-11-16 Mon 19:30>
+**** DONE RHA Exec Presentation
+SCHEDULED: <2020-11-16 Mon 19:30>
+**** DONE SGA Follow-up
+*** FRC [100%]
+**** DONE Cookie Night
+SCHEDULED: <2020-11-22 Sun 18:00>
+**** DONE Iliev Talk
+**** DONE Service Project Posting
+DEADLINE: <2020-11-20 Fri>
+** Tutoring
+*** ABANDONED Debate 2
+SCHEDULED: <2020-11-21 Sat 10:00>
+*** DONE Noah
+SCHEDULED: <2020-11-19 Thu 18:30>
+*** DONE Debate 1
+SCHEDULED: <2020-11-20 Fri 15:00>
+*** DONE Tom
+SCHEDULED: <2020-11-17 Tue 18:00>
+*** DONE Mebin
+SCHEDULED: <2020-11-18 Wed 15:45>
+*** DONE Payment[7/7]
+**** DONE Noah
+**** DONE Tom
+**** DONE Mebin
+**** DONE Allen
+**** DONE Uday
+**** DONE Sam
+**** DONE Antony
+
+* 11.09.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Exam 2
+SCHEDULED: <2020-11-10 Tue>
+**** ABANDONED Assignment 08
+*** ECOL1000 [100%]
+**** DONE iClicker 11
+DEADLINE: <2020-11-12 Thu>
+**** DONE ECOL HW 11
+DEADLINE: <2020-11-11 Wed>
+*** ECOL1000L [100%]
+**** DONE Ethics Lab
+DEADLINE: <2020-11-11 Wed>
+*** ECON2106 [100%]
+**** DONE CH14 Homework
+DEADLINE: <2020-11-13 Fri>
+*** INTL3300 [100%]
+**** MIGRATED Discussion Post
+**** DONE INTL V1-4
+**** DONE INTL Film
+DEADLINE: <2020-11-11 Wed>
+*** INTL4970 [100%]
+**** MIGRATED Email Librarians
+**** DONE Update Saglam
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+*** FYOS1000 [100%]
+**** DONE Check Payment
+** Orgs
+*** MUN [100%]
+**** DONE LaTeX Conversions
+DEADLINE: <2020-11-09 Mon>
+**** DONE Weekly Meeting
+SCHEDULED: <2020-11-10 Tue 19:30>
+**** DONE Registration Setup
+**** DONE Sophia Meeting
+SCHEDULED: <2020-11-09 Mon 17:00>
+*** Finch [100%]
+**** MIGRATED Web Redesign
+*** FRC [100%]
+*** UGAHacks
+**** DONE Email SGA Rep
+DEADLINE: <2020-11-15 Sun 12:00>
+**** DONE Prepare SGA Presentation
+DEADLINE: <2020-11-16 Mon>
+*** DONE Class Registration
+SCHEDULED: <2020-11-13 Fri 08:30>
+** Tutoring
+*** DONE Noah
+SCHEDULED: <2020-11-12 Thu 18:30>
+*** DONE Tom
+SCHEDULED: <2020-11-11 Wed 16:15>
+*** DONE Mebin
+SCHEDULED: <2020-11-11 Wed 15:00>
+*** DONE Debate 1
+*** DONE Debate 2
+*** MIGRATED Payment[7/7]
+**** MIGRATED Tom
+**** MIGRATED Allen
+**** MIGRATED Uday
+**** DONE Noah
+**** DONE Mebin
+**** DONE Sam
+**** DONE Antony
+
+* 11.02.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE M19-25
+**** DONE Ch9-12
+**** DONE Assn07
+DEADLINE: <2020-11-02 Mon>
+**** ABANDONED Assn08
+*** ECOL1000 [100%]
+**** DONE ECOL HW10
+DEADLINE: <2020-11-04 Wed>
+**** DONE LC 5.2
+DEADLINE: <2020-11-02 Mon>
+**** DONE LC 5.3
+DEADLINE: <2020-11-02 Mon>
+**** DONE LC 6.1
+DEADLINE: <2020-11-04 Wed>
+**** DONE LC 6.2
+DEADLINE: <2020-11-04 Wed>
+**** DONE iClicker 9
+DEADLINE: <2020-11-09 Mon>
+**** DONE ECOL Extra Credit
+    DEADLINE: <2020-11-04 Wed>
+*** ECOL1000L [100%]
+*** ECON2106 [100%]
+**** DONE ECON Exam 2
+SCHEDULED: <2020-11-05 Thu 11:10>
+**** DONE ECON Practice Test
+    DEADLINE: <2020-11-05 Thu>
+*** INTL3300 [100%]
+**** ABANDONED INTL V1-4
+CLOSED: [2021-01-27 Wed 10:20]
+- [ ] V1
+- [ ] V2
+- [ ] V3
+- [ ] V4
+**** DONE INTL Discussion Post
+DEADLINE: <2020-11-02 Mon>
+*** INTL4970 [100%]
+**** ABANDONED Email Librarians
+CLOSED: [2021-01-27 Wed 10:20]
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+** Orgs
+*** MUN [100%]
+**** MIGRATED LaTeX Conversions
+DEADLINE: <2020-11-08 Sun>
+**** DONE MUN Meeting
+SCHEDULED: <2020-11-03 Tue 19:40>
+*** Finch [100%]
+**** MIGRATED Web Redesign
+*** UGAHacks [100%]
+**** DONE Sponsorship Meeting 9
+SCHEDULED: <2020-11-06 Fri 19:00>
+**** DONE RHA Meeting 2
+SCHEDULED: <2020-11-03 Tue 19:30>
+*** FRC [100%]
+**** ABANDONED Cookie Night
+SCHEDULED: <2020-11-08 Sun 18:00>
+**** DONE Mindfulness Hour
+SCHEDULED: <2020-11-05 Thu 18:00>
+**** DONE CAPS Presentation
+SCHEDULED: <2020-11-04 Wed 16:00>
+** Tutoring
+*** MIGRATED Payment[7/7]
+**** MIGRATED Noah
+**** MIGRATED Tom
+**** DONE Mebin
+**** MIGRATED Allen
+**** MIGRATED Uday
+**** MIGRATED Sam
+**** MIGRATED Antony
+*** DONE Debate 1
+*** DONE Debate 2
+*** DONE Mebin
+SCHEDULED: <2020-11-05 Thu 15:00>
+*** DONE Tom
+SCHEDULED: <2020-11-05 Thu 14:00>
+*** DONE Noah
+SCHEDULED: <2020-11-04 Wed 17:30>
+
+* 10.26.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** MIGRATED M19-25
+**** MIGRATED Ch9-12
+**** MIGRATED Assn07
+**** DONE RQ1-2
+     DEADLINE: <2020-11-01 Sun>
+*** ECOL1000 [100%]
+**** MIGRATED Extra Credit Film
+**** DONE iClicker 8
+     DEADLINE: <2020-10-30 Fri>
+**** DONE Sapling 5.3
+     DEADLINE: <2020-10-28 Wed>
+**** DONE ECOL HW 8
+     DEADLINE: <2020-10-28 Wed>
+*** ECOL1000L [100%]
+**** DONE Population Growth Assignment
+     DEADLINE: <2020-10-28 Wed>
+*** ECON2106 [100%]
+**** DONE Econ V1-6
+**** DONE Econ Review 2
+     SCHEDULED: <2020-10-29 Thu 11:10>
+**** DONE Econ HW 13
+     DEADLINE: <2020-11-01 Sun>
+*** INTL3300 [100%]
+**** MIGRATED INTL V1-2
+**** MIGRATED Discussion Post
+**** DONE Nigeria Quiz
+     DEADLINE: <2020-10-26 Mon>
+*** INTL4970 [100%]
+**** DONE Database Meeting
+     SCHEDULED: <2020-10-29 Thu 16:00>
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+**** DONE Midterm
+*** CLAS1010H [100%]
+**** DONE Notify about absences
+**** DONE Email Kelly - Payment
+**** DONE Call HR
+**** DONE Complete Job Posting
+** Orgs
+*** MUN [100%]
+**** ABANDONED 7 PM Sec Meeting
+**** DONE Headshot Pref form
+*** Finch [100%]
+**** MIGRATED Web Redesign
+CLOSED: [2021-01-27 Wed 10:20]
+*** UGAHacks [100%]
+**** DONE SGA Form
+**** DONE Email SGA Rep
+**** DONE Instagram Takeover Video
+*** Misc [100%]
+**** ABANDONED NCUR Email
+**** DONE CogSci Meeting 1
+     SCHEDULED: <2020-10-28 Wed 18:00>
+** Tutoring [100%]
+*** DONE Noah
+    SCHEDULED: <2020-10-30 Fri 18:15>
+*** ABANDONED Noah 2
+    SCHEDULED: <2020-10-29 Thu 10:00>
+*** DONE Tom
+*** DONE Mebin
+*** DONE Debate 1
+*** DONE Debate 2
+
+* 10.19.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** MIGRATED Ch 9-11
+**** DONE Mod 17-19
+**** DONE Assn06
+     DEADLINE: <2020-10-26 Mon>
+*** ECOL1000 [100%]
+**** DONE Sapling 4.3
+     DEADLINE: <2020-10-24 Sat>
+*** ECOL1000L [100%]
+**** DONE Consumer Assignment
+     DEADLINE: <2020-10-21 Wed>
+*** ECON2106 [100%]
+**** DONE Econ V1-10
+- [X] V1-5
+- [X] V6-10
+**** DONE HW 12
+*** INTL3300 [100%]
+**** DONE Country Presentation
+**** DONE INTL V1-2
+*** INTL4970 [100%]
+**** DONE Email Follow-up
+**** DONE Email Data Contact
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+**** DONE Email Follow-up
+*** CLAS1010H [100%]
+** Orgs
+*** MUN [100%]
+**** DONE MUN Meeting
+     SCHEDULED: <2020-10-20 Tue 20:00>
+     - Weather Friday
+     - Internet Saturday
+     - BG Commenting via Gdocs, Website
+**** DONE BG Draft 1
+     DEADLINE: <2020-10-20 Tue 20:00>
+*** Finch [100%]
+**** MIGRATED Website Redesign
+*** UGAHacks [100%]
+**** DONE RHA Meeting Contact
+*** Misc
+**** DONE CGI Application
+     DEADLINE: <2020-10-25 Sun>
+** Tutoring
+*** DONE Noah
+    SCHEDULED: <2020-10-21 Wed 15:30>
+*** DONE Tom
+SCHEDULED: <2020-10-23 Fri 11:30>
+*** DONE Mebin
+SCHEDULED: <2020-10-22 Thu 15:00>
+*** DONE Debate 1
+*** ABANDONED Debate 2
+
+* 10.11.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Assn05
+DEADLINE: <2020-10-18 Sun>
+**** ABANDONED Modules 17-19
+*** ECOL1000 [100%]
+**** DONE Sapling Module
+DEADLINE: <2020-10-14 Wed>
+**** DONE Ecol HW 7
+DEADLINE: <2020-10-16 Fri>
+**** DONE iClicker 6
+DEADLINE: <2020-10-13 Tue>
+**** DONE iClicker 7
+DEADLINE: <2020-10-16 Fri>
+**** DONE Ecol Study Guide
+DEADLINE: <2020-10-16 Fri>
+*** ECOL1000L [100%]
+**** DONE Food Impacts Assignment
+SCHEDULED: <2020-10-14 Wed>
+*** ECON2106 [100%]
+**** DONE Econ V1-5
+- [X] V1
+- [X] V2
+- [X] V3
+- [X] V4
+- [X] V5
+**** DONE Econ HW 11
+*** INTL3300 [100%]
+**** ABANDONED Film Viewing
+DEADLINE: <2020-10-14 Wed>
+**** DONE Journal Reflection 3
+*** INTL4970 [100%]
+**** DONE Email Response
+*** MATH4670 [100%]
+**** DONE Iliev Meeting
+SCHEDULED: <2020-10-17 Sat 15:00>
+*** MATH4950 [100%]
+*** CLAS1010H [100%]
+**** DONE Preferences Quiz
+** Orgs
+*** MUN [100%]
+**** DONE MUN Meeting
+SCHEDULED: <2020-10-16 Fri 20:00>
+**** DONE Meeting w Alexa
+SCHEDULED: <2020-10-18 Sun 15:00>
+**** DONE BG Meeting 2
+SCHEDULED: <2020-10-19 Mon 19:00>
+*** Finch [100%]
+**** MIGRATED Website Redesign
+*** UGAHacks [100%]
+**** DONE 1-1 Jeffery Meeting
+SCHEDULED: <2020-10-11 Sun 16:15>
+**** DONE Email RHA Rep
+DEADLINE: <2020-10-12 Mon>
+**** DONE RHA Allocations Form
+*** Misc [100%]
+**** DONE Advising Appointment
+***** DONE CS
+SCHEDULED: <2020-10-16 Fri 10:00>
+***** DONE IA
+SCHEDULED: <2020-10-15 Thu 13:00>
+**** MIGRATED CGI Application
+DEADLINE: <2020-10-18 Sun>
+** Tutoring
+*** DONE Noah
+SCHEDULED: <2020-10-16 Fri 16:00>
+*** DONE Tom
+SCHEDULED: <2020-10-17 Sat 12:30>
+*** ABANDONED Mebin
+*** DONE Debate 1
+SCHEDULED: <2020-10-12 Mon 11:00>
+*** DONE Debate 2
+SCHEDULED: <2020-10-16 Fri 15:00>
+*** ABANDONED Debate 3
+
+* 10.05.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Module 13-16
+**** DONE Assn04
+DEADLINE: <2020-10-09 Fri>
+*** ECOL1000 [100%]
+**** DONE Sapling 3.1
+     DEADLINE: <2020-10-05 Mon>
+**** DONE Email Incorrect Grade
+*** ECOL1000L [100%]
+**** DONE Stream Lab
+     SCHEDULED: <2020-10-09 Fri>
+**** DONE Data Check 1
+     DEADLINE: <2020-10-07 Wed>
+*** ECON2106 [100%]
+**** DONE V1-6
+- [X] V1
+- [X] V2
+- [X] V3
+- [X] V4
+- [X] V5
+- [X] V6
+**** DONE Econ HW6
+*** INTL3300 [100%]
+**** DONE Lectures 1-2
+**** DONE INTL Quiz 5
+     DEADLINE: <2020-10-09 Fri>
+**** DONE Flipgrid 4
+     DEADLINE: <2020-10-09 Fri>
+*** INTL4970 [100%]
+**** DONE Theory Follow-upt
+     DEADLINE: <2020-10-05 Mon>
+*** MATH4670 [100%]
+*** MATH4950 [100%]
+*** FYOS1000 [100%]
+**** DONE FYO Seminar
+     SCHEDULED: <2020-10-06 Tue 11:10>
+** Orgs
+*** MUN [100%]
+**** DONE Headshot Form
+**** DONE MUN Meeting
+     SCHEDULED: <2020-10-07 Wed 20:00>
+*** Finch [100%]
+**** MIGRATED Website Redesign
+DEADLINE: <2020-10-18 Sun>
+*** UGAHacks [100%]
+**** DONE Career Fair Follow-ups
+     DEADLINE: <2020-10-05 Mon>
+*** Misc [100%]
+**** DONE Ramsey Reward Pickup
+     SCHEDULED: <2020-10-08 Thu 13:00>
+**** MIGRATED Advising appointment
+** Tutoring [100%]
+*** DONE Noah
+    SCHEDULED: <2020-10-07 Wed 10:30>
+*** DONE Tom
+SCHEDULED: <2020-10-08 Thu 12:45>
+*** DONE Mebin
+*** DONE Debate 1
+    SCHEDULED: <2020-10-09 Fri 15:00>
+*** MIGRATED Debate 2
+    SCHEDULED: <2020-10-10 Sat 10:00>
+
+* 09.28.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE CS Exam 1
+     SCHEDULED: <2020-09-29 Tue>
+**** ABANDONED Assn04
+     DEADLINE: <2020-10-02 Fri>
+*** ECOL1000 [100%]
+**** DONE iClicker Assignment
+     DEADLINE: <2020-09-30 Wed>
+**** DONE Ecol HW 05
+     DEADLINE: <2020-10-02 Fri>
+*** ECOL1000L [100%]
+**** DONE Data Lab
+     SCHEDULED: <2020-09-30 Wed>
+*** ECON2106 [100%]
+**** DONE Econ Exam 1
+     DEADLINE: <2020-10-01 Thu>
+*** INTL3300 [100%]
+**** DONE Journal Reflection 3
+     DEADLINE: <2020-10-04 Sun>
+**** DONE INTL V1-2
+*** INTL4970
+*** MATH4670 [100%]
+**** DONE Class
+**** DONE Review Follow-up
+*** MATH4950
+*** FYOS1000 [100%]
+**** DONE Email Norman
+** Orgs
+*** MUN [100%]
+**** DONE MUN Meeting
+     SCHEDULED: <2020-09-29 Tue 19:40>
+*** Finch [100%]
+**** DONE Headshots
+     SCHEDULED: <2020-10-01 Thu 17:00>
+*** UGAHacks [100%]
+**** DONE Update Handshake
+     DEADLINE: <2020-10-02 Fri>
+**** DONE Career Fair
+     SCHEDULED: <2020-09-30 Wed>
+**** DONE CS Career Fair
+     DEADLINE: <2020-09-29 Tue
+*** TEDxUGA [100%]
+**** DONE TEDx Application
+     DEADLINE: <2020-09-30 Wed>
+** Tutoring [100%]
+*** ABANDONED Noah
+*** DONE Tom
+    SCHEDULED: <2020-10-01 Thu 12:45>
+*** DONE Mebin
+    SCHEDULED: <2020-09-30 Wed 15:00>
+*** DONE Debate 1
+    SCHEDULED: <2020-10-02 Fri 15:00>
+*** DONE Debate 2
+    SCHEDULED: <2020-10-03 Sat 10:00>
+
+* 09.21.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Assn03
+     DEADLINE: <2020-09-25 Fri>
+**** ABANDONED Dietel Readings
+**** MIGRATED Exam Review
+*** ECOL1000 [100%]
+**** DONE Exam Study Guide
+**** DONE Exam 1
+     DEADLINE: <2020-09-23 Wed>
+*** ECOL1000L [100%]
+**** DONE SimBio Lab
+     DEADLINE: <2020-09-23 Wed>
+*** ECON2106 [100%]
+**** DONE Econ V1-4
+**** DONE Econ V4-8
+**** DONE Econ HW5
+     DEADLINE: <2020-09-25 Fri>
+**** DONE Econ Practice Test
+     DEADLINE: <2020-09-24 Thu 11:10>
+**** DONE Econ Class Review
+     SCHEDULED: <2020-09-24 Thu 11:10>
+*** INTL3300 [100%]
+**** DONE INTL Quiz 4
+     DEADLINE: <2020-09-26 Sat>
+**** ABANDONED Discussion Board #2
+     DEADLINE: <2020-09-25 Fri>
+**** DONE INTL V1-2
+**** DONE Case Study Signup
+     DEADLINE: <2020-09-27 Sun>
+*** INTL4970 [100%]
+**** DONE Theory Section
+     DEADLINE: <2020-09-27 Sun>
+*** MATH4670 [100%]
+**** DONE Weekly Meeting Time
+*** MATH4950 [100%]
+**** ABANDONED
+*** FYOS1000 [100%]
+**** DONE Check-ins
+     DEADLINE: <2020-09-22 Tue>
+**** DONE PLaTO Course
+     DEADLINE: <2020-09-26 Sat>
+** Orgs
+*** MUN [100%]
+**** DONE Socials Master
+     DEADLINE: <2020-09-22 Tue 20:00>
+**** DONE Background Guide
+     DEADLINE: <2020-09-22 Tue 20:00>
+**** DONE Meeting 2
+     SCHEDULED: <2020-09-22 Tue 19:30>
+*** Finch [100%]
+**** ABANDONED Recap Video
+*** UGAHacks [100%]
+**** DONE Carson Email
+**** DONE General Emails
+**** DONE Headshots
+     SCHEDULED: <2020-09-23 Wed 17:00>
+*** TEDxUGA [100%]
+**** MIGRATED TEDx Application
+     DEADLINE: <2020-09-30 Wed>
+*** Honors [100%]
+**** DONE FFR Email
+     DEADLINE: <2020-09-25 Fri>
+** Tutoring
+*** DONE Noah
+    SCHEDULED: <2020-09-22 Tue 18:00>
+*** ABANDONED Tom
+*** DONE Mebin
+    SCHEDULED: <2020-09-25 Fri 15:00>
+*** ABANDONED Debate 1
+*** ABANDONED Debate 2
+
+* 09.14.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Assn002
+DEADLINE: <2020-09-18 Fri>
+**** DONE Module 9
+**** DONE Module 10
+**** MIGRATED Dietel Readings
+*** ECOL1000 [100%]
+**** DONE Sapling 6.3
+     DEADLINE: <2020-09-18 Fri>
+**** DONE iClicker 1
+     DEADLINE: <2020-09-18 Fri>
+**** DONE iClicker 2
+     DEADLINE: <2020-09-21 Mon>
+**** DONE ECOL HW4
+     DEADLINE: <2020-09-19 Sat>
+*** ECOL1000L [100%]
+**** DONE Lifestyle Project Template
+     DEADLINE: <2020-09-17 Thu 08:00>
+**** DONE SimBio Work
+     DEADLINE: <2020-09-17 Thu 08:00>
+*** ECON2106 [100%]
+**** DONE V1-V3
+- [X] V1
+- [X] V2
+- [X] V3
+**** DONE V4-V6
+- [X] V4
+- [X] V5
+- [X] V6
+**** DONE Econ HW4
+     DEADLINE: <2020-09-18 Fri>
+*** INTL3300 [100%]
+**** DONE INTL Lecture 1
+**** DONE INTL Lecture 2
+**** DONE INTL Reading
+**** ABANDONED INTL Documentary
+**** DONE Journal Reflection 2
+     DEADLINE: <2020-09-18 Fri>
+*** INTL4970 [100%]
+**** DONE Saglam Meeting
+     SCHEDULED: <2020-09-18 Fri 11:30>
+*** MATH4670 [100%]
+**** DONE Class 1
+     SCHEDULED: <2020-09-14 Mon 13:50>
+**** DONE Make-up meeting
+*** MATH4950 [100%]
+**** DONE Email participants
+*** FYOS1000 [100%]
+**** DONE Edit Speech 1
+     DEADLINE: <2020-09-14 Mon 12:00>
+**** DONE Edit Speech 2
+**** DONE Edit Speech 3
+** Orgs
+*** MUN [100%]
+**** DONE MUN Meeting 1
+     SCHEDULED: <2020-09-15 Tue 19:30>
+**** DONE MUN Insta Story
+**** MIGRATED MUN Socials Master
+*** Finch [100%]
+**** DONE Finch Recap 2
+**** DONE Sneak Peek V.2 Design
+*** UGAHacks [100%]
+**** MIGRATED Initial Emails
+**** MIGRATED SGA Sponsorship Form
+*** TEDxUGA [100%]
+**** MIGRATED Application
+*** Honors [100%]
+**** MIGRATED FFR Email
+** Tutoring
+*** DONE Noah
+     SCHEDULED: <2020-09-16 Wed 15:30>
+*** DONE Tom
+     SCHEDULED: <2020-09-17 Thu 13:00>
+*** DONE Mebin
+     SCHEDULED: <2020-09-17 Thu 15:00>
+*** DONE Debate 1
+     SCHEDULED: <2020-09-18 Fri 15:00>
+*** DONE Debate 2
+
+* 09.07.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** MIGRATED Dietel 22.1—22.5
+- [ ] 22.1
+- [ ] 22.2
+- [ ] 22.3
+- [ ] 22.4
+- [ ] 22.5
+**** DONE Lab 02
+     SCHEDULED: <2020-09-08 Tue 09:35>
+**** DONE Module 8
+**** MIGRATED Module 9
+*** ECOL1000 [100%]
+**** DONE HW3
+     DEADLINE: <2020-09-11 Fri>
+**** ABANDONED ECOL 10.2
+**** DONE Sapling 10.2
+     DEADLINE: <2020-09-09 Wed>
+**** DONE TEDxEcol
+**** DONE iClicker
+     DEADLINE: <2020-09-11 Fri>
+*** ECOL1000L [100%]
+**** DONE Lifestyle Proposal
+     DEADLINE: <2020-09-09 Wed>
+**** DONE ECOL Lab 02
+     DEADLINE: <2020-09-09 Wed>
+*** ECON2106 [100%]
+**** DONE Homework 3
+     DEADLINE: <2020-09-11 Fri>
+**** DONE ECON Videos
+- [X] V1
+- [X] V2
+- [X] V3
+*** INTL3300 [100%]
+**** DONE Quiz 2
+     DEADLINE: <2020-09-08 Tue>
+**** DONE INTL Videos
+- [X] V1
+- [X] V2
+**** DONE Quiz 3
+**** DONE Flipgrid 2
+*** INTL4970 [100%]
+**** DONE Theory Section
+     DEADLINE: <2020-09-11 Fri>
+*** MATH4670
+*** MATH4950
+** Orgs
+*** MUN
+*** DONE Info Session 2
+    SCHEDULED: <2020-09-08 Tue 20:00>
+*** DONE Simulation
+    SCHEDULED: <2020-09-09 Wed 20:00>
+*** DONE Group Interview
+    SCHEDULED: <2020-09-11 Fri>
+*** Finch
+*** Debate
+**** DONE UK Judging
+    SCHEDULED: <2020-09-12 Sat 09:30>
+** Tutoring
+*** DONE Noah
+*** DONE Tom
+*** DONE Mebin
+*** DONE Debate 1
+    SCHEDULED: <2020-09-11 Fri 15:00>
+*** DONE Debate 2
+    SCHEDULED: <2020-09-12 Sat 10:00>
+** Email
+*** ABANDONED Schneider, Updates
+
+* 08.30.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Module 3 Video
+**** DONE Lab 01
+     SCHEDULED: <2020-09-01 Tue 09:35>
+**** DONE Module 4-6
+**** DONE Module 7-8c
+     DEADLINE: <2020-09-08 Tue>
+*** ECOL1000 [100%]
+**** DONE iCliker Reef Questions 1
+     DEADLINE: <2020-09-02 Wed>
+**** DONE ECOLHW1
+     DEADLINE: <2020-09-01 Tue>
+**** DONE ECOL1.3
+     DEADLINE: <2020-09-04 Fri>
+**** DONE ECOL4.2
+     DEADLINE: <2020-09-04 Fri>
+**** DONE ECOL10.1
+     DEADLINE: <2020-09-04 Fri>
+**** DONE ECOLHW2
+     DEADLINE: <2020-09-04 Fri>
+*** ECOL1000L [100%]
+**** DONE Intro Discussion
+**** DONE Lifestyle Quiz
+**** MIGRATED Lifestyle Proposal
+*** ECON2106 [100%]
+**** DONE Ch2 Homework
+     DEADLINE: <2020-09-04 Fri>
+**** DONE V1 - V5
+**** DONE V5 - V9
+*** INTL3300 [100%]
+**** DONE INTLV1
+**** DONE INTLV2
+**** DONE INTL Discussion 1
+     DEADLINE: <2020-09-08 Tue>
+*** INTL4970 [100%]
+**** MIGRATED Research Question & Theory Section
+*** MATH4670 [100%]
+**** DONE Meeting 1
+     SCHEDULED: <2020-09-02 Wed 13:55>
+*** MATH4950 [100%]
+**** DONE Scheneider Follow-up
+** Orgs
+*** MUN
+**** DONE [[~/Workflow/mun/munRecruitment.org][MUN Tryout Info]]
+**** DONE SPIA Involvement Fair
+     SCHEDULED: <2020-09-03 Thu 19:00>
+*** Finch
+**** DONE Brand Guideline Completion
+     DEADLINE: <2020-09-04 Fri>
+** Tutoring [100%]
+**** DONE Tom
+     SCHEDULED: <2020-09-02 Wed 15:00>
+**** DONE Mebin
+**** ABANDONED Noah
+     SCHEDULED: <2020-09-03 Thu 15:30>
+**** DONE Debate 1
+**** DONE Debate 2
+** Email
+*** DONE Iliev, COVID
+*** DONE White, COVID
+*** DONE Saglam, COVID
+
+* 08.23.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Reading 1
+     DEADLINE: <2020-08-25 Tue 9:00>
+**** DONE Reading 2
+     DEADLINE: <2020-08-27 Thu 09:00>
+**** DONE Module 0 Video
+**** DONE Module 1 Video
+**** DONE Module 2 Video
+*** ECOL1000 [100%]
+**** DONE ECOL1.1
+**** DONE ECOL1.2
+     DEADLINE: <2020-08-28 Fri>
+**** DONE ECOL2.2
+     DEADLINE: <2020-08-31 Mon>
+**** DONE ECOL4.1
+     DEADLINE: <2020-08-31 Mon>
+**** MIGRATED Homework 1
+**** MIGRATED iClicker Reef Assignment
+*** ECOL1000L [100%]
+**** DONE ECOL Syllabus Quiz
+**** MIGRATED ECOL Discussion Intro
+**** MIGRATED Lifestyle Activity Assessment
+**** MIGRATED Lifestyle Activity Quiz
+**** DONE iClicker Reef Questions
+     DEADLINE: <2020-08-28 Fri>
+*** ECON2106 [100%]
+**** DONE V1
+**** DONE V2
+**** DONE V3
+**** DONE V4
+**** DONE V5
+**** DONE V6
+**** DONE HW1
+     DEADLINE: <2020-08-28 Fri>
+*** INTL3300 [100%]
+**** DONE Module 1 [100%]
+ DEADLINE: <2020-08-26 Wed>
+- [X] Lecture 1
+- [X] Lecture 2
+- [X] Reading 1
+- [X] INTL Quiz 1
+- [X] Discussion 1
+**** DONE Module 2 [100%]
+     SCHEDULED: <2020-08-30 Sun>
+- [X] M2V1
+- [X] M2V2
+- [X] M2V3
+- [X] M2R1
+- [X] M2R2
+- [X] M2R3
+- [X] Journal 1
+- [X] FlipGrid 1
+*** INTL4970 [100%]
+**** DONE 4970R Follow-up
+    SCHEDULED: <2020-08-24 Mon 17:00>
+**** DONE Saglam Update
+     SCHEDULED: <2020-08-25 Tue 17:00>
+*** MATH4670 [100%]
+**** DONE Math Zoom Class
+     SCHEDULED: <2020-08-24 Mon 13:50-14:- ->
+*** MATH4950 [100%]
+**** DONE Registration
+** Orgs
+*** MUN [100%]
+**** DONE MUN Meeting
+     SCHEDULED: <2020-08-25 Tue 20:00>
+**** MIGRATED [[~/workflow/mun/munTryoutNotes.org][MUN Tryout Info]]
+*** FRC [100%]
+**** DONE Welcome Meeting
+     SCHEDULED: <2020-08-27 Thu 19:00>
+*** UGAHacks [100%]
+**** DONE UGAHacks dates/times for presentation
+** Tutoring [100%]
+*** DONE Tom
+    SCHEDULED: <2020-08-26 Wed 11:15>
+*** DONE Mebin
+    SCHEDULED: <2020-08-25 Tue 16:00>
+*** DONE Noah 1
+    SCHEDULED: <2020-08-24 Mon 15:30>
+*** DONE Noah 2
+    SCHEDULED: <2020-08-27 Thu 15:30>
+*** DONE Debate
+    SCHEDULED: <2020-08-28 Fri 15:00>
+*** DONE Debate 2
+    SCHEDULED: <2020-08-28 Fri 16:00>
+** Email [100%]
+*** DONE Norman, PLA
+    DEADLINE: <2020-08-23 Sun 17:00>
+
+* 08.19.20
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [100%]
+**** DONE Done Class Rotation
+**** DONE Done Nike Password
+*** ECOL1000 [100%]
+**** DONE Ecology Zoom Class
+     SCHEDULED: <2020-08-21 Fri 12:40>
+**** DONE Sapling Registration
+**** DONE iClicker Reef Registration
+**** DONE Syllabus Quiz
+*** ECON2106 [100%]
+**** DONE MyEconLab Registration
+**** DONE Practice Assignment
+     DEADLINE: <2020-08-21 Fri>
+*** INTL3300 [100%]
+**** MIGRATED Module 1 [0%]
+     DEADLINE: <2020-08-26 Wed>
+- [ ] Lecture 1
+- [ ] Lecture 2
+- [ ] Reading 1
+- [ ] INTL Quiz 1
+- [ ] Discussion 1
+**** DONE Class Meeting
+     SCHEDULED: <2020-08-21 Fri 13:55>
+**** DONE Email Online-only
+*** INTL4970 [100%]
+**** DONE Submit Course App
+     DEADLINE: <2020-08-24 Mon>
+*** MATH-L
+** Orgs
+*** MUN [100%]
+**** DONE MUN Meaning Story
+**** ABANDONED First Day Story
+**** DONE Instagram Post
+**** DONE Try-out Meeting
+     SCHEDULED: <2020-08-22 Sat 14:00>
+**** MIGRATED [[~/workflow/munTryoutNotes.org][MUN Tryout Info]]
+*** UGAHacks
+*** FRC [100%]
+**** ABANDONED Director Meeting
+     DEADLINE: <2020-08-21 Fri>
+*** Finch [100%]
+**** DONE COVID Interview
+     SCHEDULED: <2020-08-21 Fri 17:00>
+** Tutoring [100%]
+*** DONE Debate 1
+    SCHEDULED: <2020-08-21 Fri 15:00>
+*** DONE Debate 2
+    SCHEDULED: <2020-08-21 Fri 16:00>
+*** DONE Brian
+    DEADLINE: <2020-08-20 Thu>
+*** DONE Noah
+    DEADLINE: <2020-08-19 Wed>
+*** DONE Mebin
+    DEADLINE: <2020-08-19 Wed>
+*** DONE Tom
+    DEADLINE: <2020-08-19 Wed>
+** Email [100%]
+*** DONE Schneider, Math in Outer Space
+    DEADLINE: <2020-08-21 Fri>
+*** DONE Iliev, Combinatorics
+    DEADLINE: <2020-08-21 Fri>
+
+*** MIGRATED Norman, PLA
+
+* Template Sprint 2021
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI2720 [%]
+*** CSCI2670 [%]
+*** INTL4440 [%]
+*** INTL4710 [%]
+*** INTL4260 [%]
+** Orgs
+*** MUN [%]
+*** Finch [%]
+*** UGAHacks [%]
+*** FRC [%]
+** Tutoring
+*** Noah
+*** Tom
+*** Mebin
+*** Debate 1
+*** Debate 2
+
+* Template Fall 2020
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-30 Sat 10:35
+:ARCHIVE_FILE: ~/workflow/master.org
+:ARCHIVE_CATEGORY: master
+:END:
+** School
+*** CSCI1730 [%]
+*** ECOL1000 [%]
+*** ECOL1000L [%]
+*** ECON2106 [%]
+*** INTL3300 [%]
+*** INTL4970 [%]
+*** MATH4670 [%]
+*** MATH4950 [%]
+*** FYOS1000 [%]
+** Orgs
+*** MUN [%]
+*** Finch [%]
+*** UGAHacks [%]
+*** TEDxUGA [%]
+*** Honors [%]
+** Tutoring
+*** Noah
+*** Tom
+*** Mebin
+*** Debate 1
+*** Debate 2
+
