@@ -3,8 +3,8 @@
 *** TODO Exp Section
 *** TODO Achievements Section
 *** TODO Short Essay Prompts
-*** TODO Course Catalogs
-*** TODO Score Sends
+*** IN-PROGRESS Course Catalogs
+*** IN-PROGRESS Score Sends
 **** TODO AP
 **** TODO ACT
 **** DONE Transcript
@@ -13,15 +13,15 @@ CLOSED: [2021-02-02 Tue 12:49]
 *** WAITING Rec 1
 ** School
 *** CSCI2720 [0%]
-**** TODO Assn01
+**** IN-PROGRESS Assn01
 DEADLINE: <2021-02-03 Wed>
 **** WAITING Quiz01
 SCHEDULED: <2021-02-04 Thu>
-*** CSCI2670 [0%]
+*** CSCI2670 [50%]
 **** TODO HW2
 DEADLINE: <2021-02-05 Fri>
-**** IN-PROGRESS CW2
-DEADLINE: <2021-02-02 Tue>
+**** DONE CW2
+CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
 *** INTL4440 [0%]
 **** TODO Anton
 **** TODO Duczynski
@@ -36,9 +36,9 @@ DEADLINE: <2021-02-02 Tue>
 DEADLINE: <2021-02-09 Tue>
 
 ** Orgs
-*** MUN [0%]
-**** TODO Headshot + Bio Activation
-DEADLINE: <2021-02-02 Tue>
+*** MUN [100%]
+**** DONE Headshot + Bio Activation
+CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
 *** Finch [33%]
 **** TODO Audio Editing
 DEADLINE: <2021-02-04 Thu>
@@ -49,9 +49,10 @@ DEADLINE: <2021-02-04 Thu>
 *** FRC [100%]
 ** Tutoring
 *** TODO Noah
-*** TODO Mebin
 *** TODO Debate 1
 *** TODO Debate 2
+*** DONE Mebin
+CLOSED: [2021-02-03 Wed 10:25] SCHEDULED: <2021-02-02 Tue 16:00>
 *** DONE Tom
 CLOSED: [2021-02-02 Tue 11:22]
 *** Payment [12%]

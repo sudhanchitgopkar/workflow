@@ -1,24 +1,22 @@
 10 days-agenda (W04-W06):
-Saturday   30 January 2021
 Sunday     31 January 2021
   master:     Scheduled:  ABANDONED Tom
   master:     Deadline:   DONE Research Design Section
 Monday      1 February 2021 W05
   master:     Deadline:   DONE Paper 1
 Tuesday     2 February 2021
-  master:     Deadline:   IN-PROGRESS CW2
-  master:     Deadline:   TODO Headshot + Bio Activation
-  master:     In   1 d.:  TODO Assn01
-  master:     In   1 d.:  WAITING Assn01
-  master:     In   2 d.:  TODO Audio Editing
-  master:     In   2 d.:  TODO AfterDark Intro
-  master:     In   3 d.:  TODO HW2
-  master:     In   3 d.:  TODO HW01
-  master:     In   7 d.:  TODO Mod1 Work Quiz
-  master:     In  14 d.:  TODO SPIA URC App
+  master:     16:00...... Scheduled:  DONE Mebin
+  master:     Deadline:   DONE CW2
+  master:     Deadline:   DONE Headshot + Bio Activation
 Wednesday   3 February 2021
-  master:     Deadline:   TODO Assn01
+  master:     Deadline:   IN-PROGRESS Assn01
   master:     Deadline:   WAITING Assn01
+  master:     In   1 d.:  TODO Audio Editing
+  master:     In   1 d.:  TODO AfterDark Intro
+  master:     In   2 d.:  TODO HW2
+  master:     In   2 d.:  TODO HW01
+  master:     In   6 d.:  TODO Mod1 Work Quiz
+  master:     In  13 d.:  TODO SPIA URC App
 Thursday    4 February 2021
   master:     Scheduled:  WAITING Quiz01
   master:     Scheduled:  WAITING Quiz01
@@ -30,3 +28,5 @@ Friday      5 February 2021
 Saturday    6 February 2021
 Sunday      7 February 2021
 Monday      8 February 2021 W06
+Tuesday     9 February 2021
+  master:     Deadline:   TODO Mod1 Work Quiz
