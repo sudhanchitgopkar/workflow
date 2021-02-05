@@ -12,13 +12,13 @@ CLOSED: [2021-02-02 Tue 12:49]
 *** WAITING College Report
 *** WAITING Rec 1
 ** School
-*** CSCI2720 [0%]
-**** IN-PROGRESS Assn01
-DEADLINE: <2021-02-03 Wed>
-**** WAITING Quiz01
-SCHEDULED: <2021-02-04 Thu>
+*** CSCI2720 [100%]
+**** DONE Assn01
+CLOSED: [2021-02-04 Thu 01:43] DEADLINE: <2021-02-03 Wed>
+**** DONE Quiz01
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu>
 *** CSCI2670 [50%]
-**** TODO HW2
+**** IN-PROGRESS HW2
 DEADLINE: <2021-02-05 Fri>
 **** DONE CW2
 CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
@@ -39,13 +39,16 @@ DEADLINE: <2021-02-09 Tue>
 *** MUN [100%]
 **** DONE Headshot + Bio Activation
 CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
-*** Finch [33%]
-**** TODO Audio Editing
-DEADLINE: <2021-02-04 Thu>
-**** TODO AfterDark Intro
-DEADLINE: <2021-02-04 Thu>
-*** UGAHacks [0%]
-**** TODO Hacker Workshop
+*** Finch [100%]
+**** DONE Audio Editing
+CLOSED: [2021-02-04 Thu 23:18] DEADLINE: <2021-02-04 Thu>
+**** DONE AfterDark Intro
+CLOSED: [2021-02-04 Thu 23:18] DEADLINE: <2021-02-04 Thu>
+*** UGAHacks [100%]
+**** DONE Hacker Workshop Meeting
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:30>
+**** DONE Final Town Hall
+CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:00>
 *** FRC [100%]
 ** Tutoring
 *** TODO Noah
