@@ -5,8 +5,9 @@
 *** TODO Short Essay Prompts
 *** IN-PROGRESS Course Catalogs
 *** IN-PROGRESS Score Sends
-**** TODO AP
 **** TODO ACT
+**** ABANDONED AP
+CLOSED: [2021-02-08 Mon 10:20]
 **** DONE Transcript
 CLOSED: [2021-02-02 Tue 12:49]
 *** WAITING College Report
@@ -14,12 +15,11 @@ CLOSED: [2021-02-02 Tue 12:49]
 ** School
 *** CSCI2720 [100%]
 **** DONE Assn01
-CLOSED: [2021-02-04 Thu 01:43] DEADLINE: <2021-02-03 Wed>
 **** DONE Quiz01
 CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu>
-*** CSCI2670 [50%]
-**** IN-PROGRESS HW2
-DEADLINE: <2021-02-05 Fri>
+*** CSCI2670 [100%]
+**** DONE HW1
+CLOSED: [2021-02-08 Mon 10:20] DEADLINE: <2021-02-05 Fri>
 **** DONE CW2
 CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
 *** INTL4440 [0%]
@@ -27,14 +27,19 @@ CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
 **** TODO Duczynski
 **** TODO Sallot
 **** TODO McDowell
-*** INTL4260 [0%]
-**** TODO Jervis
-**** TODO Werner
-**** TODO Camerer
-*** INTL4710 [0%]
-**** TODO Mod1 Work Quiz
-DEADLINE: <2021-02-09 Tue>
-
+*** INTL4260 [100%]
+**** DONE Jervis
+CLOSED: [2021-02-09 Tue 11:23]
+**** DONE Werner
+CLOSED: [2021-02-09 Tue 11:23]
+**** DONE Camerer
+CLOSED: [2021-02-09 Tue 11:23]
+*** INTL4710 [100%]
+**** DONE Mod1 Work Quiz
+CLOSED: [2021-02-09 Tue 11:27] DEADLINE: <2021-02-09 Tue>
+*** Research
+**** TODO SPIA URC App
+DEADLINE: <2021-02-16 Tue>
 ** Orgs
 *** MUN [100%]
 **** DONE Headshot + Bio Activation
@@ -51,9 +56,12 @@ CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:30>
 CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu 19:00>
 *** FRC [100%]
 ** Tutoring
-*** TODO Noah
-*** TODO Debate 1
-*** TODO Debate 2
+*** DONE Noah
+CLOSED: [2021-02-08 Mon 10:20]
+*** DONE Debate 1
+CLOSED: [2021-02-08 Mon 10:20]
+*** ABANDONED Debate 2
+CLOSED: [2021-02-08 Mon 10:20]
 *** DONE Mebin
 CLOSED: [2021-02-03 Wed 10:25] SCHEDULED: <2021-02-02 Tue 16:00>
 *** DONE Tom
@@ -91,18 +99,18 @@ CLOSED: [2021-02-02 Tue 11:24] SCHEDULED: <2021-01-29 Fri 15:15>
 *** MIGRATED Rec 1
 CLOSED: [2021-02-02 Tue 11:24]
 ** School
-*** CSCI2720 [33%]
-**** WAITING Assn01
-DEADLINE: <2021-02-03 Wed>
-**** WAITING Quiz01
-SCHEDULED: <2021-02-04 Thu>
+*** CSCI2720 [100%]
+**** MIGRATED Assn01
+CLOSED: [2021-02-08 Mon 10:36] DEADLINE: <2021-02-03 Wed>
+**** MIGRATED Quiz01
+CLOSED: [2021-02-08 Mon 10:36] SCHEDULED: <2021-02-04 Thu>
 - C++ Review Sessions
 - Textbook Ch. 2
 **** DONE Mathematical Review
 CLOSED: [2021-01-28 Thu 01:57]
-*** CSCI2670 [50%]
-**** TODO HW01
-DEADLINE: <2021-02-05 Fri>
+*** CSCI2670 [100%]
+**** MIGRATED HW01
+CLOSED: [2021-02-08 Mon 10:36] DEADLINE: <2021-02-05 Fri>
 **** DONE CW-1
 CLOSED: [2021-01-29 Fri 21:35]
 *** INTL4440 [100%]
@@ -130,9 +138,9 @@ CLOSED: [2021-01-27 Wed 19:58]
 CLOSED: [2021-01-27 Wed 17:40]
 **** DONE Qualtrics Registration
 CLOSED: [2021-01-25 Mon 10:31]
-*** Research [66%]
-**** TODO SPIA URC App
-DEADLINE: <2021-02-16 Tue>
+*** Research [100%]
+**** MIGRATED SPIA URC App
+CLOSED: [2021-02-08 Mon 18:58]
 **** DONE Research Design Section
 CLOSED: [2021-02-01 Mon 02:23] DEADLINE: <2021-01-31 Sun>
 **** DONE GROVI Email
