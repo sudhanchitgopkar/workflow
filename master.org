@@ -1,4 +1,4 @@
-* 02.01.21
+* 02.07.21
 ** CMU
 *** TODO Exp Section
 *** TODO Achievements Section
@@ -13,6 +13,52 @@ CLOSED: [2021-02-02 Tue 12:49]
 *** WAITING College Report
 *** WAITING Rec 1
 ** School
+*** CSCI2720
+**** TODO HW1
+DEADLINE: <2021-02-14 Sun>
+*** CSCI2670
+**** WAITING Exam 1
+SCHEDULED: <2021-03-02 Tue>
+*** INTL4440
+**** TODO Essay 2
+DEADLINE: <2021-02-15 Mon>
+**** TODO Lecture 1
+DEADLINE: <2021-02-10 Wed>
+**** DONE Mercado
+CLOSED: [2021-02-10 Wed 10:33]
+**** DONE Richelson
+CLOSED: [2021-02-10 Wed 10:33]
+*** INTL4260
+**** DONE Berejikian
+CLOSED: [2021-02-10 Wed 10:32]
+
+**** WAITING Essay 3
+*** INTL4710
+**** TODO Opening Speech
+DEADLINE: <2021-02-11 Thu>
+* 02.01.21
+** CMU
+*** MIGRATED Exp Section
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Achievements Section
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Short Essay Prompts
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Course Catalogs
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Score Sends
+CLOSED: [2021-02-10 Wed 10:25]
+**** MIGRATED ACT
+CLOSED: [2021-02-10 Wed 10:25]
+**** ABANDONED AP
+CLOSED: [2021-02-08 Mon 10:20]
+**** DONE Transcript
+CLOSED: [2021-02-02 Tue 12:49]
+*** MIGRATED College Report
+CLOSED: [2021-02-10 Wed 10:25]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-10 Wed 10:25]
+** School
 *** CSCI2720 [100%]
 **** DONE Assn01
 **** DONE Quiz01
@@ -22,11 +68,17 @@ CLOSED: [2021-02-04 Thu 23:18] SCHEDULED: <2021-02-04 Thu>
 CLOSED: [2021-02-08 Mon 10:20] DEADLINE: <2021-02-05 Fri>
 **** DONE CW2
 CLOSED: [2021-02-03 Wed 10:25] DEADLINE: <2021-02-02 Tue>
-*** INTL4440 [0%]
-**** TODO Anton
-**** TODO Duczynski
-**** TODO Sallot
-**** TODO McDowell
+**** DONE Exam 1
+CLOSED: [2021-02-10 Wed 10:27]
+*** INTL4440 [100%]
+**** MIGRATED Anton
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED Duczynski
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED Sallot
+CLOSED: [2021-02-10 Wed 10:26]
+**** MIGRATED McDowell
+CLOSED: [2021-02-10 Wed 10:26]
 *** INTL4260 [100%]
 **** DONE Jervis
 CLOSED: [2021-02-09 Tue 11:23]
@@ -38,8 +90,8 @@ CLOSED: [2021-02-09 Tue 11:23]
 **** DONE Mod1 Work Quiz
 CLOSED: [2021-02-09 Tue 11:27] DEADLINE: <2021-02-09 Tue>
 *** Research
-**** TODO SPIA URC App
-DEADLINE: <2021-02-16 Tue>
+**** DONE SPIA URC App
+CLOSED: [2021-02-10 Wed 10:26] DEADLINE: <2021-02-18 Thu>
 ** Orgs
 *** MUN [100%]
 **** DONE Headshot + Bio Activation
@@ -305,6 +357,7 @@ SCHEDULED: <2021-01-07 Thu 12:00>
 *** MIGRATED Tom
 *** MIGRATED IBA Judging
 *** DONE Spencer
+
 * Template Spring 2021
 ** School
 *** CSCI2720 [%]
