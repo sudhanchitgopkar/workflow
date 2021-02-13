@@ -8,13 +8,15 @@
 **** TODO ACT
 **** ABANDONED AP
 CLOSED: [2021-02-08 Mon 10:20]
-**** DONE Transcript
+**** DONE High School Transcript
 CLOSED: [2021-02-02 Tue 12:49]
+**** DONE College Transcript
+CLOSED: [2021-02-11 Thu 10:25]
 *** WAITING College Report
 *** WAITING Rec 1
 ** School
 *** CSCI2720
-**** TODO HW1
+**** IN-PROGRESS HW1
 DEADLINE: <2021-02-14 Sun>
 *** CSCI2670
 **** WAITING Exam 1
@@ -22,20 +24,54 @@ SCHEDULED: <2021-03-02 Tue>
 *** INTL4440
 **** TODO Essay 2
 DEADLINE: <2021-02-15 Mon>
-**** TODO Lecture 1
-DEADLINE: <2021-02-10 Wed>
+**** DONE Lecture 1
+CLOSED: [2021-02-11 Thu 10:25] DEADLINE: <2021-02-10 Wed>
 **** DONE Mercado
 CLOSED: [2021-02-10 Wed 10:33]
 **** DONE Richelson
-CLOSED: [2021-02-10 Wed 10:33]
+CLOSED
 *** INTL4260
+**** TODO Essay 3
 **** DONE Berejikian
 CLOSED: [2021-02-10 Wed 10:32]
 
-**** WAITING Essay 3
 *** INTL4710
-**** TODO Opening Speech
-DEADLINE: <2021-02-11 Thu>
+**** DONE Opening Speech
+CLOSED: [2021-02-11 Thu 10:30] DEADLINE: <2021-02-11 Thu>
+** Orgs
+*** UGAHacks
+**** WAITING Exit Interview
+SCHEDULED: <2021-02-13 Sat 14:00>
+*** UGAMUN
+**** DONE Meeting
+CLOSED: [2021-02-12 Fri 14:09]
+*** WebDev
+**** IN-PROGRESS Final Site
+**** DONE Initial Design
+CLOSED: [2021-02-12 Fri 14:09]
+** Tutoring
+*** TODO Debate 2
+*** WAITING Mebin
+*** WAITING Debate 1
+*** DONE Noah
+CLOSED: [2021-02-11 Thu 18:10]
+*** ABANDONED Tom
+CLOSED: [2021-02-11 Thu 18:10]
+*** Payment [75%]
+**** WAITING Antony
+**** WAITING Uday
+**** DONE Tom
+CLOSED: [2021-02-12 Fri 14:08]
+**** DONE Noah
+CLOSED: [2021-02-12 Fri 14:08]
+**** DONE Allen
+CLOSED: [2021-02-11 Thu 17:47]
+**** DONE Sam
+CLOSED: [2021-02-11 Thu 17:47]
+**** DONE Mebin
+CLOSED: [2021-02-02 Tue 11:28]
+**** DONE Arjun
+CLOSED: [2021-02-11 Thu 17:40]
 * 02.01.21
 ** CMU
 *** MIGRATED Exp Section
@@ -118,14 +154,21 @@ CLOSED: [2021-02-08 Mon 10:20]
 CLOSED: [2021-02-03 Wed 10:25] SCHEDULED: <2021-02-02 Tue 16:00>
 *** DONE Tom
 CLOSED: [2021-02-02 Tue 11:22]
-*** Payment [12%]
-**** TODO Noah
-**** TODO Tom
-**** TODO Uday
-**** TODO Allen
-**** TODO Arjun
-**** TODO Sam
-**** TODO Antony
+*** Payment [100%]
+**** MIGRATED Noah
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Tom
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Uday
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Allen
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Arjun
+CLOSED: [2021-02-11 Thu 17:39]
+**** MIGRATED Sam
+CLOSED: [2021-02-11 Thu 17:40]
+**** MIGRATED Antony
+CLOSED: [2021-02-11 Thu 17:40]
 **** DONE Mebin
 CLOSED: [2021-02-02 Tue 11:28]
 * 01.25.21
