@@ -1,9 +1,12 @@
 * 02.07.21
 ** CMU
-*** TODO Exp Section
-*** TODO Achievements Section
-*** TODO Short Essay Prompts
-*** IN-PROGRESS Course Catalogs
+*** DONE Exp Section
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Achievements Section
+CLOSED: [2021-02-14 Sun 22:23]
+*** IN-PROGRESS Short Essay Prompts
+*** DONE Course Catalogs
+CLOSED: [2021-02-14 Sun 22:23]
 *** IN-PROGRESS Score Sends
 **** TODO ACT
 **** ABANDONED AP
@@ -12,12 +15,12 @@ CLOSED: [2021-02-08 Mon 10:20]
 CLOSED: [2021-02-02 Tue 12:49]
 **** DONE College Transcript
 CLOSED: [2021-02-11 Thu 10:25]
-*** WAITING College Report
+*** TODO College Report
 *** WAITING Rec 1
 ** School
 *** CSCI2720
-**** IN-PROGRESS HW1
-DEADLINE: <2021-02-14 Sun>
+**** DONE HW1
+CLOSED: [2021-02-14 Sun 22:23] DEADLINE: <2021-02-16 Tue>
 *** CSCI2670
 **** WAITING Exam 1
 SCHEDULED: <2021-03-02 Tue>
@@ -40,8 +43,8 @@ CLOSED: [2021-02-10 Wed 10:32]
 CLOSED: [2021-02-11 Thu 10:30] DEADLINE: <2021-02-11 Thu>
 ** Orgs
 *** UGAHacks
-**** WAITING Exit Interview
-SCHEDULED: <2021-02-13 Sat 14:00>
+**** DONE Exit Interview
+CLOSED: [2021-02-14 Sun 22:23] SCHEDULED: <2021-02-13 Sat 14:00>
 *** UGAMUN
 **** DONE Meeting
 CLOSED: [2021-02-12 Fri 14:09]
@@ -50,9 +53,12 @@ CLOSED: [2021-02-12 Fri 14:09]
 **** DONE Initial Design
 CLOSED: [2021-02-12 Fri 14:09]
 ** Tutoring
-*** TODO Debate 2
-*** WAITING Mebin
-*** WAITING Debate 1
+*** DONE Debate 2
+CLOSED: [2021-02-14 Sun 22:23]
+*** ABANDONED Mebin
+CLOSED: [2021-02-14 Sun 22:23]
+*** DONE Debate 1
+CLOSED: [2021-02-14 Sun 22:23]
 *** DONE Noah
 CLOSED: [2021-02-11 Thu 18:10]
 *** ABANDONED Tom
