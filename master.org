@@ -1,32 +1,82 @@
+* 02.14.21
+** CMU
+*** TODO College Report
+*** IN-PROGRESS ACT Score
+*** WAITING Rec 1
+** School
+*** CSCI2720 [0%]
+**** TODO Pointer Review
+*** CSCI2670 [50%]
+**** WAITING Exam 1
+SCHEDULED: <2021-03-02 Tue>
+**** DONE CW4
+CLOSED: [2021-02-17 Wed 15:19]
+*** INTL4440 [100%]
+**** DONE Lecture 1
+CLOSED: [2021-02-18 Thu 18:48]
+**** DONE Assn02
+CLOSED: [2021-02-17 Wed 15:20]
+*** INTL4710 [100%]
+*** INTL4260 [100%]
+**** DONE IRB Training
+CLOSED: [2021-02-18 Thu 12:05]
+** Orgs
+*** MUN [100%]
+**** DONE Sec + Gen Meeting
+CLOSED: [2021-02-17 Wed 15:21]
+*** UGAHacks [0%]
+**** WAITING ACM Meeting
+SCHEDULED: <2021-02-18 Thu 19:00>
+**** WAITING Packing Day
+*** FRC [100%]
+** Tutoring
+*** TODO Debate 2
+SCHEDULED: <2021-02-20 Sat 10:00>
+*** WAITING Debate 1
+SCHEDULED: <2021-02-19 Fri 15:00>
+*** WAITING Tom
+DEADLINE: <2021-02-19 Fri 12:30>
+*** DONE Mebin
+CLOSED: [2021-02-17 Wed 16:33]
+*** DONE Noah
+CLOSED: [2021-02-17 Wed 15:22]
+** Misc
+*** WAITING Advising
+SCHEDULED: <2021-02-25 Thu 10:00>
 * 02.07.21
 ** CMU
 *** DONE Exp Section
 CLOSED: [2021-02-14 Sun 22:23]
 *** DONE Achievements Section
 CLOSED: [2021-02-14 Sun 22:23]
-*** IN-PROGRESS Short Essay Prompts
+*** DONE Short Essay Prompts
+CLOSED: [2021-02-17 Wed 15:17]
 *** DONE Course Catalogs
 CLOSED: [2021-02-14 Sun 22:23]
-*** IN-PROGRESS Score Sends
-**** TODO ACT
+*** MIGRATED Score Sends
+CLOSED: [2021-02-17 Wed 15:22]
+**** MIGRATED ACT
+CLOSED: [2021-02-17 Wed 15:22]
 **** ABANDONED AP
 CLOSED: [2021-02-08 Mon 10:20]
 **** DONE High School Transcript
 CLOSED: [2021-02-02 Tue 12:49]
 **** DONE College Transcript
 CLOSED: [2021-02-11 Thu 10:25]
-*** TODO College Report
-*** WAITING Rec 1
+*** MIGRATED College Report
+CLOSED: [2021-02-17 Wed 15:22]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-17 Wed 15:22]
 ** School
 *** CSCI2720
 **** DONE HW1
 CLOSED: [2021-02-14 Sun 22:23] DEADLINE: <2021-02-16 Tue>
 *** CSCI2670
-**** WAITING Exam 1
-SCHEDULED: <2021-03-02 Tue>
+**** MIGRATED Exam 1
+CLOSED: [2021-02-17 Wed 15:23]
 *** INTL4440
-**** TODO Essay 2
-DEADLINE: <2021-02-15 Mon>
+**** DONE Essay 2
+CLOSED: [2021-02-17 Wed 15:17] DEADLINE: <2021-02-15 Mon>
 **** DONE Lecture 1
 CLOSED: [2021-02-11 Thu 10:25] DEADLINE: <2021-02-10 Wed>
 **** DONE Mercado
@@ -34,7 +84,8 @@ CLOSED: [2021-02-10 Wed 10:33]
 **** DONE Richelson
 CLOSED
 *** INTL4260
-**** TODO Essay 3
+**** ABANDONED Essay 3
+CLOSED: [2021-02-17 Wed 15:17]
 **** DONE Berejikian
 CLOSED: [2021-02-10 Wed 10:32]
 
@@ -49,7 +100,8 @@ CLOSED: [2021-02-14 Sun 22:23] SCHEDULED: <2021-02-13 Sat 14:00>
 **** DONE Meeting
 CLOSED: [2021-02-12 Fri 14:09]
 *** WebDev
-**** IN-PROGRESS Final Site
+**** DONE Final Site
+CLOSED: [2021-02-17 Wed 15:17]
 **** DONE Initial Design
 CLOSED: [2021-02-12 Fri 14:09]
 ** Tutoring
@@ -63,9 +115,11 @@ CLOSED: [2021-02-14 Sun 22:23]
 CLOSED: [2021-02-11 Thu 18:10]
 *** ABANDONED Tom
 CLOSED: [2021-02-11 Thu 18:10]
-*** Payment [75%]
-**** WAITING Antony
-**** WAITING Uday
+*** Payment [100%]
+**** DONE Antony
+CLOSED: [2021-02-17 Wed 15:17]
+**** DONE Uday
+CLOSED: [2021-02-17 Wed 15:17]
 **** DONE Tom
 CLOSED: [2021-02-12 Fri 14:08]
 **** DONE Noah
