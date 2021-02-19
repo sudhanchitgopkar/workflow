@@ -1,14 +1,22 @@
+* 02.21.21
+** Migrated
+*** WAITING Exam 1
+SCHEDULED: <2021-03-02 Tue>
+*** WAITING Advising
+SCHEDULED: <2021-02-25 Thu 10:00>
+*** WAITING Packing Day
 * 02.14.21
 ** CMU
-*** TODO College Report
-*** IN-PROGRESS ACT Score
+*** TODO ACT Score
+*** WAITING College Report
 *** WAITING Rec 1
 ** School
-*** CSCI2720 [0%]
-**** TODO Pointer Review
-*** CSCI2670 [50%]
-**** WAITING Exam 1
-SCHEDULED: <2021-03-02 Tue>
+*** CSCI2720 [100%]
+**** ABANDONED Pointer Review
+CLOSED: [2021-02-18 Thu 19:17]
+*** CSCI2670 [100%]
+**** MIGRATED Exam 1
+CLOSED: [2021-02-18 Thu 19:18] SCHEDULED: <2021-03-02 Tue>
 **** DONE CW4
 CLOSED: [2021-02-17 Wed 15:19]
 *** INTL4440 [100%]
@@ -24,25 +32,26 @@ CLOSED: [2021-02-18 Thu 12:05]
 *** MUN [100%]
 **** DONE Sec + Gen Meeting
 CLOSED: [2021-02-17 Wed 15:21]
-*** UGAHacks [0%]
-**** WAITING ACM Meeting
-SCHEDULED: <2021-02-18 Thu 19:00>
-**** WAITING Packing Day
+*** UGAHacks [100%]
+**** MIGRATED Packing Day
+CLOSED: [2021-02-19 Fri 17:16]
+**** DONE ACM Meeting
+CLOSED: [2021-02-18 Thu 19:17] SCHEDULED: <2021-02-18 Thu 19:00>
 *** FRC [100%]
 ** Tutoring
 *** TODO Debate 2
 SCHEDULED: <2021-02-20 Sat 10:00>
-*** WAITING Debate 1
-SCHEDULED: <2021-02-19 Fri 15:00>
-*** WAITING Tom
-DEADLINE: <2021-02-19 Fri 12:30>
+*** DONE Debate 1
+CLOSED: [2021-02-19 Fri 17:14] SCHEDULED: <2021-02-19 Fri 15:00>
 *** DONE Mebin
 CLOSED: [2021-02-17 Wed 16:33]
 *** DONE Noah
 CLOSED: [2021-02-17 Wed 15:22]
+*** ABANDONED Tom
+CLOSED: [2021-02-19 Fri 17:15] DEADLINE: <2021-02-19 Fri 12:30>
 ** Misc
-*** WAITING Advising
-SCHEDULED: <2021-02-25 Thu 10:00>
+*** MIGRATED Advising
+CLOSED: [2021-02-18 Thu 19:18] SCHEDULED: <2021-02-27 Sat 10:00>
 * 02.07.21
 ** CMU
 *** DONE Exp Section
