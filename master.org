@@ -1,22 +1,54 @@
 * 02.21.21
-** Migrated
-*** WAITING Exam 1
-SCHEDULED: <2021-03-02 Tue>
-*** WAITING Advising
-SCHEDULED: <2021-02-25 Thu 10:00>
-*** WAITING Packing Day
-* 02.14.21
 ** CMU
 *** TODO ACT Score
 *** WAITING College Report
 *** WAITING Rec 1
+** School
+*** CSCI2720 [%]
+*** CSCI2670 [0%]
+**** TODO HW 2
+DEADLINE: <2021-02-25 Thu>
+**** WAITING Exam 1
+SCHEDULED: <2021-03-02 Tue>
+*** INTL4440 [%]
+*** INTL4710 [%]
+*** INTL4260 [0%]
+**** WAITING Exam 1
+SCHEDULED: <2021-03-05 Fri 10:20>
+** Orgs
+*** MUN [%]
+*** UGAHacks [%]
+*** WAITING Packing Day
+*** FRC [%]
+** Tutoring
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+** Misc
+*** TODO Housing Contract
+DEADLINE: <2021-02-25 Thu>
+*** WAITING Advising
+SCHEDULED: <2021-02-25 Thu 10:00>
+*** WAITING Iliev Meeting
+SCHEDULED: <2021-02-24 Wed 15:00>
+** Migrated
+* 02.14.21
+** CMU
+*** MIGRATED ACT Score
+CLOSED: [2021-02-22 Mon 10:18]
+*** MIGRATED College Report
+CLOSED: [2021-02-22 Mon 10:18]
+*** MIGRATED Rec 1
+CLOSED: [2021-02-22 Mon 10:18]
 ** School
 *** CSCI2720 [100%]
 **** ABANDONED Pointer Review
 CLOSED: [2021-02-18 Thu 19:17]
 *** CSCI2670 [100%]
 **** MIGRATED Exam 1
-CLOSED: [2021-02-18 Thu 19:18] SCHEDULED: <2021-03-02 Tue>
+CLOSED: [2021-02-18 Thu 19:18]
 **** DONE CW4
 CLOSED: [2021-02-17 Wed 15:19]
 *** INTL4440 [100%]
