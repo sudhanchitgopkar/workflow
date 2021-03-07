@@ -1,8 +1,4 @@
 10 days-agenda (W09-W10):
-Tuesday     2 March 2021
-  master:     12:45...... Scheduled:  DONE 2670 Midterm
-  master:     19:30...... Scheduled:  DONE MTP Meeting
-  master:     Scheduled:  MIGRATED Exam 1
 Wednesday   3 March 2021
   master:     14:00...... Scheduled:  DONE Exam Review
   master:     14:00...... Scheduled:  MIGRATED Exam Review
@@ -12,19 +8,11 @@ Thursday    4 March 2021
   master:     Scheduled:  DONE Quiz 2
   master:     Scheduled:  MIGRATED Quiz 2
 Friday      5 March 2021
-               8:00...... ----------------
-              10:00...... ----------------
-  master:     10:20...... Scheduled:  WAITING 4260 Midterm
   master:     10:20...... Scheduled:  MIGRATED Exam 1
-              12:00...... ----------------
-              14:00...... ----------------
-              16:00...... ----------------
-  master:     18:00...... Scheduled:  TODO SSRL Onboarding
-              18:00...... ----------------
-              20:00...... ----------------
-              20:10...... now - - - - - - - - - - - - - - - - - - - - - - - - -
+  master:     18:00...... Scheduled:  DONE SSRL Onboarding
 Saturday    6 March 2021
 Sunday      7 March 2021
+  master:     10:20...... Scheduled:  IN-PROGRESS 4260 Midterm
   master:     Scheduled:  WAITING 4440 Midterm
 Monday      8 March 2021 W10
 Tuesday     9 March 2021
@@ -32,3 +20,4 @@ Wednesday  10 March 2021
 Thursday   11 March 2021
   master:     Scheduled:  WAITING 2720 Midterm
   master:     Scheduled:  MIGRATED Midterm
+Friday     12 March 2021
