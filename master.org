@@ -4,6 +4,10 @@
 SCHEDULED: <2021-04-12 Mon>
 *** WAITING SPIA URC
 SCHEDULED: <2021-04-23 Fri>
+* 03.15.21
+** Misc
+*** WAITING Care Package Pickup
+SCHEDULED: <2021-03-15 Mon 17:00>
 * 03.08.21
 ** CMU
 *** WAITING IDOC
@@ -13,8 +17,8 @@ CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-15 Mon>
 ** Midterms
 *** WAITING 2720 Midterm
 SCHEDULED: <2021-03-11 Thu>
-*** IN-PROGRESS 4440 Midterm
-DEADLINE: <2021-03-10 Wed 12:00>
+*** DONE 4440 Midterm
+CLOSED: [2021-03-10 Wed 12:19] DEADLINE: <2021-03-10 Wed 12:00>
 ** School
 *** CSCI2720 [0%]
 **** TODO Assn 03
@@ -32,16 +36,27 @@ DEADLINE: <2021-03-09 Tue 14:20>
 DEADLINE: <2021-03-09 Tue 14:20>
 *** INTL4260 [%]
 ** Orgs
-*** MUN [%]
-*** Finch [%]
-*** UGAHacks [%]
-*** FRC [%]
+*** MUN [50%]
+**** TODO Instagram Post
+**** DONE Refugee Outreach
+CLOSED: [2021-03-10 Wed 13:05]
+*** Finch [100%]
+*** UGAHacks [0%]
+**** IN-PROGRESS RaspPi Request
+*** FRC [100%]
 ** Tutoring
-*** Noah
-*** Tom
-*** Mebin
-*** Debate 1
-*** Debate 2
+*** TODO Noah
+*** TODO Tom
+*** TODO Mebin
+*** TODO Debate 1
+*** TODO Debate 2
+** Misc
+*** TODO DME Onboarding
+DEADLINE: <2021-03-10 Wed>
+*** WAITING Iliev Meeting
+SCHEDULED: <2021-03-10 Wed 15:00>
+*** DONE Southern Company Followup
+CLOSED: [2021-03-10 Wed 12:48] DEADLINE: <2021-03-10 Wed>
 * 03.01.21
 ** CMU
 *** DONE ACT
