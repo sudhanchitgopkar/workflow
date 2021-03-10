@@ -1,23 +1,33 @@
-10 days-agenda (W09-W10):
-Wednesday   3 March 2021
-  master:     14:00...... Scheduled:  DONE Exam Review
-  master:     14:00...... Scheduled:  MIGRATED Exam Review
-  master:     Deadline:   DONE Assn 02
-  master:     Deadline:   MIGRATED Assn 02
-Thursday    4 March 2021
-  master:     Scheduled:  DONE Quiz 2
-  master:     Scheduled:  MIGRATED Quiz 2
-Friday      5 March 2021
-  master:     10:20...... Scheduled:  MIGRATED Exam 1
-  master:     18:00...... Scheduled:  DONE SSRL Onboarding
+10 days-agenda (W09-W11):
 Saturday    6 March 2021
 Sunday      7 March 2021
-  master:     10:20...... Scheduled:  IN-PROGRESS 4260 Midterm
-  master:     Scheduled:  WAITING 4440 Midterm
+  master:     10:20...... Scheduled:  DONE 4260 Midterm
 Monday      8 March 2021 W10
 Tuesday     9 March 2021
+               8:00...... ----------------
+              10:00...... ----------------
+              12:00...... ----------------
+              14:00...... ----------------
+  master:     14:20...... Deadline:   DONE Participation
+  master:     14:20...... Deadline:   DONE Survey
+  master:     14:20...... Deadline:   DONE Quiz Mod4
+              16:00...... ----------------
+              18:00...... ----------------
+              20:00...... ----------------
+              22:48...... now - - - - - - - - - - - - - - - - - - - - - - - - -
+  master:     Deadline:   DONE CW7
+  master:     In   1 d.:  IN-PROGRESS 4440 Midterm
+  master:     In   6 d.:  WAITING IDOC
+  master:     In   8 d.:  TODO Assn 03
 Wednesday  10 March 2021
+  master:     12:00...... Scheduled:  MIGRATED 4440 Midterm
+  master:     12:00...... Deadline:   IN-PROGRESS 4440 Midterm
 Thursday   11 March 2021
   master:     Scheduled:  WAITING 2720 Midterm
   master:     Scheduled:  MIGRATED Midterm
 Friday     12 March 2021
+Saturday   13 March 2021
+Sunday     14 March 2021
+Monday     15 March 2021 W11
+  master:     Deadline:   WAITING IDOC
+  master:     Deadline:   DONE Report
