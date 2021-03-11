@@ -13,17 +13,17 @@ Wednesday  10 March 2021
   master:     12:00...... Scheduled:  MIGRATED 4440 Midterm
   master:     12:00...... Deadline:   DONE 4440 Midterm
               12:00...... ----------------
-              12:21...... now - - - - - - - - - - - - - - - - - - - - - - - - -
               14:00...... ----------------
-  master:     15:00...... Scheduled:  WAITING Iliev Meeting
+  master:     15:00...... Scheduled:  DONE Iliev Meeting
               16:00...... ----------------
               18:00...... ----------------
               20:00...... ----------------
-  master:     Deadline:   TODO Southern Company Followup
+              22:40...... now - - - - - - - - - - - - - - - - - - - - - - - - -
   master:     Deadline:   TODO DME Onboarding
-  master:     In   5 d.:  WAITING IDOC
+  master:     Deadline:   DONE Southern Company Followup
   master:     In   7 d.:  TODO Assn 03
 Thursday   11 March 2021
+  master:     16:00...... Scheduled:  WAITING Tom
   master:     Scheduled:  WAITING 2720 Midterm
   master:     Scheduled:  MIGRATED Midterm
 Friday     12 March 2021
@@ -31,6 +31,6 @@ Saturday   13 March 2021
 Sunday     14 March 2021
 Monday     15 March 2021 W11
   master:     17:00...... Scheduled:  WAITING Care Package Pickup
-  master:     Deadline:   WAITING IDOC
+  master:     Deadline:   DONE IDOC
   master:     Deadline:   DONE Report
 Tuesday    16 March 2021

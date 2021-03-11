@@ -10,8 +10,8 @@ SCHEDULED: <2021-04-23 Fri>
 SCHEDULED: <2021-03-15 Mon 17:00>
 * 03.08.21
 ** CMU
-*** WAITING IDOC
-DEADLINE: <2021-03-15 Mon>
+*** DONE IDOC
+CLOSED: [2021-03-10 Wed 14:11] DEADLINE: <2021-03-15 Mon>
 *** DONE Report
 CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-15 Mon>
 ** Midterms
@@ -46,15 +46,17 @@ CLOSED: [2021-03-10 Wed 13:05]
 *** FRC [100%]
 ** Tutoring
 *** TODO Noah
-*** TODO Tom
-*** TODO Mebin
-*** TODO Debate 1
 *** TODO Debate 2
+*** TODO Debate 1
+*** WAITING Tom
+SCHEDULED: <2021-03-11 Thu 16:00>
+*** DONE Mebin
+CLOSED: [2021-03-10 Wed 22:39]
 ** Misc
 *** TODO DME Onboarding
 DEADLINE: <2021-03-10 Wed>
-*** WAITING Iliev Meeting
-SCHEDULED: <2021-03-10 Wed 15:00>
+*** DONE Iliev Meeting
+CLOSED: [2021-03-10 Wed 22:40] SCHEDULED: <2021-03-10 Wed 15:00>
 *** DONE Southern Company Followup
 CLOSED: [2021-03-10 Wed 12:48] DEADLINE: <2021-03-10 Wed>
 * 03.01.21
