@@ -5,9 +5,69 @@ SCHEDULED: <2021-04-12 Mon>
 *** WAITING SPIA URC
 SCHEDULED: <2021-04-23 Fri>
 * 03.15.21
+** School
+*** CSCI2720 [0%]
+**** IN-PROGRESS Assn03
+*** CSCI2670 [0%]
+**** TODO Correct CW2
+**** TODO CW8
+DEADLINE: <2021-03-16 Tue>
+*** INTL4440 [0%]
+**** TODO Case Study
+DEADLINE: <2021-03-17 Wed>
+**** TODO Ehrman
+**** TODO Olsen
+**** TODO Wettering
+**** TODO Taylor & Snow
+*** INTL4260 [16%]
+**** TODO Gallagher
+**** TODO Eichenberg
+**** TODO Cohn
+**** TODO Zak
+**** TODO EC1
+**** DONE [[https://zoom.us/j/95009961471?pwd=SFBwTW0yMS82MDFDU0Npc1FHZW9Qdz09][OH Meeting]]
+CLOSED: [2021-03-16 Tue 16:01] SCHEDULED: <2021-03-16 Tue 16:00>
+*** INTL4710 [100%]
 ** Misc
+*** TODO SC Follow-up
+*** TODO Saglam Follow-up
+*** WAITING Iliev Meeting
+SCHEDULED: <2021-03-17 Wed 15:00>
+*** WAITING MTP Tech Check
+SCHEDULED: <2021-03-20 Sat 11:00>
 *** WAITING Care Package Pickup
 SCHEDULED: <2021-03-15 Mon 17:00>
+** Tutoring [20%]
+*** DONE Noah
+CLOSED: [2021-03-16 Tue 10:52] SCHEDULED: <2021-03-15 Mon 18:30>
+*** TODO Mebin
+*** TODO Tom
+*** TODO Debate 1
+SCHEDULED: <2021-03-19 Fri 15:00>
+*** TODO Debate 2
+** Tutoring P [10%]
+*** TODO Noah
+*** TODO Tom
+*** TODO Arjun
+*** TODO Yasha
+*** TODO Ava
+*** TODO Sam
+*** TODO Allen
+*** TODO Uday
+*** TODO Antony
+*** DONE Mebin
+CLOSED: [2021-03-15 Mon 10:53]
+** Orgs
+*** MUN [50%]
+**** IN-PROGRESS Instagram Post
+**** DONE Refugee Outreach
+CLOSED: [2021-03-10 Wed 13:05]
+*** Finch [100%]
+*** UGAHacks [0%]
+**** IN-PROGRESS RaspPi Request
+*** FRC [0%]
+**** WAITING Trivia
+SCHEDULED: <2021-03-18 Thu 18:00>
 * 03.08.21
 ** CMU
 *** DONE IDOC
@@ -15,14 +75,14 @@ CLOSED: [2021-03-10 Wed 14:11] DEADLINE: <2021-03-15 Mon>
 *** DONE Report
 CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-15 Mon>
 ** Midterms
-*** WAITING 2720 Midterm
-SCHEDULED: <2021-03-11 Thu>
+*** DONE 2720 Midterm
+CLOSED: [2021-03-15 Mon 10:30] SCHEDULED: <2021-03-11 Thu>
 *** DONE 4440 Midterm
 CLOSED: [2021-03-10 Wed 12:19] DEADLINE: <2021-03-10 Wed 12:00>
 ** School
-*** CSCI2720 [0%]
-**** TODO Assn 03
-DEADLINE: <2021-03-17 Wed>
+*** CSCI2720 [100%]
+**** MIGRATED Assn 03
+CLOSED: [2021-03-15 Mon 10:34] DEADLINE: <2021-03-17 Wed>
 *** CSCI2670 [100%]
 **** DONE CW7
 CLOSED: [2021-03-09 Tue 22:47] DEADLINE: <2021-03-09 Tue>
@@ -34,31 +94,36 @@ DEADLINE: <2021-03-09 Tue 14:20>
 DEADLINE: <2021-03-09 Tue 14:20>
 **** DONE Quiz Mod4
 DEADLINE: <2021-03-09 Tue 14:20>
-*** INTL4260 [%]
+*** INTL4260 [100%]
 ** Orgs
-*** MUN [50%]
-**** TODO Instagram Post
+*** MUN [100%]
+**** MIGRATED Instagram Post
+CLOSED: [2021-03-16 Tue 16:02]
 **** DONE Refugee Outreach
 CLOSED: [2021-03-10 Wed 13:05]
 *** Finch [100%]
-*** UGAHacks [0%]
-**** IN-PROGRESS RaspPi Request
+*** UGAHacks [100%]
+**** MIGRATED RaspPi Request
+CLOSED: [2021-03-16 Tue 16:02]
 *** FRC [100%]
 ** Tutoring
-*** TODO Noah
-*** TODO Debate 2
-*** TODO Debate 1
-*** WAITING Tom
-SCHEDULED: <2021-03-11 Thu 16:00>
+*** DONE Debate 2
+CLOSED: [2021-03-15 Mon 10:30]
+*** DONE Debate 1
+CLOSED: [2021-03-15 Mon 10:30]
 *** DONE Mebin
 CLOSED: [2021-03-10 Wed 22:39]
+*** ABANDONED Tom
+CLOSED: [2021-03-11 Thu 16:33] SCHEDULED: <2021-03-11 Thu 16:00>
+*** ABANDONED Noah
+CLOSED: [2021-03-11 Thu 16:33]
 ** Misc
-*** TODO DME Onboarding
-DEADLINE: <2021-03-10 Wed>
 *** DONE Iliev Meeting
 CLOSED: [2021-03-10 Wed 22:40] SCHEDULED: <2021-03-10 Wed 15:00>
 *** DONE Southern Company Followup
 CLOSED: [2021-03-10 Wed 12:48] DEADLINE: <2021-03-10 Wed>
+*** ABANDONED DME Onboarding
+CLOSED: [2021-03-15 Mon 10:30] DEADLINE: <2021-03-10 Wed>
 * 03.01.21
 ** CMU
 *** DONE ACT
