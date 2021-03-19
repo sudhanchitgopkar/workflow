@@ -1,4 +1,11 @@
 * IceBox
+** FDSA
+*** WAITING Model Workshop
+SCHEDULED: <2021-04-11 Sun>
+*** WAITING Dress Rehearsal
+SCHEDULED: <2021-04-18 Sun 16:00>
+*** WAITING Show
+SCHEDULED: <2021-04-22 Thu 15:30>
 ** URC
 *** WAITING URC Paper
 SCHEDULED: <2021-04-12 Mon>
@@ -6,60 +13,67 @@ SCHEDULED: <2021-04-12 Mon>
 SCHEDULED: <2021-04-23 Fri>
 * 03.15.21
 ** School
-*** CSCI2720 [0%]
-**** IN-PROGRESS Assn03
-*** CSCI2670 [0%]
+*** CSCI2720 [100%]
+**** DONE Assn03
+CLOSED: [2021-03-17 Wed 23:54]
+*** CSCI2670 [50%]
 **** TODO Correct CW2
-**** TODO CW8
-DEADLINE: <2021-03-16 Tue>
-*** INTL4440 [0%]
-**** TODO Case Study
-DEADLINE: <2021-03-17 Wed>
+**** DONE CW8
+CLOSED: [2021-03-16 Tue 22:20] DEADLINE: <2021-03-16 Tue>
+*** INTL4440 [20%]
 **** TODO Ehrman
 **** TODO Olsen
 **** TODO Wettering
 **** TODO Taylor & Snow
-*** INTL4260 [16%]
+**** DONE Case Study
+CLOSED: [2021-03-17 Wed 14:02] DEADLINE: <2021-03-17 Wed>
+*** INTL4260 [20%]
 **** TODO Gallagher
 **** TODO Eichenberg
 **** TODO Cohn
 **** TODO Zak
-**** TODO EC1
 **** DONE [[https://zoom.us/j/95009961471?pwd=SFBwTW0yMS82MDFDU0Npc1FHZW9Qdz09][OH Meeting]]
 CLOSED: [2021-03-16 Tue 16:01] SCHEDULED: <2021-03-16 Tue 16:00>
 *** INTL4710 [100%]
 ** Misc
 *** TODO SC Follow-up
 *** TODO Saglam Follow-up
-*** WAITING Iliev Meeting
-SCHEDULED: <2021-03-17 Wed 15:00>
 *** WAITING MTP Tech Check
 SCHEDULED: <2021-03-20 Sat 11:00>
 *** WAITING Care Package Pickup
-SCHEDULED: <2021-03-15 Mon 17:00>
-** Tutoring [20%]
-*** DONE Noah
-CLOSED: [2021-03-16 Tue 10:52] SCHEDULED: <2021-03-15 Mon 18:30>
-*** TODO Mebin
-*** TODO Tom
+SCHEDULED: <2021-03-19 Fri 17:15>
+*** DONE Iliev Meeting
+CLOSED: [2021-03-17 Wed 23:49] SCHEDULED: <2021-03-17 Wed 15:00>
+*** DONE CURO Confirmation
+CLOSED: [2021-03-17 Wed 23:54] DEADLINE: <2021-03-17 Wed>
+** Tutoring [60%]
 *** TODO Debate 1
 SCHEDULED: <2021-03-19 Fri 15:00>
 *** TODO Debate 2
-** Tutoring P [10%]
+*** DONE Noah
+CLOSED: [2021-03-16 Tue 10:52] SCHEDULED: <2021-03-15 Mon 18:30>
+*** DONE Mebin
+CLOSED: [2021-03-17 Wed 23:54]
+*** ABANDONED Tom
+CLOSED: [2021-03-18 Thu 20:59]
+** Tutoring P [44%]
 *** TODO Noah
 *** TODO Tom
-*** TODO Arjun
-*** TODO Yasha
-*** TODO Ava
-*** TODO Sam
-*** TODO Allen
-*** TODO Uday
-*** TODO Antony
+*** IN-PROGRESS Arjun
+*** IN-PROGRESS Allen
+*** IN-PROGRESS Uday
+*** DONE Sam
+CLOSED: [2021-03-18 Thu 00:39]
 *** DONE Mebin
 CLOSED: [2021-03-15 Mon 10:53]
+*** ABANDONED Ava
+CLOSED: [2021-03-18 Thu 00:39]
+*** ABANDONED Yasha
+CLOSED: [2021-03-18 Thu 00:39]
 ** Orgs
-*** MUN [50%]
-**** IN-PROGRESS Instagram Post
+*** MUN [100%]
+**** DONE Instagram Post
+CLOSED: [2021-03-16 Tue 23:42]
 **** DONE Refugee Outreach
 CLOSED: [2021-03-10 Wed 13:05]
 *** Finch [100%]
@@ -68,6 +82,13 @@ CLOSED: [2021-03-10 Wed 13:05]
 *** FRC [0%]
 **** WAITING Trivia
 SCHEDULED: <2021-03-18 Thu 18:00>
+*** SSRL
+**** WAITING Ham Radio Exam
+SCHEDULED: <2021-04-04 Sun>
+**** WAITING Large Meeting 1
+SCHEDULED: <2021-03-24 Wed 19:00>
+**** DONE SSRL Meeting 1
+CLOSED: [2021-03-17 Wed 17:36] SCHEDULED: <2021-03-17 Wed 17:30>
 * 03.08.21
 ** CMU
 *** DONE IDOC
