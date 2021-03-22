@@ -1,3 +1,233 @@
+* 01.25.21
+** CMU
+*** MIGRATED Exp Section
+CLOSED: [2021-02-02 Tue 11:24]
+*** MIGRATED Achievements Section
+CLOSED: [2021-02-02 Tue 11:24]
+*** MIGRATED Short Essay Prompts
+CLOSED: [2021-02-02 Tue 11:24]
+*** MIGRATED Course Catalogs
+CLOSED: [2021-02-02 Tue 11:24]
+*** MIGRATED Score Sends
+CLOSED: [2021-02-02 Tue 11:24]
+**** MIGRATED AP
+CLOSED: [2021-02-02 Tue 11:24]
+**** MIGRATED ACT
+CLOSED: [2021-02-02 Tue 11:24]
+**** MIGRATED Transcript
+CLOSED: [2021-02-02 Tue 11:24]
+*** MIGRATED College Report
+CLOSED: [2021-02-02 Tue 11:24] SCHEDULED: <2021-01-29 Fri 15:15>
+*** MIGRATED Rec 1
+CLOSED: [2021-02-02 Tue 11:24]
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn01
+CLOSED: [2021-02-08 Mon 10:36] DEADLINE: <2021-02-03 Wed>
+**** MIGRATED Quiz01
+CLOSED: [2021-02-08 Mon 10:36] SCHEDULED: <2021-02-04 Thu>
+- C++ Review Sessions
+- Textbook Ch. 2
+**** DONE Mathematical Review
+CLOSED: [2021-01-28 Thu 01:57]
+*** CSCI2670 [100%]
+**** MIGRATED HW01
+CLOSED: [2021-02-08 Mon 10:36] DEADLINE: <2021-02-05 Fri>
+**** DONE CW-1
+CLOSED: [2021-01-29 Fri 21:35]
+*** INTL4440 [100%]
+**** DONE Paper 1
+CLOSED: [2021-02-01 Mon 20:12] DEADLINE: <2021-02-01 Mon>
+**** DONE Phythian
+CLOSED: [2021-01-27 Wed 19:07]
+**** DONE Johnson
+CLOSED: [2021-01-27 Wed 19:07]
+**** DONE eLC Lecture
+CLOSED: [2021-01-27 Wed 00:02]
+*** INTL4710 [100%]
+**** DONE Mod1 Position
+CLOSED: [2021-01-26 Tue 10:56]
+**** DONE Mod 1 Quiz
+CLOSED: [2021-01-26 Tue 00:32] DEADLINE: <2021-01-28 Thu>
+**** DONE Mod1 Reader
+DEADLINE: <2021-01-26 Tue>
+**** DONE Mod1 Survey
+DEADLINE: <2021-01-26 Tue>
+*** INTL4260 [100%]
+**** DONE Sagan
+CLOSED: [2021-01-27 Wed 19:58]
+**** DONE Putnam
+CLOSED: [2021-01-27 Wed 17:40]
+**** DONE Qualtrics Registration
+CLOSED: [2021-01-25 Mon 10:31]
+*** Research [100%]
+**** MIGRATED SPIA URC App
+CLOSED: [2021-02-08 Mon 18:58]
+**** DONE Research Design Section
+CLOSED: [2021-02-01 Mon 02:23] DEADLINE: <2021-01-31 Sun>
+**** DONE GROVI Email
+CLOSED: [2021-01-26 Tue 11:17] DEADLINE: <2021-01-27 Wed>
+** Orgs
+*** MUN [100%]
+**** MIGRATED Headshot + Bio Activation
+CLOSED: [2021-02-02 Tue 11:26] DEADLINE: <2021-01-26 Tue 19:00>
+*** Finch [100%]
+**** MIGRATED Audio Editing
+CLOSED: [2021-02-02 Tue 11:26]
+**** MIGRATED AfterDark Intro
+CLOSED: [2021-02-02 Tue 11:26] DEADLINE: <2021-01-24 Sun>
+**** DONE Iliev Interview 2
+CLOSED: [2021-01-26 Tue 01:16] SCHEDULED: <2021-01-25 Mon 15:00>
+*** UGAHacks [100%]
+*** FRC [100%]
+** Tutoring
+*** DONE Debate 2
+CLOSED: [2021-01-31 Sun 17:11]
+*** DONE Debate 1
+CLOSED: [2021-01-29 Fri 20:31] SCHEDULED: <2021-01-29 Fri 15:45>
+*** DONE Noah 2
+CLOSED: [2021-01-29 Fri 20:31] SCHEDULED: <2021-01-28 Thu 18:30>
+*** DONE Mebin
+CLOSED: [2021-01-26 Tue 16:06] SCHEDULED: <2021-01-26 Tue 16:00>
+*** DONE Noah
+CLOSED: [2021-01-26 Tue 23:28] SCHEDULED: <2021-01-26 Tue 21:30>
+*** ABANDONED Tom
+CLOSED: [2021-01-31 Sun 17:11] SCHEDULED: <2021-01-31 Sun>
+** Misc
+*** DONE Background Check SC
+CLOSED: [2021-01-26 Tue 10:01] DEADLINE: <2021-01-25 Mon>
+*** DONE Domain Name Purchase
+CLOSED: [2021-01-29 Fri 20:48]
+*** DONE Big Sat Lab Meeting
+CLOSED: [2021-01-29 Fri 20:48] SCHEDULED: <2021-01-28 Thu 20:00>
+* 01.18.21
+** CMU
+*** MIGRATED Rec 1
+*** MIGRATED Exp Section
+** School
+*** CSCI2720 [100%]
+**** ABANDONED C++ Review Reading
+DEADLINE: <2021-01-24 Sun>
+*** CSCI2670 [100%]
+*** INTL4440 [100%]
+**** MIGRATED Johnson
+**** DONE Warner
+**** DONE Turner
+*** INTL4710 [100%]
+**** MIGRATED Mod1 Reader
+**** MIGRATED Mod1 Quiz
+*** INTL4260 [100%]
+**** MIGRATED Putnam
+**** DONE Fearon
+**** DONE Khan
+*** Research [100%]
+**** MIGRATED Research Design Section
+**** DONE Iliev Email
+**** DONE Saglam Meeting
+SCHEDULED: <2021-01-21 Thu 10:00>
+**** DONE Schneider Email
+** Orgs
+*** MUN [100%]
+**** DONE Website Updates
+**** DONE Outreach Emails
+**** DONE Outreach Meeting
+SCHEDULED: <2021-01-19 Tue 19:00>
+**** DONE Sec/General Meeting
+SCHEDULED: <2021-01-19 Tue 19:30>
+*** Finch [100%]
+**** DONE Iliev Meeting
+SCHEDULED: <2021-01-20 Wed 15:00>
+**** DONE Iliev Follow-up
+SCHEDULED: <2021-01-21 Thu 15:45>
+*** UGAHacks [100%]
+*** FRC [100%]
+**** DONE Room Signups
+SCHEDULED: <2021-01-22 Fri 17:00>
+** Tutoring
+*** DONE Debate 2
+*** DONE Noah
+SCHEDULED: <2021-01-23 Sat 11:00>
+*** DONE Debate 1
+*** DONE Tom
+SCHEDULED: <2021-01-21 Thu 17:30>
+*** DONE Mebin
+SCHEDULED: <2021-01-21 Thu 15:45>
+** Misc
+*** DONE Vaccine Survey
+* 01.11.21
+** MIGRATED Vaccine Survey
+** School
+*** DONE CMLT Waitlist Update
+*** DONE Saglam Recommendation
+DEADLINE:* 01.11.20
+** Orgs
+*** MUN [100%]
+**** MIGRATED MUN Picture Upload
+CLOSED: [2021-01-26 Tue 10:57]
+**** MIGRATED MUN Outreach Emails
+CLOSED: [2021-01-26 Tue 10:57]
+**** DONE MUN Email Template
+DEADLINE: <2021-01-12 Tue>
+*** Finch [100%]
+**** DONE Strike Magazine Update
+DEADLINE: <2021-01-12 Tue>
+**** DONE Strike Mag Interview
+SCHEDULED: <2021-01-14 Thu 17:00>
+*** UGAHacks [100%]
+**** DONE Opening Speech
+SCHEDULED: <2021-01-17 Sun 10:00>
+*** Campaign [100%]
+**** MIGRATED Domain Name Purchase
+CLOSED: [2021-01-26 Tue 10:57]
+*** FRC [100%]
+**** DONE Welcome Meeting
+SCHEDULED: <2021-01-15 Fri 17:30>
+** Tutoring [100%]
+*** DONE Debate 2
+SCHEDULED: <2021-01-17 Sun 10:00>
+*** DONE Debate 1
+SCHEDULED: <2021-01-15 Fri 15:00>
+*** DONE Mebin
+*** DONE Noah
+SCHEDULED: <2021-01-13 Wed 16:00>
+*** DONE Tom
+** Payment [100%]
+*** MIGRATED Tom
+*** DONE IBA
+* 01.03.21
+** General [100%]
+*** DONE UGAHacks Documentation
+DEADLINE: <2021-01-11 Mon>
+*** DONE FRC Reapplication
+DEADLINE: <2021-01-11 Mon>
+*** DONE Mercer Essay Review
+DEADLINE: <2021-01-10 Sun>
+*** DONE Finch AfterDark Meeting 2
+SCHEDULED: <2021-01-09 Sat 21:00>
+*** DONE SC Interview
+SCHEDULED: <2021-01-08 Fri 10:00>
+*** DONE MUN Email Blast
+*** DONE Finch AfterDark Meeting
+SCHEDULED: <2021-01-04 Mon 16:00>
+** Tutoring [100%]
+*** DONE Debate 2
+*** DONE Debate 3
+*** DONE Debate 1
+*** DONE Mebin
+*** DONE Spencer 3
+*** DONE Spencer 2
+SCHEDULED: <2021-01-05 Tue 10:00>
+*** DONE Noah
+*** DONE Spencer 1
+SCHEDULED: <2021-01-04 Mon 10:00>
+*** ABANDONED Spencer 4
+*** ABANDONED Tom
+SCHEDULED: <2021-01-07 Thu 12:00>
+** Payment [100%]
+*** MIGRATED Tom
+*** MIGRATED IBA Judging
+*** DONE Spencer
+
 * Final Exams
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-01-30 Sat 10:35
@@ -1216,7 +1446,7 @@ DEADLINE: <2020-09-18 Fri>
 
 *** MIGRATED Norman, PLA
 
-* Template Sprint 2021
+* Template Spring 2021
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-01-30 Sat 10:35
 :ARCHIVE_FILE: ~/workflow/master.org
@@ -1268,4 +1498,3 @@ DEADLINE: <2020-09-18 Fri>
 *** Mebin
 *** Debate 1
 *** Debate 2
-
