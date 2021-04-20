@@ -1,51 +1,36 @@
 * IceBox
-** SSRL
-*** WAITING Ham Radio Exam
-SCHEDULED: <2021-04-06 Tue 18:00>
 ** Exams
 *** WAITING Data Structures
 SCHEDULED: <2021-04-30 Fri>
-*** WAITING Theory of Computing
-SCHEDULED: <2021-04-13 Tue>
 ** FDSA
-*** WAITING Model Workshop
-SCHEDULED: <2021-04-11 Sun>
-*** WAITING Dress Rehearsal
-SCHEDULED: <2021-04-18 Sun 16:00>
 *** WAITING Show
 SCHEDULED: <2021-04-22 Thu 15:30>
-** URC
+* URC
 *** WAITING SPIA URC
 SCHEDULED: <2021-04-23 Fri>
-** UGAHacks Interviews
-*** WAITING Fr
-SCHEDULED: <2021-04-14 Wed 16:30>
-*** WAITING Saba
-SCHEDULED: <2021-04-14 Wed 12:00>
-*** WAITING Meet
-SCHEDULED: <2021-04-14 Wed 11:30>
-*** WAITING Kewal
-SCHEDULED: <2021-04-12 Mon 18:00>
-* 04.05.21
+
+* 04.12.21
 ** School
-*** CSCI2720 [0%]
-**** WAITING Assn05
-**** WAITING Quiz 04
-SCHEDULED: <2021-04-15 Thu>
-*** CSCI2670 [100%]
-**** DONE CW11
-DEADLINE: <2021-04-06 Tue>
-*** INTL4260 [0%]
-**** TODO Readings
-- [ ] Gadarian
-- [ ] Gallagher
-- [ ] Eichenberg
-- [ ] Cohn
-- [ ] Zak
-- [ ] Burneau & Sax
+*** CSCI2720
+**** IN-PROGRESS Assn05
+DEADLINE: <2021-04-18 Sun>
+**** DONE Quiz 04
+CLOSED: [2021-04-15 Thu 21:39] SCHEDULED: <2021-04-15 Thu>
+*** CSCI2670
+**** DONE CW12
+CLOSED: [2021-04-16 Fri 10:47]
+**** DONE Exam 2
+CLOSED: [2021-04-13 Tue 16:26] SCHEDULED: <2021-04-13 Tue 12:45>
+*** INTL4710
+**** DONE Quiz
+CLOSED: [2021-04-13 Tue 10:38] SCHEDULED: <2021-04-13 Tue>
+**** DONE Survey
+CLOSED: [2021-04-12 Mon 16:05] DEADLINE: <2021-04-13 Tue>
+**** DONE Participation
+CLOSED: [2021-04-13 Tue 10:38] DEADLINE: <2021-04-13 Tue>
+**** DONE Slide Arrangement
+CLOSED: [2021-04-13 Tue 02:37] DEADLINE: <2021-04-12 Mon>
 *** INTL4440
-**** TODO eLC Lecture
-DEADLINE: <2021-04-07 Wed 13:50>
 **** TODO Readings
 - [ ] Ehrman
 - [ ] Olsen
@@ -60,59 +45,154 @@ DEADLINE: <2021-04-07 Wed 13:50>
 - [ ] Holm
 - [ ] Johnson
 - [ ] Johnson
+*** INTL4260
+**** TODO Readings
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+*
+**** TODO Group Presentation
+DEADLINE: <2021-04-19 Mon>
 ** Orgs
-*** MUN [0%]
-**** WAITING Individual Pictures
-- [ ] Albert
-- [ ] Ian
-- [ ] Miranda
-- [ ] Me
-- [ ] Namrata
-- [ ] Sarah
-- [ ] Sophia
+*** MUN
+**** IN-PROGRESS Insta Posts
+DEADLINE: <2021-04-13 Tue>
+- [ ] ChoMUN
+- [X] VICS
+- [X] SRMUN
+*** Finch
+**** DONE Style Guide Formatting
+CLOSED: [2021-04-16 Fri 10:47] DEADLINE: <2021-04-16 Fri>
+*** UGAHacks
+**** DONE Fr Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 16:30>
+**** DONE Saba Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 12:00>
+**** DONE Meet Interview
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 11:30>
+**** DONE Director Meeting
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 21:00>
+**** DONE UGAHacks Acceptances
+CLOSED: [2021-04-15 Thu 16:21] DEADLINE: <2021-04-14 Wed>
+**** DONE Kewal Interview
+CLOSED: [2021-04-12 Mon 23:33] SCHEDULED: <2021-04-12 Mon 18:00>
+*** FRC
+**** WAITING Cookie Night
+SCHEDULED: <2021-04-18 Sun 18:00>
+**** DONE Compost Learning
+CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 17:30>
+** Misc
+*** DONE BC SC
+CLOSED: [2021-04-15 Thu 16:21]
+*** WAITING Dress Rehearsal
+SCHEDULED: <2021-04-18 Sun 16:00>
+*** DONE Model Workshop
+CLOSED: [2021-04-11 Sun 16:43] SCHEDULED: <2021-04-11 Sun>
+*
+*** DONE SPIA URC Paper
+CLOSED: [2021-04-12 Mon 23:33] DEADLINE: <2021-04-12 Mon>
+* 04.05.21
+** School
+*** CSCI2720 [100%]
+**** MIGRATED Assn05
+CLOSED: [2021-04-12 Mon 09:55]
+**** MIGRATED Quiz 04
+CLOSED: [2021-04-12 Mon 09:55] SCHEDULED: <2021-04-15 Thu>
+*** CSCI2670 [100%]
+**** DONE CW11
+DEADLINE: <2021-04-06 Tue>
+*** INTL4260 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:59]
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+*** INTL4440
+**** DONE eLC Lecture
+CLOSED: [2021-04-07 Wed 20:29] DEADLINE: <2021-04-07 Wed 13:50>
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:57]
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+** Orgs
+*** MUN [100%]
+**** DONE Individual Pictures
+CLOSED: [2021-04-12 Mon 09:48]
+- [X] Me
+- [X] Miranda
+- [X] Namrata
+- [X] Ian
+- [X] Sarah
+- [X] Sophia
+- [X] Albert
 - [X] Sydney
 - [X] Meredith
-**** WAITING Instagram Posts
+**** MIGRATED Instagram Posts
+CLOSED: [2021-04-12 Mon 09:37]
 - [ ] SRMUN
 - [ ] VICS
 - [ ] ChoMUN
-*** Finch [0%]
-**** WAITING Style Guide Meeting
-SCHEDULED: <2021-04-07 Wed 22:30>
-**** WAITING Style Guide Formatting
-*** UGAHacks [0%]
-**** TODO Diversity Fund Response
-DEADLINE: <2021-04-06 Tue>
-**** WAITING Rich
-SCHEDULED: <2021-04-07 Wed 18:00>
-**** WAITING Elodie Interview
-SCHEDULED: <2021-04-07 Wed 16:30>
-**** WAITING Directors Meeting
-SCHEDULED: <2021-04-07 Wed 21:00>
-*** FRC [0%]
-**** TODO Siddhi App Review
-DEADLINE: <2021-04-06 Tue>
-**** WAITING Open House
-SCHEDULED: <2021-04-07 Wed 19:00>
-**** WAITING Mindfulness Hour
-SCHEDULED: <2021-04-07 Wed 19:00>
-**** WAITING Compost Learning
-SCHEDULED: <2021-04-14 Wed 17:30>
-**** WAITING Cookie Night
-SCHEDULED: <2021-04-18 Sun 18:00>
-*** SSRL [50%]
-**** WAITING MOPS Meeting
-SCHEDULED: <2021-04-07 Wed 17:30>
+*** Finch [100%]
+**** DONE Style Guide Meeting
+CLOSED: [2021-04-08 Thu 00:59] SCHEDULED: <2021-04-07 Wed 22:30>
+**** MIGRATED Style Guide Formatting
+CLOSED: [2021-04-12 Mon 09:45]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-04-07 Wed 21:43] SCHEDULED: <2021-04-07 Wed 21:00>
+**** DONE Rich Interview
+CLOSED: [2021-04-07 Wed 20:30] SCHEDULED: <2021-04-07 Wed 18:00>
+**** DONE Elodie Interview
+CLOSED: [2021-04-07 Wed 20:30] SCHEDULED: <2021-04-07 Wed 16:30>
+**** DONE Diversity Fund Response
+CLOSED: [2021-04-07 Wed 01:28] DEADLINE: <2021-04-06 Tue>
+*** FRC [60%]
+**** DONE Open House
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 19:00>
+**** DONE Mindfulness Hour
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 19:00>
+**** DONE Siddhi App Review
+CLOSED: [2021-04-07 Wed 01:28] DEADLINE: <2021-04-06 Tue>
+*** SSRL [100%]
+**** DONE MOPS Meeting
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 17:30>
 **** DONE HAM Radio Exam
 SCHEDULED: <2021-04-06 Tue 18:00>
 ** Misc
-*** TODO URC Paper
-SCHEDULED: <2021-04-12 Mon>
-*** TODO Class Consideration
-*** WAITING Iliev Meeting
-SCHEDULED: <2021-04-07 Wed 15:00>
-*** WAITING Class Registration
-SCHEDULED: <2021-04-08 Thu 08:45>
+*** DONE Class Registration
+CLOSED: [2021-04-11 Sun 16:43] SCHEDULED: <2021-04-08 Thu 08:45>
+*** DONE Iliev Meeting
+CLOSED: [2021-04-07 Wed 20:29] SCHEDULED: <2021-04-07 Wed 15:00>
+*** DONE Class Consideration
+CLOSED: [2021-04-08 Thu 00:59]
+*** MIGRATED URC Paper
+CLOSED: [2021-04-12 Mon 09:44]
+** Tutoring
+*** DONE Noah
+CLOSED: [2021-04-07 Wed 12:35] SCHEDULED: <2021-04-07 Wed 12:00>
+*** DONE Mebin
+CLOSED: [2021-04-11 Sun 16:43]
+*** DONE Debate 1
+CLOSED: [2021-04-11 Sun 16:43]
+*** DONE Debate 2
+CLOSED: [2021-04-11 Sun 16:43]
 * 03.29.21
 ** School
 *** CSCI2720 [100%]
@@ -126,8 +206,9 @@ CLOSED: [2021-04-02 Fri 19:01] SCHEDULED: <2021-04-01 Thu>
 CLOSED: [2021-03-30 Tue 01:08] DEADLINE: <2021-04-02 Fri>
 **** ABANDONED Correct CW2
 CLOSED: [2021-03-30 Tue 01:14]
-*** INTL4440 [50%]
-**** TODO Readings
+*** INTL4440 [100%]
+**** MIGRATED Readings
+CLOSED: [2021-04-12 Mon 09:57]
 - [ ] Ehrman
 - [ ] Olsen
 - [ ] Wettering
