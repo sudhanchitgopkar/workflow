@@ -1,19 +1,119 @@
-* IceBox
-** Exams
-*** WAITING Data Structures
+* 04.25.21
+** School
+*** CSCI2720
+**** WAITING Final Exam
 SCHEDULED: <2021-04-30 Fri>
-** FDSA
-*** WAITING Show
-SCHEDULED: <2021-04-22 Thu 15:30>
-* URC
-*** WAITING SPIA URC
-SCHEDULED: <2021-04-23 Fri>
+*** CSCI2670
+**** TODO CW14
+DEADLINE: <2021-04-27 Tue>
+**** TODO HW00
+DEADLINE: <2021-04-30 Fri>
+*** INTL4710
+**** TODO Mod6 Participation Assn
+**** TODO Email
+*** INTL4260
+**** TODO Research Paper
+DEADLINE: <2021-05-07 Fri 12:00>
+**** WAITING Final Exam
+SCHEDULED: <2021-05-03 Mon 10:20>
+*** INTL4440
+**** TODO Term Paper
+DEADLINE: <2021-05-03 Mon>
+** Orgs
+*** MUN
+**** WAITING Formal
+SCHEDULED: <2021-04-27 Tue 20:00>
+**** WAITING Sec Interview
+SCHEDULED: <2021-04-25 Sun 18:30>
+**** TODO Instagram Posts
+- [ ] AIRMUNC
+- [ ] New Sec
+*** Finch [100%]
+*** UGAHacks [0%]
+**** TODO Sponsorship Meeting
+SCHEDULED: <2021-04-26 Mon 19:00>
+**** TODO Directors Meeting
+SCHEDULED: <2021-04-28 Wed 21:00>
+**** TODO Sponsorship packet Creation
+*** SSRL
+**** TODO C Tutorial
+*** FRC
+**** WAITING DA Interview
+**** WAITING Spring Banquet
+SCHEDULED: <2021-04-25 Sun 18:00>
+** Misc
+* 04.19.21
+** School
+*** CSCI2720 [0%]
+**** TODO AVL Tree Review
+**** TODO Red & Black Tree Review
+*** CSCI2670 [100%]
+**** DONE CW13
+CLOSED: [2021-04-21 Wed 00:32] DEADLINE: <2021-04-20 Tue>
+*** INTL4710 [100%]
+*** INTL4440 [0%]
+**** TODO Readings
+- [ ] Ehrman
+- [ ] Olsen
+- [ ] Wettering
+- [ ] Taylor & Snow
+- [ ] Johnson
+- [ ] Cilluffo & Marks
+- [ ] Johnson
+- [ ] Barry
+- [ ] Church
+- [ ] Colby
+- [ ] Holm
+- [ ] Johnson
+- [ ] Johnson
+*** INTL4260 [%]
 
+**** TODO Readings
+- [ ] Gadarian
+- [ ] Gallagher
+- [ ] Eichenberg
+- [ ] Cohn
+- [ ] Zak
+- [ ] Burneau & Sax
+** Orgs
+*** MUN [50%]
+**** TODO AIRMUNC Post
+**** TODO Sec Post
+**** DONE Election Meeting
+CLOSED: [2021-04-21 Wed 00:32] SCHEDULED: <2021-04-20 Tue 20:00>
+**** DONE Sec App
+CLOSED: [2021-04-25 Sun 13:46] DEADLINE: <2021-04-24 Sat>
+*** Finch [100%]
+*** UGAHacks [100%]
+**** DONE Directors Meeting
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-21 Wed 21:00>
+**** DONE Sponsorship Meeting
+SCHEDULED: <2021-04-19 Mon 19:00>
+*** FRC [100%]
+**** DONE DA Application
+CLOSED: [2021-04-25 Sun 13:46] DEADLINE: <2021-04-23 Fri>
+*** SSRL [100%]
+**** DONE MOPS Meeting
+CLOSED: [2021-04-21 Wed 19:21] SCHEDULED: <2021-04-23 Fri 17:30>
+**** DONE MEMESat Meeting
+CLOSED: [2021-04-21 Wed 19:21] SCHEDULED: <2021-04-21 Wed 19:00>
+**** ABANDONED CET Dependency Issue
+CLOSED: [2021-04-21 Wed 19:21] DEADLINE: <2021-04-21 Wed>
+** Misc [100%]
+*** DONE Iliev Meeting
+CLOSED: [2021-04-21 Wed 19:20] SCHEDULED: <2021-04-21 Wed 15:00>
+*** DONE Show
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-22 Thu 15:30>
+*** DONE SPIA URC
+CLOSED: [2021-04-25 Sun 13:46] SCHEDULED: <2021-04-23 Fri 09:00>
+*** ABANDONED Saglam Meeting
+CLOSED: [2021-04-25 Sun 17:17] SCHEDULED: <2021-04-22 Thu 10:00>
+** Tutoring
 * 04.12.21
 ** School
 *** CSCI2720
-**** IN-PROGRESS Assn05
-DEADLINE: <2021-04-18 Sun>
+**** DONE Assn05
+CLOSED: [2021-04-20 Tue 11:37] DEADLINE: <2021-04-18 Sun>
 **** DONE Quiz 04
 CLOSED: [2021-04-15 Thu 21:39] SCHEDULED: <2021-04-15 Thu>
 *** CSCI2670
@@ -31,7 +131,8 @@ CLOSED: [2021-04-13 Tue 10:38] DEADLINE: <2021-04-13 Tue>
 **** DONE Slide Arrangement
 CLOSED: [2021-04-13 Tue 02:37] DEADLINE: <2021-04-12 Mon>
 *** INTL4440
-**** TODO Readings
+**** MIGRATED Readings
+CLOSED: [2021-04-20 Tue 11:53]
 - [ ] Ehrman
 - [ ] Olsen
 - [ ] Wettering
@@ -46,7 +147,8 @@ CLOSED: [2021-04-13 Tue 02:37] DEADLINE: <2021-04-12 Mon>
 - [ ] Johnson
 - [ ] Johnson
 *** INTL4260
-**** TODO Readings
+**** MIGRATED Readings
+CLOSED: [2021-04-21 Wed 22:13]
 - [ ] Gadarian
 - [ ] Gallagher
 - [ ] Eichenberg
@@ -54,13 +156,13 @@ CLOSED: [2021-04-13 Tue 02:37] DEADLINE: <2021-04-12 Mon>
 - [ ] Zak
 - [ ] Burneau & Sax
 *
-**** TODO Group Presentation
-DEADLINE: <2021-04-19 Mon>
+**** DONE Group Presentation
+CLOSED: [2021-04-20 Tue 11:38] DEADLINE: <2021-04-19 Mon>
 ** Orgs
 *** MUN
-**** IN-PROGRESS Insta Posts
-DEADLINE: <2021-04-13 Tue>
-- [ ] ChoMUN
+**** DONE Insta Posts
+CLOSED: [2021-04-20 Tue 11:37] DEADLINE: <2021-04-13 Tue>
+- [X] ChoMUN
 - [X] VICS
 - [X] SRMUN
 *** Finch
@@ -80,15 +182,15 @@ CLOSED: [2021-04-15 Thu 16:21] DEADLINE: <2021-04-14 Wed>
 **** DONE Kewal Interview
 CLOSED: [2021-04-12 Mon 23:33] SCHEDULED: <2021-04-12 Mon 18:00>
 *** FRC
-**** WAITING Cookie Night
-SCHEDULED: <2021-04-18 Sun 18:00>
 **** DONE Compost Learning
 CLOSED: [2021-04-15 Thu 16:21] SCHEDULED: <2021-04-14 Wed 17:30>
+**** ABANDONED Cookie Night
+CLOSED: [2021-04-20 Tue 11:37] SCHEDULED: <2021-04-18 Sun 18:00>
 ** Misc
 *** DONE BC SC
 CLOSED: [2021-04-15 Thu 16:21]
-*** WAITING Dress Rehearsal
-SCHEDULED: <2021-04-18 Sun 16:00>
+*** DONE Dress Rehearsal
+CLOSED: [2021-04-20 Tue 11:37] SCHEDULED: <2021-04-18 Sun 16:00>
 *** DONE Model Workshop
 CLOSED: [2021-04-11 Sun 16:43] SCHEDULED: <2021-04-11 Sun>
 *
