@@ -4,8 +4,8 @@
 **** WAITING Final Exam
 SCHEDULED: <2021-04-30 Fri>
 *** CSCI2670
-**** TODO CW14
-DEADLINE: <2021-04-27 Tue>
+**** TODO HW4
+DEADLINE: <2021-05-03 Mon>
 **** TODO HW00
 DEADLINE: <2021-04-30 Fri>
 *** INTL4710
@@ -23,25 +23,29 @@ DEADLINE: <2021-05-03 Mon>
 *** MUN
 **** WAITING Formal
 SCHEDULED: <2021-04-27 Tue 20:00>
-**** WAITING Sec Interview
-SCHEDULED: <2021-04-25 Sun 18:30>
+**** DONE Sec Interview
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-25 Sun 18:30>
 **** TODO Instagram Posts
-- [ ] AIRMUNC
+- [X] AIRMUNC
 - [ ] New Sec
 *** Finch [100%]
-*** UGAHacks [0%]
-**** TODO Sponsorship Meeting
-SCHEDULED: <2021-04-26 Mon 19:00>
+*** UGAHacks [33%]
 **** TODO Directors Meeting
 SCHEDULED: <2021-04-28 Wed 21:00>
-**** TODO Sponsorship packet Creation
+**** TODO Sponsorship Packet
+**** DONE Sponsorship Meeting
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-26 Mon 19:00>
 *** SSRL
 **** TODO C Tutorial
 *** FRC
 **** WAITING DA Interview
-**** WAITING Spring Banquet
-SCHEDULED: <2021-04-25 Sun 18:00>
+**** DONE Spring Banquet
+CLOSED: [2021-04-27 Tue 12:47] SCHEDULED: <2021-04-25 Sun 18:00>
 ** Misc
+*** WAITING PLA Interview
+SCHEDULED: <2021-05-04 Tue 10:00>
+*** TODO CS UTA App
+DEADLINE: <2021-07-31 Sat 09:00>
 * 04.19.21
 ** School
 *** CSCI2720 [0%]
